@@ -1,5 +1,4 @@
-# Comment
-from flask import Flask
+from flask import Flask, render_template
 from datetime import datetime
 app = Flask(__name__)
 import os
@@ -17,10 +16,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     """Render website's home page."""
-    return """
-    <h1>Hello heroku</h1>
-    <img src="http://loremflickr.com/600/400">
-    """
+    return render_template("index.html")
 
 ###
 # The functions below should be applicable to all Flask apps.
