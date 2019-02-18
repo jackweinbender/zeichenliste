@@ -3,7 +3,10 @@
 {% block container %}
 <div class="search-container">
   <div class="search-box">
-      <input type="text" placeholder="Sign value, signlist number"/>
+    <form action="signs" method="GET">
+        <input type="text" name="query" placeholder="Sign value, signlist number"/>
+        <button type="submit">Search</button>
+    </form>
   </div>
 </div>
 {% endblock %}
