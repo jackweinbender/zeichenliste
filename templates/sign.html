@@ -5,6 +5,23 @@
       Searchbox
   </div>
   <div class="sign-info">
-      Sign info: {{query}}
+      <p>name: {{sign.borger_sign_name}}
+        {% if sign.unicode_sign_name %}
+          ( {{sign.unicode_sign_name}} )
+        {% endif %}
+      </p>
+      <p>description: {{sign.sign_depiction}}</p>
+
+      <p>Signlist IDs:
+        <dt>borger</dt>       <dd>{{sign.borger}}</dd>
+        <dt>Labat</dt>        <dd>{{sign.labat}}</dd>
+        <dt>Huehnergard</dt>  <dd>{{sign.huehnergard}}</dd>
+        <dt>Deimel</dt>       <dd>{{sign.deimel}}</dd>
+        <dt>Mittermayer</dt>  <dd>{{sign.mittermayer}}</dd>
+        <dt>Heth ZL</dt>      <dd>{{sign.heth_z_l}}</dd>
+        <dt>Hinke</dt>        <dd>{{sign.hinke}}</dd>
+        <dt>Clay</dt>         <dd>{{sign.clay}}</dd>
+        <dt>Ranke</dt>        <dd>{{sign.ranke}}</dd>
+      </p>
   </div>
 {% endblock %}
