@@ -1,25 +1,51 @@
 from flask import Flask, render_template
 
 app = Flask(__name__)
-import os
-from flask import Flask, render_template, request, redirect, url_for
 
-app = Flask(__name__)
-
-###
-# Routing for your application.
-###
 
 @app.route('/')
 def home():
-    """Render website's home page."""
-    return render_template("search.html")
-
-@app.route('/signs')
-def sign():
-    """Render website's home page."""
+    """Render Main Search Box"""
     query = request.args.get('query')
-    return render_template("sign.html", query=query)
+    
+    # TODO: Parse the search query to determine what I'm looking up
+    signs = parse_search_query(query)
+
+    return render_template("search.html", signs=signs)
+
+@app.route('/signs/<sign_id>')
+def sign(sign_id):
+    """Render one sign page based on ID"""
+    sign = sign_by_id(sign_id)
+    return render_template("sign.html", sign=sign)
+
+def parse_search_query(query):
+    """Takes a query strng and returns a list of sign entries"""
+    
+    # FIXME: Fake return data
+    
+    data = []
+
+    return data
+
+def sign_by_id(sign_id):
+    # FIXME: Fake Data
+    return {
+        "borger": "1",
+        "labat": "1",
+        "huehnergard": "1",
+        "deimel": "1",
+        "mittermayer": "1",
+        "heth_z_l": "1",
+        "hinke": "1",
+        "clay": "1; 3",
+        "ranke": "1",
+        "sign_depiction": "single horizontal line",
+        "borger_sign_name": "AŠ",
+        "unicode_sign_name": "ASH",
+        "labat_name": "aš",
+        "id": 0
+      }
 
 ###
 # The functions below should be applicable to all Flask apps.
