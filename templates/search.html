@@ -1,0 +1,26 @@
+{% extends 'index.html' %}
+ 
+{% block container %}
+<div class="search-container">
+  <div class="search-box">
+    <form action="signs" method="GET">
+        <input type="text" name="query" placeholder="Sign value, signlist number"/>
+        <button type="submit">Search</button>
+    </form>
+  </div>
+  <div class="search-instructions">
+  		<p>
+  			Search for sign name, reading, or sign number in the following sign lists:
+  			<pre>Borger's <i>Zeichenlexikon, 2nd ed.</i></pre>
+  			<pre>Labat's <i>Manuel</i> = Snell's <i>Workbook</i></pre>
+  			<pre>Deimel's <i>Lexikon</i></pre>
+  			<pre>Rüster and Neu's <i>Hethitisches Zeichenlexikon</i></pre>
+  			<pre>Mittermayer's <i>Zeichenliste</i></pre>
+  			<pre>Huehnergard's <i>Grammar, 3rd ed.</i></pre><br/>
+  			You can use accents or numbers, e.g., bé/be2, šà/ša3.
+  			Values that have not yet been assigned a number appear as x, e.g., subarrumx as a reading of the ARAD sign.
+  			The following special characters can be used: ḫ/h - š/sz - ĝ/ŋ/ng - ṣ/s - ṭ/t
+  		</p>
+  </div>
+</div>
+{% endblock %}
