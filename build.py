@@ -3,21 +3,25 @@
 # we use to power this thing.
 
 import os, requests, json
+from models.sign import Sign
 
 # Spreadsheet details
 SPREADSHEET_ID = '1H3OsWtoybznhHtFzSxamPzEvCoQGOhM8sJXYOrNtsgw'
 URL = f'https://spreadsheets.google.com/feeds/list/{SPREADSHEET_ID}/od6/public/values?alt=json'
 
+# Get the data
 data = requests.get(URL).json()
+# Drill down to the stuff we care about (Rows is a LIST)
 rows = data['feed']['entry']
 
+# The output SIGNLIST
 signlist = {}
 
 for row in rows:
-
+    # Gets the Borger number for the KEY
     borger = row['gsx$borger']['$t']
-
-    signlist[borger] = {
+    
+    sign_dict = {
         'oracc_name':     row['gsx$oraccname']['$t'],
         'unicode_name':   row['gsx$unicodename']['$t'],
         'values':         row['gsx$values']['$t'],
@@ -35,6 +39,11 @@ for row in rows:
         # 'ranke_id': row['gsx$ranke']['$t']
     }
 
+    # Serialize the row as a Sign Object
+    sign = Sign(sign_dict)
+    
+    # Add Sign to signlist (as dict, for later JSON output)
+    signlist[borger] = sign.__dict__
 
 with open('data/signlist.json', 'w') as outfile:
     json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)

@@ -1,7 +1,9 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, json
 
 app = Flask(__name__)
 
+with open('data/signlist.json') as f:
+    signlist = json.load(f)
 
 @app.route('/')
 def home():
@@ -16,7 +18,7 @@ def home():
 @app.route('/signs/<sign_id>')
 def sign(sign_id):
     """Render one sign page based on ID"""
-    sign = sign_by_id(sign_id)
+    sign = signlist[sign_id]
     return render_template("sign.html", sign=sign)
 
 def parse_search_query(query):
