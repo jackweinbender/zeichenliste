@@ -1,8 +1,9 @@
-from flask import Flask, render_template, request, json
+from flask import Flask, render_template, request, json, redirect, url_for
+from models.sign import Sign
 
 app = Flask(__name__)
 
-with open('data/signlist.json') as f:
+with open('data/signlist.json', encoding='utf-8') as f:
     signlist = json.load(f)
 
 @app.route('/')
@@ -15,12 +16,6 @@ def home():
 
     return render_template("search.html", signs=signs)
 
-@app.route('/signs/<sign_id>')
-def sign(sign_id):
-    """Render one sign page based on ID"""
-    sign = signlist[sign_id]
-    return render_template("sign.html", sign=sign)
-
 def parse_search_query(query):
     """Takes a query strng and returns a list of sign entries"""
     
@@ -30,24 +25,21 @@ def parse_search_query(query):
 
     return data
 
+@app.route('/signs/<sign_id>')
+def sign(sign_id):
+    """Render one sign page based on ID"""
+    sign = sign_by_id(sign_id)
+
+    if sign:
+        return render_template("sign.html", sign=sign)
+    else:
+        return redirect(url_for('home'))
+
 def sign_by_id(sign_id):
-    # FIXME: Fake Data
-    return {
-        "borger": "1",
-        "labat": "1",
-        "huehnergard": "1",
-        "deimel": "1",
-        "mittermayer": "1",
-        "heth_z_l": "1",
-        "hinke": "1",
-        "clay": "1; 3",
-        "ranke": "1",
-        "sign_depiction": "single horizontal line",
-        "borger_sign_name": "AŠ",
-        "unicode_sign_name": "ASH",
-        "labat_name": "aš",
-        "id": 0
-      }
+    if sign_id in signlist:
+        return signlist[sign_id]
+    else:
+        return False
 
 ###
 # The functions below should be applicable to all Flask apps.
