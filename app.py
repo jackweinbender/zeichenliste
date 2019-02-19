@@ -8,22 +8,31 @@ with open('data/signlist.json', encoding='utf-8') as f:
 
 @app.route('/')
 def home():
-    """Render Main Search Box"""
+    """Render Main Search Box on Homepage"""
+    return render_template("home.html")
+
+@app.route('/search')
+def search():
     query = request.args.get('query')
     
-    # TODO: Parse the search query to determine what I'm looking up
-    signs = parse_search_query(query)
-
+    if not query:
+        return redirect(url_for('home'))
+    
+    signs = search_query(query)
+    
+    if len(signs) == 1:
+        sign_id = signs[0].borger_id
+        return redirect(url_for('sign', sign_id=sign_id))
     return render_template("search.html", signs=signs)
 
-def parse_search_query(query):
-    """Takes a query strng and returns a list of sign entries"""
-    
+def search_query(query):
+    """Takes a query string and returns a list of sign entries"""
+    results = []
     # FIXME: Fake return data
     
-    data = []
+    data = sign_by_id('3')
 
-    return data
+    return [data]
 
 @app.route('/signs/<sign_id>')
 def sign(sign_id):
@@ -37,7 +46,7 @@ def sign(sign_id):
 
 def sign_by_id(sign_id):
     if sign_id in signlist:
-        return signlist[sign_id]
+        return Sign(signlist[sign_id])
     else:
         return False
 
