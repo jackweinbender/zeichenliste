@@ -3,7 +3,16 @@
 # we use to power this thing.
 
 import os, requests, json
+from collections import defaultdict
 from models.sign import Sign
+
+def cleanup(d):
+    d['oracc_name'] = d['oracc_name'][1:]
+
+    for k,v in d.items():
+        d[k] = v.strip()
+
+    return d
 
 # Spreadsheet details
 SPREADSHEET_ID = '1H3OsWtoybznhHtFzSxamPzEvCoQGOhM8sJXYOrNtsgw'
@@ -16,6 +25,7 @@ rows = data['feed']['entry']
 
 # The output SIGNLIST
 signlist = {}
+index = defaultdict(list)
 
 for row in rows:
     # Gets the Borger number for the KEY
@@ -39,11 +49,37 @@ for row in rows:
         # 'ranke_id': row['gsx$ranke']['$t']
     }
 
+    sign_dict = cleanup(sign_dict)
+
     # Serialize the row as a Sign Object
     sign = Sign(sign_dict)
     
     # Add Sign to signlist (as dict, for later JSON output)
     signlist[borger] = sign.__dict__
 
+    # Add Borger_id to all index values
+    indexed_keys = [
+        # 'oracc_name',
+        # 'unicode_name',
+        'borger_id', 
+        # 'borger_name', 
+        'labat_id', 
+        # 'labat_name',
+        'huehnergard_id', 
+        'deimel_id', 
+        'mittermayer_id', 
+        'hethzl_id'
+    ]
+
+    for k in indexed_keys:
+        # Get property value by name
+        val = getattr(sign,k)
+        # Add Borger ID to index
+        if val != '':
+            index[val.lower()].append(sign.borger_id)
+
 with open('data/signlist.json', 'w') as outfile:
     json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)
+
+with open('data/search_index.json', 'w') as outfile:
+    json.dump(index, outfile, ensure_ascii=False, sort_keys=True, indent=4)
