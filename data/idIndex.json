@@ -1,24 +1,24 @@
 {
     "1": {
         "Borger": 1,
-        "Borger name": "A\u0160",
+        "Borger name": "AŠ",
         "Clay": "1; 3",
         "Deimel": 1,
         "HethZL": 1,
         "Hinke": 1,
         "Huehnergard": 1,
         "Labat": 1,
-        "Labat name": "a\u0161",
+        "Labat name": "aš",
         "Mittermayer": 1,
-        "ORACC name": "/A\u0160 ",
+        "ORACC name": "/AŠ ",
         "Ranke": 1,
-        "Unicode": "U+12038 \ud808\udc38",
+        "Unicode": "U+12038 𒀸",
         "Unicode name": "ASH",
-        "Values": "\u00a0ana3;\u00a0as3;\u00a0a\u0161;\u00a0a\u0161a;\u00a0a\u0161\u0161a;\u00a0a\u1e633;\u00a0az3;\u00a0dal3;\u00a0del;\u00a0dele;\u00a0deli;\u00a0de\u01612;dil;\u00a0dili;\u00a0di\u01612;\u00a0e\u016118;\u00a0e\u016120;\u00a0ge15;\u00a0ge\u01614;\u00a0in6;\u00a0ina;\u00a0liri2;\u00a0liru2;\u00a0lirum2;maka\u01612;\u00a0makka\u01612;\u00a0ram2;\u00a0rim5;\u00a0ru3;\u00a0rum;\u00a0sagtag;\u00a0sagtak;sa\u014btak;\u00a0salugub;\u00a0santa;\u00a0santag;\u00a0santak;\u00a0simed;\u00a0\u0161up2;\u00a0tal3;\u00a0te\u0161;til4;\u00a0\u1e6dil;\u00a0zu\u2093;\u00a01(a\u0161);\u00a01(a\u0161@c);\u00a01(iku);\u00a0a\u0161@c;\u00a0iku@c;"
+        "Values": " ana3; as3; aš; aša; ašša; aṣ3; az3; dal3; del; dele; deli; deš2;dil; dili; diš2; eš18; eš20; ge15; geš4; in6; ina; liri2; liru2; lirum2;makaš2; makkaš2; ram2; rim5; ru3; rum; sagtag; sagtak;saŋtak; salugub; santa; santag; santak; simed; šup2; tal3; teš;til4; ṭil; zuₓ; 1(aš); 1(aš@c); 1(iku); aš@c; iku@c;"
     },
     "3": {
         "Borger": 3,
-        "Borger name": "\u1e2aAL",
+        "Borger name": "ḪAL",
         "Clay": 2,
         "Deimel": 2,
         "HethZL": 2,
@@ -29,9 +29,9 @@
         "Mittermayer": 7,
         "ORACC name": "/HAL ",
         "Ranke": 2,
-        "Unicode": "U+1212C \ud808\udd2c",
+        "Unicode": "U+1212C 𒄬",
         "Unicode name": "HAL",
-        "Values": "\u00a0buluh;\u00a0bur8;\u00a0buru8;\u00a0buruh;\u00a0hal;\u00a0hala;"
+        "Values": " buluh; bur8; buru8; buruh; hal; hala;"
     },
     "9": {
         "Borger": 9,
@@ -46,9 +46,9 @@
         "Mittermayer": 231,
         "ORACC name": "/TAR ",
         "Ranke": "",
-        "Unicode": "U+122FB \ud808\udefb",
+        "Unicode": "U+122FB 𒋻",
         "Unicode name": "TAR",
-        "Values": "\u00a0dar6;\u00a0gud4;\u00a0has;\u00a0ha\u0161;\u00a0ha\u1e63;\u00a0haz;\u00a0hiz;\u00a0hus2;\u00a0ku5;\u00a0kud;kudma;\u00a0kuksu;\u00a0kur5;\u00a0kuru5;\u00a0kurum5;\u00a0kut;\u00a0kutu;\u00a0qadma\u2093;qadmu;\u00a0qud;\u00a0qudma;\u00a0qudmu;\u00a0qum\u2093;\u00a0qut;\u00a0qutu;\u00a0sel;\u00a0si\u2093;\u00a0sil;sila;\u00a0sulu;\u00a0\u0161ar7;\u00a0\u0161el;\u00a0\u0161il;\u00a0ta\u2093;\u00a0tar;\u00a0tara;\u00a0ter2;\u00a0tir2;\u00a0\u1e6dar;\u00a0\u1e6dir2;ursagsim;\u00a0ursa\u014bsim;\u00a0zil0;\u00a0zil3;"
+        "Values": " dar6; gud4; has; haš; haṣ; haz; hiz; hus2; ku5; kud;kudma; kuksu; kur5; kuru5; kurum5; kut; kutu; qadmaₓ;qadmu; qud; qudma; qudmu; qumₓ; qut; qutu; sel; siₓ; sil;sila; sulu; šar7; šel; šil; taₓ; tar; tara; ter2; tir2; ṭar; ṭir2;ursagsim; ursaŋsim; zil0; zil3;"
     },
     "10": {
         "Borger": 10,
@@ -63,9 +63,9 @@
         "Mittermayer": 9,
         "ORACC name": "/AN ",
         "Ranke": "",
-        "Unicode": "U+1202D \ud808\udc2d",
+        "Unicode": "U+1202D 𒀭",
         "Unicode name": "AN",
-        "Values": "\u00a0a11;\u00a0am6;\u00a0an;\u00a0ana2;\u00a0anu;\u00a0d;\u00a0dalhamun\u2093;\u00a0der;\u00a0dibur;\u00a0digir;di\u014bir;\u00a0dimer;\u00a0/dimer/;\u00a0dimir;\u00a0dimmer;\u00a0diner;\u00a0dingir;\u00a0dingira;dinir;\u00a0dir3;\u00a0el3;\u00a0e\u0161\u0161u2;\u00a0il3;\u00a0ila;\u00a0ili;\u00a0ilu;\u00a0le4;\u00a0sa8;\u00a0\u0161ubul;\u00a0\u1e63a3;\u00a0usan\u2093;za5;"
+        "Values": " a11; am6; an; ana2; anu; d; dalhamunₓ; der; dibur; digir;diŋir; dimer; /dimer/; dimir; dimmer; diner; dingir; dingira;dinir; dir3; el3; eššu2; il3; ila; ili; ilu; le4; sa8; šubul; ṣa3; usanₓ;za5;"
     },
     "14": {
         "Borger": 14,
@@ -80,9 +80,9 @@
         "Mittermayer": 303,
         "ORACC name": "/BA ",
         "Ranke": "",
-        "Unicode": "U+12040 \ud808\udc40",
+        "Unicode": "U+12040 𒁀",
         "Unicode name": "BA",
-        "Values": "\u00a0ba;\u00a0be4;\u00a0bi6;\u00a0libit;\u00a0pa2;\u00a0wa2;"
+        "Values": " ba; be4; bi6; libit; pa2; wa2;"
     },
     "15": {
         "Borger": 15,
@@ -97,9 +97,9 @@
         "Mittermayer": 304,
         "ORACC name": "/ZU ",
         "Ranke": "",
-        "Unicode": "U+1236A \ud808\udf6a",
+        "Unicode": "U+1236A 𒍪",
         "Unicode name": "ZU",
-        "Values": "\u00a0ka14;\u00a0ki6;\u00a0su2;\u00a0\u1e63u2;\u00a0za\u2093;\u00a0zu;"
+        "Values": " ka14; ki6; su2; ṣu2; zaₓ; zu;"
     },
     "16": {
         "Borger": 16,
@@ -114,9 +114,9 @@
         "Mittermayer": 305,
         "ORACC name": "/SU ",
         "Ranke": "",
-        "Unicode": "U+122E2 \ud808\udee2",
+        "Unicode": "U+122E2 𒋢",
         "Unicode name": "SU",
-        "Values": "\u00a0gu\u0161;\u00a0kus;\u00a0ku\u0161;\u00a0kuz;\u00a0su;\u00a0sug6;\u00a0sum3;\u00a0\u015bu;\u00a0\u0161u11;"
+        "Values": " guš; kus; kuš; kuz; su; sug6; sum3; śu; šu11;"
     },
     "18": {
         "Borger": 18,
@@ -131,13 +131,13 @@
         "Mittermayer": 16,
         "ORACC name": "/ARAD ",
         "Ranke": "",
-        "Unicode": "U+12034 \ud808\udc34",
+        "Unicode": "U+12034 𒀴",
         "Unicode name": "ARAD",
-        "Values": "\u00a0wardu;\u00a0arad;\u00a0arda;\u00a0er3;\u00a0erad;\u00a0eri3;\u00a0eru;\u00a0erum;\u00a0ir3;\u00a0irda;;;;ki;\u00a0ninta\u2093;\u00a0nintah2;\u00a0nita2;\u00a0nitah2;\u00a0subur\u2093;\u00a0subarrum\u2093;\u00a0\u0161ubur2;urda;\u00a0urdu;\u00a0war3;"
+        "Values": " wardu; arad; arda; er3; erad; eri3; eru; erum; ir3; irda;;;;ki; nintaₓ; nintah2; nita2; nitah2; suburₓ; subarrumₓ; šubur2;urda; urdu; war3;"
     },
     "20": {
         "Borger": 20,
-        "Borger name": "ITI (UD\u00d7E\u0160)",
+        "Borger name": "ITI (UD×EŠ)",
         "Clay": "",
         "Deimel": 52,
         "HethZL": 84,
@@ -146,11 +146,11 @@
         "Labat": 52,
         "Labat name": "iti",
         "Mittermayer": 334,
-        "ORACC name": "/UD\u00d7(U.U.U) ",
+        "ORACC name": "/UD×(U.U.U) ",
         "Ranke": "",
-        "Unicode": "U+12317 \ud808\udf17",
+        "Unicode": "U+12317 𒌗",
         "Unicode name": "UD TIMES U PLUS U PLUS U",
-        "Values": "\u00a0a13;\u00a0arhu;\u00a0du16;\u00a0id8;\u00a0iti;\u00a0itid;\u00a0itu;\u00a0itud;\u00a0u22;"
+        "Values": " a13; arhu; du16; id8; iti; itid; itu; itud; u22;"
     },
     "24": {
         "Borger": 24,
@@ -165,13 +165,13 @@
         "Mittermayer": 312,
         "ORACC name": "/KA ",
         "Ranke": "",
-        "Unicode": "U+12157 \ud808\udd57",
+        "Unicode": "U+12157 𒅗",
         "Unicode name": "KA",
-        "Values": "\u00a0bu\u2093;\u00a0da12;\u00a0dag5;\u00a0du11;\u00a0dug4;\u00a0duga4;\u00a0e7;\u00a0eme\u2093;\u00a0en4;\u00a0/ene\u014b/;enem;\u00a0enim;\u00a0ga14;\u00a0gir17;\u00a0giri17;\u00a0gu3;\u00a0gur18;\u00a0i5;\u00a0inim;\u00a0i\u01615;\u00a0ka;\u00a0kag2;kak2;\u00a0kir4;\u00a0kiri3;\u00a0me\u2093;\u00a0nag\u2093;\u00a0pe4;\u00a0pi4;\u00a0pu5;\u00a0qir\u2093;\u00a0qa3;\u00a0sig\u2093;\u00a0su11;sug\u2093;\u00a0sumu\u2093;\u00a0sumur\u2093;\u00a0\u0161e28;\u00a0\u0161ed17;\u00a0\u0161eg13;\u00a0\u0161i\u2093;\u00a0\u0161ud\u2093;\u00a0uzug\u2093;\u00a0zib4;zu2;\u00a0zug2;\u00a0zuh;"
+        "Values": " buₓ; da12; dag5; du11; dug4; duga4; e7; emeₓ; en4; /eneŋ/;enem; enim; ga14; gir17; giri17; gu3; gur18; i5; inim; iš5; ka; kag2;kak2; kir4; kiri3; meₓ; nagₓ; pe4; pi4; pu5; qirₓ; qa3; sigₓ; su11;sugₓ; sumuₓ; sumurₓ; še28; šed17; šeg13; šiₓ; šudₓ; uzugₓ; zib4;zu2; zug2; zuh;"
     },
     "61": {
         "Borger": 61,
-        "Borger name": "EME (KA\u00d7ME)",
+        "Borger name": "EME (KA×ME)",
         "Clay": "",
         "Deimel": 32,
         "HethZL": 147,
@@ -180,11 +180,11 @@
         "Labat": 32,
         "Labat name": "eme",
         "Mittermayer": 326,
-        "ORACC name": "/KA\u00d7ME ",
+        "ORACC name": "/KA×ME ",
         "Ranke": "",
-        "Unicode": "U+12174 \ud808\udd74",
+        "Unicode": "U+12174 𒅴",
         "Unicode name": "KA TIMES ME",
-        "Values": "\u00a0em4;\u00a0eme;\u00a0uli;"
+        "Values": " em4; eme; uli;"
     },
     "71": {
         "Borger": 71,
@@ -199,9 +199,9 @@
         "Mittermayer": 181,
         "ORACC name": "/URU ",
         "Ranke": "",
-        "Unicode": "U+12337 \ud808\udf37",
+        "Unicode": "U+12337 𒌷",
         "Unicode name": "URU",
-        "Values": "\u00a0al8;\u00a0ala;\u00a0ale;\u00a0ali;\u00a0alu;\u00a0er4;\u00a0ere;\u00a0eri;\u00a0ir4;\u00a0iri;\u00a0lu8;\u00a0re2;\u00a0ri2;\u00a0ru9;\u0161ig\u2093;\u00a0u19;\u00a0ulu4;\u00a0uru;"
+        "Values": " al8; ala; ale; ali; alu; er4; ere; eri; ir4; iri; lu8; re2; ri2; ru9;šigₓ; u19; ulu4; uru;"
     },
     "85": {
         "Borger": 85,
@@ -216,9 +216,9 @@
         "Mittermayer": 381,
         "ORACC name": "/LI ",
         "Ranke": "",
-        "Unicode": "U+121F7 \ud808\uddf7",
+        "Unicode": "U+121F7 𒇷",
         "Unicode name": "LI",
-        "Values": "\u00a0en3;\u00a0gub2;\u00a0gup2;\u00a0le;\u00a0li;\u00a0ni8;\u00a0nu9;"
+        "Values": " en3; gub2; gup2; le; li; ni8; nu9;"
     },
     "86": {
         "Borger": 86,
@@ -233,9 +233,9 @@
         "Mittermayer": 382,
         "ORACC name": "/TU ",
         "Ranke": "",
-        "Unicode": "U+12305 \ud808\udf05",
+        "Unicode": "U+12305 𒌅",
         "Unicode name": "TU",
-        "Values": "\u00a0du2;\u00a0dud2;\u00a0dur11;\u00a0hu2;\u00a0hudu\u0161;\u00a0nam\u0161e\u0161e;\u00a0tu;\u00a0tud;\u00a0tum12;\u00a0tur5;\u1e6du2;"
+        "Values": " du2; dud2; dur11; hu2; huduš; namšeše; tu; tud; tum12; tur5;ṭu2;"
     },
     "89": {
         "Borger": 89,
@@ -250,13 +250,13 @@
         "Mittermayer": 177,
         "ORACC name": "/LA ",
         "Ranke": "",
-        "Unicode": "U+121B7 \ud808\uddb7",
+        "Unicode": "U+121B7 𒆷",
         "Unicode name": "LA",
-        "Values": "\u00a0la;\u00a0\u0161ika;\u00a0\u0161ik\u2093;"
+        "Values": " la; šika; šikₓ;"
     },
     "91": {
         "Borger": 91,
-        "Borger name": "MA\u1e2a",
+        "Borger name": "MAḪ",
         "Clay": "",
         "Deimel": 57,
         "HethZL": 10,
@@ -267,9 +267,9 @@
         "Mittermayer": 6,
         "ORACC name": "/MAH ",
         "Ranke": "",
-        "Unicode": "U+12224 \ud808\ude24",
+        "Unicode": "U+12224 𒈤",
         "Unicode name": "MAH",
-        "Values": "\u00a0al6;\u00a0mah;\u00a0maha;\u00a0meh;\u00a0mih;\u00a0\u0161utur;"
+        "Values": " al6; mah; maha; meh; mih; šutur;"
     },
     "92": {
         "Borger": 92,
@@ -284,9 +284,9 @@
         "Mittermayer": 249,
         "ORACC name": "/PAP ",
         "Ranke": "",
-        "Unicode": "U+1227D \ud808\ude7d",
+        "Unicode": "U+1227D 𒉽",
         "Unicode name": "PAP",
-        "Values": "\u00a0aha3;\u00a0ba14;\u00a0bab;\u00a0bap;\u00a0gur12;\u00a0kur2;\u00a0kuru2;\u00a0pa4;\u00a0pab;\u00a0pap;qur4;"
+        "Values": " aha3; ba14; bab; bap; gur12; kur2; kuru2; pa4; pab; pap;qur4;"
     },
     "98": {
         "Borger": 98,
@@ -301,9 +301,9 @@
         "Mittermayer": 20,
         "ORACC name": "/MU ",
         "Ranke": "",
-        "Unicode": "U+1222C \ud808\ude2c",
+        "Unicode": "U+1222C 𒈬",
         "Unicode name": "MU",
-        "Values": "\u00a0gu10;\u00a0\u014bu10;\u00a0i14;\u00a0ia5;\u00a0mehida;\u00a0mehidi;\u00a0mehidu;\u00a0mu;muhaldim;\u00a0muhaldima;\u00a0suh7;\u00a0\u0161ad2;\u00a0\u0161u10;\u00a0\u0161um3;\u00a0\u0161umu;\u00a0tah3;tuh3;\u00a0wu4;"
+        "Values": " gu10; ŋu10; i14; ia5; mehida; mehidi; mehidu; mu;muhaldim; muhaldima; suh7; šad2; šu10; šum3; šumu; tah3;tuh3; wu4;"
     },
     "110": {
         "Borger": 110,
@@ -318,9 +318,9 @@
         "Mittermayer": 24,
         "ORACC name": "/NA ",
         "Ranke": "",
-        "Unicode": "U+1223E \ud808\ude3e",
+        "Unicode": "U+1223E 𒈾",
         "Unicode name": "NA",
-        "Values": "\u00a0aniku;\u00a0na;\u00a0ne6;\u00a0nu8;"
+        "Values": " aniku; na; ne6; nu8;"
     },
     "111": {
         "Borger": 111,
@@ -335,9 +335,9 @@
         "Mittermayer": 60,
         "ORACC name": "/RU ",
         "Ranke": "",
-        "Unicode": "U+12292 \ud808\ude92",
+        "Unicode": "U+12292 𒊒",
         "Unicode name": "RU",
-        "Values": "\u00a0ge\u0161ba;\u00a0ge\u0161bu;\u00a0ge\u0161pa;\u00a0ge\u0161pu;\u00a0\u014be\u0161ba;\u00a0\u014be\u0161bu;\u00a0\u014be\u0161pa;\u014be\u0161pu;\u00a0ilar;\u00a0illar;\u00a0illulu;\u00a0illur;\u00a0illuru;\u00a0ru;\u00a0sub7;\u00a0\u0161ib2;\u00a0\u0161u\u2093;\u00a0\u0161ub;\u0161uba5;\u00a0\u0161up;"
+        "Values": " gešba; gešbu; gešpa; gešpu; ŋešba; ŋešbu; ŋešpa;ŋešpu; ilar; illar; illulu; illur; illuru; ru; sub7; šib2; šuₓ; šub;šuba5; šup;"
     },
     "112": {
         "Borger": 112,
@@ -352,9 +352,9 @@
         "Mittermayer": 19,
         "ORACC name": "/NU ",
         "Ranke": "",
-        "Unicode": "U+12261 \ud808\ude61",
+        "Unicode": "U+12261 𒉡",
         "Unicode name": "NU",
-        "Values": "\u00a0la3;\u00a0nu;\u00a0sar\u2093;\u00a0sir5;\u00a0sur\u2093;\u00a0\u0161ir5;\u00a0ul2;"
+        "Values": " la3; nu; sarₓ; sir5; surₓ; šir5; ul2;"
     },
     "113": {
         "Borger": 113,
@@ -369,9 +369,9 @@
         "Mittermayer": 25,
         "ORACC name": "/BAD ",
         "Ranke": "",
-        "Unicode": "U+12041 \ud808\udc41",
+        "Unicode": "U+12041 𒁁",
         "Unicode name": "BAD",
-        "Values": "\u00a0ba9;\u00a0bad;\u00a0bada;\u00a0bara4;\u00a0bat;\u00a0bata;\u00a0ba\u1e6d;\u00a0be;\u00a0bi4;\u00a0bid2;\u00a0bit2;dihi;\u00a0dim7;\u00a0edim;\u00a0e\u01617;\u00a0idin;\u00a0mat2;\u00a0me4;\u00a0med;\u00a0met;\u00a0me\u1e6d;\u00a0mit;miti;\u00a0mitu;\u00a0mi\u1e6d;\u00a0mud2;\u00a0mut2;\u00a0pa\u2093;\u00a0pad2;\u00a0pat2;\u00a0pa\u1e6d2;\u00a0pe3;\u00a0pet2;\u00a0pi3;pid2;\u00a0pit2;\u00a0qit3;\u00a0sugin;\u00a0sungin;\u00a0\u1e63i\u1e63;\u00a0ti5;\u00a0tile;\u00a0\u1e6dil2;\u00a0ulal;\u00a0zar5;\u00a0zara5;zaz;\u00a0zis;\u00a0ziz;\u00a0zu4;\u00a0zuru9;"
+        "Values": " ba9; bad; bada; bara4; bat; bata; baṭ; be; bi4; bid2; bit2;dihi; dim7; edim; eš7; idin; mat2; me4; med; met; meṭ; mit;miti; mitu; miṭ; mud2; mut2; paₓ; pad2; pat2; paṭ2; pe3; pet2; pi3;pid2; pit2; qit3; sugin; sungin; ṣiṣ; ti5; tile; ṭil2; ulal; zar5; zara5;zaz; zis; ziz; zu4; zuru9;"
     },
     "117": {
         "Borger": 117,
@@ -386,9 +386,9 @@
         "Mittermayer": 26,
         "ORACC name": "/KUL ",
         "Ranke": "",
-        "Unicode": "U+121B0 \ud808\uddb0",
+        "Unicode": "U+121B0 𒆰",
         "Unicode name": "KUL",
-        "Values": "\u00a0gu9;\u00a0gul2;\u00a0ku9;\u00a0kul;\u00a0kula;\u00a0kulu;\u00a0nu5;\u00a0nu\u014bun;\u00a0numu;numun;\u00a0numun@d;\u00a0qul;\u00a0\u0161abalbal;\u00a0til8;\u00a0zar4;\u00a0zara\u2093;\u00a0zer;\u00a0zir;\u00a0ziri;"
+        "Values": " gu9; gul2; ku9; kul; kula; kulu; nu5; nuŋun; numu;numun; numun@d; qul; šabalbal; til8; zar4; zaraₓ; zer; zir; ziri;"
     },
     "118": {
         "Borger": 118,
@@ -403,9 +403,9 @@
         "Mittermayer": 23,
         "ORACC name": "/TI ",
         "Ranke": "",
-        "Unicode": "U+122FE \ud808\udefe",
+        "Unicode": "U+122FE 𒋾",
         "Unicode name": "TI",
-        "Values": "\u00a0de9;\u00a0di3;\u00a0te9;\u00a0te\u014b4;\u00a0ti;\u00a0tibnu;\u00a0tig4;\u00a0ti\u014b4;\u00a0til3;\u00a0tila3;\u00a0\u1e6de6;\u00a0\u1e6di3;"
+        "Values": " de9; di3; te9; teŋ4; ti; tibnu; tig4; tiŋ4; til3; tila3; ṭe6; ṭi3;"
     },
     "119": {
         "Borger": 119,
@@ -420,26 +420,26 @@
         "Mittermayer": 361,
         "ORACC name": "/DIN ",
         "Ranke": "",
-        "Unicode": "U+12077 \ud808\udc77",
+        "Unicode": "U+12077 𒁷",
         "Unicode name": "DIN",
-        "Values": "\u00a0dan5;\u00a0den;\u00a0di2;\u00a0din;\u00a0dini;\u00a0gurun8;\u00a0idin\u2093;\u00a0kurun2;\u00a0ten2;\u00a0ti2;til\u2093;\u00a0tim3;\u00a0tin;\u00a0\u1e6den;\u00a0\u1e6din;"
+        "Values": " dan5; den; di2; din; dini; gurun8; idinₓ; kurun2; ten2; ti2;tilₓ; tim3; tin; ṭen; ṭin;"
     },
     "120": {
         "Borger": 120,
-        "Borger name": "MA\u0160",
+        "Borger name": "MAŠ",
         "Clay": "",
         "Deimel": 74,
         "HethZL": 20,
         "Hinke": "",
         "Huehnergard": 19,
         "Labat": 74,
-        "Labat name": "ma\u0161",
+        "Labat name": "maš",
         "Mittermayer": 29,
-        "ORACC name": "/MA\u0160 ",
+        "ORACC name": "/MAŠ ",
         "Ranke": "",
-        "Unicode": "U+12226 \ud808\ude26",
+        "Unicode": "U+12226 𒈦",
         "Unicode name": "MASH",
-        "Values": "\u00a0ba7;\u00a0ba\u0161;\u00a0ma7;\u00a0mas;\u00a0ma\u015b;\u00a0ma\u0161;\u00a0ma\u0161a;\u00a0ma\u1e63;\u00a0na\u0161;\u00a0sa9;til9;\u00a0wa\u0161;\u00a0zipah;\u00a01/2(di\u0161);\u00a01/2(di\u0161@c);"
+        "Values": " ba7; baš; ma7; mas; maś; maš; maša; maṣ; naš; sa9;til9; waš; zipah; 1/2(diš); 1/2(diš@c);"
     },
     "121": {
         "Borger": 121,
@@ -454,13 +454,13 @@
         "Mittermayer": 57,
         "ORACC name": "/BAR ",
         "Ranke": "",
-        "Unicode": "U+12047 \ud808\udc47",
+        "Unicode": "U+12047 𒁇",
         "Unicode name": "BAR",
-        "Values": "\u00a0ba15;\u00a0bar;\u00a0bara;\u00a0bare;\u00a0par2;\u00a0para2;\u00a0sutu;\u00a0war;"
+        "Values": " ba15; bar; bara; bare; par2; para2; sutu; war;"
     },
     "122": {
         "Borger": 122,
-        "Borger name": "B\u00c1N",
+        "Borger name": "BÁN",
         "Clay": "",
         "Deimel": 74,
         "HethZL": 20,
@@ -471,9 +471,9 @@
         "Mittermayer": 29,
         "ORACC name": "/1(BAN2) ",
         "Ranke": "",
-        "Unicode": "U+1244F \ud809\udc4f",
+        "Unicode": "U+1244F 𒑏",
         "Unicode name": "NUMERIC SIGN ONE BAN2",
-        "Values": "\u00a0ban2;\u00a0banda2;\u00a0sutu;\u00a01(ban2);\u00a01(ban2@c);\u00a0ban2@c;ban2@v;"
+        "Values": " ban2; banda2; sutu; 1(ban2); 1(ban2@c); ban2@c;ban2@v;"
     },
     "127": {
         "Borger": 127,
@@ -488,26 +488,26 @@
         "Mittermayer": 52,
         "ORACC name": "/AK ",
         "Ranke": "",
-        "Unicode": "U+1201D \ud808\udc1d",
+        "Unicode": "U+1201D 𒀝",
         "Unicode name": "AK",
-        "Values": "\u00a0a5;\u00a0ag;\u00a0a\u014b;\u00a0ak;\u00a0aka;\u00a0aki\u2093;\u00a0aq;\u00a0aqa;\u00a0ke3;\u00a0ki3;\u00a0kid3;\u00a0me6;\u00a0na3;ra6;\u00a0\u0161a5;"
+        "Values": " a5; ag; aŋ; ak; aka; akiₓ; aq; aqa; ke3; ki3; kid3; me6; na3;ra6; ša5;"
     },
     "130": {
         "Borger": 130,
-        "Borger name": "M\u00c1\u0160",
+        "Borger name": "MÁŠ",
         "Clay": "",
         "Deimel": 76,
         "HethZL": 38,
         "Hinke": "",
         "Huehnergard": 21,
         "Labat": 76,
-        "Labat name": "ma\u01612",
+        "Labat name": "maš2",
         "Mittermayer": 31,
-        "ORACC name": "/MA\u01602 ",
+        "ORACC name": "/MAŠ2 ",
         "Ranke": "",
-        "Unicode": "U+12227 \ud808\ude27",
+        "Unicode": "U+12227 𒈧",
         "Unicode name": "MASH2",
-        "Values": "\u00a0kun8;\u00a0ma\u01612;\u00a0ma\u0161aku;\u00a0maz0;\u00a0maz2;"
+        "Values": " kun8; maš2; mašaku; maz0; maz2;"
     },
     "131": {
         "Borger": 131,
@@ -522,26 +522,26 @@
         "Mittermayer": 32,
         "ORACC name": "/KUN ",
         "Ranke": "",
-        "Unicode": "U+121B2 \ud808\uddb2",
+        "Unicode": "U+121B2 𒆲",
         "Unicode name": "KUN",
-        "Values": "\u00a0ku14;\u00a0kun;\u00a0kunu;\u00a0megida\u2093;\u00a0;;;nunnam;;;;\u00a0qun;"
+        "Values": " ku14; kun; kunu; megidaₓ; ;;;nunnam;;;; qun;"
     },
     "132": {
         "Borger": 132,
-        "Borger name": "\u1e2aU",
+        "Borger name": "ḪU",
         "Clay": "",
         "Deimel": 78,
         "HethZL": 24,
         "Hinke": "",
         "Huehnergard": 20,
         "Labat": 78,
-        "Labat name": "mu\u0161en",
+        "Labat name": "mušen",
         "Mittermayer": 34,
         "ORACC name": "/HU ",
         "Ranke": "",
-        "Unicode": "U+12137 \ud808\udd37",
+        "Unicode": "U+12137 𒄷",
         "Unicode name": "HU",
-        "Values": "\u00a0\u02beu5;\u00a0bag;\u00a0bah;\u00a0bak;\u00a0baq;\u00a0buru\u2093;\u00a0dal\u2093;\u00a0hu;\u00a0mu\u01618;\u00a0mu\u0161en;mu\u0161ena;\u00a0pa7;\u00a0pag;\u00a0pah3;\u00a0pak;\u00a0paq;\u00a0puq2;\u00a0tal\u2093;\u00a0u11;\u00a0usan5;"
+        "Values": " ʾu5; bag; bah; bak; baq; buruₓ; dalₓ; hu; muš8; mušen;mušena; pa7; pag; pah3; pak; paq; puq2; talₓ; u11; usan5;"
     },
     "134": {
         "Borger": 134,
@@ -556,13 +556,13 @@
         "Mittermayer": 42,
         "ORACC name": "/NAM ",
         "Ranke": "",
-        "Unicode": "U+12246 \ud808\ude46",
+        "Unicode": "U+12246 𒉆",
         "Unicode name": "NAM",
-        "Values": "\u00a0bi\u2093;\u00a0bir5;\u00a0na7;\u00a0nam;\u00a0pir6;\u00a0si13;\u00a0sim;\u00a0sin2;\u00a0\u015bim2;\u00a0\u0161am4;\u00a0\u0161en3;\u0161im2;"
+        "Values": " biₓ; bir5; na7; nam; pir6; si13; sim; sin2; śim2; šam4; šen3;šim2;"
     },
     "136": {
         "Borger": 136,
-        "Borger name": "IG (G\u00c1L)",
+        "Borger name": "IG (GÁL)",
         "Clay": "",
         "Deimel": 80,
         "HethZL": 67,
@@ -573,9 +573,9 @@
         "Mittermayer": 61,
         "ORACC name": "/IG ",
         "Ranke": "",
-        "Unicode": "U+12145 \ud808\udd45",
+        "Unicode": "U+12145 𒅅",
         "Unicode name": "IG",
-        "Values": "\u00a0da11;\u00a0eg;\u00a0e\u014b;\u00a0ek;\u00a0eq;\u00a0ga7;\u00a0gagal;\u00a0gal2;\u00a0gala7;\u00a0\u014bal2;\u00a0ig;\u00a0iga;ik;\u00a0iq;\u00a0kagar;\u00a0/mal/;\u00a0mal3;"
+        "Values": " da11; eg; eŋ; ek; eq; ga7; gagal; gal2; gala7; ŋal2; ig; iga;ik; iq; kagar; /mal/; mal3;"
     },
     "140": {
         "Borger": 140,
@@ -590,9 +590,9 @@
         "Mittermayer": 41,
         "ORACC name": "/ZI ",
         "Ranke": "",
-        "Unicode": "U+12363 \ud808\udf63",
+        "Unicode": "U+12363 𒍣",
         "Unicode name": "ZI",
-        "Values": "\u00a0se2;\u00a0si2;\u00a0\u1e63e2;\u00a0\u1e63i2;\u00a0ze;\u00a0zi;\u00a0zid;\u00a0zig3;"
+        "Values": " se2; si2; ṣe2; ṣi2; ze; zi; zid; zig3;"
     },
     "141": {
         "Borger": 141,
@@ -607,9 +607,9 @@
         "Mittermayer": 40,
         "ORACC name": "/GI ",
         "Ranke": "",
-        "Unicode": "U+12100 \ud808\udd00",
+        "Unicode": "U+12100 𒄀",
         "Unicode name": "GI",
-        "Values": "\u00a0e\u0161\u0161a3;\u00a0ge;\u00a0gen6;\u00a0gi;\u00a0gin6;\u00a0gitag;\u00a0ke2;\u00a0ki2;\u00a0qan2;\u00a0qe3;\u00a0qi3;seg17;\u00a0si22;\u00a0sig17;\u00a0sissi\u2093;\u00a0tar5;\u00a0taru5;"
+        "Values": " ešša3; ge; gen6; gi; gin6; gitag; ke2; ki2; qan2; qe3; qi3;seg17; si22; sig17; sissiₓ; tar5; taru5;"
     },
     "142": {
         "Borger": 142,
@@ -624,9 +624,9 @@
         "Mittermayer": 39,
         "ORACC name": "/RI ",
         "Ranke": "",
-        "Unicode": "U+12291 \ud808\ude91",
+        "Unicode": "U+12291 𒊑",
         "Unicode name": "RI",
-        "Values": "\u00a0bag\u2093;\u00a0bak\u2093;\u00a0dal;\u00a0dala;\u00a0de5;\u00a0deg\u2093;\u00a0di5;\u00a0e\u016111;\u00a0hu\u2093;\u00a0re;\u00a0ri;\u00a0rig5;\u0161a7;\u00a0tal;\u00a0tala;\u00a0\u1e6dal;"
+        "Values": " bagₓ; bakₓ; dal; dala; de5; degₓ; di5; eš11; huₓ; re; ri; rig5;ša7; tal; tala; ṭal;"
     },
     "143": {
         "Borger": 143,
@@ -641,9 +641,9 @@
         "Mittermayer": 47,
         "ORACC name": "/NUN ",
         "Ranke": "",
-        "Unicode": "U+12263 \ud808\ude63",
+        "Unicode": "U+12263 𒉣",
         "Unicode name": "NUN",
-        "Values": "\u00a0ab\u2093;\u00a0agargara\u2093;\u00a0dab\u2093;\u00a0daba\u2093;\u00a0erida;\u00a0eridu;\u00a0eridug;eriduga;\u00a0gar6;\u00a0gara6;\u00a0li11;\u00a0nu6;\u00a0nu\u014b\u2093;\u00a0nun;\u00a0nuna;\u00a0nunun;\u00a0rab\u2093;;;;ri;\u00a0sil2;\u00a0\u1e63il;\u00a0za4;\u00a0zal\u2093;\u00a0zel;\u00a0zil;"
+        "Values": " abₓ; agargaraₓ; dabₓ; dabaₓ; erida; eridu; eridug;eriduga; gar6; gara6; li11; nu6; nuŋₓ; nun; nuna; nunun; rabₓ;;;;ri; sil2; ṣil; za4; zalₓ; zel; zil;"
     },
     "148": {
         "Borger": 148,
@@ -658,13 +658,13 @@
         "Mittermayer": 226,
         "ORACC name": "/KAB ",
         "Ranke": "",
-        "Unicode": "U+1218F \ud808\udd8f",
+        "Unicode": "U+1218F 𒆏",
         "Unicode name": "KAB",
-        "Values": "\u00a0gab2;\u00a0gaba2;\u00a0gabu2;\u00a0gap2;\u00a0gub3;\u00a0gubu3;\u00a0kab;\u00a0kap;\u00a0kapa;qab2;\u00a0qap2;"
+        "Values": " gab2; gaba2; gabu2; gap2; gub3; gubu3; kab; kap; kapa;qab2; qap2;"
     },
     "153": {
         "Borger": 153,
-        "Borger name": "M\u00d9\u0160 (INANNA)",
+        "Borger name": "MÙŠ (INANNA)",
         "Clay": "",
         "Deimel": "103v",
         "HethZL": 41,
@@ -673,11 +673,11 @@
         "Labat": 103,
         "Labat name": "innin",
         "Mittermayer": 44,
-        "ORACC name": "/MU\u01603 ",
+        "ORACC name": "/MUŠ3 ",
         "Ranke": "",
-        "Unicode": "U+12239 \ud808\ude39",
+        "Unicode": "U+12239 𒈹",
         "Unicode name": "MUSH3",
-        "Values": "\u00a0ennin;\u00a0ga-\u0161a-an-an-na;\u00a0inana;\u00a0inanna;\u00a0inini;\u00a0innana;innin;\u00a0i\u0161tar;\u00a0mim2;\u00a0mu\u01613;\u00a0mu\u0161ku;\u00a0nin2;\u00a0ninni6;\u00a0sar5;\u00a0se27;\u00a0sed6;sedi6;\u00a0suba4;\u00a0suh10;\u00a0suku6;\u00a0sukud3;\u00a0suku\u0161;\u00a0sus2;\u00a0susbu4;\u00a0suz2;\u0161e23;\u00a0\u0161ed12;\u00a0\u0161uba4;\u00a0zanaru;\u00a0zannaru;"
+        "Values": " ennin; ga-ša-an-an-na; inana; inanna; inini; innana;innin; ištar; mim2; muš3; mušku; nin2; ninni6; sar5; se27; sed6;sedi6; suba4; suh10; suku6; sukud3; sukuš; sus2; susbu4; suz2;še23; šed12; šuba4; zanaru; zannaru;"
     },
     "157": {
         "Borger": 157,
@@ -692,9 +692,9 @@
         "Mittermayer": 299,
         "ORACC name": "/GAD ",
         "Ranke": "",
-        "Unicode": "U+120F0 \ud808\udcf0",
+        "Unicode": "U+120F0 𒃰",
         "Unicode name": "GAD",
-        "Values": "\u00a0gad;\u00a0gada;\u00a0gadu;\u00a0gat;\u00a0gid4;\u00a0gida4;\u00a0kad;\u00a0kat;\u00a0kid9;\u00a0kit9;kut2;\u00a0qad3;\u00a0qat3;\u00a0qa\u1e6d3;\u00a0qid4;"
+        "Values": " gad; gada; gadu; gat; gid4; gida4; kad; kat; kid9; kit9;kut2; qad3; qat3; qaṭ3; qid4;"
     },
     "164": {
         "Borger": 164,
@@ -709,9 +709,9 @@
         "Mittermayer": 62,
         "ORACC name": "/EN ",
         "Ranke": "",
-        "Unicode": "U+12097 \ud808\udc97",
+        "Unicode": "U+12097 𒂗",
         "Unicode name": "EN",
-        "Values": "\u00a0ad\u2093;\u00a0am\u2093;\u00a0en;\u00a0ena;\u00a0eni;\u00a0enu;\u00a0in4;\u00a0ru12;\u00a0uru16;\u00a0urun\u2093;"
+        "Values": " adₓ; amₓ; en; ena; eni; enu; in4; ru12; uru16; urunₓ;"
     },
     "167": {
         "Borger": 167,
@@ -726,9 +726,9 @@
         "Mittermayer": 14,
         "ORACC name": "/DIM ",
         "Ranke": "",
-        "Unicode": "U+12074 \ud808\udc74",
+        "Unicode": "U+12074 𒁴",
         "Unicode name": "DIM",
-        "Values": "\u00a0di11;\u00a0dim;\u00a0dum4;\u00a0mun3;\u00a0tam3;\u00a0tem;\u00a0ti3;\u00a0tim;\u00a0tum8;\u00a0\u1e6dem;\u1e6dim;"
+        "Values": " di11; dim; dum4; mun3; tam3; tem; ti3; tim; tum8; ṭem;ṭim;"
     },
     "172": {
         "Borger": 172,
@@ -743,13 +743,13 @@
         "Mittermayer": 147,
         "ORACC name": "/SA ",
         "Ranke": "",
-        "Unicode": "U+12293 \ud808\ude93",
+        "Unicode": "U+12293 𒊓",
         "Unicode name": "SA",
-        "Values": "\u00a0gid3;\u00a0sa;\u00a0\u015ba;\u00a0\u0161a10;"
+        "Values": " gid3; sa; śa; ša10;"
     },
     "174": {
         "Borger": 174,
-        "Borger name": "G\u00c1N",
+        "Borger name": "GÁN",
         "Clay": "",
         "Deimel": 105,
         "HethZL": 61,
@@ -760,13 +760,13 @@
         "Mittermayer": 106,
         "ORACC name": "/GAN2 ",
         "Ranke": "",
-        "Unicode": "U+120F7 \ud808\udcf7",
+        "Unicode": "U+120F7 𒃷",
         "Unicode name": "GAN2",
-        "Values": "\u00a0eqlu;\u00a0al3;\u00a0alal\u2093;\u00a0a\u0161a5;\u00a0a\u0161ag;\u00a0buru\u2093;\u00a0ga3;\u00a0gan2;\u00a0gana2;\u00a0\u014ba3;girri\u2093;\u00a0iku;\u00a0i\u0161huru3;\u00a0i\u0161hurum3;\u00a0kala\u2093;\u00a0kan2;\u00a0kana2;\u00a0kar\u2093;\u00a0mulu4;ul8;\u00a0ulul\u2093;"
+        "Values": " eqlu; al3; alalₓ; aša5; ašag; buruₓ; ga3; gan2; gana2; ŋa3;girriₓ; iku; išhuru3; išhurum3; kalaₓ; kan2; kana2; karₓ; mulu4;ul8; ululₓ;"
     },
     "176": {
         "Borger": 176,
-        "Borger name": "G\u00da (TIK)",
+        "Borger name": "GÚ (TIK)",
         "Clay": "",
         "Deimel": 106,
         "HethZL": 201,
@@ -777,13 +777,13 @@
         "Mittermayer": 89,
         "ORACC name": "/GU2 ",
         "Ranke": "",
-        "Unicode": "U+12118 \ud808\udd18",
+        "Unicode": "U+12118 𒄘",
         "Unicode name": "GU2",
-        "Values": "\u00a0ki\u0161\u0101du;\u00a0gu2;\u00a0gun2;\u00a0lil6;\u00a0qu6;\u00a0tek;\u00a0tik;\u00a0tiq;\u00a0usan\u2093;"
+        "Values": " kišādu; gu2; gun2; lil6; qu6; tek; tik; tiq; usanₓ;"
     },
     "178": {
         "Borger": 178,
-        "Borger name": "DUR (G\u00daxGAG, G\u00da.GAG)",
+        "Borger name": "DUR (GÚxGAG, GÚ.GAG)",
         "Clay": "",
         "Deimel": 108,
         "HethZL": 202,
@@ -792,11 +792,11 @@
         "Labat": 108,
         "Labat name": "dur",
         "Mittermayer": 88,
-        "ORACC name": "/GU2\u00d7KAK ",
+        "ORACC name": "/GU2×KAK ",
         "Ranke": "",
-        "Unicode": "U+12119 \ud808\udd19",
+        "Unicode": "U+12119 𒄙",
         "Unicode name": "GU2 TIMES KAK",
-        "Values": "\u00a0dur;\u00a0tur2;\u00a0\u1e6dur;\u00a0\u1e6duru;\u00a0usan\u2093;"
+        "Values": " dur; tur2; ṭur; ṭuru; usanₓ;"
     },
     "180": {
         "Borger": 180,
@@ -811,9 +811,9 @@
         "Mittermayer": 92,
         "ORACC name": "/GUR ",
         "Ranke": "",
-        "Unicode": "U+12125 \ud808\udd25",
+        "Unicode": "U+12125 𒄥",
         "Unicode name": "GUR",
-        "Values": "\u00a0gur;\u00a0gura;\u00a0guru;\u00a0kur3;\u00a0qur;\u00a0quru;\u00a0tari;\u00a0taru;"
+        "Values": " gur; gura; guru; kur3; qur; quru; tari; taru;"
     },
     "181": {
         "Borger": 181,
@@ -828,13 +828,13 @@
         "Mittermayer": 164,
         "ORACC name": "/SI ",
         "Ranke": "",
-        "Unicode": "U+122DB \ud808\udedb",
+        "Unicode": "U+122DB 𒋛",
         "Unicode name": "SI",
-        "Values": "\u00a0hu\u2093;\u00a0se;\u00a0seg9;\u00a0si;\u00a0sig9;\u00a0\u015be;\u00a0\u015bi;\u00a0\u0161e2;\u00a0\u0161i2;\u00a0\u1e63i3;"
+        "Values": " huₓ; se; seg9; si; sig9; śe; śi; še2; ši2; ṣi3;"
     },
     "183": {
         "Borger": 183,
-        "Borger name": "DAR (G\u00d9N; \u1e2aU-gun\u00fb, SI-gun\u00fb)",
+        "Borger name": "DAR (GÙN; ḪU-gunû, SI-gunû)",
         "Clay": "",
         "Deimel": 113,
         "HethZL": 83,
@@ -845,9 +845,9 @@
         "Mittermayer": 37,
         "ORACC name": "/DAR ",
         "Ranke": "",
-        "Unicode": "U+1206F \ud808\udc6f",
+        "Unicode": "U+1206F 𒁯",
         "Unicode name": "DAR",
-        "Values": "\u00a0da\u2093;\u00a0dar;\u00a0da\u01614;\u00a0dir2;\u00a0gu\u2093;\u00a0gun3;\u00a0gunu3;\u00a0tar2;\u00a0tir3;\u00a0\u1e6dar2;\u00a0\u1e6dir4;"
+        "Values": " daₓ; dar; daš4; dir2; guₓ; gun3; gunu3; tar2; tir3; ṭar2; ṭir4;"
     },
     "184": {
         "Borger": 184,
@@ -862,13 +862,13 @@
         "Mittermayer": 309,
         "ORACC name": "/SAG ",
         "Ranke": "",
-        "Unicode": "U+12295 \ud808\ude95",
+        "Unicode": "U+12295 𒊕",
         "Unicode name": "SAG",
-        "Values": "\u00a0r\u0113\u0161u;\u00a0dul7;\u00a0dunga;\u00a0res;\u00a0re\u0161;\u00a0ris;\u00a0ri\u0161;\u00a0sa12;\u00a0sag;\u00a0saga;saggar;\u00a0sa\u014b\u014bar;\u00a0sa\u014b;\u00a0sa\u014ba;\u00a0sak;\u00a0sam\u2093;\u00a0san;\u00a0saq;\u00a0sur14;\u00a0\u0161a24;\u0161ag;\u00a0\u0161ak;\u00a0\u0161aq;\u00a0\u0161eg\u2093;\u00a0zug3;"
+        "Values": " rēšu; dul7; dunga; res; reš; ris; riš; sa12; sag; saga;saggar; saŋŋar; saŋ; saŋa; sak; samₓ; san; saq; sur14; ša24;šag; šak; šaq; šegₓ; zug3;"
     },
     "201": {
         "Borger": 201,
-        "Borger name": "M\u00c1",
+        "Borger name": "MÁ",
         "Clay": "",
         "Deimel": 122,
         "HethZL": 87,
@@ -879,9 +879,9 @@
         "Mittermayer": 50,
         "ORACC name": "/MA2 ",
         "Ranke": "",
-        "Unicode": "U+12223 \ud808\ude23",
+        "Unicode": "U+12223 𒈣",
         "Unicode name": "MA2",
-        "Values": "\u00a0hu\u2093;\u00a0ma2;"
+        "Values": " huₓ; ma2;"
     },
     "209": {
         "Borger": 209,
@@ -896,30 +896,30 @@
         "Mittermayer": 109,
         "ORACC name": "/TAB ",
         "Ranke": "",
-        "Unicode": "U+122F0 \ud808\udef0",
+        "Unicode": "U+122F0 𒋰",
         "Unicode name": "TAB",
-        "Values": "\u00a0dab2;\u00a0dap2;\u00a0dapa2;\u00a0min6;\u00a0tab;\u00a0taba;\u00a0tap;\u00a0tapa;\u00a0\u1e6dab;\u00a0\u1e6dap;"
+        "Values": " dab2; dap2; dapa2; min6; tab; taba; tap; tapa; ṭab; ṭap;"
     },
     "221": {
         "Borger": 221,
-        "Borger name": "TAG (\u0160UM)",
+        "Borger name": "TAG (ŠUM)",
         "Clay": "",
         "Deimel": 126,
         "HethZL": 91,
         "Hinke": "",
         "Huehnergard": 56,
         "Labat": 126,
-        "Labat name": "\u0161um",
+        "Labat name": "šum",
         "Mittermayer": 122,
         "ORACC name": "/TAG ",
         "Ranke": "",
-        "Unicode": "U+122F3 \ud808\udef3",
+        "Unicode": "U+122F3 𒋳",
         "Unicode name": "TAG",
-        "Values": "\u00a0da6;\u00a0daq6;\u00a0guru\u01614;\u00a0su\u2093;\u00a0sub6;\u00a0subu;\u00a0suh\u2093;\u00a0sum6;\u00a0\u015bum;\u00a0\u0161an2;\u0161erid;\u00a0\u0161erim;\u00a0\u0161u14;\u00a0\u0161um;\u00a0\u0161umu3;\u00a0\u0161u\u01614;\u00a0ta3;\u00a0tag;\u00a0taga;\u00a0tak;\u00a0taka;taq;\u00a0tibir;\u00a0tuku5;\u00a0uttu\u2093;\u00a0zil2;"
+        "Values": " da6; daq6; guruš4; suₓ; sub6; subu; suhₓ; sum6; śum; šan2;šerid; šerim; šu14; šum; šumu3; šuš4; ta3; tag; taga; tak; taka;taq; tibir; tuku5; uttuₓ; zil2;"
     },
     "222": {
         "Borger": 222,
-        "Borger name": "K\u00c1",
+        "Borger name": "KÁ",
         "Clay": "",
         "Deimel": 133,
         "HethZL": 167,
@@ -930,9 +930,9 @@
         "Mittermayer": 175,
         "ORACC name": "/KA2 ",
         "Ranke": "",
-        "Unicode": "U+1218D \ud808\udd8d",
+        "Unicode": "U+1218D 𒆍",
         "Unicode name": "KA2",
-        "Values": "\u00a0agan\u2093;\u00a0aka4;\u00a0akan2;\u00a0baba2;\u00a0babu;\u00a0gu16;\u00a0ka2;\u00a0kan4;\u00a0kankan;papa2;"
+        "Values": " aganₓ; aka4; akan2; baba2; babu; gu16; ka2; kan4; kankan;papa2;"
     },
     "223": {
         "Borger": 223,
@@ -947,9 +947,9 @@
         "Mittermayer": 125,
         "ORACC name": "/AB ",
         "Ranke": "",
-        "Unicode": "U+1200A \ud808\udc0a",
+        "Unicode": "U+1200A 𒀊",
         "Unicode name": "AB",
-        "Values": "\u00a0ab;\u00a0aba;\u00a0abba;\u00a0agarin\u2093;\u00a0ap;\u00a0a\u0161\u2093;\u00a0eri12;\u00a0es3;\u00a0esa3;\u00a0e\u01613;\u00a0e\u0161a3;e\u0161e\u2093;\u00a0e\u1e633;\u00a0ez3;\u00a0giraba;\u00a0iri12;\u00a0is3;\u00a0i\u01617;\u00a0i\u1e633;\u00a0iz3;\u00a0unu5;"
+        "Values": " ab; aba; abba; agarinₓ; ap; ašₓ; eri12; es3; esa3; eš3; eša3;ešeₓ; eṣ3; ez3; giraba; iri12; is3; iš7; iṣ3; iz3; unu5;"
     },
     "238": {
         "Borger": 238,
@@ -964,9 +964,9 @@
         "Mittermayer": 113,
         "ORACC name": "/UM ",
         "Ranke": "",
-        "Unicode": "U+1231D \ud808\udf1d",
+        "Unicode": "U+1231D 𒌝",
         "Unicode name": "UM",
-        "Values": "\u00a0deh2;\u00a0dehi2;\u00a0dih2;\u00a0dihi2;\u00a0samag;\u00a0sumug;\u00a0\u0161umug\u2093;\u00a0teh2;tehi2;\u00a0u16;\u00a0um;\u00a0umu;"
+        "Values": " deh2; dehi2; dih2; dihi2; samag; sumug; šumugₓ; teh2;tehi2; u16; um; umu;"
     },
     "242": {
         "Borger": 242,
@@ -981,9 +981,9 @@
         "Mittermayer": "112b",
         "ORACC name": "/DUB ",
         "Ranke": "",
-        "Unicode": "U+1207E \ud808\udc7e",
+        "Unicode": "U+1207E 𒁾",
         "Unicode name": "DUB",
-        "Values": "\u00a0le\u02beum;\u00a0dab4;\u00a0deh;\u00a0dehi;\u00a0dih;\u00a0dub;\u00a0duba;\u00a0dubba;\u00a0dubu;dup;\u00a0ki\u0161ib3;\u00a0mebulug3;\u00a0menbulug3;\u00a0mes2;\u00a0samag;\u00a0simig;sumug;\u00a0\u0161en4;\u00a0tehe;\u00a0tehi;\u00a0tub;\u00a0tup;\u00a0\u1e6dub;\u00a0\u1e6dup;\u00a0urud2;\u00a0urudu2;zamug;"
+        "Values": " leʾum; dab4; deh; dehi; dih; dub; duba; dubba; dubu;dup; kišib3; mebulug3; menbulug3; mes2; samag; simig;sumug; šen4; tehe; tehi; tub; tup; ṭub; ṭup; urud2; urudu2;zamug;"
     },
     "248": {
         "Borger": 248,
@@ -998,9 +998,9 @@
         "Mittermayer": 123,
         "ORACC name": "/TA ",
         "Ranke": "",
-        "Unicode": "U+122EB \ud808\udeeb",
+        "Unicode": "U+122EB 𒋫",
         "Unicode name": "TA",
-        "Values": "\u00a0da2;\u00a0ta;\u00a0\u1e6da2;"
+        "Values": " da2; ta; ṭa2;"
     },
     "252": {
         "Borger": 252,
@@ -1015,9 +1015,9 @@
         "Mittermayer": 192,
         "ORACC name": "/I ",
         "Ranke": "",
-        "Unicode": "U+1213F \ud808\udd3f",
+        "Unicode": "U+1213F 𒄿",
         "Unicode name": "I",
-        "Values": "\u00a0i;\u00a0nat2;"
+        "Values": " i; nat2;"
     },
     "253": {
         "Borger": 253,
@@ -1032,9 +1032,9 @@
         "Mittermayer": 120,
         "ORACC name": "/GAN ",
         "Ranke": "",
-        "Unicode": "U+120F6 \ud808\udcf6",
+        "Unicode": "U+120F6 𒃶",
         "Unicode name": "GAN",
-        "Values": "\u00a0gam4;\u00a0gan;\u00a0gana;\u00a0he2;\u00a0hi2;\u00a0kan;\u00a0kana;\u00a0li6;\u00a0qan;\u00a0sag7;seg16;\u00a0sig16;"
+        "Values": " gam4; gan; gana; he2; hi2; kan; kana; li6; qan; sag7;seg16; sig16;"
     },
     "255": {
         "Borger": 255,
@@ -1049,9 +1049,9 @@
         "Mittermayer": 393,
         "ORACC name": "/TUR ",
         "Ranke": "",
-        "Unicode": "U+12309 \ud808\udf09",
+        "Unicode": "U+12309 𒌉",
         "Unicode name": "TUR",
-        "Values": "\u00a0ban3;\u00a0banda3;\u00a0damu;\u00a0di4;\u00a0du13;\u00a0dum\u2093;\u00a0dumu;\u00a0ibila4;\u00a0maru;pe\u01617;\u00a0suhu\u0161\u2093;\u00a0\u0161ak7;\u00a0\u0161ir6;\u00a0tu19;\u00a0tul4;\u00a0tur;\u00a0tura;\u00a0turu;\u00a0\u1e6dur3;\u00a0zer\u2093;"
+        "Values": " ban3; banda3; damu; di4; du13; dumₓ; dumu; ibila4; maru;peš7; suhušₓ; šak7; šir6; tu19; tul4; tur; tura; turu; ṭur3; zerₓ;"
     },
     "258": {
         "Borger": 258,
@@ -1066,13 +1066,13 @@
         "Mittermayer": 132,
         "ORACC name": "/AD ",
         "Ranke": "",
-        "Unicode": "U+1201C \ud808\udc1c",
+        "Unicode": "U+1201C 𒀜",
         "Unicode name": "AD",
-        "Values": "\u00a0ab3;\u00a0aba3;\u00a0ad;\u00a0ada;\u00a0ap3;\u00a0at;\u00a0a\u1e6d;"
+        "Values": " ab3; aba3; ad; ada; ap3; at; aṭ;"
     },
     "259": {
         "Borger": 259,
-        "Borger name": "Z\u00cd (AB\u00d7PA)",
+        "Borger name": "ZÍ (AB×PA)",
         "Clay": "",
         "Deimel": 147,
         "HethZL": 108,
@@ -1083,9 +1083,9 @@
         "Mittermayer": 126,
         "ORACC name": "/ZE2 ",
         "Ranke": "",
-        "Unicode": "U+12362 \ud808\udf62",
+        "Unicode": "U+12362 𒍢",
         "Unicode name": "ZE2",
-        "Values": "\u00a0se20;\u00a0si20;\u00a0\u1e63e;\u00a0\u1e63i;\u00a0ze2;\u00a0zi2;"
+        "Values": " se20; si20; ṣe; ṣi; ze2; zi2;"
     },
     "260": {
         "Borger": 260,
@@ -1100,9 +1100,9 @@
         "Mittermayer": 193,
         "ORACC name": "/I.A ",
         "Ranke": "",
-        "Unicode": "U+12140 \ud808\udd40",
+        "Unicode": "U+12140 𒅀",
         "Unicode name": "I A",
-        "Values": "\u00a0ia;\u00a0ie;\u00a0ii;\u00a0iu;\u00a0yi2;"
+        "Values": " ia; ie; ii; iu; yi2;"
     },
     "261": {
         "Borger": 261,
@@ -1117,9 +1117,9 @@
         "Mittermayer": 386,
         "ORACC name": "/IN ",
         "Ranke": "",
-        "Unicode": "U+12154 \ud808\udd54",
+        "Unicode": "U+12154 𒅔",
         "Unicode name": "IN",
-        "Values": "\u00a0en6;\u00a0gir12;\u00a0in;\u00a0ini;\u00a0isin2;"
+        "Values": " en6; gir12; in; ini; isin2;"
     },
     "266": {
         "Borger": 266,
@@ -1134,13 +1134,13 @@
         "Mittermayer": "221a",
         "ORACC name": "/LUGAL ",
         "Ranke": "",
-        "Unicode": "U+12217 \ud808\ude17",
+        "Unicode": "U+12217 𒈗",
         "Unicode name": "LUGAL",
-        "Values": "\u00a0n\u016br-ili;\u00a0\u0161arru;\u00a0bi\u0161eba;\u00a0bi\u0161ebi;\u00a0hani\u01612;\u00a0ka\u0161\u0161eba;ka\u0161\u0161ebi;\u00a0lillan;\u00a0lugal;\u00a0lugala;\u00a0nurra;\u00a0rab3;\u00a0sag4;\u00a0sa\u014b4;\u00a0\u0161ar3;\u00a0\u0161ara\u2093;\u0161arra;\u00a0\u0161arru;\u00a0\u0161arrum;\u00a0\u0161ugur;"
+        "Values": " nūr-ili; šarru; bišeba; bišebi; haniš2; kaššeba;kaššebi; lillan; lugal; lugala; nurra; rab3; sag4; saŋ4; šar3; šaraₓ;šarra; šarru; šarrum; šugur;"
     },
     "275": {
         "Borger": 275,
-        "Borger name": "B\u00c0D (UG5 (EZEN\u00d7BAD))",
+        "Borger name": "BÀD (UG5 (EZEN×BAD))",
         "Clay": "",
         "Deimel": "152_8",
         "HethZL": 114,
@@ -1149,15 +1149,15 @@
         "Labat": 152.8,
         "Labat name": "bad3",
         "Mittermayer": 153,
-        "ORACC name": "/EZEN\u00d7BAD ",
+        "ORACC name": "/EZEN×BAD ",
         "Ranke": "",
-        "Unicode": "U+120A6 \ud808\udca6",
+        "Unicode": "U+120A6 𒂦",
         "Unicode name": "EZEN TIMES BAD",
-        "Values": "\u00a0an\u2093;\u00a0ba8;\u00a0bad3;\u00a0bada3;\u00a0bat3;\u00a0dur8;\u00a0durum;\u00a0u9;\u00a0ub\u2093;ug5;\u00a0uga5;\u00a0u\u014b5;\u00a0uk5;\u00a0un3;\u00a0uq5;"
+        "Values": " anₓ; ba8; bad3; bada3; bat3; dur8; durum; u9; ubₓ;ug5; uga5; uŋ5; uk5; un3; uq5;"
     },
     "296": {
         "Borger": 296,
-        "Borger name": "UG (PIRIG\u00d7UD)",
+        "Borger name": "UG (PIRIG×UD)",
         "Clay": "",
         "Deimel": 130,
         "HethZL": 93,
@@ -1166,15 +1166,15 @@
         "Labat": 130,
         "Labat name": "ug",
         "Mittermayer": 179,
-        "ORACC name": "/PIRIG\u00d7UD ",
+        "ORACC name": "/PIRIG×UD ",
         "Ranke": "",
-        "Unicode": "U+1228C \ud808\ude8c",
+        "Unicode": "U+1228C 𒊌",
         "Unicode name": "PIRIG TIMES UD",
-        "Values": "\u00a0pirig3;\u00a0piri\u014b3;\u00a0u21;\u00a0ud\u2093;\u00a0ug;\u00a0uk;\u00a0uku4;\u00a0uq;"
+        "Values": " pirig3; piriŋ3; u21; udₓ; ug; uk; uku4; uq;"
     },
     "297": {
         "Borger": 297,
-        "Borger name": "AZ (PIRIG\u00d7ZA)",
+        "Borger name": "AZ (PIRIG×ZA)",
         "Clay": "",
         "Deimel": 131,
         "HethZL": 92,
@@ -1183,11 +1183,11 @@
         "Labat": 131,
         "Labat name": "az",
         "Mittermayer": 180,
-        "ORACC name": "/PIRIG\u00d7ZA ",
+        "ORACC name": "/PIRIG×ZA ",
         "Ranke": "",
-        "Unicode": "U+1228D \ud808\ude8d",
+        "Unicode": "U+1228D 𒊍",
         "Unicode name": "PIRIG TIMES ZA",
-        "Values": "\u00a0as;\u00a0asa;\u00a0a\u1e63;\u00a0az;\u00a0aza;\u00a0ug\u2093;\u00a0us4;\u00a0u\u1e634;\u00a0uz4;"
+        "Values": " as; asa; aṣ; az; aza; ugₓ; us4; uṣ4; uz4;"
     },
     "298": {
         "Borger": 298,
@@ -1202,9 +1202,9 @@
         "Mittermayer": 141,
         "ORACC name": "/GABA ",
         "Ranke": "",
-        "Unicode": "U+12083 \ud808\udc83",
+        "Unicode": "U+12083 𒂃",
         "Unicode name": "DUH",
-        "Values": "\u00a0du8;\u00a0dudda;\u00a0duh;\u00a0ga15;\u00a0gab;\u00a0gaba;\u00a0gap;\u00a0irtu;\u00a0pitru;\u00a0qab;qap;\u00a0tah2;\u00a0tu24;\u00a0tuh;\u00a0tuhu;\u00a0\u1e6dah2;\u00a0\u1e6duh;\u00a0\u1e6du5;"
+        "Values": " du8; dudda; duh; ga15; gab; gaba; gap; irtu; pitru; qab;qap; tah2; tu24; tuh; tuhu; ṭah2; ṭuh; ṭu5;"
     },
     "302": {
         "Borger": 302,
@@ -1215,17 +1215,17 @@
         "Hinke": "",
         "Huehnergard": 74,
         "Labat": 166,
-        "Labat name": "ka\u01612",
+        "Labat name": "kaš2",
         "Mittermayer": 271,
         "ORACC name": "/KASKAL ",
         "Ranke": "",
-        "Unicode": "U+1219C \ud808\udd9c",
+        "Unicode": "U+1219C 𒆜",
         "Unicode name": "KASKAL",
-        "Values": "\u00a0bu2;\u00a0bu\u0161;\u00a0dana2;\u00a0danna2;\u00a0e\u01618;\u00a0ir7;\u00a0i\u01612;\u00a0kas;\u00a0kasa;kaskal;\u00a0ka\u01612;\u00a0kaz0;\u00a0ras;\u00a0ra\u0161;\u00a0rin6;\u00a0\u0161ubtum\u2093;"
+        "Values": " bu2; buš; dana2; danna2; eš8; ir7; iš2; kas; kasa;kaskal; kaš2; kaz0; ras; raš; rin6; šubtumₓ;"
     },
     "309": {
         "Borger": 309,
-        "Borger name": "AM (GU4\u00d7KUR)",
+        "Borger name": "AM (GU4×KUR)",
         "Clay": "",
         "Deimel": 170,
         "HethZL": 168,
@@ -1234,11 +1234,11 @@
         "Labat": 170,
         "Labat name": "am",
         "Mittermayer": 119,
-        "ORACC name": "/GUD\u00d7KUR ",
+        "ORACC name": "/GUD×KUR ",
         "Ranke": "",
-        "Unicode": "U+12120 \ud808\udd20",
+        "Unicode": "U+12120 𒄠",
         "Unicode name": "GUD TIMES KUR",
-        "Values": "\u00a0adar2;\u00a0am;\u00a0ama2;\u00a0ildag3;"
+        "Values": " adar2; am; ama2; ildag3;"
     },
     "311": {
         "Borger": 311,
@@ -1253,13 +1253,13 @@
         "Mittermayer": 134,
         "ORACC name": "/UZU ",
         "Ranke": "",
-        "Unicode": "U+1235C \ud808\udf5c",
+        "Unicode": "U+1235C 𒍜",
         "Unicode name": "UZU",
-        "Values": "\u00a0\u0161er4;\u00a0\u0161eru;\u00a0\u0161ir4;\u00a0\u0161iram;\u00a0\u0161irim;\u00a0\u0161iru;\u00a0\u0161irum;\u00a0usu\u2093;\u00a0uzu;"
+        "Values": " šer4; šeru; šir4; širam; širim; širu; širum; usuₓ; uzu;"
     },
     "312": {
         "Borger": 312,
-        "Borger name": "B\u00cdL (GIBIL; NE\u00d7PAB, NE-\u0161e\u0161\u0161ig)",
+        "Borger name": "BÍL (GIBIL; NE×PAB, NE-šeššig)",
         "Clay": "",
         "Deimel": 173,
         "HethZL": 172,
@@ -1270,9 +1270,9 @@
         "Mittermayer": 117,
         "ORACC name": "/NE@s ",
         "Ranke": "",
-        "Unicode": "U+1224B \ud808\ude4b",
+        "Unicode": "U+1224B 𒉋",
         "Unicode name": "NE SHESHIG",
-        "Values": "\u00a0bel2;\u00a0bi5;\u00a0bil2;\u00a0ge10;\u00a0gi10;\u00a0gibil;\u00a0gibila;\u00a0ne8;\u00a0pel2;\u00a0pil2;"
+        "Values": " bel2; bi5; bil2; ge10; gi10; gibil; gibila; ne8; pel2; pil2;"
     },
     "313": {
         "Borger": 313,
@@ -1287,13 +1287,13 @@
         "Mittermayer": 116,
         "ORACC name": "/NE ",
         "Ranke": "",
-        "Unicode": "U+12248 \ud808\ude48",
+        "Unicode": "U+12248 𒉈",
         "Unicode name": "NE",
-        "Values": "\u00a0bar7;\u00a0bara\u2093;\u00a0be7;\u00a0bel;\u00a0bi2;\u00a0bil;\u00a0bila;\u00a0bili;\u00a0bir9;\u00a0de3;\u00a0di7;\u00a0didal\u2093;du17;\u00a0ge9;\u00a0gi9;\u00a0gibil4;\u00a0gir10;\u00a0gum3;\u00a0ibbi\u2093;\u00a0izi;\u00a0izu;\u00a0ku16;\u00a0kum2;\u00a0kun9;lam2;\u00a0lama2;\u00a0le9;\u00a0lem4;\u00a0li9;\u00a0lim4;\u00a0ne;\u00a0ni5;\u00a0nun\u2093;\u00a0pe5;\u00a0pel;\u00a0pi5;\u00a0pil;qum2;\u00a0\u0161ar\u2093;\u00a0\u0161e6;\u00a0\u0161eg6;\u00a0\u0161e\u014b6;\u00a0\u0161em\u2093;\u00a0\u1e63ah;\u00a0\u1e63eh2;\u00a0te4;\u00a0ti9;\u00a0\u1e6de3;\u00a0\u1e6di5;\u00a0zah;zi\u2093;"
+        "Values": " bar7; baraₓ; be7; bel; bi2; bil; bila; bili; bir9; de3; di7; didalₓ;du17; ge9; gi9; gibil4; gir10; gum3; ibbiₓ; izi; izu; ku16; kum2; kun9;lam2; lama2; le9; lem4; li9; lim4; ne; ni5; nunₓ; pe5; pel; pi5; pil;qum2; šarₓ; še6; šeg6; šeŋ6; šemₓ; ṣah; ṣeh2; te4; ti9; ṭe3; ṭi5; zah;ziₓ;"
     },
     "333": {
         "Borger": 333,
-        "Borger name": "N\u00cdNDA\u00d7 \u0160E.A.AN / \u0160\u00c1M",
+        "Borger name": "NÍNDA× ŠE.A.AN / ŠÁM",
         "Clay": "",
         "Deimel": 187,
         "HethZL": 123,
@@ -1302,11 +1302,11 @@
         "Labat": 187,
         "Labat name": "",
         "Mittermayer": 137,
-        "ORACC name": "/NINDA2\u00d7\u0160E ",
+        "ORACC name": "/NINDA2×ŠE ",
         "Ranke": "",
         "Unicode": "important codepoint missing",
         "Unicode name": "",
-        "Values": "\u00a0ag\u2093;\u00a0sa10;\u00a0sam2;\u00a0\u0161am2;"
+        "Values": " agₓ; sa10; sam2; šam2;"
     },
     "339": {
         "Borger": 339,
@@ -1321,13 +1321,13 @@
         "Mittermayer": 138,
         "ORACC name": "/GUM ",
         "Ranke": "",
-        "Unicode": "U+12123 \ud808\udd23",
+        "Unicode": "U+12123 𒄣",
         "Unicode name": "GUM",
-        "Values": "\u00a0gas2;\u00a0gaz2;\u00a0gu8;\u00a0gum;\u00a0kas6;\u00a0ku13;\u00a0kum;\u00a0kun3;\u00a0nag4;\u00a0naga4;na\u014ba4;\u00a0qu;\u00a0qum;\u00a0\u0161a9;\u00a0\u0161aqu3;"
+        "Values": " gas2; gaz2; gu8; gum; kas6; ku13; kum; kun3; nag4; naga4;naŋa4; qu; qum; ša9; šaqu3;"
     },
     "341": {
         "Borger": 341,
-        "Borger name": "\u00daR",
+        "Borger name": "ÚR",
         "Clay": "",
         "Deimel": 203,
         "HethZL": 124,
@@ -1338,13 +1338,13 @@
         "Mittermayer": 72,
         "ORACC name": "/UR2 ",
         "Ranke": "",
-        "Unicode": "U+1232B \ud808\udf2b",
+        "Unicode": "U+1232B 𒌫",
         "Unicode name": "UR2",
-        "Values": "\u00a0ur2;\u00a0uru8;"
+        "Values": " ur2; uru8;"
     },
     "348": {
         "Borger": 348,
-        "Borger name": "IL (AL\u00d7\u0160E)",
+        "Borger name": "IL (AL×ŠE)",
         "Clay": "",
         "Deimel": 205,
         "HethZL": 117,
@@ -1355,9 +1355,9 @@
         "Mittermayer": 78,
         "ORACC name": "/IL ",
         "Ranke": "",
-        "Unicode": "U+1214B \ud808\udd4b",
+        "Unicode": "U+1214B 𒅋",
         "Unicode name": "IL",
-        "Values": "\u00a0al9;\u00a0el2;\u00a0il;"
+        "Values": " al9; el2; il;"
     },
     "350": {
         "Borger": 350,
@@ -1372,26 +1372,26 @@
         "Mittermayer": "064, 197",
         "ORACC name": "/DU ",
         "Ranke": "",
-        "Unicode": "U+1207A \ud808\udc7a",
+        "Unicode": "U+1207A 𒁺",
         "Unicode name": "DU",
-        "Values": "\u00a0ar6;\u00a0ara6;\u00a0aragub;\u00a0de6;\u00a0di6;\u00a0du;\u00a0dul\u2093;\u00a0er10;\u00a0ge13;\u00a0gen;\u00a0gim6;gin;\u00a0gina\u2093;\u00a0gir7;\u00a0gub;\u00a0guba;\u00a0gubu;\u00a0gup;\u00a0\u014ben;\u00a0\u014bin;\u00a0\u014bim6;\u00a0im6;\u00a0ir10;ka\u01615;\u00a0kim6;\u00a0kin7;\u00a0ku\u2093;\u00a0kub;\u00a0kup;\u00a0kur\u2093;\u00a0lah6;\u00a0men3;\u00a0mi\u2093;\u00a0na\u2093;\u00a0qub;qup;\u00a0ra2;\u00a0re6;\u00a0ri6;\u00a0\u0161a4;\u00a0\u0161e13;\u00a0tu3;\u00a0tum2;\u00a0tuma2;\u00a0tumu2;\u00a0\u1e6du3;\u00a0ur8;"
+        "Values": " ar6; ara6; aragub; de6; di6; du; dulₓ; er10; ge13; gen; gim6;gin; ginaₓ; gir7; gub; guba; gubu; gup; ŋen; ŋin; ŋim6; im6; ir10;kaš5; kim6; kin7; kuₓ; kub; kup; kurₓ; lah6; men3; miₓ; naₓ; qub;qup; ra2; re6; ri6; ša4; še13; tu3; tum2; tuma2; tumu2; ṭu3; ur8;"
     },
     "353": {
         "Borger": 353,
-        "Borger name": "AN\u0160E (G\u00ccR\u00d7PA or G\u00ccR\u00d7\"TAB\")",
+        "Borger name": "ANŠE (GÌR×PA or GÌR×\"TAB\")",
         "Clay": "",
         "Deimel": 208,
         "HethZL": 302,
         "Hinke": "",
         "Huehnergard": 170,
         "Labat": 208,
-        "Labat name": "an\u0161e",
+        "Labat name": "anše",
         "Mittermayer": 292,
-        "ORACC name": "/AN\u0160E ",
+        "ORACC name": "/ANŠE ",
         "Ranke": "",
-        "Unicode": "U+12032 \ud808\udc32",
+        "Unicode": "U+12032 𒀲",
         "Unicode name": "ANSHE",
-        "Values": "\u00a0an\u0161e;\u00a0an\u0161e@d;\u00a0an\u0161i;\u00a0an\u0161u;\u00a0sumugan;\u00a0\u0161akan3;"
+        "Values": " anše; anše@d; anši; anšu; sumugan; šakan3;"
     },
     "354": {
         "Borger": 354,
@@ -1406,13 +1406,13 @@
         "Mittermayer": 75,
         "ORACC name": "/TUM ",
         "Ranke": "",
-        "Unicode": "U+12308 \ud808\udf08",
+        "Unicode": "U+12308 𒌈",
         "Unicode name": "TUM",
-        "Values": "\u00a0dam3;\u00a0du4;\u00a0dum;\u00a0eb2;\u00a0eger4;\u00a0egir4;\u00a0ep2;\u00a0ge\u0161kad\u2093;\u00a0gi\u0161kad\u2093;\u014be\u0161kad\u2093;\u00a0\u014bi\u0161kad\u2093;\u00a0ib2;\u00a0ip2;\u00a0ri;;;;\u00a0suri;\u00a0tam4;\u00a0tim2;\u00a0tu4;\u00a0tum;\u00a0\u1e6du4;\u1e6dum;"
+        "Values": " dam3; du4; dum; eb2; eger4; egir4; ep2; geškadₓ; giškadₓ;ŋeškadₓ; ŋiškadₓ; ib2; ip2; ri;;;; suri; tam4; tim2; tu4; tum; ṭu4;ṭum;"
     },
     "357": {
         "Borger": 357,
-        "Borger name": "I\u0160",
+        "Borger name": "IŠ",
         "Clay": "",
         "Deimel": 212,
         "HethZL": 151,
@@ -1421,11 +1421,11 @@
         "Labat": 212,
         "Labat name": "sahar",
         "Mittermayer": 162,
-        "ORACC name": "/I\u0160 ",
+        "ORACC name": "/IŠ ",
         "Ranke": "",
-        "Unicode": "U+12156 \ud808\udd56",
+        "Unicode": "U+12156 𒅖",
         "Unicode name": "ISH",
-        "Values": "\u00a0es5;\u00a0e\u016115;\u00a0is2;\u00a0isi;\u00a0isi\u0161;\u00a0i\u015b;\u00a0i\u0161;\u00a0i\u0161i;\u00a0i\u1e632;\u00a0iz2;\u00a0kukkuda2;\u00a0kukku\u0161;kukuda2;\u00a0ku\u01617;\u00a0mel;\u00a0mil;\u00a0mili;\u00a0milla;\u00a0sahar;\u00a0sahardub;\u00a0su\u0161\u2093;\u0161en6;\u00a0\u0161u\u01613;\u00a0ukum;"
+        "Values": " es5; eš15; is2; isi; isiš; iś; iš; iši; iṣ2; iz2; kukkuda2; kukkuš;kukuda2; kuš7; mel; mil; mili; milla; sahar; sahardub; sušₓ;šen6; šuš3; ukum;"
     },
     "358": {
         "Borger": 358,
@@ -1436,30 +1436,30 @@
         "Hinke": "",
         "Huehnergard": 64,
         "Labat": 214,
-        "Labat name": "ka\u0161",
+        "Labat name": "kaš",
         "Mittermayer": 79,
         "ORACC name": "/BI ",
         "Ranke": "",
-        "Unicode": "U+12049 \ud808\udc49",
+        "Unicode": "U+12049 𒁉",
         "Unicode name": "BI",
-        "Values": "\u00a0be2;\u00a0bi;\u00a0biz;\u00a0dug\u2093;\u00a0ebir\u2093;\u00a0epir2;\u00a0e\u0161emen5;\u00a0e\u0161emin5;\u00a0ga\u0161;hubur\u2093;\u00a0ka8;\u00a0kas2;\u00a0ka\u0161;\u00a0ka\u1e632;\u00a0pe2;\u00a0pi2;\u00a0sa18;\u00a0siris4;\u00a0su15;\u00a0\u0161a21;\u00a0\u0161u13;"
+        "Values": " be2; bi; biz; dugₓ; ebirₓ; epir2; ešemen5; ešemin5; gaš;huburₓ; ka8; kas2; kaš; kaṣ2; pe2; pi2; sa18; siris4; su15; ša21; šu13;"
     },
     "362": {
         "Borger": 362,
-        "Borger name": "\u0160IM",
+        "Borger name": "ŠIM",
         "Clay": "",
         "Deimel": 215,
         "HethZL": 154,
         "Hinke": "",
         "Huehnergard": 66,
         "Labat": 215,
-        "Labat name": "\u0161em",
+        "Labat name": "šem",
         "Mittermayer": 83,
-        "ORACC name": "/\u0160IM ",
+        "ORACC name": "/ŠIM ",
         "Ranke": "",
-        "Unicode": "U+122C6 \ud808\udec6",
+        "Unicode": "U+122C6 𒋆",
         "Unicode name": "SHIM",
-        "Values": "\u00a0asila2;\u00a0asilal2;\u00a0asilla2;\u00a0bappir2;\u00a0bappira2;\u00a0lumgi;\u00a0lunga;mud5;\u00a0mulug\u2093;\u00a0ningi;\u00a0nug\u2093;\u00a0nungi;\u00a0reg;\u00a0rek;\u00a0req;\u00a0rig;\u00a0rik;\u00a0riq;sem;\u00a0sim;\u00a0sira\u0161;\u00a0siris;\u00a0siri\u0161;\u00a0su20;\u00a0\u0161em;\u00a0\u0161embi2;\u00a0\u0161embizi;\u0161embizid;\u00a0\u0161embulug\u2093;\u00a0\u0161i6;\u00a0\u0161im;\u00a0\u0161imbi2;\u00a0\u0161imbizi;"
+        "Values": " asila2; asilal2; asilla2; bappir2; bappira2; lumgi; lunga;mud5; mulugₓ; ningi; nugₓ; nungi; reg; rek; req; rig; rik; riq;sem; sim; siraš; siris; siriš; su20; šem; šembi2; šembizi;šembizid; šembulugₓ; ši6; šim; šimbi2; šimbizi;"
     },
     "378": {
         "Borger": 378,
@@ -1472,11 +1472,11 @@
         "Labat": 228,
         "Labat name": "kib",
         "Mittermayer": 274,
-        "ORACC name": "/GI\u0160%GI\u0160 ",
+        "ORACC name": "/GIŠ%GIŠ ",
         "Ranke": "",
         "Unicode": "",
         "Unicode name": "",
-        "Values": "\u00a0adamin3;\u00a0adamen3;\u00a0puhrum;\u00a0alal3;\u00a0an2;\u00a0dara5;\u00a0dari5;daru5;\u00a0dur4;\u00a0duru4;\u00a0durum4;\u00a0hul3;\u00a0kib;\u00a0kip;\u00a0gib2;\u00a0gip2;\u00a0girri\u2093;\u00a0liri3;liru3;\u00a0lirum3;\u00a0qeb;\u00a0qep;\u00a0qib;\u00a0qip;\u00a0\u0161allur;\u00a0\u0161ennur;\u00a0tur4;\u00a0\u1e6dur4;\u00a0ul3;ulul;"
+        "Values": " adamin3; adamen3; puhrum; alal3; an2; dara5; dari5;daru5; dur4; duru4; durum4; hul3; kib; kip; gib2; gip2; girriₓ; liri3;liru3; lirum3; qeb; qep; qib; qip; šallur; šennur; tur4; ṭur4; ul3;ulul;"
     },
     "379": {
         "Borger": 379,
@@ -1491,9 +1491,9 @@
         "Mittermayer": 260,
         "ORACC name": "/KAK ",
         "Ranke": "",
-        "Unicode": "U+12195 \ud808\udd95",
+        "Unicode": "U+12195 𒆕",
         "Unicode name": "KAK",
-        "Values": "\u00a0ban4;\u00a0da3;\u00a0du3;\u00a0gag;\u00a0gak;\u00a0henbur;\u00a0ka15;\u00a0kak;\u00a0kal3;\u00a0kaq;ki7;\u00a0qa6;\u00a0qaq;\u00a0qi6;\u00a0re12;\u00a0ri12;\u00a0ru2;\u00a0tu20;\u00a0usan\u2093;\u00a0zar\u2093;"
+        "Values": " ban4; da3; du3; gag; gak; henbur; ka15; kak; kal3; kaq;ki7; qa6; qaq; qi6; re12; ri12; ru2; tu20; usanₓ; zarₓ;"
     },
     "380": {
         "Borger": 380,
@@ -1508,26 +1508,26 @@
         "Mittermayer": 261,
         "ORACC name": "/NI ",
         "Ranke": "",
-        "Unicode": "U+1224C \ud808\ude4c",
+        "Unicode": "U+1224C 𒉌",
         "Unicode name": "NI",
-        "Values": "\u00a0\u0161amnu;\u00a0\u02bea5;\u00a0be3;\u00a0bu16;\u00a0de\u2093;\u00a0dig;\u00a0digi;\u00a0dik;\u00a0diq;\u00a0gamar;\u00a0gub4;gur13;\u00a0ha\u2093;\u00a0i3;\u00a0ia3;\u00a0ili\u2093;\u00a0le2;\u00a0li2;\u00a0lib\u2093;\u00a0lid2;\u00a0mu5;\u00a0ne2;\u00a0ni;\u00a0sal3;\u00a0sar3;sul2;\u00a0su\u01612;\u00a0\u0161al3;\u00a0\u0161ar8;\u00a0\u1e63al;\u00a0tik2;\u00a0tiq2;\u00a0u\u2093;\u00a0ya3;\u00a0zagga;\u00a0za\u014ba;\u00a0zal;zala;\u00a0zalli;\u00a0zanga;\u00a0zar2;"
+        "Values": " šamnu; ʾa5; be3; bu16; deₓ; dig; digi; dik; diq; gamar; gub4;gur13; haₓ; i3; ia3; iliₓ; le2; li2; libₓ; lid2; mu5; ne2; ni; sal3; sar3;sul2; suš2; šal3; šar8; ṣal; tik2; tiq2; uₓ; ya3; zagga; zaŋa; zal;zala; zalli; zanga; zar2;"
     },
     "381": {
         "Borger": 381,
-        "Borger name": "U\u0160 (NITA)",
+        "Borger name": "UŠ (NITA)",
         "Clay": "",
         "Deimel": 211,
         "HethZL": 132,
         "Hinke": "",
         "Huehnergard": 51,
         "Labat": 211,
-        "Labat name": "gi\u01613",
+        "Labat name": "giš3",
         "Mittermayer": 68,
-        "ORACC name": "/U\u0160 ",
+        "ORACC name": "/UŠ ",
         "Ranke": "",
-        "Unicode": "U+12351 \ud808\udf51",
+        "Unicode": "U+12351 𒍑",
         "Unicode name": "USH",
-        "Values": "\u00a0ge\u01613;\u00a0gi\u01613;\u00a0guru\u0161\u2093;\u00a0\u014be\u01613;\u00a0\u014bi\u01613;\u00a0i\u016110;\u00a0me\u0161\u2093;\u00a0mi\u0161\u2093;\u00a0ned;\u00a0nid;ninta;\u00a0nintah;\u00a0nintahu;\u00a0net;\u00a0ne\u1e6d;\u00a0nit;\u00a0nita;\u00a0nitah;\u00a0nitahu;\u00a0nitta\u2093;ni\u1e6d;\u00a0unu8;\u00a0us2;\u00a0usa2;\u00a0usu2;\u00a0u\u015b;\u00a0u\u0161;\u00a0u\u1e632;\u00a0uz2;"
+        "Values": " geš3; giš3; gurušₓ; ŋeš3; ŋiš3; iš10; mešₓ; mišₓ; ned; nid;ninta; nintah; nintahu; net; neṭ; nit; nita; nitah; nitahu; nittaₓ;niṭ; unu8; us2; usa2; usu2; uś; uš; uṣ2; uz2;"
     },
     "385": {
         "Borger": 385,
@@ -1542,13 +1542,13 @@
         "Mittermayer": 262,
         "ORACC name": "/NI.UD ",
         "Ranke": "",
-        "Unicode": "U+1224C \ud808\ude4c & U+12313 \ud808\udf13",
+        "Unicode": "U+1224C 𒉌 & U+12313 𒌓",
         "Unicode name": "NI & UD",
-        "Values": "\u00a0abnu;\u00a0atum\u2093;\u00a0bar4;\u00a0dag3;\u00a0dak3;\u00a0daq3;\u00a0i4;\u00a0ia4;\u00a0na4;\u00a0tak3;taq3;\u00a0ya4;\u00a0za2;"
+        "Values": " abnu; atumₓ; bar4; dag3; dak3; daq3; i4; ia4; na4; tak3;taq3; ya4; za2;"
     },
     "437": {
         "Borger": 437,
-        "Borger name": "IR (GAG-gun\u00fb)",
+        "Borger name": "IR (GAG-gunû)",
         "Clay": "",
         "Deimel": 232,
         "HethZL": 77,
@@ -1559,13 +1559,13 @@
         "Mittermayer": 263,
         "ORACC name": "/IR ",
         "Ranke": "",
-        "Unicode": "U+12155 \ud808\udd55",
+        "Unicode": "U+12155 𒅕",
         "Unicode name": "IR",
-        "Values": "\u00a0ere\u0161u;\u00a0er;\u00a0ere14;\u00a0ere\u01613;\u00a0eri14;\u00a0ir;\u00a0ire14;\u00a0iri14;"
+        "Values": " erešu; er; ere14; ereš3; eri14; ir; ire14; iri14;"
     },
     "438": {
         "Borger": 438,
-        "Borger name": "DAG (P\u00c0R)",
+        "Borger name": "DAG (PÀR)",
         "Clay": "",
         "Deimel": 280,
         "HethZL": 243,
@@ -1576,9 +1576,9 @@
         "Mittermayer": 168,
         "ORACC name": "/DAG ",
         "Ranke": "",
-        "Unicode": "U+12056 \ud808\udc56",
+        "Unicode": "U+12056 𒁖",
         "Unicode name": "DAG",
-        "Values": "\u00a0bar3;\u00a0bara3;\u00a0barag2;\u00a0da8;\u00a0dag;\u00a0dak;\u00a0daq;\u00a0par3;\u00a0para3;\u00a0tag2;tak2;\u00a0taq2;\u00a0\u1e6dak;"
+        "Values": " bar3; bara3; barag2; da8; dag; dak; daq; par3; para3; tag2;tak2; taq2; ṭak;"
     },
     "464": {
         "Borger": 464,
@@ -1593,9 +1593,9 @@
         "Mittermayer": 143,
         "ORACC name": "/PA ",
         "Ranke": "",
-        "Unicode": "U+1227A \ud808\ude7a",
+        "Unicode": "U+1227A 𒉺",
         "Unicode name": "PA",
-        "Values": "\u00a0addir\u2093;\u00a0ari3;\u00a0aru;\u00a0ba2;\u00a0dur6;\u00a0duru6;\u00a0endur;\u00a0ge\u0161tara;\u00a0gidar;gidir\u2093;\u00a0gidri;\u00a0gidru;\u00a0gi\u0161turu;\u00a0\u014bedar;\u00a0\u014bedru;\u00a0\u014be\u0161turu;\u00a0\u014bidri;\u014bidru;\u00a0had;\u00a0hani\u01613;\u00a0has2;\u00a0ha\u1e632;\u00a0hat;\u00a0hata;\u00a0ha\u1e6d;\u00a0haz2;\u00a0hendur;hud;\u00a0kum\u2093;\u00a0kun2;\u00a0lar;\u00a0lu9;\u00a0lug2;\u00a0lu\u014b2;\u00a0lun;\u00a0ma\u01614;\u00a0midra;\u00a0mu6;mua;\u00a0muati;\u00a0muatu;\u00a0mudru;\u00a0munsub\u2093;\u00a0muwa;\u00a0muwati;\u00a0muya;muyati;\u00a0pa;\u00a0sag3;\u00a0sak3;\u00a0seg3;\u00a0si29;\u00a0sig3;\u00a0sigga2;\u00a0siqqa\u2093;\u00a0sullat2;\u0161ag3;\u00a0\u0161ullat2;\u00a0u\u2093;\u00a0ugula;\u00a0ugulu;\u00a0zag2;\u00a0zak2;\u00a0zaq2;"
+        "Values": " addirₓ; ari3; aru; ba2; dur6; duru6; endur; geštara; gidar;gidirₓ; gidri; gidru; gišturu; ŋedar; ŋedru; ŋešturu; ŋidri;ŋidru; had; haniš3; has2; haṣ2; hat; hata; haṭ; haz2; hendur;hud; kumₓ; kun2; lar; lu9; lug2; luŋ2; lun; maš4; midra; mu6;mua; muati; muatu; mudru; munsubₓ; muwa; muwati; muya;muyati; pa; sag3; sak3; seg3; si29; sig3; sigga2; siqqaₓ; sullat2;šag3; šullat2; uₓ; ugula; ugulu; zag2; zak2; zaq2;"
     },
     "468": {
         "Borger": 468,
@@ -1610,26 +1610,26 @@
         "Mittermayer": "",
         "ORACC name": "/PA.LU ",
         "Ranke": "",
-        "Unicode": "U+1227A \ud808\ude7a & U+121FB \ud808\uddfb",
+        "Unicode": "U+1227A 𒉺 & U+121FB 𒇻",
         "Unicode name": "PA & LU",
-        "Values": "\u00a0re\u02beu;\u00a0nuska2;\u00a0nusku2;\u00a0nu\u0161ka2;\u00a0nu\u0161ku2;\u00a0re\u02bee;\u00a0re\u02bei;\u00a0sap3;sib2;\u00a0siba;\u00a0sibad;\u00a0sip2;\u00a0sipa;\u00a0sipad;\u00a0\u0161ab5;\u00a0\u0161ap5;\u00a0zip3;"
+        "Values": " reʾu; nuska2; nusku2; nuška2; nušku2; reʾe; reʾi; sap3;sib2; siba; sibad; sip2; sipa; sipad; šab5; šap5; zip3;"
     },
     "469": {
         "Borger": 469,
-        "Borger name": "GI\u0160 (GE\u0160)",
+        "Borger name": "GIŠ (GEŠ)",
         "Clay": "",
         "Deimel": 296,
         "HethZL": 178,
         "Hinke": "",
         "Huehnergard": 75,
         "Labat": 296,
-        "Labat name": "gi\u0161",
+        "Labat name": "giš",
         "Mittermayer": 160,
-        "ORACC name": "/GI\u0160 ",
+        "ORACC name": "/GIŠ ",
         "Ranke": "",
-        "Unicode": "U+12111 \ud808\udd11",
+        "Unicode": "U+12111 𒄑",
         "Unicode name": "GISH",
-        "Values": "\u00a0i\u1e63u;\u00a0es;\u00a0e\u016119;\u00a0e\u1e63;\u00a0ez;\u00a0ge\u0161;\u00a0gez;\u00a0gis;\u00a0gi\u0161;\u00a0gi\u0161a;\u00a0gi\u1e63;\u00a0giz;\u014be\u0161;\u00a0\u014bi\u0161;\u00a0\u014bizzal\u2093;\u00a0is;\u00a0i\u01616;\u00a0i\u1e63;\u00a0iz;\u00a0kis2;\u00a0mi\u01613;\u00a0mu9;\u00a0nis2;\u00a0ne\u01612;\u00a0ni\u01612;"
+        "Values": " iṣu; es; eš19; eṣ; ez; geš; gez; gis; giš; giša; giṣ; giz;ŋeš; ŋiš; ŋizzalₓ; is; iš6; iṣ; iz; kis2; miš3; mu9; nis2; neš2; niš2;"
     },
     "472": {
         "Borger": 472,
@@ -1644,9 +1644,9 @@
         "Mittermayer": 118,
         "ORACC name": "/GUD ",
         "Ranke": "",
-        "Unicode": "U+1211E \ud808\udd1e",
+        "Unicode": "U+1211E 𒄞",
         "Unicode name": "GUD",
-        "Values": "\u00a0alpu;\u00a0alap;\u00a0bahar;\u00a0dapar;\u00a0dapara;\u00a0dipar;\u00a0e\u0161tub;\u00a0gadma;gar4;\u00a0gara4;\u00a0gidim7;\u00a0gu4;\u00a0gud;\u00a0gudma;\u00a0gudu;\u00a0gugarid;\u00a0gur\u2093;har2;\u00a0hara2;\u00a0kamu\u0161;\u00a0ku15;\u00a0ku\u0161dim;\u00a0ku\u0161gim;\u00a0ku\u0161um3;\u00a0lagab\u2093;qadma;\u00a0qudma\u2093;\u00a0ru\u0161ban;\u00a0ru\u0161pan;\u00a0\u0161u\u0161gim;\u00a0zeb3;\u00a0zib3;"
+        "Values": " alpu; alap; bahar; dapar; dapara; dipar; eštub; gadma;gar4; gara4; gidim7; gu4; gud; gudma; gudu; gugarid; gurₓ;har2; hara2; kamuš; ku15; kušdim; kušgim; kušum3; lagabₓ;qadma; qudmaₓ; rušban; rušpan; šušgim; zeb3; zib3;"
     },
     "474": {
         "Borger": 474,
@@ -1661,9 +1661,9 @@
         "Mittermayer": 108,
         "ORACC name": "/AL ",
         "Ranke": "",
-        "Unicode": "U+12020 \ud808\udc20",
+        "Unicode": "U+12020 𒀠",
         "Unicode name": "AL",
-        "Values": "\u00a0al;\u00a0ala3;\u00a0il10;\u00a0mah2;\u00a0maha2;"
+        "Values": " al; ala3; il10; mah2; maha2;"
     },
     "483": {
         "Borger": 483,
@@ -1678,13 +1678,13 @@
         "Mittermayer": 144,
         "ORACC name": "/MAR ",
         "Ranke": "",
-        "Unicode": "U+12225 \ud808\ude25",
+        "Unicode": "U+12225 𒈥",
         "Unicode name": "MAR",
-        "Values": "\u00a0gar7;\u00a0\u014bar7;\u00a0mar;\u00a0mara;\u00a0war2;"
+        "Values": " gar7; ŋar7; mar; mara; war2;"
     },
     "484": {
         "Borger": 484,
-        "Borger name": "KID (L\u00cdL)",
+        "Borger name": "KID (LÍL)",
         "Clay": "",
         "Deimel": 313,
         "HethZL": 194,
@@ -1695,43 +1695,43 @@
         "Mittermayer": 163,
         "ORACC name": "/KID ",
         "Ranke": "",
-        "Unicode": "U+121A4 \ud808\udda4",
+        "Unicode": "U+121A4 𒆤",
         "Unicode name": "KID",
-        "Values": "\u00a0bur6;\u00a0buru6;\u00a0ge2;\u00a0gi2;\u00a0gid;\u00a0git;\u00a0gub5;\u00a0gup5;\u00a0ke4;\u00a0ket;\u00a0ki4;kid;\u00a0kit;\u00a0ki\u1e6d;\u00a0kub4;\u00a0kup4;\u00a0lel2;\u00a0lil2;\u00a0lila2;\u00a0muru12;\u00a0qi5;\u00a0qid;\u00a0qit;\u00a0sah;seh2;\u00a0sih2;\u00a0suh4;\u00a0\u0161ah3;\u00a0\u0161ih2;\u00a0\u1e63ah2;"
+        "Values": " bur6; buru6; ge2; gi2; gid; git; gub5; gup5; ke4; ket; ki4;kid; kit; kiṭ; kub4; kup4; lel2; lil2; lila2; muru12; qi5; qid; qit; sah;seh2; sih2; suh4; šah3; ših2; ṣah2;"
     },
     "485": {
         "Borger": 485,
-        "Borger name": "\u0160ID (LAG)",
+        "Borger name": "ŠID (LAG)",
         "Clay": "",
         "Deimel": 314,
         "HethZL": 231,
         "Hinke": "",
         "Huehnergard": 87,
         "Labat": 314,
-        "Labat name": "\u0161ita5",
+        "Labat name": "šita5",
         "Mittermayer": "212; 207a",
-        "ORACC name": "/\u0160ID ",
+        "ORACC name": "/ŠID ",
         "Ranke": "",
-        "Unicode": "U+122C3 \ud808\udec3",
+        "Unicode": "U+122C3 𒋃",
         "Unicode name": "SHID",
-        "Values": "\u00a0ag3;\u00a0a\u014b3;\u00a0ak3;\u00a0aka3;\u00a0alal2;\u00a0alamu2;\u00a0almu2;\u00a0bisag2;\u00a0bisa\u014b2;bisan2;\u00a0dilib;\u00a0dim12;\u00a0elal2;\u00a0gir13;\u00a0gud9;\u00a0ka9;\u00a0kas7;\u00a0kid4;\u00a0kiri8;\u00a0la10;lag;\u00a0lak;\u00a0laka;\u00a0laq;\u00a0lik2;\u00a0liq2;\u00a0mer4;\u00a0nesag2;\u00a0nesa\u014b2;\u00a0nisag2;nisa\u014b2;\u00a0pa8;\u00a0pisag2;\u00a0pisa\u014b2;\u00a0pisan2;\u00a0sagga;\u00a0sa\u014ba8;\u00a0sa\u014b\u014ba;\u00a0sanga;sangu;\u00a0sid2;\u00a0sila11;\u00a0silag;\u00a0sila\u014b;\u00a0sin\u2093;\u00a0sit2;\u00a0sub\u2093;\u00a0\u0161anga;\u00a0\u0161e14;\u00a0\u0161ed;\u0161et;\u00a0\u0161id;\u00a0\u0161it;\u00a0\u0161ita5;\u00a0\u0161iti;\u00a0\u0161itim2;\u00a0\u0161i\u1e6d;\u00a0\u0161ub6;\u00a0\u0161utum\u2093;\u00a0\u0161ud4;\u00a0\u0161udum;te6;\u00a0tu14;\u00a0tuba3;\u00a0ubisag;\u00a0umbisag;\u00a0umbisa\u014b;\u00a0uttu2;\u00a0u\u1e6du2;\u00a0zadri;zadru;\u00a0zandar;\u00a0zandara;"
+        "Values": " ag3; aŋ3; ak3; aka3; alal2; alamu2; almu2; bisag2; bisaŋ2;bisan2; dilib; dim12; elal2; gir13; gud9; ka9; kas7; kid4; kiri8; la10;lag; lak; laka; laq; lik2; liq2; mer4; nesag2; nesaŋ2; nisag2;nisaŋ2; pa8; pisag2; pisaŋ2; pisan2; sagga; saŋa8; saŋŋa; sanga;sangu; sid2; sila11; silag; silaŋ; sinₓ; sit2; subₓ; šanga; še14; šed;šet; šid; šit; šita5; šiti; šitim2; šiṭ; šub6; šutumₓ; šud4; šudum;te6; tu14; tuba3; ubisag; umbisag; umbisaŋ; uttu2; uṭu2; zadri;zadru; zandar; zandara;"
     },
     "490": {
         "Borger": 490,
-        "Borger name": "\u00da",
+        "Borger name": "Ú",
         "Clay": "",
         "Deimel": 318,
         "HethZL": 195,
         "Hinke": "",
         "Huehnergard": 92,
         "Labat": 318,
-        "Labat name": "ku\u01613",
+        "Labat name": "kuš3",
         "Mittermayer": 146,
         "ORACC name": "/U2 ",
         "Ranke": "",
-        "Unicode": "U+12311 \ud808\udf11",
+        "Unicode": "U+12311 𒌑",
         "Unicode name": "U2",
-        "Values": "\u00a0ba6;\u00a0bu11;\u00a0hazabur;\u00a0kazab;\u00a0kazabu;\u00a0kazabur;\u00a0kazbi;\u00a0kazbu;kilibu;\u00a0ke\u0161\u2093;\u00a0ku\u01613;\u00a0ku\u0161um\u2093;\u00a0kuzbi;\u00a0kuzbu;\u00a0ma\u0161ammi;\u00a0ma\u0161\u0161am;mat \u0161ammi;\u00a0pu11;\u00a0sam;\u00a0\u0161am;\u00a0te\u0161bi;\u00a0u2;\u00a0uga\u2093;\u00a0wa3;\u00a0wu\u2093;"
+        "Values": " ba6; bu11; hazabur; kazab; kazabu; kazabur; kazbi; kazbu;kilibu; kešₓ; kuš3; kušumₓ; kuzbi; kuzbu; mašammi; maššam;mat šammi; pu11; sam; šam; tešbi; u2; ugaₓ; wa3; wuₓ;"
     },
     "491": {
         "Borger": 491,
@@ -1746,13 +1746,13 @@
         "Mittermayer": 201,
         "ORACC name": "/GA ",
         "Ranke": "",
-        "Unicode": "U+120B5 \ud808\udcb5",
+        "Unicode": "U+120B5 𒂵",
         "Unicode name": "GA",
-        "Values": "\u00a0ebir4;\u00a0epir4;\u00a0ga;\u00a0gar9;\u00a0gara9;\u00a0ge20;\u00a0gu11;\u00a0gur11;\u00a0ha7;\u00a0ka3;\u00a0kur15;qa2;\u00a0\u0161izbu;"
+        "Values": " ebir4; epir4; ga; gar9; gara9; ge20; gu11; gur11; ha7; ka3; kur15;qa2; šizbu;"
     },
     "494": {
         "Borger": 494,
-        "Borger name": "LU\u1e2a",
+        "Borger name": "LUḪ",
         "Clay": "",
         "Deimel": 321,
         "HethZL": 198,
@@ -1763,13 +1763,13 @@
         "Mittermayer": 196,
         "ORACC name": "/LUH ",
         "Ranke": "",
-        "Unicode": "U+1221B \ud808\ude1b",
+        "Unicode": "U+1221B 𒈛",
         "Unicode name": "LUH",
-        "Values": "\u00a0huluh;\u00a0lah3;\u00a0laha3;\u00a0lih3;\u00a0luh;\u00a0luhu;\u00a0nah;\u00a0rah;\u00a0rih;\u00a0ruh;subur2;\u00a0sugal7;\u00a0sukal;\u00a0sukkal;\u00a0\u0161ukal;\u00a0\u0161ukkal;"
+        "Values": " huluh; lah3; laha3; lih3; luh; luhu; nah; rah; rih; ruh;subur2; sugal7; sukal; sukkal; šukal; šukkal;"
     },
     "495": {
         "Borger": 495,
-        "Borger name": "\u00c9",
+        "Borger name": "É",
         "Clay": "",
         "Deimel": 324,
         "HethZL": 199,
@@ -1780,9 +1780,9 @@
         "Mittermayer": 107,
         "ORACC name": "/E2 ",
         "Ranke": "",
-        "Unicode": "U+1208D \ud808\udc8d",
+        "Unicode": "U+1208D 𒂍",
         "Unicode name": "E2",
-        "Values": "\u00a0\u02bea3;\u00a0a\u02be3;\u00a0a14;\u00a0b\u012btu;\u00a0bed;\u00a0bet;\u00a0betu;\u00a0bid;\u00a0bit;\u00a0biti;\u00a0bitu;\u00a0bi\u1e6d;\u00a0e2;e\u02be3;\u00a0iski;\u00a0pet;\u00a0pid;\u00a0pit;\u00a0pi\u1e6d;"
+        "Values": " ʾa3; aʾ3; a14; bītu; bed; bet; betu; bid; bit; biti; bitu; biṭ; e2;eʾ3; iski; pet; pid; pit; piṭ;"
     },
     "496": {
         "Borger": 496,
@@ -1797,9 +1797,9 @@
         "Mittermayer": 176,
         "ORACC name": "/KAL ",
         "Ranke": "",
-        "Unicode": "U+12197 \ud808\udd97",
+        "Unicode": "U+12197 𒆗",
         "Unicode name": "KAL",
-        "Values": "\u00a0dannu;\u00a0e\u1e6dlu;\u00a0alad2;\u00a0ba\u0161tum;\u00a0dan;\u00a0dana3;\u00a0dun6;\u00a0esi;\u00a0esig;e\u0161a\u2093;\u00a0gal9;\u00a0kal;\u00a0kala;\u00a0kalag;\u00a0kalaga;\u00a0kalga;\u00a0la6;\u00a0lab;\u00a0lala2;\u00a0lama3;lamar;\u00a0lamassu;\u00a0lamma;\u00a0lammar;\u00a0lap;\u00a0lib2;\u00a0lip2;\u00a0mir\u2093;\u00a0nir6;\u00a0qal4;rab4;\u00a0reb;\u00a0rep;\u00a0rib;\u00a0rip;\u00a0rub;\u00a0sa14;\u00a0sag8;\u00a0seg15;\u00a0si21;\u00a0sig15;\u00a0silim2;silima2;\u00a0sub\u2093;\u00a0sun7;\u00a0suna\u2093;\u00a0\u0161edu;\u00a0\u1e63ur\u1e63ub2;\u00a0tan;\u00a0tana;\u00a0\u1e6dan;\u00a0urrub2;ursub2;\u00a0zi8;\u00a0zurzub2;"
+        "Values": " dannu; eṭlu; alad2; baštum; dan; dana3; dun6; esi; esig;ešaₓ; gal9; kal; kala; kalag; kalaga; kalga; la6; lab; lala2; lama3;lamar; lamassu; lamma; lammar; lap; lib2; lip2; mirₓ; nir6; qal4;rab4; reb; rep; rib; rip; rub; sa14; sag8; seg15; si21; sig15; silim2;silima2; subₓ; sun7; sunaₓ; šedu; ṣurṣub2; tan; tana; ṭan; urrub2;ursub2; zi8; zurzub2;"
     },
     "498": {
         "Borger": 498,
@@ -1814,9 +1814,9 @@
         "Mittermayer": 167,
         "ORACC name": "/E ",
         "Ranke": "",
-        "Unicode": "U+1208A \ud808\udc8a",
+        "Unicode": "U+1208A 𒂊",
         "Unicode name": "E",
-        "Values": "\u00a0e;\u00a0eg2;\u00a0eki;\u00a0i15;\u00a0ig2;\u00a0\u0161uru\u2093;\u00a0yi3;"
+        "Values": " e; eg2; eki; i15; ig2; šuruₓ; yi3;"
     },
     "501": {
         "Borger": 501,
@@ -1833,7 +1833,7 @@
         "Ranke": "",
         "Unicode": "",
         "Unicode name": "",
-        "Values": "\u00a0kalam;\u00a0kalama;\u00a0kana\u014b;\u00a0kanam;\u00a0u12;\u00a0ug3;\u00a0uga3;\u00a0u\u014b3;\u00a0uku3;um\u2093;\u00a0un;\u00a0unu4;"
+        "Values": " kalam; kalama; kanaŋ; kanam; u12; ug3; uga3; uŋ3; uku3;umₓ; un; unu4;"
     },
     "502": {
         "Borger": 502,
@@ -1848,9 +1848,9 @@
         "Mittermayer": 148,
         "ORACC name": "/NUN&NUN ",
         "Ranke": "",
-        "Unicode": "U+1226A \ud808\ude6a",
+        "Unicode": "U+1226A 𒉪",
         "Unicode name": "NUN OVER NUN",
-        "Values": "\u00a0nar3;\u00a0nara\u2093;\u00a0nener\u2093;\u00a0ner;\u00a0ninir;\u00a0nir;\u00a0nira;\u00a0nur;\u00a0ri5;\u0161er7;\u00a0tir\u2093;"
+        "Values": " nar3; naraₓ; nenerₓ; ner; ninir; nir; nira; nur; ri5;šer7; tirₓ;"
     },
     "504": {
         "Borger": 504,
@@ -1865,13 +1865,13 @@
         "Mittermayer": 288,
         "ORACC name": "/UB ",
         "Ranke": "",
-        "Unicode": "U+12312 \ud808\udf12",
+        "Unicode": "U+12312 𒌒",
         "Unicode name": "UB",
-        "Values": "\u00a0ar2;\u00a0ara2;\u00a0ub;\u00a0uba;\u00a0ubda;\u00a0ubu2;\u00a0up;\u00a0war\u2093;"
+        "Values": " ar2; ara2; ub; uba; ubda; ubu2; up; warₓ;"
     },
     "507": {
         "Borger": 507,
-        "Borger name": "GI4 (GI-gun\u00fb)",
+        "Borger name": "GI4 (GI-gunû)",
         "Clay": "",
         "Deimel": 326,
         "HethZL": 234,
@@ -1882,9 +1882,9 @@
         "Mittermayer": 214,
         "ORACC name": "/GI4 ",
         "Ranke": "",
-        "Unicode": "U+12104 \ud808\udd04",
+        "Unicode": "U+12104 𒄄",
         "Unicode name": "GI4",
-        "Values": "\u00a0ga8;\u00a0gagri;\u00a0ge4;\u00a0gi4;\u00a0ki8;\u00a0qe4;\u00a0qi4;"
+        "Values": " ga8; gagri; ge4; gi4; ki8; qe4; qi4;"
     },
     "511": {
         "Borger": 511,
@@ -1899,13 +1899,13 @@
         "Mittermayer": 192,
         "ORACC name": "/RA ",
         "Ranke": "",
-        "Unicode": "U+1228F \ud808\ude8f",
+        "Unicode": "U+1228F 𒊏",
         "Unicode name": "RA",
-        "Values": "\u00a0ra;\u00a0rah2;"
+        "Values": " ra; rah2;"
     },
     "514": {
         "Borger": 514,
-        "Borger name": "L\u00da",
+        "Borger name": "LÚ",
         "Clay": "",
         "Deimel": 330,
         "HethZL": 78,
@@ -1916,26 +1916,26 @@
         "Mittermayer": 253,
         "ORACC name": "/LU2 ",
         "Ranke": "",
-        "Unicode": "U+121FD \ud808\uddfd",
+        "Unicode": "U+121FD 𒇽",
         "Unicode name": "LU2",
-        "Values": "\u00a0adda\u2093;\u00a0du\u2093;\u00a0giri\u2093;\u00a0lu2;\u00a0na6;\u00a0ruh2;\u00a0\u0161a11;\u00a0\u0161aga\u2093;\u00a0\u0161a\u014ba\u2093;"
+        "Values": " addaₓ; duₓ; giriₓ; lu2; na6; ruh2; ša11; šagaₓ; šaŋaₓ;"
     },
     "535": {
         "Borger": 535,
-        "Borger name": "\u0160E\u0160 (\u00d9RI)",
+        "Borger name": "ŠEŠ (ÙRI)",
         "Clay": "",
         "Deimel": 331,
         "HethZL": 79,
         "Hinke": "",
         "Huehnergard": 13,
         "Labat": 331,
-        "Labat name": "\u0161e\u0161",
+        "Labat name": "šeš",
         "Mittermayer": "021b",
-        "ORACC name": "/\u0160E\u0160 ",
+        "ORACC name": "/ŠEŠ ",
         "Ranke": "",
-        "Unicode": "U+122C0 \ud808\udec0",
+        "Unicode": "U+122C0 𒋀",
         "Unicode name": "SHESH",
-        "Values": "\u00a0ah2;\u00a0aha2;\u00a0ahi;\u00a0mun4;\u00a0mu\u01615;\u00a0nan;\u00a0sas;\u00a0ses;\u00a0sis;\u00a0si\u0161;\u00a0\u0161as;\u0161a\u0161;\u00a0\u0161a\u1e63;\u00a0\u0161e16;\u00a0\u0161es;\u00a0\u0161e\u1e63;\u00a0\u0161e\u0161;\u00a0\u0161i\u0161;\u00a0\u0161i\u1e63;\u00a0\u0161iz;\u00a0za\u2093;\u00a0zah\u2093; uri3;\u00a0urim\u2093;\u00a0urin;\u00a0uru3;\u00a0urun;"
+        "Values": " ah2; aha2; ahi; mun4; muš5; nan; sas; ses; sis; siš; šas;šaš; šaṣ; še16; šes; šeṣ; šeš; šiš; šiṣ; šiz; zaₓ; zahₓ; uri3; urimₓ; urin; uru3; urun;"
     },
     "540": {
         "Borger": 540,
@@ -1950,9 +1950,9 @@
         "Mittermayer": 206,
         "ORACC name": "/ZAG ",
         "Ranke": "",
-        "Unicode": "U+12360 \ud808\udf60",
+        "Unicode": "U+12360 𒍠",
         "Unicode name": "ZAG",
-        "Values": "\u00a0bute;\u00a0buti;\u00a0butu;\u00a0en7;\u00a0puta;\u00a0pute;\u00a0puti;\u00a0putu;\u00a0sa\u2093;\u00a0sak6;\u1e63ak;\u00a0za3;\u00a0zag;\u00a0zak;\u00a0zaq;\u00a0zik0;"
+        "Values": " bute; buti; butu; en7; puta; pute; puti; putu; saₓ; sak6;ṣak; za3; zag; zak; zaq; zik0;"
     },
     "541": {
         "Borger": 541,
@@ -1967,13 +1967,13 @@
         "Mittermayer": 385,
         "ORACC name": "/SAR ",
         "Ranke": "",
-        "Unicode": "U+122AC \ud808\udeac",
+        "Unicode": "U+122AC 𒊬",
         "Unicode name": "SAR",
-        "Values": "\u00a0kiri6;\u00a0ma4;\u00a0mu2;\u00a0mud6;\u00a0nisa\u2093;\u00a0nisi;\u00a0nisig;\u00a0nissa;\u00a0ni\u0161a;sahar2;\u00a0sakar;\u00a0sar;\u00a0sara;\u00a0sari\u2093;\u00a0se15;\u00a0si15;\u00a0sig\u2093;\u00a0\u015bar;\u00a0\u0161a8;\u00a0\u0161akar;\u0161ar;\u00a0\u0161ara7;\u00a0\u0161er9;\u00a0\u0161ir9;"
+        "Values": " kiri6; ma4; mu2; mud6; nisaₓ; nisi; nisig; nissa; niša;sahar2; sakar; sar; sara; sariₓ; se15; si15; sigₓ; śar; ša8; šakar;šar; šara7; šer9; šir9;"
     },
     "543": {
         "Borger": 543,
-        "Borger name": "G\u00c0R (QAR)",
+        "Borger name": "GÀR (QAR)",
         "Clay": "",
         "Deimel": 333,
         "HethZL": 240,
@@ -1984,13 +1984,13 @@
         "Mittermayer": 209,
         "ORACC name": "/GAR3 ",
         "Ranke": "",
-        "Unicode": "U+120FC \ud808\udcfc",
+        "Unicode": "U+120FC 𒃼",
         "Unicode name": "GAR3",
-        "Values": "\u00a0gar3;\u00a0gara3;\u00a0\u014bar3;\u00a0kar3;\u00a0qar;\u00a0qer5;"
+        "Values": " gar3; gara3; ŋar3; kar3; qar; qer5;"
     },
     "545": {
         "Borger": 545,
-        "Borger name": "M\u00daRU (MURUB4, NISAG; ITI-gun\u00fb)",
+        "Borger name": "MÚRU (MURUB4, NISAG; ITI-gunû)",
         "Clay": "",
         "Deimel": 337,
         "HethZL": 110,
@@ -2001,26 +2001,26 @@
         "Mittermayer": "207a/207b",
         "ORACC name": "/MURUB4 ",
         "Ranke": "",
-        "Unicode": "U+12318 \ud808\udf18",
+        "Unicode": "U+12318 𒌘",
         "Unicode name": "UD TIMES U PLUS U PLUS U GUNU",
-        "Values": "\u00a0mur2;\u00a0muri;\u00a0muru2;\u00a0murub4;"
+        "Values": " mur2; muri; muru2; murub4;"
     },
     "548": {
         "Borger": 548,
-        "Borger name": "\u00c1\u0160 (Z\u00cdZ)",
+        "Borger name": "ÁŠ (ZÍZ)",
         "Clay": "",
         "Deimel": 339,
         "HethZL": 241,
         "Hinke": "",
         "Huehnergard": 106,
         "Labat": 339,
-        "Labat name": "a\u01612",
+        "Labat name": "aš2",
         "Mittermayer": 211,
-        "ORACC name": "/A\u01602 ",
+        "ORACC name": "/AŠ2 ",
         "Ranke": "",
-        "Unicode": "U+1203E \ud808\udc3e",
+        "Unicode": "U+1203E 𒀾",
         "Unicode name": "ASH2",
-        "Values": "\u00a0as2;\u00a0asa2;\u00a0a\u015b;\u00a0a\u01612;\u00a0a\u0161a2;\u00a0a\u1e632;\u00a0az2;\u00a0bae\u0161;\u00a0bane\u0161;\u00a0da\u01613;\u00a0de\u0161\u0161u;ta\u01613;\u00a0ud2;\u00a0ude\u0161\u0161u;\u00a0ut2;\u00a0utu5;"
+        "Values": " as2; asa2; aś; aš2; aša2; aṣ2; az2; baeš; baneš; daš3; deššu;taš3; ud2; udeššu; ut2; utu5;"
     },
     "552": {
         "Borger": 552,
@@ -2035,9 +2035,9 @@
         "Mittermayer": 166,
         "ORACC name": "/MA ",
         "Ranke": "",
-        "Unicode": "U+12220 \ud808\ude20",
+        "Unicode": "U+12220 𒈠",
         "Unicode name": "MA",
-        "Values": "\u00a0ma;\u00a0pe\u01613;\u00a0pe\u0161\u0161e;\u00a0wa6;"
+        "Values": " ma; peš3; pešše; wa6;"
     },
     "553": {
         "Borger": 553,
@@ -2052,13 +2052,13 @@
         "Mittermayer": 213,
         "ORACC name": "/GAL ",
         "Ranke": "",
-        "Unicode": "U+120F2 \ud808\udcf2",
+        "Unicode": "U+120F2 𒃲",
         "Unicode name": "GAL",
-        "Values": "\u00a0gal;\u00a0gala8;\u00a0gale;\u00a0kal2;\u00a0qal;\u00a0rab2;\u00a0rap2;"
+        "Values": " gal; gala8; gale; kal2; qal; rab2; rap2;"
     },
     "554": {
         "Borger": 554,
-        "Borger name": "B\u00c1RA",
+        "Borger name": "BÁRA",
         "Clay": "",
         "Deimel": 344,
         "HethZL": 235,
@@ -2069,9 +2069,9 @@
         "Mittermayer": 217,
         "ORACC name": "/BARA2 ",
         "Ranke": "",
-        "Unicode": "U+12048 \ud808\udc48",
+        "Unicode": "U+12048 𒁈",
         "Unicode name": "BARA2",
-        "Values": "\u00a0bar2;\u00a0bara2;\u00a0barag;\u00a0par6;\u00a0para10;\u00a0parag;\u00a0\u0161a23;\u00a0\u0161ar6;\u00a0\u0161ara;"
+        "Values": " bar2; bara2; barag; par6; para10; parag; ša23; šar6; šara;"
     },
     "556": {
         "Borger": 556,
@@ -2088,28 +2088,28 @@
         "Ranke": "",
         "Unicode": "",
         "Unicode name": "",
-        "Values": "\u00a0aga;\u00a0agu;\u00a0ir17;\u00a0mer;\u00a0mere;\u00a0migir;\u00a0mir;\u00a0miri;\u00a0nigir;ni\u014bir;\u00a0nimgir;\u00a0nimir\u2093;\u00a0ten3;\u00a0tin3;\u00a0uku;"
+        "Values": " aga; agu; ir17; mer; mere; migir; mir; miri; nigir;niŋir; nimgir; nimirₓ; ten3; tin3; uku;"
     },
     "558": {
         "Borger": 558,
-        "Borger name": "GIR (\u1e2aA-gun\u00fb)",
+        "Borger name": "GIR (ḪA-gunû)",
         "Clay": "",
         "Deimel": 346,
         "HethZL": "244A",
         "Hinke": "",
         "Huehnergard": 110,
         "Labat": 346,
-        "Labat name": "pe\u0161",
+        "Labat name": "peš",
         "Mittermayer": 222,
         "ORACC name": "/HA@g ",
         "Ranke": "",
-        "Unicode": "U+1212B \ud808\udd2b",
+        "Unicode": "U+1212B 𒄫",
         "Unicode name": "HA GUNU",
-        "Values": "\u00a0bis2;\u00a0bi\u0161;\u00a0bu\u01612;\u00a0ger;\u00a0gir;\u00a0giri;\u00a0\u014bir;\u00a0\u014biri;\u00a0ha6;\u00a0kar4;\u00a0ker;kir;\u00a0kiri;\u00a0pes;\u00a0pe\u0161;\u00a0pis;\u00a0pi\u0161;\u00a0pi\u0161a;\u00a0pus;\u00a0pu\u01613;\u00a0qer;\u00a0qir;\u00a0qiri;\u00a0\u0161eg\u2093;"
+        "Values": " bis2; biš; buš2; ger; gir; giri; ŋir; ŋiri; ha6; kar4; ker;kir; kiri; pes; peš; pis; piš; piša; pus; puš3; qer; qir; qiri; šegₓ;"
     },
     "559": {
         "Borger": 559,
-        "Borger name": "BUR (N\u00cdG-gun\u00fb)",
+        "Borger name": "BUR (NÍG-gunû)",
         "Clay": "",
         "Deimel": 349,
         "HethZL": 245,
@@ -2120,13 +2120,13 @@
         "Mittermayer": 223,
         "ORACC name": "/BUR ",
         "Ranke": "",
-        "Unicode": "U+12053 \ud808\udc53",
+        "Unicode": "U+12053 𒁓",
         "Unicode name": "BUR",
-        "Values": "\u00a0bur;\u00a0buru;\u00a0lim\u2093;\u00a0pur;\u00a0puru;"
+        "Values": " bur; buru; limₓ; pur; puru;"
     },
     "560": {
         "Borger": 560,
-        "Borger name": "\u00c1",
+        "Borger name": "Á",
         "Clay": "",
         "Deimel": 334,
         "HethZL": 215,
@@ -2137,9 +2137,9 @@
         "Mittermayer": 230,
         "ORACC name": "/A2 ",
         "Ranke": "",
-        "Unicode": "U+12009 \ud808\udc09",
+        "Unicode": "U+12009 𒀉",
         "Unicode name": "A2",
-        "Values": "\u00a0a2;\u00a0ah5;\u00a0ahi2;\u00a0ed;\u00a0et;\u00a0e\u1e6d;\u00a0id;\u00a0idi2;\u00a0it;\u00a0i\u1e6d;\u00a0te8;\u00a0ti8;"
+        "Values": " a2; ah5; ahi2; ed; et; eṭ; id; idi2; it; iṭ; te8; ti8;"
     },
     "561": {
         "Borger": 561,
@@ -2154,43 +2154,43 @@
         "Mittermayer": 229,
         "ORACC name": "/DA ",
         "Ranke": "",
-        "Unicode": "U+12055 \ud808\udc55",
+        "Unicode": "U+12055 𒁕",
         "Unicode name": "DA",
-        "Values": "\u00a0a\u2093;\u00a0da;\u00a0di\u2093;\u00a0du20;\u00a0idi3;\u00a0le10;\u00a0li10;\u00a0qab3;\u00a0ta2;\u00a0\u1e6da;"
+        "Values": " aₓ; da; diₓ; du20; idi3; le10; li10; qab3; ta2; ṭa;"
     },
     "566": {
         "Borger": 566,
-        "Borger name": "\u0160A",
+        "Borger name": "ŠA",
         "Clay": "",
         "Deimel": 353,
         "HethZL": 158,
         "Hinke": "",
         "Huehnergard": 115,
         "Labat": 353,
-        "Labat name": "\u0161a",
+        "Labat name": "ša",
         "Mittermayer": 203,
-        "ORACC name": "/\u0160A ",
+        "ORACC name": "/ŠA ",
         "Ranke": "",
-        "Unicode": "U+122AD \ud808\udead",
+        "Unicode": "U+122AD 𒊭",
         "Unicode name": "SHA",
-        "Values": "\u00a0ara;\u00a0en8;\u00a0li5;\u00a0na5;\u00a0sa20;\u00a0\u0161a;\u00a0zur8;"
+        "Values": " ara; en8; li5; na5; sa20; ša; zur8;"
     },
     "567": {
         "Borger": 567,
-        "Borger name": "\u0160U",
+        "Borger name": "ŠU",
         "Clay": "",
         "Deimel": 354,
         "HethZL": 68,
         "Hinke": "",
         "Huehnergard": 9,
         "Labat": 354,
-        "Labat name": "\u0161u",
+        "Labat name": "šu",
         "Mittermayer": 225,
-        "ORACC name": "/\u0160U ",
+        "ORACC name": "/ŠU ",
         "Ranke": "",
-        "Unicode": "U+122D7 \ud808\uded7",
+        "Unicode": "U+122D7 𒋗",
         "Unicode name": "SHU",
-        "Values": "\u00a0kat7;\u00a0qad;\u00a0qat;\u00a0qata;\u00a0sagi\u2093;\u00a0\u0161u;\u00a01(\u0161u);\u00a01(\u0161u@c);"
+        "Values": " kat7; qad; qat; qata; sagiₓ; šu; 1(šu); 1(šu@c);"
     },
     "571": {
         "Borger": 571,
@@ -2201,13 +2201,13 @@
         "Hinke": "",
         "Huehnergard": 186,
         "Labat": 356,
-        "Labat name": "gi\u0161immar",
+        "Labat name": "gišimmar",
         "Mittermayer": 228,
-        "ORACC name": "/\u0160A6 ",
+        "ORACC name": "/ŠA6 ",
         "Ranke": "",
-        "Unicode": "U+122B7 \ud808\udeb7",
+        "Unicode": "U+122B7 𒊷",
         "Unicode name": "SHA6 (bad!)",
-        "Values": "\u00a0a10;\u00a0ge\u0161immar;\u00a0ge\u0161nimbar;\u00a0gi\u0161immar;\u00a0\u014be\u0161immar;\u014be\u0161nimbar;\u00a0\u014bi\u0161immar;\u00a0\u014bi\u0161nimbar;\u00a0had3;\u00a0hud4;\u00a0nimbar;\u00a0pa9;\u00a0sa6;sag9;\u00a0seg6;\u00a0sig6;\u00a0\u0161a6;\u00a0\u0161ag5;"
+        "Values": " a10; gešimmar; gešnimbar; gišimmar; ŋešimmar;ŋešnimbar; ŋišimmar; ŋišnimbar; had3; hud4; nimbar; pa9; sa6;sag9; seg6; sig6; ša6; šag5;"
     },
     "578": {
         "Borger": 578,
@@ -2222,30 +2222,30 @@
         "Mittermayer": 369,
         "ORACC name": "/KUR ",
         "Ranke": "",
-        "Unicode": "U+121B3 \ud808\uddb3",
+        "Unicode": "U+121B3 𒆳",
         "Unicode name": "KUR",
-        "Values": "\u00a0amma;\u00a0anubu;\u00a0ge21;\u00a0gen3;\u00a0gin3;\u00a0gina3;\u00a0gur16;\u00a0kin3;\u00a0kur;lad;\u00a0lat;\u00a0lata;\u00a0la\u1e6d;\u00a0mad;\u00a0mak0;\u00a0mat;\u00a0ma\u1e6d;\u00a0nad;\u00a0nat;\u00a0nata;\u00a0qur2;raman;\u00a0ramanu;\u00a0rammanu;\u00a0ra\u0161u;\u00a0razu;\u00a0sad;\u00a0sat;\u00a0sata;\u00a0\u0161ad;\u0161ada;\u00a0\u0161adi;\u00a0\u0161adu;\u00a0\u0161ahan;\u00a0\u0161at;\u00a0\u0161ata;\u00a0\u0161a\u1e6d;\u00a0zizanu;"
+        "Values": " amma; anubu; ge21; gen3; gin3; gina3; gur16; kin3; kur;lad; lat; lata; laṭ; mad; mak0; mat; maṭ; nad; nat; nata; qur2;raman; ramanu; rammanu; rašu; razu; sad; sat; sata; šad;šada; šadi; šadu; šahan; šat; šata; šaṭ; zizanu;"
     },
     "579": {
         "Borger": 579,
-        "Borger name": "\u0160E",
+        "Borger name": "ŠE",
         "Clay": "",
         "Deimel": 367,
         "HethZL": 338,
         "Hinke": "",
         "Huehnergard": 138,
         "Labat": 367,
-        "Labat name": "\u0161e",
+        "Labat name": "še",
         "Mittermayer": 378,
-        "ORACC name": "/\u0160E ",
+        "ORACC name": "/ŠE ",
         "Ranke": "",
-        "Unicode": "U+122BA \ud808\udeba",
+        "Unicode": "U+122BA 𒊺",
         "Unicode name": "SHE",
-        "Values": "\u00a0a\u0161nan2;\u00a0nig\u2093;\u00a0niga;\u00a0nigan;\u00a0nigu;\u00a0sag\u2093;\u00a0\u0161e;\u00a0u20;"
+        "Values": " ašnan2; nigₓ; niga; nigan; nigu; sagₓ; še; u20;"
     },
     "580": {
         "Borger": 580,
-        "Borger name": "BU (G\u00cdD)",
+        "Borger name": "BU (GÍD)",
         "Clay": "",
         "Deimel": 371,
         "HethZL": 339,
@@ -2256,9 +2256,9 @@
         "Mittermayer": 265,
         "ORACC name": "/BU ",
         "Ranke": "",
-        "Unicode": "U+1204D \ud808\udc4d",
+        "Unicode": "U+1204D 𒁍",
         "Unicode name": "BU",
-        "Values": "\u00a0bu;\u00a0bur12;\u00a0dim13;\u00a0dul10;\u00a0dur7;\u00a0gazibu;\u00a0gazimbi;\u00a0gazinbi;gazinbu;\u00a0gi27;\u00a0gid2;\u00a0gida2;\u00a0gidi3;\u00a0gidim3;\u00a0gim7;\u00a0git2;\u00a0gi\u1e6d2;\u00a0guz2;ildum\u2093;\u00a0kid10;\u00a0kim3;\u00a0kit10;\u00a0madal;\u00a0madla;\u00a0madlu;\u00a0malla;\u00a0mudla;mudlu;\u00a0mudra3;\u00a0mudru3;\u00a0mudul;\u00a0mulla;\u00a0mullu;\u00a0nun3;\u00a0pi8;\u00a0pu;qid2;\u00a0qit2;\u00a0ra5;\u00a0ser2;\u00a0si\u2093;\u00a0sir2;\u00a0su13;\u00a0sud4;\u00a0sug\u2093;\u00a0sur\u2093;\u00a0su\u01613;\u00a0\u0161a\u0161ki;\u0161a\u0161ku;\u00a0\u0161er2;\u00a0\u0161ir2;\u00a0\u0161ud2;\u00a0tur8;"
+        "Values": " bu; bur12; dim13; dul10; dur7; gazibu; gazimbi; gazinbi;gazinbu; gi27; gid2; gida2; gidi3; gidim3; gim7; git2; giṭ2; guz2;ildumₓ; kid10; kim3; kit10; madal; madla; madlu; malla; mudla;mudlu; mudra3; mudru3; mudul; mulla; mullu; nun3; pi8; pu;qid2; qit2; ra5; ser2; siₓ; sir2; su13; sud4; sugₓ; surₓ; suš3; šaški;šašku; šer2; šir2; šud2; tur8;"
     },
     "583": {
         "Borger": 583,
@@ -2271,28 +2271,28 @@
         "Labat": "",
         "Labat name": "",
         "Mittermayer": 379,
-        "ORACC name": "/\u0160E.HU ",
+        "ORACC name": "/ŠE.HU ",
         "Ranke": "",
-        "Unicode": "U+122BA \ud808\udeba & U+12137 \ud808\udd37",
+        "Unicode": "U+122BA 𒊺 & U+12137 𒄷",
         "Unicode name": "SHE & HU",
-        "Values": "\u00a0bazbaz\u2093;\u00a0us;\u00a0u\u016110;\u00a0u\u1e63;\u00a0uz;\u00a0uza;\u00a0uzu3;"
+        "Values": " bazbazₓ; us; uš10; uṣ; uz; uza; uzu3;"
     },
     "585": {
         "Borger": 585,
-        "Borger name": "MU\u0160",
+        "Borger name": "MUŠ",
         "Clay": "",
         "Deimel": 374,
         "HethZL": 342,
         "Hinke": "",
         "Huehnergard": 140,
         "Labat": 374,
-        "Labat name": "mu\u0161",
+        "Labat name": "muš",
         "Mittermayer": 267,
-        "ORACC name": "/MU\u0160 ",
+        "ORACC name": "/MUŠ ",
         "Ranke": "",
-        "Unicode": "U+12232 \ud808\ude32",
+        "Unicode": "U+12232 𒈲",
         "Unicode name": "MUSH",
-        "Values": "\u00a0imdudu;\u00a0irhan;\u00a0mus;\u00a0mu\u0161;\u00a0muz;\u00a0nerah;\u00a0nirah;\u00a0sahan;\u0161ahan2;\u00a0\u0161er10;\u00a0\u0161erah;\u00a0\u0161ir10;\u00a0\u0161uba\u2093;\u00a0\u1e63er;\u00a0\u1e63ir;\u00a0\u1e63ur2;\u00a0wu\u0161;\u00a0uludi;uluki;\u00a0zer3;\u00a0zir3;"
+        "Values": " imdudu; irhan; mus; muš; muz; nerah; nirah; sahan;šahan2; šer10; šerah; šir10; šubaₓ; ṣer; ṣir; ṣur2; wuš; uludi;uluki; zer3; zir3;"
     },
     "587": {
         "Borger": 587,
@@ -2305,11 +2305,11 @@
         "Labat": 375,
         "Labat name": "tir",
         "Mittermayer": 380,
-        "ORACC name": "/\u0160E.NUN&NUN ",
+        "ORACC name": "/ŠE.NUN&NUN ",
         "Ranke": "",
-        "Unicode": "U+12301 \ud808\udf01",
+        "Unicode": "U+12301 𒌁",
         "Unicode name": "TIR",
-        "Values": "\u00a0dir4;\u00a0ezina3;\u00a0ezinu3;\u00a0gamun2;\u00a0ninni8;\u00a0pana\u2093;qi\u0161at;\u00a0\u0161abu;\u00a0\u0161e15;\u00a0ter;\u00a0\u1e6der5;\u00a0tir;\u00a0\u1e6dir5;"
+        "Values": " dir4; ezina3; ezinu3; gamun2; ninni8; panaₓ;qišat; šabu; še15; ter; ṭer5; tir; ṭir5;"
     },
     "589": {
         "Borger": 589,
@@ -2324,9 +2324,9 @@
         "Mittermayer": 289,
         "ORACC name": "/TE ",
         "Ranke": "",
-        "Unicode": "U+122FC \ud808\udefc",
+        "Unicode": "U+122FC 𒋼",
         "Unicode name": "TE",
-        "Values": "\u00a0de4;\u00a0di12;\u00a0gal5;\u00a0galla\u2093;\u00a0gul3;\u00a0mul2;\u00a0te;\u00a0teg3;\u00a0te\u014b3;\u00a0tem\u2093;\u00a0temen;temenna\u2093;\u00a0ten;\u00a0ti7;\u00a0\u1e6de4;\u00a0\u1e6di4;\u00a0unu\u2093;"
+        "Values": " de4; di12; gal5; gallaₓ; gul3; mul2; te; teg3; teŋ3; temₓ; temen;temennaₓ; ten; ti7; ṭe4; ṭi4; unuₓ;"
     },
     "590": {
         "Borger": 590,
@@ -2341,9 +2341,9 @@
         "Mittermayer": 290,
         "ORACC name": "/TE.A ",
         "Ranke": "",
-        "Unicode": "U+122FC \ud808\udefc & U+12000 \ud808\udc00",
+        "Unicode": "U+122FC 𒋼 & U+12000 𒀀",
         "Unicode name": "TE & A",
-        "Values": "\u00a0gar14;\u00a0ka11;\u00a0kar;\u00a0kara;\u00a0kir8;\u00a0qar2;"
+        "Values": " gar14; ka11; kar; kara; kir8; qar2;"
     },
     "596": {
         "Borger": 596,
@@ -2358,9 +2358,9 @@
         "Mittermayer": 332,
         "ORACC name": "/UD ",
         "Ranke": "",
-        "Unicode": "U+12313 \ud808\udf13",
+        "Unicode": "U+12313 𒌓",
         "Unicode name": "UD",
-        "Values": "\u00a0a12;\u00a0ah3;\u00a0w\u0101\u1e63it;\u00a0m\u0101\u1e63it;\u00a0\u1e63\u012btu;\u00a0al5;\u00a0amna;\u00a0ara7;\u00a0aya\u2093;\u00a0bab2;babar;\u00a0babbar;\u00a0bar6;\u00a0bara\u2093;\u00a0ber2;\u00a0be\u016112;\u00a0bir2;\u00a0da7;\u00a0dag2;\u00a0dam2;\u00a0e8;gal8;\u00a0ha5;\u00a0had2;\u00a0hada2;\u00a0ha\u01613;\u00a0he\u0161;\u00a0his;\u00a0hi\u0161;\u00a0hud2;\u00a0kum4;\u00a0la7;\u00a0lah;lih;\u00a0luh\u2093;\u00a0par;\u00a0para;\u00a0per;\u00a0pe\u016112;\u00a0pir;\u00a0pirig2;\u00a0piri\u014b2;\u00a0ra3;\u00a0sa16;\u00a0salah;siki2;\u00a0\u0161ama\u0161;\u00a0\u0161arag;\u00a0ta5;\u00a0tam;\u00a0tama;\u00a0tu2;\u00a0\u1e6dam2;\u00a0u4;\u00a0ud;\u00a0ug4;\u00a0ul6;um2;\u00a0un5;\u00a0ut;\u00a0uta;\u00a0utu;\u00a0u\u1e6d;\u00a0zala\u2093;\u00a0zalag;\u00a0zalaga;\u00a0zalah;\u00a0zalaqa\u2093;"
+        "Values": " a12; ah3; wāṣit; māṣit; ṣītu; al5; amna; ara7; ayaₓ; bab2;babar; babbar; bar6; baraₓ; ber2; beš12; bir2; da7; dag2; dam2; e8;gal8; ha5; had2; hada2; haš3; heš; his; hiš; hud2; kum4; la7; lah;lih; luhₓ; par; para; per; peš12; pir; pirig2; piriŋ2; ra3; sa16; salah;siki2; šamaš; šarag; ta5; tam; tama; tu2; ṭam2; u4; ud; ug4; ul6;um2; un5; ut; uta; utu; uṭ; zalaₓ; zalag; zalaga; zalah; zalaqaₓ;"
     },
     "598": {
         "Borger": 598,
@@ -2375,30 +2375,30 @@
         "Mittermayer": 370,
         "ORACC name": "/PI ",
         "Ranke": "",
-        "Unicode": "U+1227F \ud808\ude7f",
+        "Unicode": "U+1227F 𒉿",
         "Unicode name": "PI",
-        "Values": "\u00a0a3;\u00a0am7;\u00a0aw;\u00a0ba\u2093;\u00a0be6;\u00a0bi3;\u00a0bu\u2093;\u00a0da\u2093;\u00a0e\u2093;\u00a0ew;\u00a0geltan;\u00a0ge\u0161du;ge\u0161tu;\u00a0ge\u0161tug;\u00a0ge\u0161tunu\u2093;\u00a0gi\u0161du;\u00a0gi\u0161tu;\u00a0gi\u0161tug;\u00a0gi\u0161tunu\u2093;\u00a0\u014bestug;\u014be\u0161du;\u00a0\u014be\u0161tu;\u00a0\u014be\u0161tug;\u00a0\u014bistug;\u00a0\u014bi\u0161du;\u00a0\u014bi\u0161tu;\u00a0\u014bi\u0161tug;\u00a0i16;\u00a0ia8;\u00a0iu2;iw;\u00a0ma9;\u00a0me8;\u00a0me\u0161tunu\u2093;\u00a0mi5;\u00a0mi\u0161tunu\u2093;\u00a0mu\u0161tu;\u00a0mu\u0161tug;\u00a0neda;pa12;\u00a0pe;\u00a0pi;\u00a0ta7;\u00a0tal2;\u00a0tala2;\u00a0til7;\u00a0u17;\u00a0u\u0161tu;\u00a0u\u0161tug;\u00a0uw;\u00a0wa;\u00a0we;wi;\u00a0wu;\u00a0ya;\u00a0ye;\u00a0yi;\u00a0yu;"
+        "Values": " a3; am7; aw; baₓ; be6; bi3; buₓ; daₓ; eₓ; ew; geltan; gešdu;geštu; geštug; geštunuₓ; gišdu; gištu; gištug; gištunuₓ; ŋestug;ŋešdu; ŋeštu; ŋeštug; ŋistug; ŋišdu; ŋištu; ŋištug; i16; ia8; iu2;iw; ma9; me8; meštunuₓ; mi5; mištunuₓ; muštu; muštug; neda;pa12; pe; pi; ta7; tal2; tala2; til7; u17; uštu; uštug; uw; wa; we;wi; wu; ya; ye; yi; yu;"
     },
     "599": {
         "Borger": 599,
-        "Borger name": "\u0160\u00c0 (\u0160AG4)",
+        "Borger name": "ŠÀ (ŠAG4)",
         "Clay": "",
         "Deimel": 384,
         "HethZL": 294,
         "Hinke": "",
         "Huehnergard": 163,
         "Labat": 384,
-        "Labat name": "\u0161a3",
+        "Labat name": "ša3",
         "Mittermayer": 433,
-        "ORACC name": "/\u0160A3 ",
+        "ORACC name": "/ŠA3 ",
         "Ranke": "",
-        "Unicode": "U+122AE \ud808\udeae",
+        "Unicode": "U+122AE 𒊮",
         "Unicode name": "SHA3",
-        "Values": "\u00a0didala;\u00a0lib3;\u00a0lip3;\u00a0pe\u0161\u2093;\u00a0sa19;\u00a0\u0161a3;\u00a0\u0161ab2;\u00a0\u0161ag4;\u00a0\u0161alambi;"
+        "Values": " didala; lib3; lip3; pešₓ; sa19; ša3; šab2; šag4; šalambi;"
     },
     "611": {
         "Borger": 611,
-        "Borger name": "\u00da\u1e2a (UD.K\u00da\u0160U)",
+        "Borger name": "ÚḪ (UD.KÚŠU)",
         "Clay": "",
         "Deimel": 392,
         "HethZL": "",
@@ -2407,15 +2407,15 @@
         "Labat": 392,
         "Labat name": "uh2",
         "Mittermayer": 333,
-        "ORACC name": "/UD.KU\u0160U2 ",
+        "ORACC name": "/UD.KUŠU2 ",
         "Ranke": "",
-        "Unicode": "U+12314 \ud808\udf14",
+        "Unicode": "U+12314 𒌔",
         "Unicode name": "UD KUSHU2",
-        "Values": "\u00a0ah6;\u00a0ak\u0161ak;\u00a0garu;\u00a0huya;\u00a0ke\u016118;\u00a0ke\u0161i18;\u00a0kua2;\u00a0kuia;ku\u0161a\u2093;\u00a0ku\u0161u3;\u00a0kuwa2;\u00a0kuya2;\u00a0u\u02be4;\u00a0uh2;\u00a0uhu2;"
+        "Values": " ah6; akšak; garu; huya; keš18; keši18; kua2; kuia;kušaₓ; kušu3; kuwa2; kuya2; uʾ4; uh2; uhu2;"
     },
     "612": {
         "Borger": 612,
-        "Borger name": "ERIM (Z\u00c1LAG)",
+        "Borger name": "ERIM (ZÁLAG)",
         "Clay": "",
         "Deimel": 393,
         "HethZL": 327,
@@ -2426,13 +2426,13 @@
         "Mittermayer": 247,
         "ORACC name": "/ERIN2 ",
         "Ranke": "",
-        "Unicode": "U+1209F \ud808\udc9f",
+        "Unicode": "U+1209F 𒂟",
         "Unicode name": "ERIN2",
-        "Values": "\u00a0\u1e63ab;\u00a0\u1e63\u0101bu;\u00a0bir3;\u00a0erem;\u00a0eren2;\u00a0erena2;\u00a0erim;\u00a0erin2;\u00a0erina2;hi\u01613;\u00a0lah2;\u00a0lih2;\u00a0nura;\u00a0nuri;\u00a0nuru;\u00a0par5;\u00a0per2;\u00a0pir2;\u00a0rin2;\u00a0rina2;sap2;\u00a0sur\u2093;\u00a0\u1e63ab;\u00a0\u1e63ap;\u00a0\u1e63apa;\u00a0tam5;\u00a0uda\u2093;\u00a0zab;\u00a0zalag2;\u00a0zap;"
+        "Values": " ṣab; ṣābu; bir3; erem; eren2; erena2; erim; erin2; erina2;hiš3; lah2; lih2; nura; nuri; nuru; par5; per2; pir2; rin2; rina2;sap2; surₓ; ṣab; ṣap; ṣapa; tam5; udaₓ; zab; zalag2; zap;"
     },
     "631": {
         "Borger": 631,
-        "Borger name": "\u1e2aI (D\u00d9G)",
+        "Borger name": "ḪI (DÙG)",
         "Clay": "",
         "Deimel": 396,
         "HethZL": 335,
@@ -2443,13 +2443,13 @@
         "Mittermayer": 277,
         "ORACC name": "/HI ",
         "Ranke": "",
-        "Unicode": "U+1212D \ud808\udd2d",
+        "Unicode": "U+1212D 𒄭",
         "Unicode name": "HI",
-        "Values": "\u00a0\u02bei3;\u00a0da10;\u00a0dab3;\u00a0de8;\u00a0di2;\u00a0du10;\u00a0dub3;\u00a0dug3;\u00a0dugu;\u00a0ha4;\u00a0he;\u00a0hi;i11;\u00a0kugu;\u00a0mu\u2093;\u00a0ta8;\u00a0te2;\u00a0ti2;\u00a0\u1e6da3;\u00a0\u1e6dab6;\u00a0\u1e6de2;\u00a0\u1e6di2;"
+        "Values": " ʾi3; da10; dab3; de8; di2; du10; dub3; dug3; dugu; ha4; he; hi;i11; kugu; muₓ; ta8; te2; ti2; ṭa3; ṭab6; ṭe2; ṭi2;"
     },
     "636": {
         "Borger": 636,
-        "Borger name": "A\u1e2a (\u1e2aI\u00d7NUN)",
+        "Borger name": "AḪ (ḪI×NUN)",
         "Clay": "",
         "Deimel": 398,
         "HethZL": 332,
@@ -2458,15 +2458,15 @@
         "Labat": 398,
         "Labat name": "uh",
         "Mittermayer": 280,
-        "ORACC name": "/HI\u00d7NUN ",
+        "ORACC name": "/HI×NUN ",
         "Ranke": "",
-        "Unicode": "U+12134 \ud808\udd34",
+        "Unicode": "U+12134 𒄴",
         "Unicode name": "HI TIMES NUN",
-        "Values": "\u00a0a\u02be2;\u00a0ah;\u00a0aha;\u00a0bi9;\u00a0duga3;\u00a0e\u02be2;\u00a0eh;\u00a0giri\u0161\u2093;\u00a0gudu\u2093;\u00a0i\u02be2;\u00a0ih;nu13;\u00a0numun3;\u00a0u13;\u00a0u\u02be2;\u00a0uh;\u00a0uhu;\u00a0uman;\u00a0umun3;\u00a0uplu\u2093;"
+        "Values": " aʾ2; ah; aha; bi9; duga3; eʾ2; eh; girišₓ; guduₓ; iʾ2; ih;nu13; numun3; u13; uʾ2; uh; uhu; uman; umun3; upluₓ;"
     },
     "640": {
         "Borger": 640,
-        "Borger name": "KAM (\u1e2aI.BAD)",
+        "Borger name": "KAM (ḪI.BAD)",
         "Clay": "",
         "Deimel": "406v1",
         "HethZL": 355,
@@ -2475,11 +2475,11 @@
         "Labat": 406,
         "Labat name": "kam",
         "Mittermayer": 279,
-        "ORACC name": "/HI\u00d7BAD ",
+        "ORACC name": "/HI×BAD ",
         "Ranke": "",
         "Unicode": "",
         "Unicode name": "",
-        "Values": "\u00a0du15;\u00a0eri\u01616;\u00a0gam2;\u00a0gama2;\u00a0hud3;\u00a0ka13;\u00a0kam;\u00a0kama;qam2;\u00a0tu7;\u00a0udul2;\u00a0utul2;"
+        "Values": " du15; eriš6; gam2; gama2; hud3; ka13; kam; kama;qam2; tu7; udul2; utul2;"
     },
     "641": {
         "Borger": 641,
@@ -2494,13 +2494,13 @@
         "Mittermayer": 297,
         "ORACC name": "/IM ",
         "Ranke": "",
-        "Unicode": "U+1214E \ud808\udd4e",
+        "Unicode": "U+1214E 𒅎",
         "Unicode name": "IM",
-        "Values": "\u00a0adad;\u00a0anegi;\u00a0di[;;;]ig;\u00a0did;\u00a0dalhamun\u2093;\u00a0em;\u00a0enegi;\u00a0enegir;ennegi;\u00a0ennigi;\u00a0ilumer;\u00a0im;\u00a0ime\u2093;\u00a0imi;\u00a0i\u0161gur\u2093;\u00a0i\u0161kur;\u00a0kakra;kakru;\u00a0karkar;\u00a0karkara;\u00a0mer2;\u00a0mir2;\u00a0mur3;\u00a0murim;\u00a0muru3;\u00a0\u0161ar5;\u0161ara5;\u00a0\u0161eg7;\u00a0\u0161e\u014b7;\u00a0te\u0161ub;\u00a0tid;\u00a0tu15;\u00a0tum9;\u00a0tumu;"
+        "Values": " adad; anegi; di[;;;]ig; did; dalhamunₓ; em; enegi; enegir;ennegi; ennigi; ilumer; im; imeₓ; imi; išgurₓ; iškur; kakra;kakru; karkar; karkara; mer2; mir2; mur3; murim; muru3; šar5;šara5; šeg7; šeŋ7; tešub; tid; tu15; tum9; tumu;"
     },
     "644": {
         "Borger": 644,
-        "Borger name": "\u1e2aAR (\u1e2aI\u00d7\u00c1\u0160)",
+        "Borger name": "ḪAR (ḪI×ÁŠ)",
         "Clay": "",
         "Deimel": 401,
         "HethZL": 333,
@@ -2509,15 +2509,15 @@
         "Labat": 401,
         "Labat name": "har",
         "Mittermayer": 281,
-        "ORACC name": "/HI\u00d7A\u01602 ",
+        "ORACC name": "/HI×AŠ2 ",
         "Ranke": "",
-        "Unicode": "U+1212F \ud808\udd2f",
+        "Unicode": "U+1212F 𒄯",
         "Unicode name": "HI TIMES ASH2",
-        "Values": "\u00a0ar3;\u00a0ara3;\u00a0endibdim;\u00a0ga11;\u00a0gadibdim;\u00a0gin8;\u00a0gu13;gudibdim;\u00a0gunu\u2093;\u00a0gur14;\u00a0har;\u00a0hara;\u00a0hir2;\u00a0hu4;\u00a0hur;\u00a0huru;\u00a0ir5;kikken;\u00a0kikkin;\u00a0ken2;\u00a0kin2;\u00a0kinkin;\u00a0mar6;\u00a0mur;\u00a0muru;\u00a0murum;sagbar;\u00a0saggar2;\u00a0sa\u014b\u014bar2;\u00a0sur\u2093;\u00a0unu\u2093;\u00a0ur5;\u00a0ura5;\u00a0uru\u2093;"
+        "Values": " ar3; ara3; endibdim; ga11; gadibdim; gin8; gu13;gudibdim; gunuₓ; gur14; har; hara; hir2; hu4; hur; huru; ir5;kikken; kikkin; ken2; kin2; kinkin; mar6; mur; muru; murum;sagbar; saggar2; saŋŋar2; surₓ; unuₓ; ur5; ura5; uruₓ;"
     },
     "661": {
         "Borger": 661,
-        "Borger name": "U/B\u00d9R",
+        "Borger name": "U/BÙR",
         "Clay": "",
         "Deimel": 411,
         "HethZL": 261,
@@ -2528,13 +2528,13 @@
         "Mittermayer": 337,
         "ORACC name": "/U ",
         "Ranke": "",
-        "Unicode": "U+1230B \ud808\udf0b",
+        "Unicode": "U+1230B 𒌋",
         "Unicode name": 414,
-        "Values": "\u00a0a6;\u00a0bar\u2093;\u00a0bu12;\u00a0bur3;\u00a0bur3@c;\u00a0buru3;\u00a0burud\u2093;\u00a0buzur;\u00a0ge14;ge\u0161bur\u2093;\u00a0gibiru;\u00a0giburu;\u00a0giguru;\u00a0guru12;\u00a0ha3;\u00a0hu3;\u00a0puzur;\u00a0\u0161il3;\u0161u4;\u00a0\u0161u\u0161;\u00a0u;\u00a0ubu\u2093;\u00a0umun;\u00a0un2;\u00a0u\u0161ur5;\u00a0utah\u2093;\u00a0utu\u2093;\u00a01(u);\u00a01(u@c);1(bur3);\u00a01(bur3@c);\u00a0u@c;"
+        "Values": " a6; barₓ; bu12; bur3; bur3@c; buru3; burudₓ; buzur; ge14;gešburₓ; gibiru; giburu; giguru; guru12; ha3; hu3; puzur; šil3;šu4; šuš; u; ubuₓ; umun; un2; ušur5; utahₓ; utuₓ; 1(u); 1(u@c);1(bur3); 1(bur3@c); u@c;"
     },
     "672": {
         "Borger": 672,
-        "Borger name": "\u00c1B",
+        "Borger name": "ÁB",
         "Clay": "",
         "Deimel": 420,
         "HethZL": 277,
@@ -2545,9 +2545,9 @@
         "Mittermayer": 352,
         "ORACC name": "/AB2 ",
         "Ranke": "",
-        "Unicode": "U+12016 \ud808\udc16",
+        "Unicode": "U+12016 𒀖",
         "Unicode name": "AB2",
-        "Values": "\u00a0ab2;\u00a0ap2;\u00a0le8;\u00a0let;\u00a0li8;\u00a0lid;\u00a0lit;\u00a0liti;\u00a0li\u1e6d;\u00a0li\u1e6di;\u00a0rem2;\u00a0reme2;\u00a0rim2;rimu2;"
+        "Values": " ab2; ap2; le8; let; li8; lid; lit; liti; liṭ; liṭi; rem2; reme2; rim2;rimu2;"
     },
     "681": {
         "Borger": 681,
@@ -2562,13 +2562,13 @@
         "Mittermayer": 348,
         "ORACC name": "/MI ",
         "Ranke": "",
-        "Unicode": "U+1222A \ud808\ude2a",
+        "Unicode": "U+1222A 𒈪",
         "Unicode name": "MI",
-        "Values": "\u00a0dugud2;\u00a0ga12;\u00a0ge6;\u00a0gi6;\u00a0gig2;\u00a0giggi;\u00a0gigi2;\u00a0gikki;\u00a0\u014be6;\u00a0\u014bi6;\u00a0ku10;ku10-ku10;\u00a0kukku5;\u00a0kuku5;\u00a0me2;\u00a0mi;\u00a0mu\u01619;\u00a0mu\u0161i;\u00a0mu\u0161u;\u00a0sil4;\u00a0su\u2093;\u1e63il2;\u00a0wi4;"
+        "Values": " dugud2; ga12; ge6; gi6; gig2; giggi; gigi2; gikki; ŋe6; ŋi6; ku10;ku10-ku10; kukku5; kuku5; me2; mi; muš9; muši; mušu; sil4; suₓ;ṣil2; wi4;"
     },
     "682": {
         "Borger": 682,
-        "Borger name": "GUL (S\u00daN)",
+        "Borger name": "GUL (SÚN)",
         "Clay": "",
         "Deimel": 429,
         "HethZL": 271,
@@ -2579,13 +2579,13 @@
         "Mittermayer": 343,
         "ORACC name": "/GUL ",
         "Ranke": "",
-        "Unicode": "U+12122 \ud808\udd22",
+        "Unicode": "U+12122 𒄢",
         "Unicode name": "GUL",
-        "Values": "\u00a0gul;\u00a0gulu;\u00a0isi2;\u00a0isim2;\u00a0isimu2;\u00a0kul2;\u00a0qul2;\u00a0si23;\u00a0sumun2;sumuna2;\u00a0sumunu2;\u00a0sun2;\u00a0suna2;\u00a0\u0161un3;"
+        "Values": " gul; gulu; isi2; isim2; isimu2; kul2; qul2; si23; sumun2;sumuna2; sumunu2; sun2; suna2; šun3;"
     },
     "686": {
         "Borger": 686,
-        "Borger name": "GIM (D\u00cdM)",
+        "Borger name": "GIM (DÍM)",
         "Clay": "",
         "Deimel": 440,
         "HethZL": 165,
@@ -2596,13 +2596,13 @@
         "Mittermayer": 67,
         "ORACC name": "/DIM2 ",
         "Ranke": "",
-        "Unicode": "U+12076 \ud808\udc76",
+        "Unicode": "U+12076 𒁶",
         "Unicode name": "DIM2",
-        "Values": "\u00a0dem2;\u00a0di\u2093;\u00a0dim2;\u00a0dima2;\u00a0ge18;\u00a0gem;\u00a0gen7;\u00a0gi18;\u00a0gim;\u00a0gimi;gin7;\u00a0ke5;\u00a0kem;\u00a0ki5;\u00a0kim;\u00a0kin8;\u00a0mu\u0161da;\u00a0mu\u0161dam;\u00a0mu\u0161dama;qim;\u00a0\u0161idi;\u00a0\u0161idim;\u00a0\u0161ilam\u2093;\u00a0\u0161itim;\u00a0\u0161italam\u2093;\u00a0/\u0161itlam/;\u00a0tam6;\u00a0\u1e6dem2;\u1e6dim2;"
+        "Values": " dem2; diₓ; dim2; dima2; ge18; gem; gen7; gi18; gim; gimi;gin7; ke5; kem; ki5; kim; kin8; mušda; mušdam; mušdama;qim; šidi; šidim; šilamₓ; šitim; šitalamₓ; /šitlam/; tam6; ṭem2;ṭim2;"
     },
     "689": {
         "Borger": 689,
-        "Borger name": "N\u00c1",
+        "Borger name": "NÁ",
         "Clay": "",
         "Deimel": 431,
         "HethZL": 314,
@@ -2613,9 +2613,9 @@
         "Mittermayer": 364,
         "ORACC name": "/NA2 ",
         "Ranke": "",
-        "Unicode": "U+1223F \ud808\ude3f",
+        "Unicode": "U+1223F 𒈿",
         "Unicode name": "NA2",
-        "Values": "\u00a0daram\u2093;\u00a0na2;\u00a0nad3;\u00a0ne7;\u00a0nu2;\u00a0nud;\u00a0\u0161e\u2093;\u00a0timua\u2093;"
+        "Values": " daramₓ; na2; nad3; ne7; nu2; nud; šeₓ; timuaₓ;"
     },
     "690": {
         "Borger": 690,
@@ -2630,9 +2630,9 @@
         "Mittermayer": 355,
         "ORACC name": "/NIM ",
         "Ranke": "",
-        "Unicode": "U+1224F \ud808\ude4f",
+        "Unicode": "U+1224F 𒉏",
         "Unicode name": "NIM",
-        "Values": "\u00a0alama\u2093;\u00a0deh3;\u00a0dehi3;\u00a0dih3;\u00a0dihi3;\u00a0elam;\u00a0elama;\u00a0elamu;enim2;\u00a0nam3;\u00a0nem;\u00a0ni7;\u00a0nim;\u00a0nima;\u00a0nu3;\u00a0num;\u00a0rum3;\u00a0tehe3;tehi3;\u00a0tu8;\u00a0tum4;\u00a0tumu4;"
+        "Values": " alamaₓ; deh3; dehi3; dih3; dihi3; elam; elama; elamu;enim2; nam3; nem; ni7; nim; nima; nu3; num; rum3; tehe3;tehi3; tu8; tum4; tumu4;"
     },
     "693": {
         "Borger": 693,
@@ -2647,9 +2647,9 @@
         "Mittermayer": 244,
         "ORACC name": "/LAM ",
         "Ranke": "",
-        "Unicode": "U+121F4 \ud808\uddf4",
+        "Unicode": "U+121F4 𒇴",
         "Unicode name": "LAM",
-        "Values": "\u00a0e\u0161\u2093;\u00a0la12;\u00a0lam;\u00a0lama;\u00a0lamma\u2093;\u00a0lim3;\u00a0lug\u2093;"
+        "Values": " ešₓ; la12; lam; lama; lammaₓ; lim3; lugₓ;"
     },
     "695": {
         "Borger": 695,
@@ -2664,9 +2664,9 @@
         "Mittermayer": 367,
         "ORACC name": "/AMAR ",
         "Ranke": "",
-        "Unicode": "U+1202B \ud808\udc2b",
+        "Unicode": "U+1202B 𒀫",
         "Unicode name": "AMAR",
-        "Values": "\u00a0amar;\u00a0mar2;\u00a0mara2;\u00a0marad;\u00a0sur\u2093;\u00a0\u1e63ar2;\u00a0\u1e63ur;\u00a0\u1e63uru;\u00a0zur;"
+        "Values": " amar; mar2; mara2; marad; surₓ; ṣar2; ṣur; ṣuru; zur;"
     },
     "698": {
         "Borger": 698,
@@ -2681,13 +2681,13 @@
         "Mittermayer": 344,
         "ORACC name": "/U.GUD ",
         "Ranke": "",
-        "Unicode": "U+1230C \ud808\udf0c",
+        "Unicode": "U+1230C 𒌌",
         "Unicode name": "U GUD",
-        "Values": "\u00a0du7;\u00a0mul4;\u00a0ra\u2093;\u00a0ru5;\u00a0ul;\u00a0ula;\u00a0ullu;\u00a0ullu3;\u00a0ulu;\u00a0ur6;"
+        "Values": " du7; mul4; raₓ; ru5; ul; ula; ullu; ullu3; ulu; ur6;"
     },
     "701": {
         "Borger": 701,
-        "Borger name": "G\u00ccR",
+        "Borger name": "GÌR",
         "Clay": "",
         "Deimel": 444,
         "HethZL": 301,
@@ -2698,30 +2698,30 @@
         "Mittermayer": "291b",
         "ORACC name": "/GIR3 ",
         "Ranke": "",
-        "Unicode": "U+1210A \ud808\udd0a",
+        "Unicode": "U+1210A 𒄊",
         "Unicode name": "GIR3",
-        "Values": "\u00a0an\u0161e2;\u00a0an\u0161u2;\u00a0er9;\u00a0ger3;\u00a0gir3;\u00a0giri3;\u00a0giru3;\u00a0\u014bir3;\u00a0\u014biri3;\u00a0hu\u01612;imeri\u2093;\u00a0ir9;\u00a0kir10;\u00a0kiri5;\u00a0mer\u2093;\u00a0miri\u2093;\u00a0qir7;\u00a0sakkan;\u00a0sumugan;sumugga;\u00a0sumukan;\u00a0sumuqan;\u00a0\u0161akan2;\u00a0\u0161akkan2;\u00a0wir;"
+        "Values": " anše2; anšu2; er9; ger3; gir3; giri3; giru3; ŋir3; ŋiri3; huš2;imeriₓ; ir9; kir10; kiri5; merₓ; miriₓ; qir7; sakkan; sumugan;sumugga; sumukan; sumuqan; šakan2; šakkan2; wir;"
     },
     "711": {
         "Borger": 711,
-        "Borger name": "E\u0160 (3\u00d7U)",
+        "Borger name": "EŠ (3×U)",
         "Clay": "",
         "Deimel": 472,
         "HethZL": 331,
         "Hinke": "",
         "Huehnergard": 137,
         "Labat": 472,
-        "Labat name": "e\u0161",
+        "Labat name": "eš",
         "Mittermayer": 366,
         "ORACC name": "/U.U.U ",
         "Ranke": "",
-        "Unicode": "U+1230D \ud808\udf0d",
+        "Unicode": "U+1230D 𒌍",
         "Unicode name": "U U U",
-        "Values": "\u00a0ba3;\u00a0batu;\u00a0es2;\u00a0e\u0161;\u00a0e\u0161a2;\u00a0e\u0161e;\u00a0is5;\u00a0i\u01613;\u00a0nan3;\u00a0sin;\u00a0\u1e63in;\u00a0\u0161ib0;\u0161ip0;\u00a0u\u016118;\u00a0u\u0161u3;\u00a03(u);\u00a03(u@c);\u00a03(bur3);\u00a03(bur3@c);"
+        "Values": " ba3; batu; es2; eš; eša2; eše; is5; iš3; nan3; sin; ṣin; šib0;šip0; uš18; ušu3; 3(u); 3(u@c); 3(bur3); 3(bur3@c);"
     },
     "724": {
         "Borger": 724,
-        "Borger name": "IGI (\u0160I, LIM)",
+        "Borger name": "IGI (ŠI, LIM)",
         "Clay": "",
         "Deimel": 449,
         "HethZL": 288,
@@ -2732,9 +2732,9 @@
         "Mittermayer": 233,
         "ORACC name": "/IGI ",
         "Ranke": "",
-        "Unicode": "U+12146 \ud808\udd46",
+        "Unicode": "U+12146 𒅆",
         "Unicode name": "IGI",
-        "Values": "\u00a0mahru;\u00a0panu;\u00a0bad5;\u00a0badi;\u00a0bat5;\u00a0damu2;\u00a0ge8;\u00a0gi8;\u00a0iga\u2093;\u00a0igi;igu;\u00a0ina2;\u00a0ini2;\u00a0inu2;\u00a0lam5;\u00a0le3;\u00a0lem;\u00a0li3;\u00a0lib4;\u00a0lim;\u00a0lima;\u00a0limi;\u00a0lum2;pa10;\u00a0pad4;\u00a0pan3;\u00a0ra\u2093;\u00a0si17;\u00a0\u0161e20;\u00a0\u0161i;"
+        "Values": " mahru; panu; bad5; badi; bat5; damu2; ge8; gi8; igaₓ; igi;igu; ina2; ini2; inu2; lam5; le3; lem; li3; lib4; lim; lima; limi; lum2;pa10; pad4; pan3; raₓ; si17; še20; ši;"
     },
     "726": {
         "Borger": 726,
@@ -2749,13 +2749,13 @@
         "Mittermayer": 234,
         "ORACC name": "/IGI.RI ",
         "Ranke": "",
-        "Unicode": "U+12148 \ud808\udd48",
+        "Unicode": "U+12148 𒅈",
         "Unicode name": "IGI RI",
-        "Values": "\u00a0ar;\u00a0ara8;"
+        "Values": " ar; ara8;"
     },
     "731": {
         "Borger": 731,
-        "Borger name": "\u00d9 (IGI.DIB)",
+        "Borger name": "Ù (IGI.DIB)",
         "Clay": "",
         "Deimel": 455,
         "HethZL": 265,
@@ -2766,9 +2766,9 @@
         "Mittermayer": "239b",
         "ORACC name": "/IGI.DIB ",
         "Ranke": "",
-        "Unicode": "U+12147 \ud808\udd47",
+        "Unicode": "U+12147 𒅇",
         "Unicode name": "IGI & DIB",
-        "Values": "\u00a0\u0161a17;\u00a0u3;"
+        "Values": " ša17; u3;"
     },
     "736": {
         "Borger": 736,
@@ -2783,9 +2783,9 @@
         "Mittermayer": 431,
         "ORACC name": "/DI ",
         "Ranke": "",
-        "Unicode": "U+12072 \ud808\udc72",
+        "Unicode": "U+12072 𒁲",
         "Unicode name": "DI",
-        "Values": "\u00a0de;\u00a0di;\u00a0du\u2093;\u00a0sa2;\u00a0sal2;\u00a0salagud;\u00a0salgud;\u00a0salim;\u00a0se8;\u00a0si8;\u00a0sili\u2093;silim;\u00a0silima;\u00a0sim3;\u00a0sisa\u2093;\u00a0\u015ba2;\u00a0\u0161a18;\u00a0\u0161ul3;\u00a0te10;\u00a0ti4;\u00a0\u1e6de;\u00a0\u1e6di;"
+        "Values": " de; di; duₓ; sa2; sal2; salagud; salgud; salim; se8; si8; siliₓ;silim; silima; sim3; sisaₓ; śa2; ša18; šul3; te10; ti4; ṭe; ṭi;"
     },
     "737": {
         "Borger": 737,
@@ -2800,13 +2800,13 @@
         "Mittermayer": 432,
         "ORACC name": "/KI ",
         "Ranke": "",
-        "Unicode": "U+121A0 \ud808\udda0",
+        "Unicode": "U+121A0 𒆠",
         "Unicode name": "KI",
-        "Values": "\u00a0er\u1e63etu;\u00a0qaqqaru;\u00a0amma\u2093;\u00a0gagar;\u00a0ge5;\u00a0gi5;\u00a0gu14;\u00a0\u014bi\u0161bun\u2093;\u00a0ke;ki;\u00a0ku11;\u00a0qe2;\u00a0qi2;\u00a0sas\u2093;\u00a0ubda\u2093;"
+        "Values": " erṣetu; qaqqaru; ammaₓ; gagar; ge5; gi5; gu14; ŋišbunₓ; ke;ki; ku11; qe2; qi2; sasₓ; ubdaₓ;"
     },
     "745": {
         "Borger": 745,
-        "Borger name": "KUG (K\u00d9)",
+        "Borger name": "KUG (KÙ)",
         "Clay": "",
         "Deimel": 468,
         "HethZL": 69,
@@ -2817,13 +2817,13 @@
         "Mittermayer": 428,
         "ORACC name": "/KU3 ",
         "Ranke": "",
-        "Unicode": "U+121AC \ud808\uddac",
+        "Unicode": "U+121AC 𒆬",
         "Unicode name": "KU3",
-        "Values": "\u00a0ku3;\u00a0kug;\u00a0kuk;\u00a0qu5;"
+        "Values": " ku3; kug; kuk; qu5;"
     },
     "746": {
         "Borger": 746,
-        "Borger name": "PAD (\u0160UK)",
+        "Borger name": "PAD (ŠUK)",
         "Clay": "",
         "Deimel": 469,
         "HethZL": 295,
@@ -2834,30 +2834,30 @@
         "Mittermayer": 362,
         "ORACC name": "/PAD ",
         "Ranke": "",
-        "Unicode": "U+1227B \ud808\ude7b",
+        "Unicode": "U+1227B 𒉻",
         "Unicode name": "PAD",
-        "Values": "\u00a0bad2;\u00a0bat2;\u00a0bu15;\u00a0kur6;\u00a0kurum6;\u00a0kurumma\u2093;\u00a0pa\u2093;\u00a0pad;pada;\u00a0pat;\u00a0pata;\u00a0pa\u1e6d;\u00a0\u0161ug;\u00a0\u0161uk;\u00a0\u0161uku;\u00a0\u0161ukun3;\u00a0\u0161ukur2;\u00a0\u0161uq;\u0161utug;"
+        "Values": " bad2; bat2; bu15; kur6; kurum6; kurummaₓ; paₓ; pad;pada; pat; pata; paṭ; šug; šuk; šuku; šukun3; šukur2; šuq;šutug;"
     },
     "748": {
         "Borger": 748,
-        "Borger name": "DI\u0160 (1)",
+        "Borger name": "DIŠ (1)",
         "Clay": "",
         "Deimel": 480,
         "HethZL": 356,
         "Hinke": "",
         "Huehnergard": 172,
         "Labat": 480,
-        "Labat name": "di\u0161",
+        "Labat name": "diš",
         "Mittermayer": 390,
-        "ORACC name": "/DI\u0160 ",
+        "ORACC name": "/DIŠ ",
         "Ranke": "",
-        "Unicode": "U+12079 \ud808\udc79",
+        "Unicode": "U+12079 𒁹",
         "Unicode name": "DISH",
-        "Values": "\u00a0an\u2093;\u00a0ana;\u00a0a\u016110;\u00a0da\u01612;\u00a0de\u0161;\u00a0di\u0161;\u00a0di\u0161a;\u00a0du\u01612;\u00a0gala10;\u00a0ge3;\u00a0ge\u01612;ge\u0161ta;\u00a0gi3;\u00a0gi\u01612;\u00a0\u014be\u01612;\u00a0\u014bi\u01612;\u00a0il4;\u00a0ili6;\u00a0e\u01614;\u00a0i\u01614;\u00a0m;\u00a0maka\u0161;\u00a0makka\u0161;mu\u01617;\u00a0nigida;\u00a0sa\u014btak4;\u00a0salubug2;\u00a0salugub2;\u00a0sandak4;\u00a0santa4;santag4;\u00a0santak4;\u00a0\u0161antag;\u00a0\u0161antak;\u00a0tal4;\u00a0ta\u01612;\u00a0til5;\u00a0ti\u0161;\u00a0tiz;\u00a0\u1e6di\u0161;\u00a0u\u01619;1(di\u0161);\u00a01(di\u0161@c);\u00a0di\u0161@c;\u00a0barig@c;\u00a01(barig);\u00a01(barig@c);1(bariga);\u00a01(bariga@c);"
+        "Values": " anₓ; ana; aš10; daš2; deš; diš; diša; duš2; gala10; ge3; geš2;gešta; gi3; giš2; ŋeš2; ŋiš2; il4; ili6; eš4; iš4; m; makaš; makkaš;muš7; nigida; saŋtak4; salubug2; salugub2; sandak4; santa4;santag4; santak4; šantag; šantak; tal4; taš2; til5; tiš; tiz; ṭiš; uš9;1(diš); 1(diš@c); diš@c; barig@c; 1(barig); 1(barig@c);1(bariga); 1(bariga@c);"
     },
     "750": {
         "Borger": 750,
-        "Borger name": "LAL (L\u00c1)",
+        "Borger name": "LAL (LÁ)",
         "Clay": "",
         "Deimel": 481,
         "HethZL": 358,
@@ -2868,9 +2868,9 @@
         "Mittermayer": 391,
         "ORACC name": "/LAL ",
         "Ranke": "",
-        "Unicode": "U+121F2 \ud808\uddf2",
+        "Unicode": "U+121F2 𒇲",
         "Unicode name": "LAL",
-        "Values": "\u00a0la2;\u00a0lal;\u00a0lu\u2093;\u00a0sur5;\u00a0suru5;\u00a0\u0161ur\u2093;\u00a0\u0161uru\u2093;\u00a0zur5;\u00a0zuru5;"
+        "Values": " la2; lal; luₓ; sur5; suru5; šurₓ; šuruₓ; zur5; zuru5;"
     },
     "753": {
         "Borger": 753,
@@ -2885,13 +2885,13 @@
         "Mittermayer": 392,
         "ORACC name": "/ME ",
         "Ranke": "",
-        "Unicode": "U+12228 \ud808\ude28",
+        "Unicode": "U+12228 𒈨",
         "Unicode name": "ME",
-        "Values": "\u00a0ba13;\u00a0de\u01614;\u00a0di\u01614;\u00a0ga\u2093;\u00a0gal\u2093;\u00a0ge\u2093;\u00a0isib;\u00a0i\u0161ib;\u00a0ma6;\u00a0me;\u00a0men2;me\u01612;\u00a0mi3;\u00a0sep;\u00a0sib;\u00a0sip;\u00a0\u0161ab4;\u00a0\u0161eb;\u00a0\u0161ep;\u00a0\u0161ib;\u00a0\u0161ip;\u00a0tuba;"
+        "Values": " ba13; deš4; diš4; gaₓ; galₓ; geₓ; isib; išib; ma6; me; men2;meš2; mi3; sep; sib; sip; šab4; šeb; šep; šib; šip; tuba;"
     },
     "754": {
         "Borger": 754,
-        "Borger name": "ME\u0160 (ME.E\u0160)",
+        "Borger name": "MEŠ (ME.EŠ)",
         "Clay": "",
         "Deimel": "533, 533v1",
         "HethZL": 360,
@@ -2902,13 +2902,13 @@
         "Mittermayer": "",
         "ORACC name": "/ME.U.U.U ",
         "Ranke": "",
-        "Unicode": "U+12228 \ud808\ude28 & U+1230D \ud808\udf0d",
+        "Unicode": "U+12228 𒈨 & U+1230D 𒌍",
         "Unicode name": "ME & U U U",
-        "Values": "\u00a0e\u016117;\u00a0mes3;\u00a0me\u0161;\u00a0mi\u01612;\u00a0wi\u0161;"
+        "Values": " eš17; mes3; meš; miš2; wiš;"
     },
     "766": {
         "Borger": 766,
-        "Borger name": "U8 (LAGAB\u00d7 GU4overGU4)",
+        "Borger name": "U8 (LAGAB× GU4overGU4)",
         "Clay": "",
         "Deimel": 494,
         "HethZL": 45,
@@ -2917,11 +2917,11 @@
         "Labat": 494,
         "Labat name": "lahar",
         "Mittermayer": 399,
-        "ORACC name": "/LAGAB\u00d7(GUD.GUD) ",
+        "ORACC name": "/LAGAB×(GUD.GUD) ",
         "Ranke": "",
-        "Unicode": "U+121C7 \ud808\uddc7",
+        "Unicode": "U+121C7 𒇇",
         "Unicode name": "LAGAB TIMES GUD PLUS GUD",
-        "Values": "\u00a0dib\u2093;\u00a0gana4;\u00a0ganam4;\u00a0gayayu;\u00a0lahar;lahra\u2093;\u00a0lahru;\u00a0lahrum;\u00a0\u0161erba;\u00a0\u0161urim;\u00a0\u0161uru;\u00a0\u0161urum;\u00a0\u0161urun;\u00a0u8;ua;\u00a0us5;\u00a0uz5;\u00a0wa\u2093;"
+        "Values": " dibₓ; gana4; ganam4; gayayu; lahar;lahraₓ; lahru; lahrum; šerba; šurim; šuru; šurum; šurun; u8;ua; us5; uz5; waₓ;"
     },
     "807": {
         "Borger": 807,
@@ -2932,17 +2932,17 @@
         "Hinke": "",
         "Huehnergard": 175,
         "Labat": 535,
-        "Labat name": "ura\u0161",
+        "Labat name": "uraš",
         "Mittermayer": 394,
         "ORACC name": "/IB ",
         "Ranke": "",
-        "Unicode": "U+12141 \ud808\udd41",
+        "Unicode": "U+12141 𒅁",
         "Unicode name": "IB",
-        "Values": "\u00a0arkab\u2093;\u00a0dar2;\u00a0dara2;\u00a0dari2;\u00a0daru2;\u00a0darum2;\u00a0diri2;\u00a0eb;\u00a0ep;\u00a0ib;ibbi;\u00a0ip;\u00a0ura\u0161;\u00a0urta;"
+        "Values": " arkabₓ; dar2; dara2; dari2; daru2; darum2; diri2; eb; ep; ib;ibbi; ip; uraš; urta;"
     },
     "808": {
         "Borger": 808,
-        "Borger name": "KU (D\u00daR, TUKUL, TU\u0160)",
+        "Borger name": "KU (DÚR, TUKUL, TUŠ)",
         "Clay": "",
         "Deimel": 536,
         "HethZL": 206,
@@ -2953,9 +2953,9 @@
         "Mittermayer": 415,
         "ORACC name": "/KU ",
         "Ranke": "",
-        "Unicode": "U+121AA \ud808\uddaa",
+        "Unicode": "U+121AA 𒆪",
         "Unicode name": "KU",
-        "Values": "\u00a0be5;\u00a0bed3;\u00a0bet3;\u00a0bi7;\u00a0bid3;\u00a0bit3;\u00a0bu7;\u00a0bul\u2093;\u00a0dab5;\u00a0daba5;\u00a0deb2;dib2;\u00a0du\u0161;\u00a0gu5;\u00a0gud7;\u00a0guz3;\u00a0hu\u2093;\u00a0ku;\u00a0kud3;\u00a0kuz3;\u00a0nu10;\u00a0qu2;\u00a0sah\u2093;su5;\u00a0suh5;\u00a0sur11;\u00a0su\u0161;\u00a0\u0161e10;\u00a0\u0161ed6;\u00a0\u0161i5;\u00a0tib\u2093;\u00a0tukul;\u00a0tukula;\u00a0tum5;tuma;\u00a0tu\u0161;\u00a0tu\u0161u;\u00a0\u1e6du\u0161;\u00a0ugu4;\u00a0zap2;"
+        "Values": " be5; bed3; bet3; bi7; bid3; bit3; bu7; bulₓ; dab5; daba5; deb2;dib2; duš; gu5; gud7; guz3; huₓ; ku; kud3; kuz3; nu10; qu2; sahₓ;su5; suh5; sur11; suš; še10; šed6; ši5; tibₓ; tukul; tukula; tum5;tuma; tuš; tušu; ṭuš; ugu4; zap2;"
     },
     "812": {
         "Borger": 812,
@@ -2970,13 +2970,13 @@
         "Mittermayer": 416,
         "ORACC name": "/LU ",
         "Ranke": "",
-        "Unicode": "U+121FB \ud808\uddfb",
+        "Unicode": "U+121FB 𒇻",
         "Unicode name": "LU",
-        "Values": "\u00a0eze;\u00a0lu;\u00a0lug;\u00a0nu12;\u00a0si6;\u00a0udu;"
+        "Values": " eze; lu; lug; nu12; si6; udu;"
     },
     "816": {
         "Borger": 816,
-        "Borger name": "S\u00cdG / S\u00cdK",
+        "Borger name": "SÍG / SÍK",
         "Clay": "",
         "Deimel": 539,
         "HethZL": 65,
@@ -2987,9 +2987,9 @@
         "Mittermayer": 395,
         "ORACC name": "/SIK2 ",
         "Ranke": "",
-        "Unicode": "U+122E0 \ud808\udee0",
+        "Unicode": "U+122E0 𒋠",
         "Unicode name": "SIK2",
-        "Values": "\u00a0seg2;\u00a0sig2;\u00a0sik2;\u00a0siki;\u00a0\u0161ek2;\u00a0\u0161eq2;\u00a0\u0161ik2;\u00a0\u0161iq2;"
+        "Values": " seg2; sig2; sik2; siki; šek2; šeq2; šik2; šiq2;"
     },
     "828": {
         "Borger": 828,
@@ -3004,13 +3004,13 @@
         "Mittermayer": 400,
         "ORACC name": "/UR ",
         "Ranke": "",
-        "Unicode": "U+12328 \ud808\udf28",
+        "Unicode": "U+12328 𒌨",
         "Unicode name": "UR",
-        "Values": "\u00a0a8;\u00a0aia3;\u00a0kalbu;\u00a0aya3;\u00a0das;\u00a0da\u0161;\u00a0de\u01613;\u00a0dul\u2093;\u00a0leq;\u00a0li7;\u00a0lig;\u00a0lik;liki;\u00a0liq;\u00a0lu6;\u00a0nig\u2093;\u00a0ru7;\u00a0sur\u2093;\u00a0\u0161uzi;\u00a0tan8;\u00a0tas;\u00a0ta\u0161;\u00a0ta\u0161a;\u00a0ta\u1e63;\u00a0taz;tes2;\u00a0te\u01612;\u00a0tis2;\u00a0ti\u01612;\u00a0ti\u1e632;\u00a0tiz2;\u00a0\u1e6da\u0161;\u00a0ur;\u00a0ura;\u00a0uru13;"
+        "Values": " a8; aia3; kalbu; aya3; das; daš; deš3; dulₓ; leq; li7; lig; lik;liki; liq; lu6; nigₓ; ru7; surₓ; šuzi; tan8; tas; taš; taša; taṣ; taz;tes2; teš2; tis2; tiš2; tiṣ2; tiz2; ṭaš; ur; ura; uru13;"
     },
     "836": {
         "Borger": 836,
-        "Borger name": "G\u00cdN",
+        "Borger name": "GÍN",
         "Clay": "",
         "Deimel": "",
         "HethZL": "",
@@ -3021,9 +3021,9 @@
         "Mittermayer": "",
         "ORACC name": "/DUN3@g ",
         "Ranke": "",
-        "Unicode": "U+12086 \ud808\udc86",
+        "Unicode": "U+12086 𒂆",
         "Unicode name": "DUN3 GUNU",
-        "Values": "\u00a0aga3;\u00a0a\u014ba3;\u00a0ge11;\u00a0gi11;\u00a0gig4;\u00a0gi\u014b4;\u00a0gim2;\u00a0gin2;\u00a0gina2;pu\u01614;"
+        "Values": " aga3; aŋa3; ge11; gi11; gig4; giŋ4; gim2; gin2; gina2;puš4;"
     },
     "839": {
         "Borger": 839,
@@ -3038,9 +3038,9 @@
         "Mittermayer": 470,
         "ORACC name": "/A ",
         "Ranke": "",
-        "Unicode": "U+12000 \ud808\udc00",
+        "Unicode": "U+12000 𒀀",
         "Unicode name": "A",
-        "Values": "\u00a0\u02beu4;\u00a0a;\u00a0aia2;\u00a0aya2;\u00a0bar\u2093;\u00a0buni\u014b\u2093;\u00a0bur\u2093;\u00a0dur5;\u00a0duru5;\u00a0e4;\u00a0ea;\u00a0ebir3;em\u2093;\u00a0epir3;\u00a0e\u016110;\u00a0\u014ba10;\u00a0ia10;\u00a0id5;\u00a0me5;\u00a0mu14;\u00a0sed\u2093;\u00a0\u0161eg\u2093;\u00a0\u1e6dur5;\u00a0ya10;"
+        "Values": " ʾu4; a; aia2; aya2; barₓ; buniŋₓ; burₓ; dur5; duru5; e4; ea; ebir3;emₓ; epir3; eš10; ŋa10; ia10; id5; me5; mu14; sedₓ; šegₓ; ṭur5; ya10;"
     },
     "851": {
         "Borger": 851,
@@ -3055,13 +3055,13 @@
         "Mittermayer": 474,
         "ORACC name": "/ZA ",
         "Ranke": "",
-        "Unicode": "U+1235D \ud808\udf5d",
+        "Unicode": "U+1235D 𒍝",
         "Unicode name": "ZA",
-        "Values": "\u00a0sa3;\u00a0\u1e63a;\u00a0za;\u00a0zagga2;"
+        "Values": " sa3; ṣa; za; zagga2;"
     },
     "856": {
         "Borger": 856,
-        "Borger name": "\u1e2aA (KU6)",
+        "Borger name": "ḪA (KU6)",
         "Clay": "",
         "Deimel": 589,
         "HethZL": 367,
@@ -3072,13 +3072,13 @@
         "Mittermayer": 475,
         "ORACC name": "/HA ",
         "Ranke": "",
-        "Unicode": "U+12129 \ud808\udd29",
+        "Unicode": "U+12129 𒄩",
         "Unicode name": "HA",
-        "Values": "\u00a0\u02bea4;\u00a0a7;\u00a0aya\u2093;\u00a0gir14;\u00a0ha;\u00a0kir9;\u00a0ku6;\u00a0kua;\u00a0pe\u016111;"
+        "Values": " ʾa4; a7; ayaₓ; gir14; ha; kir9; ku6; kua; peš11;"
     },
     "859": {
         "Borger": 859,
-        "Borger name": "N\u00cdG (GAR, NINDA)",
+        "Borger name": "NÍG (GAR, NINDA)",
         "Clay": "",
         "Deimel": 597,
         "HethZL": 369,
@@ -3089,9 +3089,9 @@
         "Mittermayer": 473,
         "ORACC name": "/GAR ",
         "Ranke": "",
-        "Unicode": "U+120FB \ud808\udcfb",
+        "Unicode": "U+120FB 𒃻",
         "Unicode name": "GAR",
-        "Values": "\u00a0ga4;\u00a0gar;\u00a0gara;\u00a0garak5;\u00a0\u014bar;\u00a0inda3;\u00a0inta3;\u00a0kar5;\u00a0ku\u2093;\u00a0mar3;menari;\u00a0mu8;\u00a0neq2;\u00a0ni3;\u00a0nig2;\u00a0nigi\u2093;\u00a0ni\u014b2;\u00a0nik2;\u00a0nim5;\u00a0nin6;\u00a0ninda;nindan;\u00a0ninni3;\u00a0niq2;\u00a0niqi\u2093;\u00a0nita4;\u00a0qar3;\u00a0qara3;\u00a0sa15;\u00a0\u0161a2;\u00a0\u0161ikin;\u00a0\u0161u7;"
+        "Values": " ga4; gar; gara; garak5; ŋar; inda3; inta3; kar5; kuₓ; mar3;menari; mu8; neq2; ni3; nig2; nigiₓ; niŋ2; nik2; nim5; nin6; ninda;nindan; ninni3; niq2; niqiₓ; nita4; qar3; qara3; sa15; ša2; šikin; šu7;"
     },
     "883": {
         "Borger": 883,
@@ -3106,9 +3106,9 @@
         "Mittermayer": 450,
         "ORACC name": "/SAL ",
         "Ranke": "",
-        "Unicode": "U+122A9 \ud808\udea9",
+        "Unicode": "U+122A9 𒊩",
         "Unicode name": "SAL",
-        "Values": "\u00a0f;\u00a0gal4;\u00a0gambi\u2093;\u00a0\u014bal4;\u00a0kal4;\u00a0lagar\u2093;\u00a0mam2;\u00a0man2;\u00a0me\u2093;\u00a0mem;mi2;\u00a0mim;\u00a0min2;\u00a0mu10;\u00a0mug2;\u00a0muk0;\u00a0muk3;\u00a0munus;\u00a0munuz;murub;\u00a0nunus\u2093;\u00a0rag;\u00a0rak;\u00a0raq;\u00a0sal;\u00a0sala;\u00a0\u0161a12;\u00a0\u0161al;\u00a0\u0161el4;"
+        "Values": " f; gal4; gambiₓ; ŋal4; kal4; lagarₓ; mam2; man2; meₓ; mem;mi2; mim; min2; mu10; mug2; muk0; muk3; munus; munuz;murub; nunusₓ; rag; rak; raq; sal; sala; ša12; šal; šel4;"
     },
     "884": {
         "Borger": 884,
@@ -3123,13 +3123,13 @@
         "Mittermayer": 456,
         "ORACC name": "/ZUM ",
         "Ranke": "",
-        "Unicode": "U+1236E \ud808\udf6e",
+        "Unicode": "U+1236E 𒍮",
         "Unicode name": "ZUM",
-        "Values": "\u00a0garig;\u00a0gazum2;\u00a0hal2;\u00a0ha\u01614;\u00a0ri4;\u00a0rig2;\u00a0ri\u014b2;\u00a0rik2;\u00a0rim\u2093;\u00a0riq2;sim5;\u00a0su14;\u00a0sum2;\u00a0\u0161u15;\u00a0\u1e63im;\u00a0\u1e63u;\u00a0\u1e63um;\u00a0zu3;\u00a0zum;"
+        "Values": " garig; gazum2; hal2; haš4; ri4; rig2; riŋ2; rik2; rimₓ; riq2;sim5; su14; sum2; šu15; ṣim; ṣu; ṣum; zu3; zum;"
     },
     "887": {
         "Borger": 887,
-        "Borger name": "NIN, old MUNUS.T\u00daG",
+        "Borger name": "NIN, old MUNUS.TÚG",
         "Clay": "",
         "Deimel": 556,
         "HethZL": 299,
@@ -3140,9 +3140,9 @@
         "Mittermayer": 452,
         "ORACC name": "/SAL.TUG2 ",
         "Ranke": "",
-        "Unicode": "U+122A9 \ud808\udea9 & U+12306 \ud808\udf06",
+        "Unicode": "U+122A9 𒊩 & U+12306 𒌆",
         "Unicode name": "SAL & TUG2",
-        "Values": "\u00a0e5;\u00a0ere\u0161;\u00a0eri\u0161;\u00a0in5;\u00a0min4;\u00a0nen;\u00a0ni4;\u00a0nim2;\u00a0nin;\u00a0nina3;"
+        "Values": " e5; ereš; eriš; in5; min4; nen; ni4; nim2; nin; nina3;"
     },
     "889": {
         "Borger": 889,
@@ -3157,13 +3157,13 @@
         "Mittermayer": 454,
         "ORACC name": "/DAM ",
         "Ranke": "",
-        "Unicode": "U+1206E \ud808\udc6e",
+        "Unicode": "U+1206E 𒁮",
         "Unicode name": "DAM",
-        "Values": "\u00a0da4;\u00a0dam;\u00a0dama;\u00a0dum3;\u00a0lam3;\u00a0ta4;\u00a0tam2;\u00a0tum10;\u00a0\u1e6da4;\u00a0\u1e6dam;"
+        "Values": " da4; dam; dama; dum3; lam3; ta4; tam2; tum10; ṭa4; ṭam;"
     },
     "890": {
         "Borger": 890,
-        "Borger name": "G\u00c9ME (MUNUS.KUR)",
+        "Borger name": "GÉME (MUNUS.KUR)",
         "Clay": "",
         "Deimel": 558,
         "HethZL": 305,
@@ -3174,9 +3174,9 @@
         "Mittermayer": 459,
         "ORACC name": "/SAL.KUR ",
         "Ranke": "",
-        "Unicode": "U+122A9 \ud808\udea9 & U+121B3 \ud808\uddb3",
+        "Unicode": "U+122A9 𒊩 & U+121B3 𒆳",
         "Unicode name": "SAL & KUR",
-        "Values": "\u00a0amat;\u00a0amtu;\u00a0ge12;\u00a0gem3;\u00a0geme2;\u00a0gi12;\u00a0gim3;\u00a0gin5;"
+        "Values": " amat; amtu; ge12; gem3; geme2; gi12; gim3; gin5;"
     },
     "891": {
         "Borger": 891,
@@ -3191,9 +3191,9 @@
         "Mittermayer": 458,
         "ORACC name": "/GU ",
         "Ranke": "",
-        "Unicode": "U+12116 \ud808\udd16",
+        "Unicode": "U+12116 𒄖",
         "Unicode name": "GU",
-        "Values": "\u00a0gu;\u00a0gum\u2093;\u00a0ku8;\u00a0qu3;"
+        "Values": " gu; gumₓ; ku8; qu3;"
     },
     "899": {
         "Borger": 899,
@@ -3208,9 +3208,9 @@
         "Mittermayer": 455,
         "ORACC name": "/EL ",
         "Ranke": "",
-        "Unicode": "U+12096 \ud808\udc96",
+        "Unicode": "U+12096 𒂖",
         "Unicode name": "EL",
-        "Values": "\u00a0dam0;\u00a0el;\u00a0ele2;\u00a0e\u016114;\u00a0il5;\u00a0ili5;\u00a0ram0;\u00a0sikil;"
+        "Values": " dam0; el; ele2; eš14; il5; ili5; ram0; sikil;"
     },
     "900": {
         "Borger": 900,
@@ -3225,9 +3225,9 @@
         "Mittermayer": 248,
         "ORACC name": "/LUM ",
         "Ranke": "",
-        "Unicode": "U+1221D \ud808\ude1d",
+        "Unicode": "U+1221D 𒈝",
         "Unicode name": "LUM",
-        "Values": "\u00a0eger5;\u00a0egir5;\u00a0e\u014bir5;\u00a0gam\u2093;\u00a0gu15;\u00a0gud6;\u00a0gum2;\u00a0gumu;\u00a0gun5;guz;\u00a0hu5;\u00a0hum;\u00a0humu;\u00a0hus;\u00a0huz;\u00a0kun\u2093;\u00a0ku\u014b\u2093;\u00a0kus2;\u00a0ku\u1e632;\u00a0lam\u2093;lu4;\u00a0lum;\u00a0luma;\u00a0lumu;\u00a0nim4;\u00a0nu4;\u00a0num2;\u00a0qum3;"
+        "Values": " eger5; egir5; eŋir5; gamₓ; gu15; gud6; gum2; gumu; gun5;guz; hu5; hum; humu; hus; huz; kunₓ; kuŋₓ; kus2; kuṣ2; lamₓ;lu4; lum; luma; lumu; nim4; nu4; num2; qum3;"
     },
     "905": {
         "Borger": 905,
@@ -3242,8 +3242,8 @@
         "Mittermayer": 243,
         "ORACC name": "/SIG4 ",
         "Ranke": "",
-        "Unicode": "U+122DE \ud808\udede",
+        "Unicode": "U+122DE 𒋞",
         "Unicode name": "SIG4",
-        "Values": "\u00a0bar5;\u00a0eger6;\u00a0egir6;\u00a0gar8;\u00a0gara8;\u00a0\u014bar8;\u00a0kulla;\u00a0kullu\u2093;\u00a0murgu;seg4;\u00a0sig4;\u00a0\u0161e27;\u00a0\u0161eb4;\u00a0\u0161ed16;\u00a0\u0161eg12;"
+        "Values": " bar5; eger6; egir6; gar8; gara8; ŋar8; kulla; kulluₓ; murgu;seg4; sig4; še27; šeb4; šed16; šeg12;"
     }
 }
