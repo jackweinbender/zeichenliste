@@ -1,0 +1,17 @@
+About frequency lists
+
+Ebla
+Total number of signs: 400517
+Data from frequency list at "Ebla Digital Archives": http://ebda.cnr.it/value/list
+
+OB
+Total number of signs: 393035
+Data from texts at "Old Babylonian Text Corpus" (AbB 1–13): http://sp105p02-kbs.ff.zcu.cz/utf/utf/showallcatalogue.php
+
+NA
+Total number of signs: 696054
+Data from texts at Oracc (SAA, 1958 letters): http://oracc.museum.upenn.edu/saao/corpus
+
+NB
+Total number of signs: 239372
+Data from texts at Oracc (SAA, 477 letters): http://oracc.museum.upenn.edu/saao/corpus
