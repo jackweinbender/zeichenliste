@@ -1,0 +1,5816 @@
+{
+    "A": {
+        "borger": "839",
+        "freq": "2",
+        "signname": "A",
+        "type": "Phonetic Comp."
+    },
+    "A2": {
+        "borger": "560",
+        "freq": "5",
+        "signname": "A2",
+        "type": "undefined"
+    },
+    "A@xHA": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "AB": {
+        "borger": "223",
+        "freq": "9",
+        "signname": "AB",
+        "type": "undefined"
+    },
+    "AB2": {
+        "borger": "672",
+        "freq": "2",
+        "signname": "AB2",
+        "type": "undefined"
+    },
+    "AB2@xTAK4": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "AB@xAŠ2": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ABBA2": {
+        "freq": "1",
+        "signname": "ABBA2",
+        "type": "undefined"
+    },
+    "ABGAL": {
+        "freq": "1",
+        "signname": "ABGAL",
+        "type": "Logogram"
+    },
+    "AD": {
+        "borger": "258",
+        "freq": "17",
+        "signname": "AD",
+        "type": "Logogram"
+    },
+    "AD2": {
+        "freq": "1",
+        "signname": "UL4",
+        "type": "undefined"
+    },
+    "ADAB": {
+        "freq": "1",
+        "signname": "ADAB",
+        "type": "Logogram"
+    },
+    "ADDIR": {
+        "freq": "1",
+        "signname": "ADDIR",
+        "type": "Logogram"
+    },
+    "AG": {
+        "borger": "127",
+        "freq": "2",
+        "signname": "AG",
+        "type": "Logogram"
+    },
+    "AG2": {
+        "freq": "12",
+        "signname": "AG2",
+        "type": "Logogram"
+    },
+    "AGA3": {
+        "borger": "836",
+        "freq": "61",
+        "signname": "DUN3@g",
+        "type": "Logogram"
+    },
+    "AGRIG": {
+        "freq": "1",
+        "signname": "AGRIG",
+        "type": "Logogram"
+    },
+    "AH": {
+        "borger": "636",
+        "freq": "3",
+        "signname": "AH",
+        "type": "Logogram"
+    },
+    "AK": {
+        "borger": "127",
+        "freq": "13",
+        "signname": "AG",
+        "type": "undefined"
+    },
+    "AKA": {
+        "borger": "127",
+        "freq": "1",
+        "signname": "AG",
+        "type": "Logogram"
+    },
+    "AKTUM": {
+        "freq": "4945",
+        "signname": "AKTUG",
+        "type": "Logogram"
+    },
+    "AL": {
+        "borger": "474",
+        "freq": "7",
+        "signname": "AL",
+        "type": "undefined"
+    },
+    "AL7": {
+        "freq": "13",
+        "signname": "MAH",
+        "type": "undefined"
+    },
+    "ALAM": {
+        "freq": "1",
+        "signname": "ALAN",
+        "type": "Logogram"
+    },
+    "ALAN": {
+        "freq": "3",
+        "signname": "ALAN",
+        "type": "undefined"
+    },
+    "ALANx": {
+        "freq": "3",
+        "signname": "ALANx",
+        "type": "undefined"
+    },
+    "ALIM": {
+        "freq": "3",
+        "signname": "ALIM",
+        "type": "Logogram"
+    },
+    "AM": {
+        "borger": "309",
+        "freq": "1",
+        "signname": "AM",
+        "type": "undefined"
+    },
+    "AM3": {
+        "freq": "2",
+        "signname": "AM3",
+        "type": "Logogram"
+    },
+    "AM7": {
+        "borger": "598",
+        "freq": "11",
+        "signname": "AN",
+        "type": "Logogram"
+    },
+    "AMA": {
+        "freq": "133",
+        "signname": "AMA",
+        "type": "Logogram"
+    },
+    "AMA@xGAL": {
+        "freq": "1",
+        "signname": "AMA@xGAL",
+        "type": "undefined"
+    },
+    "AMAR": {
+        "borger": "695",
+        "freq": "4",
+        "signname": "AMAR",
+        "type": "undefined"
+    },
+    "AMBAR": {
+        "freq": "6",
+        "signname": "SUG",
+        "type": "Logogram"
+    },
+    "AN": {
+        "borger": "10",
+        "freq": "750",
+        "signname": "AN",
+        "type": "undefined"
+    },
+    "ANŠE": {
+        "borger": "353",
+        "freq": "13",
+        "signname": "ANŠE",
+        "type": "undefined"
+    },
+    "AP": {
+        "borger": "223",
+        "freq": "1",
+        "signname": "AB",
+        "type": "undefined"
+    },
+    "APIN": {
+        "freq": "8",
+        "signname": "APIN",
+        "type": "Logogram"
+    },
+    "AR": {
+        "borger": "726",
+        "freq": "6",
+        "signname": "AR",
+        "type": "Logogram"
+    },
+    "AR3": {
+        "borger": "644",
+        "freq": "4",
+        "signname": "HAR",
+        "type": "Logogram"
+    },
+    "ARA": {
+        "borger": "566",
+        "freq": "2",
+        "signname": "ŠA",
+        "type": "Logogram"
+    },
+    "ASAR": {
+        "freq": "71",
+        "signname": "ŠILIG",
+        "type": "undefined"
+    },
+    "ASARx": {
+        "freq": "2",
+        "signname": "LAK212",
+        "type": "n.d."
+    },
+    "AT": {
+        "borger": "258",
+        "freq": "1",
+        "signname": "AD",
+        "type": "undefined"
+    },
+    "AZ": {
+        "borger": "297",
+        "freq": "4",
+        "signname": "AZ",
+        "type": "Logogram"
+    },
+    "AZLAG4": {
+        "freq": "3",
+        "signname": "AZLAG4",
+        "type": "undefined"
+    },
+    "AZLAGx": {
+        "freq": "1",
+        "signname": "AZLAGx",
+        "type": "n.d."
+    },
+    "AZU": {
+        "freq": "4",
+        "signname": "AZU",
+        "type": "undefined"
+    },
+    "AŠ": {
+        "borger": "1",
+        "freq": "6",
+        "signname": "AŠ",
+        "type": "Logogram"
+    },
+    "AŠ2": {
+        "borger": "548",
+        "freq": "3",
+        "signname": "AŠ2",
+        "type": "undefined"
+    },
+    "AŠGAB": {
+        "freq": "21",
+        "signname": "AŠGAB",
+        "type": "Logogram"
+    },
+    "AŠNAN": {
+        "freq": "1",
+        "signname": "AŠNAN",
+        "type": "Logogram"
+    },
+    "BA": {
+        "borger": "14",
+        "freq": "13",
+        "signname": "BA",
+        "type": "undefined"
+    },
+    "BA4": {
+        "freq": "1299",
+        "signname": "GA2",
+        "type": "Logogram"
+    },
+    "BAD": {
+        "borger": "113",
+        "freq": "3",
+        "signname": "BAD",
+        "type": "Logogram"
+    },
+    "BAD3": {
+        "borger": "275",
+        "freq": "4",
+        "signname": "BAD3",
+        "type": "undefined"
+    },
+    "BAHAR": {
+        "borger": "472",
+        "freq": "3",
+        "signname": "GUD",
+        "type": "Logogram"
+    },
+    "BAHAR2": {
+        "freq": "3",
+        "signname": "BAHAR2",
+        "type": "Logogram"
+    },
+    "BAL": {
+        "freq": "137",
+        "signname": "BAL",
+        "type": "undefined"
+    },
+    "BALA": {
+        "freq": "2",
+        "signname": "BAL",
+        "type": "undefined"
+    },
+    "BALAG": {
+        "freq": "1",
+        "signname": "BALAG",
+        "type": "undefined"
+    },
+    "BALx": {
+        "freq": "2",
+        "signname": "KUL",
+        "type": "undefined"
+    },
+    "BAN": {
+        "freq": "7",
+        "signname": "BAN",
+        "type": "undefined"
+    },
+    "BANDA3": {
+        "borger": "255",
+        "freq": "32",
+        "signname": "TUR",
+        "type": "Logogram"
+    },
+    "BANŠUR": {
+        "freq": "2",
+        "signname": "BANŠUR",
+        "type": "undefined"
+    },
+    "BAPPIR": {
+        "freq": "106",
+        "signname": "BAPPIR",
+        "type": "Logogram"
+    },
+    "BAR": {
+        "borger": "121",
+        "freq": "12",
+        "signname": "BAR",
+        "type": "undefined"
+    },
+    "BAR7": {
+        "borger": "313",
+        "freq": "4480",
+        "signname": "UD",
+        "type": "Logogram"
+    },
+    "BARA10": {
+        "freq": "10",
+        "signname": "BARA10",
+        "type": "undefined"
+    },
+    "BARA2": {
+        "borger": "554",
+        "freq": "3",
+        "signname": "BARA2",
+        "type": "undefined"
+    },
+    "BARA6": {
+        "freq": "4",
+        "signname": "BARA6",
+        "type": "undefined"
+    },
+    "BE": {
+        "borger": "113",
+        "freq": "1",
+        "signname": "BE",
+        "type": "Determinative"
+    },
+    "BI": {
+        "borger": "358",
+        "freq": "3",
+        "signname": "BI",
+        "type": "Logogram"
+    },
+    "BI2": {
+        "borger": "313",
+        "freq": "17",
+        "signname": "NE",
+        "type": "Logogram"
+    },
+    "BIL2": {
+        "borger": "312",
+        "freq": "4",
+        "signname": "GIBIL",
+        "type": "undefined"
+    },
+    "BIR2": {
+        "borger": "596",
+        "freq": "19",
+        "signname": "UD",
+        "type": "Logogram"
+    },
+    "BIR3": {
+        "borger": "612",
+        "freq": "15",
+        "signname": "ERIN2",
+        "type": "Logogram"
+    },
+    "BIR5": {
+        "borger": "134",
+        "freq": "3",
+        "signname": "NAM",
+        "type": "Logogram"
+    },
+    "BU": {
+        "borger": "580",
+        "freq": "5",
+        "signname": "BU",
+        "type": "Logogram"
+    },
+    "BU15": {
+        "borger": "746",
+        "freq": "3",
+        "signname": "PAD",
+        "type": "undefined"
+    },
+    "BU17": {
+        "freq": "3",
+        "signname": "NI",
+        "type": "Logogram"
+    },
+    "BU3": {
+        "freq": "1",
+        "signname": "BU3",
+        "type": "undefined"
+    },
+    "BULUG": {
+        "freq": "2",
+        "signname": "BULUG",
+        "type": "Logogram"
+    },
+    "BULUG4": {
+        "freq": "4",
+        "signname": "NAGAR",
+        "type": "Logogram"
+    },
+    "BUNINx": {
+        "freq": "2",
+        "signname": "SUG",
+        "type": "n.d."
+    },
+    "BUR": {
+        "borger": "559",
+        "freq": "13",
+        "signname": "BUR",
+        "type": "undefined"
+    },
+    "BUR2": {
+        "freq": "3",
+        "signname": "BUR2",
+        "type": "Logogram"
+    },
+    "BURU4": {
+        "freq": "1",
+        "signname": "BURU4",
+        "type": "Determinative"
+    },
+    "C706": {
+        "freq": "1",
+        "signname": "C706",
+        "type": "Logogram"
+    },
+    "C707": {
+        "freq": "2",
+        "signname": "C707",
+        "type": "Logogram"
+    },
+    "C709": {
+        "freq": "3",
+        "signname": "C709",
+        "type": "Logogram"
+    },
+    "C710": {
+        "freq": "1",
+        "signname": "C710",
+        "type": "Logogram"
+    },
+    "C713": {
+        "freq": "1",
+        "signname": "C713",
+        "type": "Logogram"
+    },
+    "C714": {
+        "freq": "1",
+        "signname": "C714",
+        "type": "Logogram"
+    },
+    "C716": {
+        "freq": "1",
+        "signname": "C716",
+        "type": "Logogram"
+    },
+    "C718": {
+        "freq": "1",
+        "signname": "C718",
+        "type": "undefined"
+    },
+    "C719": {
+        "freq": "2",
+        "signname": "C719",
+        "type": "undefined"
+    },
+    "C721": {
+        "freq": "1",
+        "signname": "C721",
+        "type": "undefined"
+    },
+    "C722": {
+        "freq": "1",
+        "signname": "C722",
+        "type": "undefined"
+    },
+    "C723": {
+        "freq": "1",
+        "signname": "C723",
+        "type": "undefined"
+    },
+    "C724": {
+        "freq": "1",
+        "signname": "C724",
+        "type": "undefined"
+    },
+    "DA": {
+        "borger": "561",
+        "freq": "12",
+        "signname": "DA",
+        "type": "undefined"
+    },
+    "DA3": {
+        "borger": "379",
+        "freq": "2",
+        "signname": "KAK",
+        "type": "Logogram"
+    },
+    "DAB": {
+        "freq": "1",
+        "signname": "DIB",
+        "type": "undefined"
+    },
+    "DAB5": {
+        "borger": "808",
+        "freq": "2",
+        "signname": "KU",
+        "type": "Logogram"
+    },
+    "DAB7": {
+        "freq": "6",
+        "signname": "URUDU",
+        "type": "Logogram"
+    },
+    "DABAŠIN": {
+        "freq": "3",
+        "signname": "KU6",
+        "type": "Logogram"
+    },
+    "DABIN": {
+        "freq": "18",
+        "signname": "DABIN",
+        "type": "Logogram"
+    },
+    "DAG": {
+        "borger": "438",
+        "freq": "9",
+        "signname": "DAG",
+        "type": "Logogram"
+    },
+    "DAG@xKASKAL": {
+        "freq": "0",
+        "signname": "DAG@xKASKAL",
+        "type": "n.d."
+    },
+    "DAG@xPAP": {
+        "freq": "0",
+        "signname": "DAG@xPAP",
+        "type": "n.d."
+    },
+    "DAGx": {
+        "freq": "3",
+        "signname": "LAK457",
+        "type": "n.d."
+    },
+    "DAH": {
+        "freq": "1",
+        "signname": "DAH",
+        "type": "undefined"
+    },
+    "DAL": {
+        "borger": "142",
+        "freq": "4",
+        "signname": "RI",
+        "type": "Logogram"
+    },
+    "DALLA": {
+        "freq": "2",
+        "signname": "DALLA",
+        "type": "undefined"
+    },
+    "DAM": {
+        "borger": "889",
+        "freq": "2",
+        "signname": "DAM",
+        "type": "undefined"
+    },
+    "DAR": {
+        "borger": "183",
+        "freq": "33",
+        "signname": "DAR",
+        "type": "undefined"
+    },
+    "DARA3": {
+        "freq": "2",
+        "signname": "DARA3",
+        "type": "undefined"
+    },
+    "DE2": {
+        "freq": "11",
+        "signname": "SIMUG",
+        "type": "Logogram"
+    },
+    "DE3": {
+        "borger": "313",
+        "freq": "3",
+        "signname": "NE",
+        "type": "Logogram"
+    },
+    "DI": {
+        "borger": "736",
+        "freq": "120",
+        "signname": "DI",
+        "type": "undefined"
+    },
+    "DIB": {
+        "freq": "16",
+        "signname": "DIB",
+        "type": "undefined"
+    },
+    "DILI": {
+        "borger": "1",
+        "freq": "10",
+        "signname": "AŠ",
+        "type": "Logogram"
+    },
+    "DILIM2": {
+        "freq": "2",
+        "signname": "LIŠ",
+        "type": "Logogram"
+    },
+    "DILMUN": {
+        "freq": "5",
+        "signname": "DILMUN",
+        "type": "Logogram"
+    },
+    "DIM": {
+        "borger": "167",
+        "freq": "2",
+        "signname": "DIM",
+        "type": "undefined"
+    },
+    "DIM2": {
+        "borger": "686",
+        "freq": "12",
+        "signname": "DIM2",
+        "type": "undefined"
+    },
+    "DIM4": {
+        "freq": "6",
+        "signname": "MUNU4",
+        "type": "undefined"
+    },
+    "DIMx": {
+        "freq": "2",
+        "signname": "MUN",
+        "type": "n.d."
+    },
+    "DIN": {
+        "borger": "119",
+        "freq": "2",
+        "signname": "DIN",
+        "type": "Logogram"
+    },
+    "DINGIR": {
+        "borger": "10",
+        "freq": "15",
+        "signname": "AN",
+        "type": "undefined"
+    },
+    "DIR2": {
+        "borger": "183",
+        "freq": "1",
+        "signname": "DAR",
+        "type": "undefined"
+    },
+    "DIRI": {
+        "freq": "5",
+        "signname": "DIRI",
+        "type": "undefined"
+    },
+    "DIŠ": {
+        "borger": "748",
+        "freq": "10",
+        "signname": "DIŠ",
+        "type": "undefined"
+    },
+    "DU": {
+        "borger": "350",
+        "freq": "303",
+        "signname": "DU",
+        "type": "Logogram"
+    },
+    "DU10": {
+        "borger": "631",
+        "freq": "2",
+        "signname": "HI",
+        "type": "undefined"
+    },
+    "DU11": {
+        "borger": "24",
+        "freq": "3",
+        "signname": "KA",
+        "type": "undefined"
+    },
+    "DU3": {
+        "borger": "379",
+        "freq": "21",
+        "signname": "KAK",
+        "type": "undefined"
+    },
+    "DU6": {
+        "freq": "15",
+        "signname": "DU6",
+        "type": "Logogram"
+    },
+    "DU7": {
+        "borger": "698",
+        "freq": "11",
+        "signname": "DU7",
+        "type": "undefined"
+    },
+    "DU8": {
+        "borger": "298",
+        "freq": "24",
+        "signname": "GABA",
+        "type": "undefined"
+    },
+    "DUB": {
+        "borger": "242",
+        "freq": "7",
+        "signname": "DUB",
+        "type": "undefined"
+    },
+    "DUG": {
+        "freq": "32",
+        "signname": "DUG",
+        "type": "undefined"
+    },
+    "DUG3": {
+        "borger": "631",
+        "freq": "3",
+        "signname": "HI",
+        "type": "Logogram"
+    },
+    "DUGUD": {
+        "freq": "1",
+        "signname": "DUGUD",
+        "type": "undefined"
+    },
+    "DUL10": {
+        "borger": "580",
+        "freq": "1",
+        "signname": "BU",
+        "type": "Logogram"
+    },
+    "DUL3": {
+        "freq": "10",
+        "signname": "DUL3",
+        "type": "undefined"
+    },
+    "DUL5": {
+        "freq": "4",
+        "signname": "TUG2",
+        "type": "Logogram"
+    },
+    "DUM": {
+        "borger": "354",
+        "freq": "8",
+        "signname": "TUM",
+        "type": "Logogram"
+    },
+    "DUM3": {
+        "borger": "889",
+        "freq": "1",
+        "signname": "DAM",
+        "type": "Logogram"
+    },
+    "DUMU": {
+        "borger": "255",
+        "freq": "1541",
+        "signname": "TUR",
+        "type": "Logogram"
+    },
+    "DUN3": {
+        "freq": "7",
+        "signname": "DUN3",
+        "type": "Logogram"
+    },
+    "DUR": {
+        "borger": "178",
+        "freq": "7",
+        "signname": "DUR",
+        "type": "undefined"
+    },
+    "DUR2": {
+        "freq": "2",
+        "signname": "DUR2",
+        "type": "Logogram"
+    },
+    "DURU5": {
+        "borger": "839",
+        "freq": "189",
+        "signname": "A",
+        "type": "Logogram"
+    },
+    "E": {
+        "borger": "498",
+        "freq": "4",
+        "signname": "E",
+        "type": "undefined"
+    },
+    "E11": {
+        "freq": "30",
+        "signname": "E11",
+        "type": "Logogram"
+    },
+    "E2": {
+        "borger": "495",
+        "freq": "115",
+        "signname": "E2",
+        "type": "undefined"
+    },
+    "E2@xAŠ": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "E2@xGIGIR2": {
+        "freq": "15",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "E2@xPAP": {
+        "freq": "257",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "E3": {
+        "freq": "1",
+        "signname": "E3",
+        "type": "Phonetic Comp."
+    },
+    "EDEN": {
+        "freq": "4",
+        "signname": "EDIN",
+        "type": "Logogram"
+    },
+    "EDIN": {
+        "freq": "14",
+        "signname": "EDIN",
+        "type": "undefined"
+    },
+    "EGIRx": {
+        "freq": "3",
+        "signname": "TUM",
+        "type": "n.d."
+    },
+    "EME": {
+        "borger": "61",
+        "freq": "2",
+        "signname": "EME",
+        "type": "undefined"
+    },
+    "EN": {
+        "borger": "164",
+        "freq": "1",
+        "signname": "EN",
+        "type": "Determinative"
+    },
+    "EN2": {
+        "freq": "26",
+        "signname": "EN2",
+        "type": "undefined"
+    },
+    "EN3": {
+        "borger": "85",
+        "freq": "3",
+        "signname": "LI",
+        "type": "Logogram"
+    },
+    "ENGAR": {
+        "freq": "1",
+        "signname": "APIN",
+        "type": "undefined"
+    },
+    "ENGUR": {
+        "freq": "1",
+        "signname": "ENGUR",
+        "type": "Logogram"
+    },
+    "ENKU": {
+        "freq": "1",
+        "signname": "ENKU",
+        "type": "Logogram"
+    },
+    "ER2": {
+        "freq": "4",
+        "signname": "ER2",
+        "type": "Logogram"
+    },
+    "EREN": {
+        "freq": "1",
+        "signname": "EREN",
+        "type": "Logogram"
+    },
+    "EREN2": {
+        "borger": "612",
+        "freq": "9",
+        "signname": "ERIN2",
+        "type": "undefined"
+    },
+    "EREN2+X": {
+        "freq": "4",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ERIM": {
+        "borger": "612",
+        "freq": "1",
+        "signname": "ERIN2",
+        "type": "undefined"
+    },
+    "ERIN": {
+        "freq": "1",
+        "signname": "EREN",
+        "type": "undefined"
+    },
+    "ERIN2": {
+        "borger": "612",
+        "freq": "7",
+        "signname": "ERIN2",
+        "type": "undefined"
+    },
+    "ERIN@xKASKAL": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ESI": {
+        "borger": "496",
+        "freq": "14",
+        "signname": "KAL",
+        "type": "Logogram"
+    },
+    "ESIR2": {
+        "freq": "6",
+        "signname": "ESIR2",
+        "type": "Logogram"
+    },
+    "ESIR4": {
+        "freq": "1",
+        "signname": "GILIM",
+        "type": "Logogram"
+    },
+    "EZEN": {
+        "freq": "5",
+        "signname": "EZEN",
+        "type": "Logogram"
+    },
+    "EZEN@xAN": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "EŠ2": {
+        "freq": "5",
+        "signname": "EŠ2",
+        "type": "undefined"
+    },
+    "EŠ22": {
+        "freq": "2",
+        "signname": "IŠ11",
+        "type": "Logogram"
+    },
+    "EŠ8": {
+        "borger": "302",
+        "freq": "3",
+        "signname": "KASKAL",
+        "type": "Logogram"
+    },
+    "EŠKIRIx": {
+        "freq": "14",
+        "signname": "EŠKIRIx",
+        "type": "n.d."
+    },
+    "GA": {
+        "borger": "491",
+        "freq": "10",
+        "signname": "GA",
+        "type": "undefined"
+    },
+    "GA2": {
+        "freq": "21",
+        "signname": "GA2",
+        "type": "undefined"
+    },
+    "GA2@xGEME2": {
+        "freq": "2",
+        "signname": "GA2@xGEME2",
+        "type": "undefined"
+    },
+    "GA2@xGI": {
+        "freq": "10",
+        "signname": "GA2@xGI",
+        "type": "undefined"
+    },
+    "GA2@xLA2": {
+        "freq": "187",
+        "signname": "GA2@xLA2",
+        "type": "undefined"
+    },
+    "GA2@xSIG6": {
+        "freq": "11",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GA@xLA2": {
+        "freq": "1",
+        "signname": "GA2@xLA2",
+        "type": "undefined"
+    },
+    "GAB2": {
+        "borger": "148",
+        "freq": "1",
+        "signname": "GAB2",
+        "type": "Logogram"
+    },
+    "GABA": {
+        "borger": "298",
+        "freq": "39",
+        "signname": "GABA",
+        "type": "undefined"
+    },
+    "GADA": {
+        "borger": "157",
+        "freq": "590",
+        "signname": "GADA",
+        "type": "Logogram"
+    },
+    "GAG": {
+        "borger": "379",
+        "freq": "2",
+        "signname": "KAK",
+        "type": "undefined"
+    },
+    "GAL": {
+        "borger": "553",
+        "freq": "5",
+        "signname": "GAL",
+        "type": "undefined"
+    },
+    "GAL2": {
+        "borger": "136",
+        "freq": "86",
+        "signname": "IG",
+        "type": "Logogram"
+    },
+    "GAM": {
+        "freq": "6",
+        "signname": "GAM",
+        "type": "Logogram"
+    },
+    "GAN": {
+        "borger": "253",
+        "freq": "2",
+        "signname": "GAN",
+        "type": "Logogram"
+    },
+    "GAN2": {
+        "borger": "174",
+        "freq": "3",
+        "signname": "GAN2",
+        "type": "Logogram"
+    },
+    "GANA2": {
+        "borger": "174",
+        "freq": "5",
+        "signname": "GAN2",
+        "type": "undefined"
+    },
+    "GANUN": {
+        "freq": "1",
+        "signname": "GANUN",
+        "type": "Logogram"
+    },
+    "GAR": {
+        "borger": "859",
+        "freq": "39",
+        "signname": "GAR",
+        "type": "undefined"
+    },
+    "GAR3": {
+        "borger": "543",
+        "freq": "20",
+        "signname": "GAR3",
+        "type": "Logogram"
+    },
+    "GAR5": {
+        "freq": "1",
+        "signname": "LU3",
+        "type": "undefined"
+    },
+    "GARA2": {
+        "freq": "2",
+        "signname": "GARA2",
+        "type": "Logogram"
+    },
+    "GARAŠx": {
+        "freq": "1",
+        "signname": "KASKAL",
+        "type": "n.d."
+    },
+    "GAZ2": {
+        "borger": "339",
+        "freq": "6",
+        "signname": "GUM",
+        "type": "Logogram"
+    },
+    "GE": {
+        "borger": "141",
+        "freq": "4",
+        "signname": "GI",
+        "type": "Logogram"
+    },
+    "GEME2": {
+        "borger": "890",
+        "freq": "21",
+        "signname": "GEME2",
+        "type": "Logogram"
+    },
+    "GEŠTIN": {
+        "freq": "2",
+        "signname": "GEŠTIN",
+        "type": "undefined"
+    },
+    "GEŠTU": {
+        "borger": "598",
+        "freq": "3",
+        "signname": "GEŠTUG",
+        "type": "Logogram"
+    },
+    "GEŠTUG": {
+        "borger": "598",
+        "freq": "5",
+        "signname": "GEŠTUG",
+        "type": "Logogram"
+    },
+    "GEŠTUGx": {
+        "freq": "124",
+        "signname": "GEŠTUGx",
+        "type": "n.d."
+    },
+    "GI": {
+        "borger": "141",
+        "freq": "10",
+        "signname": "GI",
+        "type": "undefined"
+    },
+    "GI4": {
+        "borger": "507",
+        "freq": "3",
+        "signname": "GI4",
+        "type": "undefined"
+    },
+    "GI7": {
+        "freq": "2",
+        "signname": "MI",
+        "type": "undefined"
+    },
+    "GI@xGI": {
+        "freq": "8",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GIBIL": {
+        "borger": "312",
+        "freq": "38",
+        "signname": "GIBIL",
+        "type": "undefined"
+    },
+    "GIBIL4": {
+        "borger": "313",
+        "freq": "1",
+        "signname": "NE",
+        "type": "undefined"
+    },
+    "GID2": {
+        "borger": "580",
+        "freq": "1",
+        "signname": "BU",
+        "type": "undefined"
+    },
+    "GIG": {
+        "freq": "18",
+        "signname": "GIG",
+        "type": "Logogram"
+    },
+    "GIGIR": {
+        "freq": "1",
+        "signname": "GIGIR",
+        "type": "Logogram"
+    },
+    "GIGIR2": {
+        "freq": "163",
+        "signname": "GIGIR2",
+        "type": "Logogram"
+    },
+    "GILIM": {
+        "freq": "3",
+        "signname": "GILIM",
+        "type": "Logogram"
+    },
+    "GIM": {
+        "borger": "686",
+        "freq": "2",
+        "signname": "DIM2",
+        "type": "undefined"
+    },
+    "GIN": {
+        "borger": "350",
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "GIN2": {
+        "borger": "836",
+        "freq": "420",
+        "signname": "DUN3@g",
+        "type": "undefined"
+    },
+    "GIN3": {
+        "borger": "578",
+        "freq": "164",
+        "signname": "KUR",
+        "type": "Logogram"
+    },
+    "GIN6": {
+        "borger": "141",
+        "freq": "6",
+        "signname": "DIM2",
+        "type": "Logogram"
+    },
+    "GIR": {
+        "borger": "558",
+        "freq": "1",
+        "signname": "PEŠ",
+        "type": "undefined"
+    },
+    "GIR2": {
+        "freq": "2",
+        "signname": "GIR2",
+        "type": "undefined"
+    },
+    "GIR3": {
+        "borger": "701",
+        "freq": "5",
+        "signname": "GIR3",
+        "type": "undefined"
+    },
+    "GIŠ": {
+        "borger": "469",
+        "freq": "221",
+        "signname": "GIŠ",
+        "type": "undefined"
+    },
+    "GIŠ@xGIŠ": {
+        "freq": "1",
+        "signname": "GIŠ@xGIŠ",
+        "type": "undefined"
+    },
+    "GIŠ@xGIŠ@xGIŠ": {
+        "freq": "3",
+        "signname": "GIŠ@xGIŠ@xGIŠ",
+        "type": "undefined"
+    },
+    "GIŠ@xMIN3": {
+        "freq": "4",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GIŠ@xTAK4": {
+        "freq": "5",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GIŠGAL": {
+        "freq": "1",
+        "signname": "GIŠGAL",
+        "type": "Logogram"
+    },
+    "GIŠGAL@xGUG2": {
+        "freq": "3",
+        "signname": "GIŠGAL@xGUG2",
+        "type": "n.d."
+    },
+    "GIŠGAL@xMUNU4": {
+        "freq": "1",
+        "signname": "GIŠGAL@xMUNU4",
+        "type": "undefined"
+    },
+    "GIŠGAL@xURUDU": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GIŠKIM": {
+        "freq": "2",
+        "signname": "AGRIG",
+        "type": "Logogram"
+    },
+    "GU": {
+        "borger": "891",
+        "freq": "1",
+        "signname": "GU",
+        "type": "Determinative"
+    },
+    "GU2": {
+        "borger": "176",
+        "freq": "128",
+        "signname": "GU2",
+        "type": "Logogram"
+    },
+    "GU3": {
+        "borger": "24",
+        "freq": "6",
+        "signname": "KA",
+        "type": "Logogram"
+    },
+    "GU4": {
+        "borger": "472",
+        "freq": "8",
+        "signname": "GUD",
+        "type": "undefined"
+    },
+    "GU@xGU": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "GUB": {
+        "borger": "350",
+        "freq": "22",
+        "signname": "DU",
+        "type": "Logogram"
+    },
+    "GUB3": {
+        "borger": "148",
+        "freq": "2",
+        "signname": "GAB2",
+        "type": "Logogram"
+    },
+    "GUD": {
+        "borger": "472",
+        "freq": "15",
+        "signname": "GUD",
+        "type": "undefined"
+    },
+    "GUDU4": {
+        "freq": "7",
+        "signname": "GUDU4",
+        "type": "Logogram"
+    },
+    "GUG": {
+        "freq": "1",
+        "signname": "GUG",
+        "type": "Logogram"
+    },
+    "GUG2": {
+        "freq": "1",
+        "signname": "LU3",
+        "type": "Logogram"
+    },
+    "GUGx": {
+        "freq": "3",
+        "signname": "GUL",
+        "type": "n.d."
+    },
+    "GUKKAL": {
+        "freq": "10",
+        "signname": "GUKKAL",
+        "type": "Logogram"
+    },
+    "GUL": {
+        "borger": "682",
+        "freq": "10",
+        "signname": "GUL",
+        "type": "undefined"
+    },
+    "GUN3": {
+        "borger": "183",
+        "freq": "10254",
+        "signname": "DAR",
+        "type": "Logogram"
+    },
+    "GUR": {
+        "borger": "180",
+        "freq": "2",
+        "signname": "GUR",
+        "type": "undefined"
+    },
+    "GUR10": {
+        "freq": "52",
+        "signname": "KIN",
+        "type": "Logogram"
+    },
+    "GUR2": {
+        "freq": "4",
+        "signname": "GAM",
+        "type": "Logogram"
+    },
+    "GUR4": {
+        "freq": "1",
+        "signname": "LAGAB",
+        "type": "undefined"
+    },
+    "GUR8": {
+        "freq": "5",
+        "signname": "GUR8",
+        "type": "undefined"
+    },
+    "GURUŠ": {
+        "freq": "5",
+        "signname": "GURUŠ",
+        "type": "undefined"
+    },
+    "GUŠUR": {
+        "freq": "1",
+        "signname": "UR3",
+        "type": "Logogram"
+    },
+    "HA": {
+        "borger": "856",
+        "freq": "63",
+        "signname": "HA",
+        "type": "undefined"
+    },
+    "HAB2": {
+        "freq": "254",
+        "signname": "GIGIR2",
+        "type": "Logogram"
+    },
+    "HAL": {
+        "borger": "3",
+        "freq": "1",
+        "signname": "HAL",
+        "type": "Logogram"
+    },
+    "HAR": {
+        "borger": "644",
+        "freq": "9",
+        "signname": "HAR",
+        "type": "Logogram"
+    },
+    "HAx": {
+        "freq": "9",
+        "signname": "HAL",
+        "type": "n.d."
+    },
+    "HAŠ": {
+        "borger": "9",
+        "freq": "1",
+        "signname": "TAR",
+        "type": "undefined"
+    },
+    "HAŠHUR": {
+        "freq": "4",
+        "signname": "HAŠHUR",
+        "type": "Logogram"
+    },
+    "HE": {
+        "borger": "631",
+        "freq": "6",
+        "signname": "HI",
+        "type": "Logogram"
+    },
+    "HE2": {
+        "borger": "253",
+        "freq": "1",
+        "signname": "GAN",
+        "type": "undefined"
+    },
+    "HI": {
+        "borger": "631",
+        "freq": "22",
+        "signname": "HI",
+        "type": "undefined"
+    },
+    "HI@MAŠ": {
+        "freq": "0",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HI@xBAD": {
+        "freq": "0",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HI@xMAŠ": {
+        "freq": "0",
+        "signname": "--",
+        "type": "n.d."
+    },
+    "HU": {
+        "borger": "132",
+        "freq": "6",
+        "signname": "HU",
+        "type": "Logogram"
+    },
+    "HUB2": {
+        "freq": "15",
+        "signname": "HUB2",
+        "type": "Logogram"
+    },
+    "HUB2@xUD": {
+        "freq": "3",
+        "signname": "HUB2@xUD",
+        "type": "undefined"
+    },
+    "HUB2@xŠE3": {
+        "freq": "1",
+        "signname": "HUB2@xŠE3",
+        "type": "undefined"
+    },
+    "HUBUR@x": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HUBUR@xAN": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HUBUR@xGU": {
+        "freq": "9",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HUBUR@xSI": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "HUDUŠ": {
+        "borger": "86",
+        "freq": "3",
+        "signname": "TU",
+        "type": "Logogram"
+    },
+    "HUL": {
+        "freq": "1",
+        "signname": "HUL",
+        "type": "undefined"
+    },
+    "HUL2": {
+        "freq": "3",
+        "signname": "HUL2",
+        "type": "undefined"
+    },
+    "HUR": {
+        "borger": "644",
+        "freq": "7",
+        "signname": "HAR",
+        "type": "Logogram"
+    },
+    "HURINx": {
+        "freq": "2",
+        "signname": "HURINx",
+        "type": "n.d."
+    },
+    "HUŠ": {
+        "freq": "2",
+        "signname": "HUŠ",
+        "type": "Logogram"
+    },
+    "I": {
+        "borger": "252",
+        "freq": "1",
+        "signname": "I",
+        "type": "Determinative"
+    },
+    "I3": {
+        "borger": "380",
+        "freq": "1353",
+        "signname": "NI",
+        "type": "Logogram"
+    },
+    "IB": {
+        "borger": "807",
+        "freq": "2",
+        "signname": "IB",
+        "type": "undefined"
+    },
+    "IB2": {
+        "borger": "354",
+        "freq": "10841",
+        "signname": "TUM",
+        "type": "Logogram"
+    },
+    "IB2@x": {
+        "freq": "4",
+        "signname": "TUM",
+        "type": "Numeral"
+    },
+    "IB2@x1": {
+        "freq": "3",
+        "signname": "IB2@x1",
+        "type": "n.d."
+    },
+    "IB2@x2": {
+        "freq": "18",
+        "signname": "IB2@x2",
+        "type": "n.d."
+    },
+    "IB2@x3": {
+        "freq": "529",
+        "signname": "IB2@x3",
+        "type": "n.d."
+    },
+    "IB2@x4": {
+        "freq": "37",
+        "signname": "IB2@x4",
+        "type": "n.d."
+    },
+    "IB2@x5": {
+        "freq": "5",
+        "signname": "IB2@x5",
+        "type": "n.d."
+    },
+    "IB2@x6": {
+        "freq": "1",
+        "signname": "IB2@x6",
+        "type": "n.d."
+    },
+    "ID2": {
+        "freq": "1",
+        "signname": "ID2",
+        "type": "Logogram"
+    },
+    "IG": {
+        "borger": "136",
+        "freq": "3",
+        "signname": "IG",
+        "type": "undefined"
+    },
+    "IGI": {
+        "borger": "724",
+        "freq": "165",
+        "signname": "IGI",
+        "type": "undefined"
+    },
+    "IK": {
+        "borger": "136",
+        "freq": "1",
+        "signname": "IG",
+        "type": "Logogram"
+    },
+    "IL": {
+        "borger": "348",
+        "freq": "2",
+        "signname": "IL",
+        "type": "Logogram"
+    },
+    "IL2": {
+        "freq": "85",
+        "signname": "IL2",
+        "type": "Logogram"
+    },
+    "ILDAG4": {
+        "freq": "12",
+        "signname": "ILDAG4",
+        "type": "Logogram"
+    },
+    "IM": {
+        "borger": "641",
+        "freq": "5",
+        "signname": "IM",
+        "type": "undefined"
+    },
+    "IN": {
+        "borger": "261",
+        "freq": "1",
+        "signname": "IN",
+        "type": "undefined"
+    },
+    "INANNA": {
+        "borger": "153",
+        "freq": "9",
+        "signname": "MUŠ3",
+        "type": "Logogram"
+    },
+    "INIM": {
+        "borger": "24",
+        "freq": "46",
+        "signname": "KA",
+        "type": "Logogram"
+    },
+    "IR": {
+        "borger": "437",
+        "freq": "26",
+        "signname": "IR",
+        "type": "Logogram"
+    },
+    "IR11": {
+        "freq": "1",
+        "signname": "ARAD2",
+        "type": "undefined"
+    },
+    "IR3": {
+        "borger": "18",
+        "freq": "1",
+        "signname": "ARAD",
+        "type": "Logogram"
+    },
+    "ITI": {
+        "borger": "20",
+        "freq": "772",
+        "signname": "ITI",
+        "type": "Logogram"
+    },
+    "IZI": {
+        "borger": "313",
+        "freq": "48",
+        "signname": "NE",
+        "type": "Logogram"
+    },
+    "IŠ": {
+        "borger": "357",
+        "freq": "2",
+        "signname": "IŠ",
+        "type": "undefined"
+    },
+    "IŠ11": {
+        "freq": "4",
+        "signname": "IŠ11",
+        "type": "Logogram"
+    },
+    "KA": {
+        "borger": "24",
+        "freq": "9",
+        "signname": "KA",
+        "type": "Logogram"
+    },
+    "KA2": {
+        "borger": "222",
+        "freq": "4",
+        "signname": "KA2",
+        "type": "undefined"
+    },
+    "KA@xKAR2": {
+        "freq": "0",
+        "signname": "KA@xKAR2",
+        "type": "undefined"
+    },
+    "KA@xKID": {
+        "freq": "2",
+        "signname": "KA@xKID",
+        "type": "undefined"
+    },
+    "KAB": {
+        "borger": "148",
+        "freq": "1",
+        "signname": "GAB2",
+        "type": "undefined"
+    },
+    "KAD4": {
+        "freq": "2",
+        "signname": "KAD4",
+        "type": "Logogram"
+    },
+    "KAK": {
+        "borger": "379",
+        "freq": "124",
+        "signname": "KAK",
+        "type": "Logogram"
+    },
+    "KAL": {
+        "borger": "496",
+        "freq": "1",
+        "signname": "KAL",
+        "type": "Logogram"
+    },
+    "KALAM": {
+        "borger": "501",
+        "freq": "3",
+        "signname": "KALAM",
+        "type": "undefined"
+    },
+    "KAM4": {
+        "freq": "32",
+        "signname": "KAM4",
+        "type": "Logogram"
+    },
+    "KAR": {
+        "borger": "590",
+        "freq": "4",
+        "signname": "KAR",
+        "type": "undefined"
+    },
+    "KAR2": {
+        "freq": "24",
+        "signname": "KAR2",
+        "type": "Logogram"
+    },
+    "KAS": {
+        "borger": "302",
+        "freq": "0",
+        "signname": "KASKAL",
+        "type": "Logogram"
+    },
+    "KAS4": {
+        "freq": "6",
+        "signname": "KAS4",
+        "type": "undefined"
+    },
+    "KAS6": {
+        "borger": "339",
+        "freq": "2",
+        "signname": "ŠID",
+        "type": "Logogram"
+    },
+    "KASKAL": {
+        "borger": "302",
+        "freq": "13",
+        "signname": "KASKAL",
+        "type": "undefined"
+    },
+    "KEŠ2": {
+        "freq": "17",
+        "signname": "KEŠDA",
+        "type": "undefined"
+    },
+    "KEŠDA": {
+        "freq": "8",
+        "signname": "KEŠDA",
+        "type": "undefined"
+    },
+    "KEŠDA2": {
+        "freq": "4",
+        "signname": "KEŠDA2",
+        "type": "Logogram"
+    },
+    "KI": {
+        "borger": "737",
+        "freq": "99",
+        "signname": "KI",
+        "type": "undefined"
+    },
+    "KIB": {
+        "borger": "378",
+        "freq": "2",
+        "signname": "KIB",
+        "type": "undefined"
+    },
+    "KID": {
+        "borger": "484",
+        "freq": "3",
+        "signname": "KID",
+        "type": "undefined"
+    },
+    "KID2": {
+        "freq": "0",
+        "signname": "KID2",
+        "type": "Logogram"
+    },
+    "KID3": {
+        "borger": "127",
+        "freq": "3",
+        "signname": "AG",
+        "type": "Logogram"
+    },
+    "KIKKEN": {
+        "borger": "644",
+        "freq": "14",
+        "signname": "HAR",
+        "type": "Logogram"
+    },
+    "KIKKEN2": {
+        "freq": "8",
+        "signname": "KIKKEN2",
+        "type": "Logogram"
+    },
+    "KIM3": {
+        "borger": "580",
+        "freq": "3",
+        "signname": "BU",
+        "type": "Logogram"
+    },
+    "KIN": {
+        "freq": "12",
+        "signname": "KIN",
+        "type": "Logogram"
+    },
+    "KIN5": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "KINDA": {
+        "freq": "3",
+        "signname": "KINDA",
+        "type": "undefined"
+    },
+    "KINDA2": {
+        "freq": "2",
+        "signname": "URI",
+        "type": "undefined"
+    },
+    "KIR": {
+        "borger": "558",
+        "freq": "3",
+        "signname": "PEŠ",
+        "type": "Logogram"
+    },
+    "KIRI3": {
+        "borger": "24",
+        "freq": "30",
+        "signname": "KA",
+        "type": "Logogram"
+    },
+    "KIRI7": {
+        "freq": "40",
+        "signname": "SAR",
+        "type": "Logogram"
+    },
+    "KIRID": {
+        "freq": "5",
+        "signname": "KEŠDA",
+        "type": "Logogram"
+    },
+    "KISAL": {
+        "freq": "1",
+        "signname": "KISAL",
+        "type": "undefined"
+    },
+    "KIŠ": {
+        "freq": "5",
+        "signname": "KIŠ",
+        "type": "undefined"
+    },
+    "KIŠIB": {
+        "freq": "5",
+        "signname": "DUB",
+        "type": "Logogram"
+    },
+    "KIŠIG2": {
+        "freq": "1",
+        "signname": "UL4",
+        "type": "Logogram"
+    },
+    "KU": {
+        "borger": "808",
+        "freq": "29",
+        "signname": "KU",
+        "type": "Logogram"
+    },
+    "KU2": {
+        "freq": "3",
+        "signname": "KU2",
+        "type": "undefined"
+    },
+    "KU3": {
+        "borger": "745",
+        "freq": "1",
+        "signname": "KUG",
+        "type": "undefined"
+    },
+    "KU4": {
+        "freq": "2",
+        "signname": "KU4",
+        "type": "Logogram"
+    },
+    "KU5": {
+        "borger": "9",
+        "freq": "208",
+        "signname": "TAR",
+        "type": "Logogram"
+    },
+    "KU7": {
+        "freq": "11",
+        "signname": "HA",
+        "type": "Logogram"
+    },
+    "KUL": {
+        "borger": "117",
+        "freq": "4",
+        "signname": "KUL",
+        "type": "Logogram"
+    },
+    "KUM": {
+        "borger": "339",
+        "freq": "2",
+        "signname": "GUM",
+        "type": "Logogram"
+    },
+    "KUM2": {
+        "borger": "313",
+        "freq": "1",
+        "signname": "NE",
+        "type": "Logogram"
+    },
+    "KUN": {
+        "borger": "131",
+        "freq": "1",
+        "signname": "KUN",
+        "type": "undefined"
+    },
+    "KUNGA2": {
+        "freq": "420",
+        "signname": "KUNGA2",
+        "type": "Logogram"
+    },
+    "KUR": {
+        "borger": "578",
+        "freq": "22",
+        "signname": "KUR",
+        "type": "undefined"
+    },
+    "KUR2": {
+        "borger": "92",
+        "freq": "1",
+        "signname": "PAP",
+        "type": "Logogram"
+    },
+    "KUR7": {
+        "freq": "51",
+        "signname": "PAD",
+        "type": "Logogram"
+    },
+    "KUŠ": {
+        "borger": "16",
+        "freq": "14",
+        "signname": "SU",
+        "type": "Logogram"
+    },
+    "KUŠ2": {
+        "freq": "2",
+        "signname": "DUL3",
+        "type": "Logogram"
+    },
+    "KUŠ6": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "LA": {
+        "borger": "89",
+        "freq": "206",
+        "signname": "LA",
+        "type": "Logogram"
+    },
+    "LA2": {
+        "borger": "750",
+        "freq": "7",
+        "signname": "LAL",
+        "type": "undefined"
+    },
+    "LAGAB": {
+        "freq": "1",
+        "signname": "LAGAB",
+        "type": "Logogram"
+    },
+    "LAGAB@xA": {
+        "freq": "3",
+        "signname": "LAGAB@xA",
+        "type": "undefined"
+    },
+    "LAGAB@xAN": {
+        "freq": "4",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LAGAB@xBAD": {
+        "freq": "0",
+        "signname": "--",
+        "type": "n.d."
+    },
+    "LAGAB@xIGI": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LAGAB@xLA2": {
+        "freq": "5",
+        "signname": "LAGAB@xLA2",
+        "type": "undefined"
+    },
+    "LAGAB@xTIL": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LAGAB@xUŠ2": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LAHSU": {
+        "freq": "1",
+        "signname": "LAHSU",
+        "type": "undefined"
+    },
+    "LAK20": {
+        "freq": "1",
+        "signname": "LAK20",
+        "type": "undefined"
+    },
+    "LAK24": {
+        "freq": "3",
+        "signname": "NU11",
+        "type": "Logogram"
+    },
+    "LAK264": {
+        "freq": "2",
+        "signname": "DARA3",
+        "type": "Logogram"
+    },
+    "LAK350": {
+        "freq": "0",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "LAK355": {
+        "freq": "3",
+        "signname": "LAK355",
+        "type": "undefined"
+    },
+    "LAK390": {
+        "freq": "1",
+        "signname": "LAK390",
+        "type": "undefined"
+    },
+    "LAK394": {
+        "freq": "1",
+        "signname": "GIG",
+        "type": "Logogram"
+    },
+    "LAK397": {
+        "freq": "2",
+        "signname": "LAK397",
+        "type": "undefined"
+    },
+    "LAK425": {
+        "freq": "1",
+        "signname": "LAK425",
+        "type": "Logogram"
+    },
+    "LAK451": {
+        "freq": "0",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "LAK457": {
+        "freq": "0",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LAK459": {
+        "freq": "1",
+        "signname": "LAK459",
+        "type": "Logogram"
+    },
+    "LAK490": {
+        "freq": "4",
+        "signname": "LAK490",
+        "type": "undefined"
+    },
+    "LAK60": {
+        "freq": "1",
+        "signname": "LAK60",
+        "type": "undefined"
+    },
+    "LAK672": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "LAK727": {
+        "freq": "1",
+        "signname": "GARA2",
+        "type": "undefined"
+    },
+    "LAK733": {
+        "freq": "0",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "LAK777": {
+        "freq": "1",
+        "signname": "LAK777",
+        "type": "Logogram"
+    },
+    "LAK778": {
+        "freq": "2",
+        "signname": "LAK778",
+        "type": "undefined"
+    },
+    "LAK780": {
+        "freq": "1",
+        "signname": "DIB",
+        "type": "undefined"
+    },
+    "LAK838": {
+        "freq": "1",
+        "signname": "LAK838",
+        "type": "undefined"
+    },
+    "LAK92": {
+        "freq": "1",
+        "signname": "LAK92",
+        "type": "Logogram"
+    },
+    "LAL3": {
+        "freq": "1",
+        "signname": "LAL3",
+        "type": "undefined"
+    },
+    "LAM": {
+        "borger": "693",
+        "freq": "12",
+        "signname": "LAM",
+        "type": "undefined"
+    },
+    "LAM6": {
+        "freq": "18",
+        "signname": "IŠ11",
+        "type": "undefined"
+    },
+    "LAM@xKUR": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LI": {
+        "borger": "85",
+        "freq": "3",
+        "signname": "LI",
+        "type": "Phonetic Comp."
+    },
+    "LIBIR": {
+        "freq": "96",
+        "signname": "LIBIR",
+        "type": "Logogram"
+    },
+    "LIL2": {
+        "borger": "484",
+        "freq": "19",
+        "signname": "KID",
+        "type": "Logogram"
+    },
+    "LIM": {
+        "borger": "724",
+        "freq": "5",
+        "signname": "IGI",
+        "type": "Phonetic Comp."
+    },
+    "LIŠ": {
+        "freq": "1",
+        "signname": "LIŠ",
+        "type": "undefined"
+    },
+    "LU": {
+        "borger": "812",
+        "freq": "2",
+        "signname": "LU",
+        "type": "Phonetic Comp."
+    },
+    "LU2": {
+        "borger": "514",
+        "freq": "1",
+        "signname": "LU2",
+        "type": "undefined"
+    },
+    "LU2@xBAD": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LU2@xGANA2": {
+        "freq": "9",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LU2@xTIL": {
+        "freq": "286",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "LU3": {
+        "freq": "3",
+        "signname": "LU3",
+        "type": "undefined"
+    },
+    "LU5": {
+        "freq": "6",
+        "signname": "LUL",
+        "type": "Logogram"
+    },
+    "LUGAL": {
+        "borger": "266",
+        "freq": "213",
+        "signname": "LUGAL",
+        "type": "Logogram"
+    },
+    "LUGUD2": {
+        "freq": "1",
+        "signname": "LAGAB",
+        "type": "Logogram"
+    },
+    "LUH": {
+        "borger": "494",
+        "freq": "2",
+        "signname": "LUH",
+        "type": "Logogram"
+    },
+    "LUL": {
+        "freq": "16",
+        "signname": "LUL",
+        "type": "Logogram"
+    },
+    "LULIM": {
+        "freq": "6",
+        "signname": "LULIM",
+        "type": "Logogram"
+    },
+    "LUM": {
+        "borger": "900",
+        "freq": "1",
+        "signname": "LUM",
+        "type": "Phonetic Comp."
+    },
+    "LUx": {
+        "freq": "46",
+        "signname": "ERIN+X2",
+        "type": "n.d."
+    },
+    "MA": {
+        "borger": "552",
+        "freq": "1",
+        "signname": "MA",
+        "type": "undefined"
+    },
+    "MA2": {
+        "borger": "201",
+        "freq": "1",
+        "signname": "MA2",
+        "type": "undefined"
+    },
+    "MA5": {
+        "freq": "4",
+        "signname": "MA5",
+        "type": "Logogram"
+    },
+    "MA@xGANA2": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "MAH": {
+        "borger": "91",
+        "freq": "170",
+        "signname": "MAH",
+        "type": "Logogram"
+    },
+    "MAR": {
+        "borger": "483",
+        "freq": "983",
+        "signname": "MAR",
+        "type": "Logogram"
+    },
+    "MAŠ": {
+        "borger": "120",
+        "freq": "51",
+        "signname": "MAŠ",
+        "type": "undefined"
+    },
+    "MAŠ2": {
+        "borger": "130",
+        "freq": "131",
+        "signname": "MAŠ2",
+        "type": "Logogram"
+    },
+    "MAŠKIM": {
+        "freq": "1",
+        "signname": "MAŠKIM",
+        "type": "undefined"
+    },
+    "ME": {
+        "borger": "753",
+        "freq": "19",
+        "signname": "ME",
+        "type": "undefined"
+    },
+    "ME3": {
+        "freq": "16",
+        "signname": "ME3",
+        "type": "Logogram"
+    },
+    "MEGIDA": {
+        "freq": "7",
+        "signname": "MEGIDA",
+        "type": "Logogram"
+    },
+    "MES": {
+        "freq": "2",
+        "signname": "MES",
+        "type": "undefined"
+    },
+    "MI": {
+        "borger": "681",
+        "freq": "8",
+        "signname": "MI",
+        "type": "Logogram"
+    },
+    "MI2": {
+        "borger": "883",
+        "freq": "2",
+        "signname": "SAL",
+        "type": "undefined"
+    },
+    "MI3": {
+        "borger": "753",
+        "freq": "3",
+        "signname": "ME",
+        "type": "Logogram"
+    },
+    "MIN": {
+        "freq": "6",
+        "signname": "MIN",
+        "type": "undefined"
+    },
+    "MIN3": {
+        "freq": "5",
+        "signname": "MIN3",
+        "type": "undefined"
+    },
+    "MU": {
+        "borger": "98",
+        "freq": "1",
+        "signname": "MU",
+        "type": "Determinative"
+    },
+    "MU4": {
+        "freq": "38",
+        "signname": "TUG2",
+        "type": "Logogram"
+    },
+    "MUD": {
+        "freq": "3",
+        "signname": "MUD",
+        "type": "undefined"
+    },
+    "MUG": {
+        "freq": "929",
+        "signname": "MUG",
+        "type": "Logogram"
+    },
+    "MUHALDIM": {
+        "borger": "98",
+        "freq": "52",
+        "signname": "MU",
+        "type": "Logogram"
+    },
+    "MUL": {
+        "freq": "37",
+        "signname": "MUL",
+        "type": "undefined"
+    },
+    "MULx": {
+        "freq": "3",
+        "signname": "--",
+        "type": "n.d."
+    },
+    "MUN": {
+        "freq": "1",
+        "signname": "MUN",
+        "type": "undefined"
+    },
+    "MUNSUB": {
+        "freq": "3",
+        "signname": "MUNSUB",
+        "type": "Logogram"
+    },
+    "MUNSUB3": {
+        "freq": "8",
+        "signname": "USAN",
+        "type": "Logogram"
+    },
+    "MUNU4": {
+        "freq": "14",
+        "signname": "MUNU4",
+        "type": "undefined"
+    },
+    "MUNUS": {
+        "borger": "883",
+        "freq": "1",
+        "signname": "SAL",
+        "type": "Logogram"
+    },
+    "MUNUx": {
+        "freq": "1",
+        "signname": "MUNU4",
+        "type": "n.d."
+    },
+    "MUNx": {
+        "freq": "1",
+        "signname": "MUNU4",
+        "type": "n.d."
+    },
+    "MURGU": {
+        "borger": "905",
+        "freq": "1",
+        "signname": "SIG4",
+        "type": "Logogram"
+    },
+    "MURU2": {
+        "borger": "545",
+        "freq": "2",
+        "signname": "NESAG",
+        "type": "undefined"
+    },
+    "MUŠ": {
+        "borger": "585",
+        "freq": "5",
+        "signname": "MUŠ",
+        "type": "Logogram"
+    },
+    "MUŠ3": {
+        "borger": "153",
+        "freq": "3",
+        "signname": "MUŠ3",
+        "type": "Logogram"
+    },
+    "MUŠEN": {
+        "borger": "132",
+        "freq": "14",
+        "signname": "HU",
+        "type": "undefined"
+    },
+    "N": {
+        "freq": "22",
+        "signname": "N",
+        "type": "Logogram"
+    },
+    "N+10": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "N+3": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "N+34": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "NA": {
+        "borger": "110",
+        "freq": "3",
+        "signname": "NA",
+        "type": "Akkadogram"
+    },
+    "NA2": {
+        "borger": "689",
+        "freq": "19",
+        "signname": "NA2",
+        "type": "Logogram"
+    },
+    "NA4": {
+        "borger": "385",
+        "freq": "2",
+        "signname": "NA4",
+        "type": "undefined"
+    },
+    "NAB": {
+        "freq": "7",
+        "signname": "NAB",
+        "type": "Logogram"
+    },
+    "NAG": {
+        "freq": "29",
+        "signname": "NAG",
+        "type": "Logogram"
+    },
+    "NAGA": {
+        "freq": "3",
+        "signname": "NAGA",
+        "type": "Logogram"
+    },
+    "NAGAR": {
+        "freq": "1",
+        "signname": "NAGAR",
+        "type": "undefined"
+    },
+    "NAGGA": {
+        "freq": "32",
+        "signname": "NAGGA",
+        "type": "Logogram"
+    },
+    "NAM": {
+        "borger": "134",
+        "freq": "39",
+        "signname": "NAM",
+        "type": "undefined"
+    },
+    "NAM2": {
+        "freq": "0",
+        "signname": "NAM2",
+        "type": "undefined"
+    },
+    "NANIBGAL": {
+        "freq": "1",
+        "signname": "NANIBGAL",
+        "type": "Logogram"
+    },
+    "NANNA": {
+        "freq": "2",
+        "signname": "NANNA",
+        "type": "Logogram"
+    },
+    "NAR": {
+        "freq": "113",
+        "signname": "LUL",
+        "type": "Logogram"
+    },
+    "NE": {
+        "borger": "313",
+        "freq": "38",
+        "signname": "NE",
+        "type": "Logogram"
+    },
+    "NI": {
+        "borger": "380",
+        "freq": "1",
+        "signname": "NI",
+        "type": "Determinative"
+    },
+    "NI2": {
+        "freq": "12",
+        "signname": "NI2",
+        "type": "Logogram"
+    },
+    "NI3": {
+        "borger": "859",
+        "freq": "2",
+        "signname": "GAR",
+        "type": "Logogram"
+    },
+    "NIDBA2": {
+        "freq": "635",
+        "signname": "NIDBA2",
+        "type": "Logogram"
+    },
+    "NIG2": {
+        "borger": "859",
+        "freq": "14",
+        "signname": "GAR",
+        "type": "undefined"
+    },
+    "NIGA": {
+        "borger": "579",
+        "freq": "24",
+        "signname": "ŠE",
+        "type": "Logogram"
+    },
+    "NIGIN": {
+        "freq": "2",
+        "signname": "NIGIN",
+        "type": "undefined"
+    },
+    "NIGIN2": {
+        "freq": "1",
+        "signname": "LAGAB",
+        "type": "undefined"
+    },
+    "NIN": {
+        "borger": "887",
+        "freq": "20",
+        "signname": "NIN",
+        "type": "undefined"
+    },
+    "NINDA": {
+        "borger": "859",
+        "freq": "511",
+        "signname": "GAR",
+        "type": "Logogram"
+    },
+    "NINDA2": {
+        "freq": "1",
+        "signname": "NINDA2",
+        "type": "undefined"
+    },
+    "NINDA2@x": {
+        "freq": "1",
+        "signname": "NINDA2@x",
+        "type": "undefined"
+    },
+    "NINNI5": {
+        "freq": "3",
+        "signname": "NINNI5",
+        "type": "Logogram"
+    },
+    "NIR": {
+        "borger": "502",
+        "freq": "1",
+        "signname": "NIR",
+        "type": "undefined"
+    },
+    "NISABA": {
+        "freq": "1",
+        "signname": "NISABA",
+        "type": "undefined"
+    },
+    "NITA": {
+        "borger": "381",
+        "freq": "64",
+        "signname": "UŠ",
+        "type": "undefined"
+    },
+    "NU": {
+        "borger": "112",
+        "freq": "39",
+        "signname": "NU",
+        "type": "undefined"
+    },
+    "NU11": {
+        "freq": "58",
+        "signname": "NU11",
+        "type": "Logogram"
+    },
+    "NU2": {
+        "borger": "689",
+        "freq": "2",
+        "signname": "NA2",
+        "type": "undefined"
+    },
+    "NUMUN": {
+        "borger": "117",
+        "freq": "10",
+        "signname": "KUL",
+        "type": "Logogram"
+    },
+    "NUN": {
+        "borger": "143",
+        "freq": "4",
+        "signname": "NUN",
+        "type": "undefined"
+    },
+    "NUNUZ": {
+        "freq": "1",
+        "signname": "NUNUZ",
+        "type": "undefined"
+    },
+    "PA": {
+        "borger": "464",
+        "freq": "10",
+        "signname": "PA",
+        "type": "Logogram"
+    },
+    "PA3": {
+        "freq": "1",
+        "signname": "PA3",
+        "type": "Logogram"
+    },
+    "PA4": {
+        "borger": "92",
+        "freq": "1",
+        "signname": "PAP",
+        "type": "undefined"
+    },
+    "PAD": {
+        "borger": "746",
+        "freq": "15",
+        "signname": "PAD",
+        "type": "undefined"
+    },
+    "PALIL2": {
+        "freq": "5",
+        "signname": "PALIL2",
+        "type": "Logogram"
+    },
+    "PAN": {
+        "freq": "4",
+        "signname": "BAN",
+        "type": "Logogram"
+    },
+    "PAP": {
+        "borger": "92",
+        "freq": "1",
+        "signname": "PAP",
+        "type": "Logogram"
+    },
+    "PAR4": {
+        "freq": "3",
+        "signname": "PAR4",
+        "type": "Logogram"
+    },
+    "PEŠ": {
+        "borger": "558",
+        "freq": "5",
+        "signname": "PEŠ",
+        "type": "Logogram"
+    },
+    "PEŠ2": {
+        "freq": "7",
+        "signname": "PEŠ2",
+        "type": "Logogram"
+    },
+    "PEŠ3": {
+        "borger": "552",
+        "freq": "5",
+        "signname": "MA",
+        "type": "Logogram"
+    },
+    "PEŠ6": {
+        "freq": "3",
+        "signname": "TUR",
+        "type": "Logogram"
+    },
+    "PI": {
+        "borger": "598",
+        "freq": "2",
+        "signname": "PI",
+        "type": "Phonetic Comp."
+    },
+    "PIRIG": {
+        "freq": "10",
+        "signname": "PIRIG",
+        "type": "Logogram"
+    },
+    "PISAN": {
+        "freq": "27",
+        "signname": "GA2",
+        "type": "Logogram"
+    },
+    "PISAN@xGI": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "PIŠ10": {
+        "freq": "1",
+        "signname": "PIŠ10",
+        "type": "Logogram"
+    },
+    "PU2": {
+        "freq": "3",
+        "signname": "GIGIR2",
+        "type": "undefined"
+    },
+    "PUZUR4": {
+        "freq": "5",
+        "signname": "PUZUR4",
+        "type": "undefined"
+    },
+    "RA": {
+        "borger": "511",
+        "freq": "31",
+        "signname": "RA",
+        "type": "undefined"
+    },
+    "RA2": {
+        "borger": "350",
+        "freq": "10",
+        "signname": "DU",
+        "type": "Logogram"
+    },
+    "RAŠ": {
+        "borger": "302",
+        "freq": "34",
+        "signname": "KASKAL",
+        "type": "Logogram"
+    },
+    "RE": {
+        "borger": "142",
+        "freq": "3",
+        "signname": "RI",
+        "type": "Logogram"
+    },
+    "RE2": {
+        "borger": "71",
+        "freq": "1",
+        "signname": "URU",
+        "type": "Logogram"
+    },
+    "RI": {
+        "borger": "354",
+        "freq": "7",
+        "signname": "RI",
+        "type": "Logogram"
+    },
+    "RI2": {
+        "borger": "71",
+        "freq": "1",
+        "signname": "URU",
+        "type": "undefined"
+    },
+    "RIG2": {
+        "borger": "884",
+        "freq": "3",
+        "signname": "ZUM",
+        "type": "undefined"
+    },
+    "RIG9": {
+        "freq": "3",
+        "signname": "RIG9",
+        "type": "Logogram"
+    },
+    "RIN2": {
+        "borger": "612",
+        "freq": "1",
+        "signname": "ERIN2",
+        "type": "Logogram"
+    },
+    "RIN4": {
+        "freq": "3",
+        "signname": "RIN4",
+        "type": "Logogram"
+    },
+    "RU": {
+        "borger": "111",
+        "freq": "73",
+        "signname": "RU",
+        "type": "Logogram"
+    },
+    "RU12": {
+        "borger": "164",
+        "freq": "3",
+        "signname": "EN",
+        "type": "Logogram"
+    },
+    "RU2": {
+        "borger": "379",
+        "freq": "41",
+        "signname": "KAK",
+        "type": "Logogram"
+    },
+    "RUM": {
+        "borger": "1",
+        "freq": "1",
+        "signname": "AŠ",
+        "type": "Logogram"
+    },
+    "SA": {
+        "borger": "172",
+        "freq": "1",
+        "signname": "SA",
+        "type": "Phonetic Comp."
+    },
+    "SA10": {
+        "borger": "333",
+        "freq": "2",
+        "signname": "ŠAM2",
+        "type": "undefined"
+    },
+    "SA2": {
+        "borger": "736",
+        "freq": "1",
+        "signname": "DI",
+        "type": "Phonetic Comp."
+    },
+    "SA7": {
+        "freq": "1",
+        "signname": "ŠA7",
+        "type": "undefined"
+    },
+    "SAG": {
+        "borger": "184",
+        "freq": "81",
+        "signname": "SAG",
+        "type": "undefined"
+    },
+    "SAG6": {
+        "freq": "1",
+        "signname": "GAN",
+        "type": "Logogram"
+    },
+    "SAG@xHA": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "SAG@xKID2": {
+        "freq": "4",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "SAGI": {
+        "freq": "23",
+        "signname": "SAGI",
+        "type": "Logogram"
+    },
+    "SAGKA": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "SAGŠU": {
+        "freq": "184",
+        "signname": "SAGŠU",
+        "type": "Logogram"
+    },
+    "SAKAR": {
+        "borger": "541",
+        "freq": "2",
+        "signname": "SAR",
+        "type": "Logogram"
+    },
+    "SAL": {
+        "borger": "883",
+        "freq": "235",
+        "signname": "SAL",
+        "type": "Logogram"
+    },
+    "SAL4": {
+        "freq": "2",
+        "signname": "SILA3",
+        "type": "Logogram"
+    },
+    "SAMANx": {
+        "freq": "2",
+        "signname": "SAMANx",
+        "type": "n.d."
+    },
+    "SAR": {
+        "borger": "541",
+        "freq": "1",
+        "signname": "SAR",
+        "type": "Phonetic Comp."
+    },
+    "SAx": {
+        "freq": "17",
+        "signname": "ŠAM2",
+        "type": "n.d."
+    },
+    "SE11": {
+        "freq": "2",
+        "signname": "SIG",
+        "type": "Akkadogram"
+    },
+    "SI": {
+        "borger": "181",
+        "freq": "54",
+        "signname": "SI",
+        "type": "undefined"
+    },
+    "SI4": {
+        "freq": "3",
+        "signname": "SU4",
+        "type": "undefined"
+    },
+    "SIG": {
+        "freq": "6",
+        "signname": "SIG",
+        "type": "undefined"
+    },
+    "SIG15": {
+        "borger": "496",
+        "freq": "101",
+        "signname": "KAL",
+        "type": "Logogram"
+    },
+    "SIG4": {
+        "borger": "905",
+        "freq": "12",
+        "signname": "SIG4",
+        "type": "undefined"
+    },
+    "SIG6": {
+        "borger": "571",
+        "freq": "3",
+        "signname": "SIG6",
+        "type": "Logogram"
+    },
+    "SIKI": {
+        "borger": "816",
+        "freq": "2",
+        "signname": "SIKI",
+        "type": "undefined"
+    },
+    "SIKI2": {
+        "borger": "596",
+        "freq": "9",
+        "signname": "UD",
+        "type": "Logogram"
+    },
+    "SIKIL": {
+        "borger": "899",
+        "freq": "9",
+        "signname": "EL",
+        "type": "undefined"
+    },
+    "SILA": {
+        "borger": "9",
+        "freq": "1",
+        "signname": "TAR",
+        "type": "Logogram"
+    },
+    "SILA3": {
+        "freq": "2",
+        "signname": "SILA3",
+        "type": "undefined"
+    },
+    "SILA4": {
+        "freq": "26",
+        "signname": "SILA4",
+        "type": "Logogram"
+    },
+    "SILIM": {
+        "borger": "736",
+        "freq": "2",
+        "signname": "DI",
+        "type": "Logogram"
+    },
+    "SIM": {
+        "borger": "362",
+        "freq": "3",
+        "signname": "NAM",
+        "type": "Logogram"
+    },
+    "SIMUG": {
+        "freq": "77",
+        "signname": "SIMUG",
+        "type": "Logogram"
+    },
+    "SIPAD": {
+        "borger": "468",
+        "freq": "4",
+        "signname": "SIPAD",
+        "type": "Logogram"
+    },
+    "SU": {
+        "borger": "16",
+        "freq": "31",
+        "signname": "SU",
+        "type": "undefined"
+    },
+    "SU13": {
+        "borger": "580",
+        "freq": "1",
+        "signname": "BU",
+        "type": "Logogram"
+    },
+    "SU3": {
+        "freq": "1",
+        "signname": "SUD",
+        "type": "Logogram"
+    },
+    "SU4": {
+        "freq": "4",
+        "signname": "SU4",
+        "type": "undefined"
+    },
+    "SU6": {
+        "freq": "2",
+        "signname": "SU6",
+        "type": "Logogram"
+    },
+    "SUD": {
+        "freq": "3",
+        "signname": "SUD",
+        "type": "Logogram"
+    },
+    "SUG": {
+        "freq": "1",
+        "signname": "SUG",
+        "type": "undefined"
+    },
+    "SUHUR": {
+        "freq": "1",
+        "signname": "SUHUR",
+        "type": "Logogram"
+    },
+    "SUKKAL": {
+        "borger": "494",
+        "freq": "16",
+        "signname": "LUH",
+        "type": "Logogram"
+    },
+    "SUM": {
+        "freq": "10",
+        "signname": "SUM",
+        "type": "undefined"
+    },
+    "SUM4": {
+        "freq": "2",
+        "signname": "SUM4",
+        "type": "Logogram"
+    },
+    "SUN2": {
+        "borger": "682",
+        "freq": "2",
+        "signname": "GUL",
+        "type": "Logogram"
+    },
+    "SUR": {
+        "freq": "4",
+        "signname": "SUR",
+        "type": "undefined"
+    },
+    "SUR3": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "SUR3HI@xPAP": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "SURx": {
+        "freq": "254",
+        "signname": "ERIN2",
+        "type": "n.d."
+    },
+    "TA": {
+        "borger": "248",
+        "freq": "1",
+        "signname": "TA",
+        "type": "undefined"
+    },
+    "TA@xSIG6": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "TAB": {
+        "borger": "209",
+        "freq": "2",
+        "signname": "TAB",
+        "type": "undefined"
+    },
+    "TABx": {
+        "freq": "3",
+        "signname": "TABx",
+        "type": "n.d."
+    },
+    "TAG": {
+        "borger": "221",
+        "freq": "2",
+        "signname": "TAG",
+        "type": "undefined"
+    },
+    "TAG4": {
+        "freq": "11",
+        "signname": "TAK4",
+        "type": "undefined"
+    },
+    "TAG4@xKASKAL": {
+        "freq": "1",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "TAK4": {
+        "freq": "5",
+        "signname": "TAK4",
+        "type": "Logogram"
+    },
+    "TAR": {
+        "borger": "9",
+        "freq": "68",
+        "signname": "TAR",
+        "type": "Logogram"
+    },
+    "TASKARIN": {
+        "freq": "37",
+        "signname": "TUG2",
+        "type": "Logogram"
+    },
+    "TAŠKARIN": {
+        "freq": "2",
+        "signname": "TUG2",
+        "type": "Logogram"
+    },
+    "TE": {
+        "borger": "589",
+        "freq": "9",
+        "signname": "TE",
+        "type": "Logogram"
+    },
+    "TE8": {
+        "borger": "560",
+        "freq": "2",
+        "signname": "A2",
+        "type": "undefined"
+    },
+    "TEŠ2": {
+        "borger": "828",
+        "freq": "1",
+        "signname": "UR",
+        "type": "Logogram"
+    },
+    "TI": {
+        "borger": "118",
+        "freq": "1",
+        "signname": "TI",
+        "type": "Determinative"
+    },
+    "TI8": {
+        "borger": "560",
+        "freq": "5",
+        "signname": "A2",
+        "type": "Logogram"
+    },
+    "TIBIRA": {
+        "freq": "3",
+        "signname": "TIBIRA",
+        "type": "Logogram"
+    },
+    "TIL": {
+        "freq": "28",
+        "signname": "TIL",
+        "type": "Logogram"
+    },
+    "TIL3": {
+        "borger": "118",
+        "freq": "40",
+        "signname": "TI",
+        "type": "Logogram"
+    },
+    "TIM": {
+        "borger": "167",
+        "freq": "1",
+        "signname": "DIM",
+        "type": "undefined"
+    },
+    "TIN": {
+        "borger": "119",
+        "freq": "2",
+        "signname": "DIN",
+        "type": "Logogram"
+    },
+    "TIR": {
+        "borger": "587",
+        "freq": "2",
+        "signname": "TIR",
+        "type": "Logogram"
+    },
+    "TITAB": {
+        "freq": "91",
+        "signname": "TITAB",
+        "type": "Logogram"
+    },
+    "TU": {
+        "borger": "86",
+        "freq": "1",
+        "signname": "TU",
+        "type": "Determinative"
+    },
+    "TU5": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "TU6": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "TUD": {
+        "borger": "86",
+        "freq": "8",
+        "signname": "TU",
+        "type": "Logogram"
+    },
+    "TUG2": {
+        "freq": "65",
+        "signname": "TUG2",
+        "type": "undefined"
+    },
+    "TUK": {
+        "freq": "1",
+        "signname": "TUKU",
+        "type": "undefined"
+    },
+    "TUKU": {
+        "freq": "1",
+        "signname": "TUKU",
+        "type": "Logogram"
+    },
+    "TUKUx": {
+        "freq": "26",
+        "signname": "HUB2",
+        "type": "n.d."
+    },
+    "TUL2": {
+        "freq": "4",
+        "signname": "GIGIR2",
+        "type": "Logogram"
+    },
+    "TUM": {
+        "borger": "354",
+        "freq": "2",
+        "signname": "TUM",
+        "type": "undefined"
+    },
+    "TUM2": {
+        "borger": "350",
+        "freq": "33",
+        "signname": "DU",
+        "type": "Logogram"
+    },
+    "TUM3": {
+        "freq": "3",
+        "signname": "TUM3",
+        "type": "undefined"
+    },
+    "TUM@xSAL": {
+        "freq": "6",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "TUN3": {
+        "freq": "37",
+        "signname": "DUN3",
+        "type": "Logogram"
+    },
+    "TUR": {
+        "borger": "255",
+        "freq": "20",
+        "signname": "TUR",
+        "type": "undefined"
+    },
+    "TUR3": {
+        "freq": "2",
+        "signname": "TUR3",
+        "type": "undefined"
+    },
+    "TUŠ": {
+        "borger": "808",
+        "freq": "194",
+        "signname": "KU",
+        "type": "Logogram"
+    },
+    "U2": {
+        "borger": "490",
+        "freq": "3",
+        "signname": "U2",
+        "type": "Determinative"
+    },
+    "U3": {
+        "borger": "731",
+        "freq": "7",
+        "signname": "U3",
+        "type": "undefined"
+    },
+    "U4": {
+        "borger": "596",
+        "freq": "9",
+        "signname": "UD",
+        "type": "Logogram"
+    },
+    "U5": {
+        "freq": "82",
+        "signname": "U5",
+        "type": "Logogram"
+    },
+    "U8": {
+        "borger": "766",
+        "freq": "9",
+        "signname": "U8",
+        "type": "Logogram"
+    },
+    "U9": {
+        "borger": "275",
+        "freq": "3",
+        "signname": "U9",
+        "type": "undefined"
+    },
+    "UB": {
+        "borger": "504",
+        "freq": "3",
+        "signname": "UB",
+        "type": "Logogram"
+    },
+    "UB2": {
+        "freq": "3",
+        "signname": "EŠ2",
+        "type": "Logogram"
+    },
+    "UD": {
+        "borger": "596",
+        "freq": "111",
+        "signname": "UD",
+        "type": "undefined"
+    },
+    "UD5": {
+        "freq": "1",
+        "signname": "UZ3",
+        "type": "Logogram"
+    },
+    "UDU": {
+        "borger": "812",
+        "freq": "2",
+        "signname": "LU",
+        "type": "undefined"
+    },
+    "UDUAx": {
+        "freq": "28",
+        "signname": "UDUAx",
+        "type": "n.d."
+    },
+    "UDUG": {
+        "freq": "2",
+        "signname": "UDUG",
+        "type": "undefined"
+    },
+    "UG": {
+        "borger": "296",
+        "freq": "2",
+        "signname": "UG",
+        "type": "undefined"
+    },
+    "UG6": {
+        "freq": "82",
+        "signname": "UŠ2",
+        "type": "Logogram"
+    },
+    "UGULA": {
+        "borger": "464",
+        "freq": "1",
+        "signname": "PA",
+        "type": "undefined"
+    },
+    "UGUR2": {
+        "freq": "1",
+        "signname": "SIG6",
+        "type": "Logogram"
+    },
+    "UH": {
+        "borger": "636",
+        "freq": "1",
+        "signname": "AH",
+        "type": "Logogram"
+    },
+    "UH3": {
+        "freq": "1",
+        "signname": "KUŠU2",
+        "type": "Logogram"
+    },
+    "UL": {
+        "borger": "698",
+        "freq": "7",
+        "signname": "UL",
+        "type": "undefined"
+    },
+    "UM": {
+        "borger": "238",
+        "freq": "8",
+        "signname": "UM",
+        "type": "Logogram"
+    },
+    "UMBIN": {
+        "freq": "8",
+        "signname": "UMBIN",
+        "type": "Logogram"
+    },
+    "UMBISAG": {
+        "borger": "485",
+        "freq": "5",
+        "signname": "ŠID",
+        "type": "Logogram"
+    },
+    "UMUN2@xAN": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "UMUN2@xHA": {
+        "freq": "1",
+        "signname": "UMUN2@xHA",
+        "type": "n.d."
+    },
+    "UNKEN": {
+        "freq": "15",
+        "signname": "UNKEN",
+        "type": "undefined"
+    },
+    "UR": {
+        "borger": "828",
+        "freq": "20",
+        "signname": "UR",
+        "type": "Logogram"
+    },
+    "UR2": {
+        "borger": "341",
+        "freq": "8",
+        "signname": "UR2",
+        "type": "undefined"
+    },
+    "UR3": {
+        "freq": "9",
+        "signname": "UR3",
+        "type": "Logogram"
+    },
+    "UR4": {
+        "freq": "29",
+        "signname": "UR4",
+        "type": "undefined"
+    },
+    "UR5": {
+        "borger": "644",
+        "freq": "2",
+        "signname": "HAR",
+        "type": "Logogram"
+    },
+    "URI": {
+        "freq": "4",
+        "signname": "URI",
+        "type": "Logogram"
+    },
+    "URI3": {
+        "borger": "535",
+        "freq": "2",
+        "signname": "URI3",
+        "type": "Logogram"
+    },
+    "URI4": {
+        "freq": "1",
+        "signname": "IDIM",
+        "type": "Logogram"
+    },
+    "URU": {
+        "borger": "71",
+        "freq": "1",
+        "signname": "URU",
+        "type": "Determinative"
+    },
+    "URU4": {
+        "freq": "2",
+        "signname": "APIN",
+        "type": "Logogram"
+    },
+    "URU5": {
+        "freq": "3",
+        "signname": "GUR8",
+        "type": "Logogram"
+    },
+    "URUDU": {
+        "freq": "1",
+        "signname": "URUDU",
+        "type": "undefined"
+    },
+    "URx": {
+        "freq": "2",
+        "signname": "URx",
+        "type": "undefined"
+    },
+    "US2": {
+        "borger": "381",
+        "freq": "2",
+        "signname": "UŠ",
+        "type": "undefined"
+    },
+    "USAN3": {
+        "freq": "1",
+        "signname": "USAN3",
+        "type": "undefined"
+    },
+    "UTU": {
+        "borger": "596",
+        "freq": "203",
+        "signname": "UD",
+        "type": "Logogram"
+    },
+    "UTUL2": {
+        "borger": "640",
+        "freq": "2",
+        "signname": "TU6",
+        "type": "undefined"
+    },
+    "UZ3": {
+        "freq": "11",
+        "signname": "UZ3",
+        "type": "Logogram"
+    },
+    "UZU": {
+        "borger": "311",
+        "freq": "1",
+        "signname": "UZU",
+        "type": "undefined"
+    },
+    "UŠ": {
+        "borger": "381",
+        "freq": "36",
+        "signname": "UŠ",
+        "type": "undefined"
+    },
+    "UŠ2": {
+        "freq": "0",
+        "signname": "UŠ2",
+        "type": "Logogram"
+    },
+    "UŠ@xKID2": {
+        "freq": "4",
+        "signname": "UŠ@xKID2",
+        "type": "undefined"
+    },
+    "UŠ@xKUR": {
+        "freq": "3",
+        "signname": "--",
+        "type": "n.d."
+    },
+    "UŠ@xTAK4": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "UŠTIL": {
+        "freq": "29",
+        "signname": "UŠTIN",
+        "type": "Logogram"
+    },
+    "UŠTIN": {
+        "freq": "10",
+        "signname": "UŠTIN",
+        "type": "Logogram"
+    },
+    "UŠUM": {
+        "freq": "1",
+        "signname": "BUR2",
+        "type": "undefined"
+    },
+    "UŠUMGAL": {
+        "freq": "8",
+        "signname": "UŠUMGAL",
+        "type": "Logogram"
+    },
+    "UŠx": {
+        "freq": "1",
+        "signname": "MUNSUB",
+        "type": "n.d."
+    },
+    "WA": {
+        "borger": "598",
+        "freq": "1",
+        "signname": "PI",
+        "type": "undefined"
+    },
+    "WI": {
+        "borger": "598",
+        "freq": "3",
+        "signname": "PI",
+        "type": "Logogram"
+    },
+    "X": {
+        "freq": "3",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ZA": {
+        "borger": "851",
+        "freq": "6",
+        "signname": "ZA",
+        "type": "undefined"
+    },
+    "ZA3": {
+        "borger": "540",
+        "freq": "70",
+        "signname": "ZAG",
+        "type": "Logogram"
+    },
+    "ZABAR": {
+        "freq": "1",
+        "signname": "ZABAR",
+        "type": "undefined"
+    },
+    "ZAG": {
+        "borger": "540",
+        "freq": "2",
+        "signname": "ZAG",
+        "type": "undefined"
+    },
+    "ZAH2": {
+        "freq": "5",
+        "signname": "ZAH2",
+        "type": "Logogram"
+    },
+    "ZAH3": {
+        "freq": "2",
+        "signname": "ZAH3",
+        "type": "undefined"
+    },
+    "ZAL": {
+        "borger": "380",
+        "freq": "8",
+        "signname": "NI",
+        "type": "Logogram"
+    },
+    "ZAMx": {
+        "freq": "157",
+        "signname": "ZAMx",
+        "type": "n.d."
+    },
+    "ZAR3": {
+        "freq": "3",
+        "signname": "SUM",
+        "type": "Logogram"
+    },
+    "ZARA7": {
+        "freq": "1",
+        "signname": "ZARA7",
+        "type": "undefined"
+    },
+    "ZAx": {
+        "freq": "32",
+        "signname": "ZAx",
+        "type": "undefined"
+    },
+    "ZE": {
+        "borger": "140",
+        "freq": "2",
+        "signname": "ZI",
+        "type": "Logogram"
+    },
+    "ZE2": {
+        "borger": "259",
+        "freq": "8",
+        "signname": "ZE2",
+        "type": "undefined"
+    },
+    "ZI": {
+        "borger": "140",
+        "freq": "159",
+        "signname": "ZI",
+        "type": "undefined"
+    },
+    "ZI3": {
+        "freq": "1",
+        "signname": "ZID2",
+        "type": "undefined"
+    },
+    "ZID2": {
+        "freq": "1",
+        "signname": "ZID2",
+        "type": "undefined"
+    },
+    "ZIZ2": {
+        "freq": "78",
+        "signname": "AŠ2",
+        "type": "Logogram"
+    },
+    "ZU": {
+        "borger": "15",
+        "freq": "13",
+        "signname": "ZU",
+        "type": "undefined"
+    },
+    "ZU2": {
+        "borger": "24",
+        "freq": "1",
+        "signname": "KA",
+        "type": "undefined"
+    },
+    "ZU3": {
+        "borger": "884",
+        "freq": "2",
+        "signname": "ZUM",
+        "type": "Logogram"
+    },
+    "ZUH": {
+        "borger": "24",
+        "freq": "8",
+        "signname": "KA",
+        "type": "Logogram"
+    },
+    "ZUM": {
+        "borger": "884",
+        "freq": "1",
+        "signname": "ZUM",
+        "type": "undefined"
+    },
+    "a": {
+        "borger": "839",
+        "freq": "5949",
+        "signname": "A",
+        "type": "Syllabogram"
+    },
+    "a2": {
+        "borger": "560",
+        "freq": "55",
+        "signname": "A2",
+        "type": "Syllabogram"
+    },
+    "ab": {
+        "borger": "223",
+        "freq": "284",
+        "signname": "AB",
+        "type": "Syllabogram"
+    },
+    "ab2": {
+        "borger": "672",
+        "freq": "169",
+        "signname": "AB2",
+        "type": "Syllabogram"
+    },
+    "ad": {
+        "borger": "258",
+        "freq": "565",
+        "signname": "AD",
+        "type": "Syllabogram"
+    },
+    "ag": {
+        "borger": "127",
+        "freq": "401",
+        "signname": "AG",
+        "type": "Syllabogram"
+    },
+    "ah": {
+        "borger": "636",
+        "freq": "57",
+        "signname": "AH",
+        "type": "Syllabogram"
+    },
+    "ak": {
+        "borger": "127",
+        "freq": "10",
+        "signname": "AG",
+        "type": "Syllabogram"
+    },
+    "al": {
+        "borger": "474",
+        "freq": "9",
+        "signname": "AL",
+        "type": "Syllabogram"
+    },
+    "al7": {
+        "freq": "724",
+        "signname": "MAH",
+        "type": "Syllabogram"
+    },
+    "am": {
+        "borger": "309",
+        "freq": "69",
+        "signname": "AM",
+        "type": "Syllabogram"
+    },
+    "am3": {
+        "freq": "4",
+        "signname": "AM3",
+        "type": "Syllabogram"
+    },
+    "am7": {
+        "borger": "598",
+        "freq": "1",
+        "signname": "AN",
+        "type": "undefined"
+    },
+    "an": {
+        "borger": "10",
+        "freq": "1241",
+        "signname": "AN",
+        "type": "Syllabogram"
+    },
+    "ap": {
+        "borger": "223",
+        "freq": "445",
+        "signname": "AB",
+        "type": "Syllabogram"
+    },
+    "ar": {
+        "borger": "726",
+        "freq": "2178",
+        "signname": "AR",
+        "type": "Syllabogram"
+    },
+    "ar3": {
+        "borger": "644",
+        "freq": "75",
+        "signname": "HAR",
+        "type": "Syllabogram"
+    },
+    "asalx": {
+        "freq": "1",
+        "signname": "LAK212",
+        "type": "Syllabogram"
+    },
+    "at": {
+        "borger": "258",
+        "freq": "1769",
+        "signname": "AD",
+        "type": "Syllabogram"
+    },
+    "az": {
+        "borger": "297",
+        "freq": "30",
+        "signname": "AZ",
+        "type": "Syllabogram"
+    },
+    "azx": {
+        "freq": "2",
+        "signname": "AZx",
+        "type": "Syllabogram"
+    },
+    "aš": {
+        "borger": "1",
+        "freq": "92",
+        "signname": "AŠ",
+        "type": "Syllabogram"
+    },
+    "aš2": {
+        "borger": "548",
+        "freq": "505",
+        "signname": "AŠ2",
+        "type": "Syllabogram"
+    },
+    "ba": {
+        "borger": "14",
+        "freq": "2",
+        "signname": "BA",
+        "type": "undefined"
+    },
+    "ba4": {
+        "freq": "221",
+        "signname": "GA2",
+        "type": "Syllabogram"
+    },
+    "bab": {
+        "borger": "92",
+        "freq": "38",
+        "signname": "PAP",
+        "type": "Syllabogram"
+    },
+    "bad": {
+        "borger": "113",
+        "freq": "13",
+        "signname": "BAD",
+        "type": "Syllabogram"
+    },
+    "bal": {
+        "freq": "74",
+        "signname": "BAL",
+        "type": "Syllabogram"
+    },
+    "balx": {
+        "freq": "3",
+        "signname": "KUL",
+        "type": "undefined"
+    },
+    "ban": {
+        "freq": "2",
+        "signname": "BAN",
+        "type": "Syllabogram"
+    },
+    "bar": {
+        "borger": "121",
+        "freq": "44",
+        "signname": "--",
+        "type": "Akkadogram"
+    },
+    "bat": {
+        "borger": "113",
+        "freq": "1",
+        "signname": "BAD",
+        "type": "Syllabogram"
+    },
+    "be": {
+        "borger": "113",
+        "freq": "29",
+        "signname": "BE",
+        "type": "Syllabogram"
+    },
+    "bi2": {
+        "borger": "313",
+        "freq": "1",
+        "signname": "NE",
+        "type": "Phonetic Comp."
+    },
+    "bil": {
+        "borger": "313",
+        "freq": "38",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "bil2": {
+        "borger": "312",
+        "freq": "1",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "bir5": {
+        "borger": "134",
+        "freq": "35",
+        "signname": "NAM",
+        "type": "Syllabogram"
+    },
+    "bu": {
+        "borger": "580",
+        "freq": "288",
+        "signname": "BU",
+        "type": "Syllabogram"
+    },
+    "bu14": {
+        "freq": "145",
+        "signname": "KA",
+        "type": "Syllabogram"
+    },
+    "bu15": {
+        "borger": "746",
+        "freq": "1",
+        "signname": "PAD",
+        "type": "Syllabogram"
+    },
+    "bu17": {
+        "freq": "1",
+        "signname": "NI",
+        "type": "undefined"
+    },
+    "bu3": {
+        "freq": "1673",
+        "signname": "BU3",
+        "type": "Syllabogram"
+    },
+    "bur": {
+        "borger": "559",
+        "freq": "232",
+        "signname": "BUR",
+        "type": "Syllabogram"
+    },
+    "bur2": {
+        "freq": "2",
+        "signname": "BUR2",
+        "type": "Syllabogram"
+    },
+    "bux": {
+        "freq": "1",
+        "signname": "MUNU4",
+        "type": "undefined"
+    },
+    "da": {
+        "borger": "561",
+        "freq": "1",
+        "signname": "DA",
+        "type": "undefined"
+    },
+    "da5": {
+        "freq": "48",
+        "signname": "URUDU",
+        "type": "Syllabogram"
+    },
+    "dab": {
+        "freq": "6",
+        "signname": "DIB",
+        "type": "Syllabogram"
+    },
+    "dab7": {
+        "freq": "140",
+        "signname": "URUDU",
+        "type": "Syllabogram"
+    },
+    "dag": {
+        "borger": "438",
+        "freq": "2",
+        "signname": "DAG",
+        "type": "undefined"
+    },
+    "dal": {
+        "borger": "142",
+        "freq": "11",
+        "signname": "RI",
+        "type": "Syllabogram"
+    },
+    "dam": {
+        "borger": "889",
+        "freq": "142",
+        "signname": "DAM",
+        "type": "Syllabogram"
+    },
+    "dar": {
+        "borger": "183",
+        "freq": "291",
+        "signname": "DAR",
+        "type": "Syllabogram"
+    },
+    "dar5": {
+        "freq": "8",
+        "signname": "GI",
+        "type": "Syllabogram"
+    },
+    "daš": {
+        "borger": "828",
+        "freq": "141",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "daš2": {
+        "borger": "748",
+        "freq": "5",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "de2": {
+        "freq": "1",
+        "signname": "SIMUG",
+        "type": "Syllabogram"
+    },
+    "de3": {
+        "borger": "313",
+        "freq": "92",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "di": {
+        "borger": "736",
+        "freq": "10",
+        "signname": "DI",
+        "type": "Syllabogram"
+    },
+    "di2": {
+        "borger": "119",
+        "freq": "1",
+        "signname": "HI",
+        "type": "Syllabogram"
+    },
+    "dib": {
+        "freq": "32",
+        "signname": "DIB",
+        "type": "Syllabogram"
+    },
+    "dim": {
+        "borger": "167",
+        "freq": "2",
+        "signname": "DIM",
+        "type": "Syllabogram"
+    },
+    "dim2": {
+        "borger": "686",
+        "freq": "12",
+        "signname": "DIM2",
+        "type": "Syllabogram"
+    },
+    "du": {
+        "borger": "350",
+        "freq": "5304",
+        "signname": "DU",
+        "type": "Syllabogram"
+    },
+    "du3": {
+        "borger": "379",
+        "freq": "1",
+        "signname": "KAK",
+        "type": "Syllabogram"
+    },
+    "du8": {
+        "borger": "298",
+        "freq": "1",
+        "signname": "GABA",
+        "type": "Syllabogram"
+    },
+    "dub": {
+        "borger": "242",
+        "freq": "60",
+        "signname": "DUB",
+        "type": "Syllabogram"
+    },
+    "dul3": {
+        "freq": "12",
+        "signname": "DUL3",
+        "type": "Syllabogram"
+    },
+    "dum": {
+        "borger": "354",
+        "freq": "1",
+        "signname": "TUM",
+        "type": "Phonetic Comp."
+    },
+    "dum2": {
+        "freq": "1",
+        "signname": "DU",
+        "type": "Syllabogram"
+    },
+    "dum3": {
+        "borger": "889",
+        "freq": "4",
+        "signname": "DAM",
+        "type": "Syllabogram"
+    },
+    "dur": {
+        "borger": "178",
+        "freq": "430",
+        "signname": "DUR",
+        "type": "Syllabogram"
+    },
+    "e": {
+        "borger": "498",
+        "freq": "44",
+        "signname": "E",
+        "type": "Syllabogram"
+    },
+    "e2": {
+        "borger": "495",
+        "freq": "3",
+        "signname": "E2",
+        "type": "Syllabogram"
+    },
+    "eb": {
+        "borger": "807",
+        "freq": "1",
+        "signname": "IB",
+        "type": "Syllabogram"
+    },
+    "eb2": {
+        "borger": "354",
+        "freq": "8",
+        "signname": "TUM",
+        "type": "Syllabogram"
+    },
+    "el": {
+        "borger": "899",
+        "freq": "1",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "en": {
+        "borger": "164",
+        "freq": "1757",
+        "signname": "EN",
+        "type": "Syllabogram"
+    },
+    "eš2": {
+        "freq": "3",
+        "signname": "EŠ2",
+        "type": "Syllabogram"
+    },
+    "eš4": {
+        "borger": "748",
+        "freq": "45",
+        "signname": "AŠ",
+        "type": "Syllabogram"
+    },
+    "ga": {
+        "borger": "491",
+        "freq": "2584",
+        "signname": "GA",
+        "type": "Syllabogram"
+    },
+    "ga2": {
+        "freq": "13",
+        "signname": "GA2",
+        "type": "Syllabogram"
+    },
+    "gab": {
+        "borger": "298",
+        "freq": "2",
+        "signname": "GABA",
+        "type": "Syllabogram"
+    },
+    "gada": {
+        "borger": "157",
+        "freq": "3",
+        "signname": "GADA",
+        "type": "Syllabogram"
+    },
+    "gag": {
+        "borger": "379",
+        "freq": "1",
+        "signname": "KAK",
+        "type": "Syllabogram"
+    },
+    "gal": {
+        "borger": "553",
+        "freq": "56",
+        "signname": "GAL",
+        "type": "Syllabogram"
+    },
+    "gan": {
+        "borger": "253",
+        "freq": "103",
+        "signname": "GAN",
+        "type": "Syllabogram"
+    },
+    "gan2": {
+        "borger": "174",
+        "freq": "1",
+        "signname": "GAN2",
+        "type": "Syllabogram"
+    },
+    "gar": {
+        "borger": "859",
+        "freq": "8",
+        "signname": "GAR",
+        "type": "Syllabogram"
+    },
+    "gar3": {
+        "borger": "543",
+        "freq": "593",
+        "signname": "GAR3",
+        "type": "Syllabogram"
+    },
+    "gi": {
+        "borger": "141",
+        "freq": "3",
+        "signname": "--",
+        "type": "Akkadogram"
+    },
+    "gi4": {
+        "borger": "507",
+        "freq": "1",
+        "signname": "GI4",
+        "type": "Syllabogram"
+    },
+    "gir2": {
+        "freq": "1",
+        "signname": "GIR2",
+        "type": "Syllabogram"
+    },
+    "gu": {
+        "borger": "891",
+        "freq": "358",
+        "signname": "GU",
+        "type": "Syllabogram"
+    },
+    "gu2": {
+        "borger": "176",
+        "freq": "3780",
+        "signname": "GU2",
+        "type": "Syllabogram"
+    },
+    "gu3": {
+        "borger": "24",
+        "freq": "3",
+        "signname": "KA",
+        "type": "Syllabogram"
+    },
+    "gu4": {
+        "borger": "472",
+        "freq": "6",
+        "signname": "GUD",
+        "type": "Syllabogram"
+    },
+    "gub": {
+        "borger": "350",
+        "freq": "5",
+        "signname": "DU",
+        "type": "Syllabogram"
+    },
+    "gul": {
+        "borger": "682",
+        "freq": "59",
+        "signname": "GUL",
+        "type": "Syllabogram"
+    },
+    "gum": {
+        "borger": "339",
+        "freq": "1",
+        "signname": "GUM",
+        "type": "Phonetic Comp."
+    },
+    "gum2": {
+        "borger": "900",
+        "freq": "102",
+        "signname": "LUM",
+        "type": "Syllabogram"
+    },
+    "gur": {
+        "borger": "180",
+        "freq": "103",
+        "signname": "GUR",
+        "type": "Syllabogram"
+    },
+    "ha": {
+        "borger": "856",
+        "freq": "1849",
+        "signname": "HA",
+        "type": "Syllabogram"
+    },
+    "hab2": {
+        "freq": "1",
+        "signname": "HAB2",
+        "type": "undefined"
+    },
+    "hal": {
+        "borger": "3",
+        "freq": "83",
+        "signname": "HAL",
+        "type": "Syllabogram"
+    },
+    "har": {
+        "borger": "644",
+        "freq": "2",
+        "signname": "HAR",
+        "type": "undefined"
+    },
+    "hax": {
+        "freq": "1",
+        "signname": "HAL",
+        "type": "undefined"
+    },
+    "haš": {
+        "borger": "9",
+        "freq": "4",
+        "signname": "TAR",
+        "type": "Syllabogram"
+    },
+    "he2": {
+        "borger": "253",
+        "freq": "30",
+        "signname": "GAN",
+        "type": "Syllabogram"
+    },
+    "hi": {
+        "borger": "631",
+        "freq": "161",
+        "signname": "HI",
+        "type": "Syllabogram"
+    },
+    "hir": {
+        "freq": "15",
+        "signname": "KEŠDA",
+        "type": "Syllabogram"
+    },
+    "hir2": {
+        "borger": "644",
+        "freq": "1",
+        "signname": "HAR",
+        "type": "Syllabogram"
+    },
+    "hix": {
+        "freq": "1",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "hu": {
+        "borger": "132",
+        "freq": "922",
+        "signname": "HU",
+        "type": "Syllabogram"
+    },
+    "hul2": {
+        "freq": "1",
+        "signname": "HUL2",
+        "type": "Syllabogram"
+    },
+    "hum": {
+        "borger": "900",
+        "freq": "8",
+        "signname": "LUM",
+        "type": "Syllabogram"
+    },
+    "hur": {
+        "borger": "644",
+        "freq": "89",
+        "signname": "HAR",
+        "type": "Syllabogram"
+    },
+    "i": {
+        "borger": "252",
+        "freq": "3841",
+        "signname": "I",
+        "type": "Syllabogram"
+    },
+    "i3": {
+        "borger": "380",
+        "freq": "754",
+        "signname": "NI",
+        "type": "Syllabogram"
+    },
+    "ib": {
+        "borger": "807",
+        "freq": "1837",
+        "signname": "IB",
+        "type": "Syllabogram"
+    },
+    "ib2": {
+        "borger": "354",
+        "freq": "207",
+        "signname": "TUM",
+        "type": "Syllabogram"
+    },
+    "ig": {
+        "borger": "136",
+        "freq": "745",
+        "signname": "IG",
+        "type": "Syllabogram"
+    },
+    "ih": {
+        "borger": "636",
+        "freq": "28",
+        "signname": "AH",
+        "type": "Syllabogram"
+    },
+    "ik": {
+        "borger": "136",
+        "freq": "7",
+        "signname": "IG",
+        "type": "Syllabogram"
+    },
+    "il": {
+        "borger": "348",
+        "freq": "1129",
+        "signname": "IL",
+        "type": "Syllabogram"
+    },
+    "il2": {
+        "freq": "535",
+        "signname": "IL2",
+        "type": "Syllabogram"
+    },
+    "im": {
+        "borger": "641",
+        "freq": "748",
+        "signname": "IM",
+        "type": "Syllabogram"
+    },
+    "in": {
+        "borger": "261",
+        "freq": "3518",
+        "signname": "IN",
+        "type": "Syllabogram"
+    },
+    "ir": {
+        "borger": "437",
+        "freq": "521",
+        "signname": "IR",
+        "type": "Syllabogram"
+    },
+    "ir11": {
+        "freq": "8",
+        "signname": "ARAD2",
+        "type": "Syllabogram"
+    },
+    "ir3": {
+        "borger": "18",
+        "freq": "1233",
+        "signname": "ARAD",
+        "type": "Syllabogram"
+    },
+    "iz": {
+        "borger": "469",
+        "freq": "1",
+        "signname": "GIŠ",
+        "type": "Syllabogram"
+    },
+    "iš": {
+        "borger": "357",
+        "freq": "1248",
+        "signname": "IŠ",
+        "type": "Syllabogram"
+    },
+    "iš11": {
+        "freq": "447",
+        "signname": "IŠ11",
+        "type": "Syllabogram"
+    },
+    "iš12": {
+        "freq": "45",
+        "signname": "LAM",
+        "type": "Syllabogram"
+    },
+    "ištaran": {
+        "freq": "1",
+        "signname": "IŠTARAN",
+        "type": "Syllabogram"
+    },
+    "išx": {
+        "freq": "1",
+        "signname": "IŠx",
+        "type": "Syllabogram"
+    },
+    "kab": {
+        "borger": "148",
+        "freq": "231",
+        "signname": "GAB2",
+        "type": "Syllabogram"
+    },
+    "kak": {
+        "borger": "379",
+        "freq": "433",
+        "signname": "KAK",
+        "type": "Syllabogram"
+    },
+    "kam4": {
+        "freq": "165",
+        "signname": "KAM4",
+        "type": "Syllabogram"
+    },
+    "kap": {
+        "borger": "148",
+        "freq": "1",
+        "signname": "GAB2",
+        "type": "Syllabogram"
+    },
+    "kar": {
+        "borger": "590",
+        "freq": "4",
+        "signname": "KAR",
+        "type": "Syllabogram"
+    },
+    "kas": {
+        "borger": "302",
+        "freq": "19",
+        "signname": "KASKAL",
+        "type": "Syllabogram"
+    },
+    "keš2": {
+        "freq": "57",
+        "signname": "KEŠDA",
+        "type": "Syllabogram"
+    },
+    "ki": {
+        "borger": "737",
+        "freq": "343",
+        "signname": "KI",
+        "type": "Syllabogram"
+    },
+    "kir": {
+        "borger": "558",
+        "freq": "1014",
+        "signname": "PEŠ",
+        "type": "Syllabogram"
+    },
+    "ku": {
+        "borger": "808",
+        "freq": "1",
+        "signname": "KU",
+        "type": "Determinative"
+    },
+    "ku3": {
+        "borger": "745",
+        "freq": "1",
+        "signname": "KUG",
+        "type": "Syllabogram"
+    },
+    "ku5": {
+        "borger": "9",
+        "freq": "2",
+        "signname": "TAR",
+        "type": "Syllabogram"
+    },
+    "kul": {
+        "borger": "117",
+        "freq": "18",
+        "signname": "KUL",
+        "type": "Syllabogram"
+    },
+    "kum": {
+        "borger": "339",
+        "freq": "87",
+        "signname": "GUM",
+        "type": "Syllabogram"
+    },
+    "kun": {
+        "borger": "131",
+        "freq": "2",
+        "signname": "KUN",
+        "type": "Syllabogram"
+    },
+    "kun3": {
+        "borger": "339",
+        "freq": "59",
+        "signname": "GUM",
+        "type": "Syllabogram"
+    },
+    "kur": {
+        "borger": "578",
+        "freq": "7",
+        "signname": "KUR",
+        "type": "Syllabogram"
+    },
+    "la": {
+        "borger": "89",
+        "freq": "1247",
+        "signname": "LA",
+        "type": "Syllabogram"
+    },
+    "la2": {
+        "borger": "750",
+        "freq": "65",
+        "signname": "LAL",
+        "type": "Syllabogram"
+    },
+    "labx": {
+        "freq": "2",
+        "signname": "LAM",
+        "type": "undefined"
+    },
+    "lam": {
+        "borger": "693",
+        "freq": "116",
+        "signname": "LAM",
+        "type": "Syllabogram"
+    },
+    "li": {
+        "borger": "85",
+        "freq": "2276",
+        "signname": "LI",
+        "type": "Syllabogram"
+    },
+    "li2": {
+        "borger": "380",
+        "freq": "9",
+        "signname": "NI",
+        "type": "Syllabogram"
+    },
+    "li9": {
+        "borger": "313",
+        "freq": "13",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "lik": {
+        "borger": "828",
+        "freq": "421",
+        "signname": "UR",
+        "type": "Eblaitogram"
+    },
+    "lim": {
+        "borger": "724",
+        "freq": "3",
+        "signname": "IGI",
+        "type": "Syllabogram"
+    },
+    "lu": {
+        "borger": "812",
+        "freq": "2",
+        "signname": "LU",
+        "type": "Phonetic Comp."
+    },
+    "lu2": {
+        "borger": "514",
+        "freq": "10",
+        "signname": "LU2",
+        "type": "Syllabogram"
+    },
+    "lu5": {
+        "freq": "140",
+        "signname": "LUL",
+        "type": "Syllabogram"
+    },
+    "lul": {
+        "freq": "40",
+        "signname": "LUL",
+        "type": "Syllabogram"
+    },
+    "lum": {
+        "borger": "900",
+        "freq": "2195",
+        "signname": "LUM",
+        "type": "Syllabogram"
+    },
+    "lux": {
+        "freq": "22",
+        "signname": "ERIN+X2",
+        "type": "Syllabogram"
+    },
+    "ma": {
+        "borger": "552",
+        "freq": "1",
+        "signname": "MA",
+        "type": "undefined"
+    },
+    "ma2": {
+        "borger": "201",
+        "freq": "564",
+        "signname": "MA2",
+        "type": "Syllabogram"
+    },
+    "mah": {
+        "borger": "91",
+        "freq": "12",
+        "signname": "MAH",
+        "type": "Syllabogram"
+    },
+    "man": {
+        "freq": "1",
+        "signname": "MAN",
+        "type": "Syllabogram"
+    },
+    "mar": {
+        "borger": "483",
+        "freq": "289",
+        "signname": "MAR",
+        "type": "Syllabogram"
+    },
+    "maš": {
+        "borger": "120",
+        "freq": "134",
+        "signname": "MAŠ",
+        "type": "Syllabogram"
+    },
+    "me": {
+        "borger": "753",
+        "freq": "200",
+        "signname": "ME",
+        "type": "Syllabogram"
+    },
+    "mes": {
+        "freq": "1",
+        "signname": "MES",
+        "type": "Syllabogram"
+    },
+    "mi": {
+        "borger": "681",
+        "freq": "4339",
+        "signname": "MI",
+        "type": "Syllabogram"
+    },
+    "min": {
+        "freq": "1",
+        "signname": "MIN",
+        "type": "Syllabogram"
+    },
+    "min3": {
+        "freq": "2",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "mu": {
+        "borger": "98",
+        "freq": "3842",
+        "signname": "MU",
+        "type": "Syllabogram"
+    },
+    "mu2": {
+        "borger": "541",
+        "freq": "4",
+        "signname": "SAR",
+        "type": "Syllabogram"
+    },
+    "mug": {
+        "freq": "16",
+        "signname": "MUG",
+        "type": "Syllabogram"
+    },
+    "mul": {
+        "freq": "3",
+        "signname": "MUL",
+        "type": "undefined"
+    },
+    "munu4": {
+        "freq": "1",
+        "signname": "MUNU4",
+        "type": "Syllabogram"
+    },
+    "mur": {
+        "borger": "644",
+        "freq": "95",
+        "signname": "HAR",
+        "type": "Syllabogram"
+    },
+    "na": {
+        "borger": "110",
+        "freq": "3",
+        "signname": "NA",
+        "type": "Phonetic Comp."
+    },
+    "nab": {
+        "freq": "1",
+        "signname": "NAB",
+        "type": "Determinative"
+    },
+    "nabx": {
+        "freq": "1",
+        "signname": "MUL",
+        "type": "Syllabogram"
+    },
+    "nam": {
+        "borger": "134",
+        "freq": "14",
+        "signname": "NAM",
+        "type": "Syllabogram"
+    },
+    "nap": {
+        "freq": "18",
+        "signname": "NAB",
+        "type": "Syllabogram"
+    },
+    "ne": {
+        "borger": "313",
+        "freq": "247",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "ni": {
+        "borger": "380",
+        "freq": "674",
+        "signname": "NI",
+        "type": "Syllabogram"
+    },
+    "nu": {
+        "borger": "112",
+        "freq": "1",
+        "signname": "NU",
+        "type": "Phonetic Comp."
+    },
+    "num2": {
+        "borger": "900",
+        "freq": "254",
+        "signname": "LUM",
+        "type": "Syllabogram"
+    },
+    "nun": {
+        "borger": "143",
+        "freq": "10",
+        "signname": "NUN",
+        "type": "Syllabogram"
+    },
+    "pa": {
+        "borger": "464",
+        "freq": "4",
+        "signname": "PA",
+        "type": "Syllabogram"
+    },
+    "pa4": {
+        "borger": "92",
+        "freq": "3",
+        "signname": "PAP",
+        "type": "Syllabogram"
+    },
+    "pap": {
+        "borger": "92",
+        "freq": "1",
+        "signname": "PAP",
+        "type": "Syllabogram"
+    },
+    "peš2": {
+        "freq": "8",
+        "signname": "PEŠ2",
+        "type": "Syllabogram"
+    },
+    "pi": {
+        "borger": "598",
+        "freq": "22",
+        "signname": "PI",
+        "type": "Syllabogram"
+    },
+    "pu2": {
+        "freq": "6",
+        "signname": "GIGIR2",
+        "type": "Syllabogram"
+    },
+    "puzur4": {
+        "freq": "8",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "ra": {
+        "borger": "511",
+        "freq": "3825",
+        "signname": "RA",
+        "type": "Syllabogram"
+    },
+    "ra2": {
+        "borger": "350",
+        "freq": "35",
+        "signname": "DU",
+        "type": "Syllabogram"
+    },
+    "rad": {
+        "freq": "2",
+        "signname": "ŠITA3",
+        "type": "Syllabogram"
+    },
+    "ri": {
+        "borger": "354",
+        "freq": "28",
+        "signname": "RI",
+        "type": "Syllabogram"
+    },
+    "ri2": {
+        "borger": "71",
+        "freq": "2753",
+        "signname": "URU",
+        "type": "Syllabogram"
+    },
+    "rim3": {
+        "freq": "1",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "ru": {
+        "borger": "111",
+        "freq": "5",
+        "signname": "RU",
+        "type": "Syllabogram"
+    },
+    "ru12": {
+        "borger": "164",
+        "freq": "1441",
+        "signname": "EN",
+        "type": "Syllabogram"
+    },
+    "rum": {
+        "borger": "1",
+        "freq": "39",
+        "signname": "AŠ",
+        "type": "Syllabogram"
+    },
+    "rum2": {
+        "freq": "345",
+        "signname": "RUM2",
+        "type": "Syllabogram"
+    },
+    "sa": {
+        "borger": "172",
+        "freq": "1276",
+        "signname": "SA",
+        "type": "Syllabogram"
+    },
+    "sa12": {
+        "borger": "184",
+        "freq": "2",
+        "signname": "SAG",
+        "type": "Syllabogram"
+    },
+    "sa2": {
+        "borger": "736",
+        "freq": "312",
+        "signname": "DI",
+        "type": "Syllabogram"
+    },
+    "sag": {
+        "borger": "184",
+        "freq": "1",
+        "signname": "SAG",
+        "type": "Syllabogram"
+    },
+    "sal": {
+        "borger": "883",
+        "freq": "51",
+        "signname": "SAL",
+        "type": "Syllabogram"
+    },
+    "sal4": {
+        "freq": "53",
+        "signname": "SILA3",
+        "type": "Syllabogram"
+    },
+    "sar": {
+        "borger": "541",
+        "freq": "53",
+        "signname": "SAR",
+        "type": "Syllabogram"
+    },
+    "se11": {
+        "freq": "20",
+        "signname": "SIG",
+        "type": "Syllabogram"
+    },
+    "si": {
+        "borger": "181",
+        "freq": "2011",
+        "signname": "SI",
+        "type": "Syllabogram"
+    },
+    "si4": {
+        "freq": "1",
+        "signname": "SU4",
+        "type": "Syllabogram"
+    },
+    "su": {
+        "borger": "16",
+        "freq": "2",
+        "signname": "SU",
+        "type": "undefined"
+    },
+    "su3": {
+        "freq": "1",
+        "signname": "SUD",
+        "type": "undefined"
+    },
+    "sum": {
+        "freq": "173",
+        "signname": "SUM",
+        "type": "Syllabogram"
+    },
+    "sur2": {
+        "freq": "2",
+        "signname": "DUL3",
+        "type": "Syllabogram"
+    },
+    "sur3": {
+        "freq": "3",
+        "signname": "SUR3",
+        "type": "undefined"
+    },
+    "tab": {
+        "borger": "209",
+        "freq": "5",
+        "signname": "TAB",
+        "type": "Syllabogram"
+    },
+    "tag": {
+        "borger": "221",
+        "freq": "1",
+        "signname": "TAG",
+        "type": "Syllabogram"
+    },
+    "tal": {
+        "borger": "142",
+        "freq": "39",
+        "signname": "RI",
+        "type": "Syllabogram"
+    },
+    "tar": {
+        "borger": "9",
+        "freq": "1",
+        "signname": "TAR",
+        "type": "Syllabogram"
+    },
+    "tar5": {
+        "borger": "141",
+        "freq": "1",
+        "signname": "GI",
+        "type": "Syllabogram"
+    },
+    "tarx": {
+        "freq": "13",
+        "signname": "BAN",
+        "type": "Syllabogram"
+    },
+    "te": {
+        "borger": "589",
+        "freq": "84",
+        "signname": "TE",
+        "type": "Syllabogram"
+    },
+    "teš": {
+        "borger": "1",
+        "freq": "1",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "teš2": {
+        "borger": "828",
+        "freq": "4",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "ti": {
+        "borger": "118",
+        "freq": "2",
+        "signname": "TI",
+        "type": "Phonetic Comp."
+    },
+    "ti2": {
+        "borger": "119",
+        "freq": "1",
+        "signname": "DIN",
+        "type": "Syllabogram"
+    },
+    "tim": {
+        "borger": "167",
+        "freq": "1",
+        "signname": "DIM",
+        "type": "Determinative"
+    },
+    "timx": {
+        "freq": "1",
+        "signname": "TIMx",
+        "type": "Syllabogram"
+    },
+    "tin": {
+        "borger": "119",
+        "freq": "12",
+        "signname": "DIN",
+        "type": "Syllabogram"
+    },
+    "tir5": {
+        "freq": "20",
+        "signname": "PAN",
+        "type": "Syllabogram"
+    },
+    "tix": {
+        "freq": "1",
+        "signname": "DIN",
+        "type": "Syllabogram"
+    },
+    "tiš2": {
+        "borger": "828",
+        "freq": "7",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "tu": {
+        "borger": "86",
+        "freq": "25",
+        "signname": "TU",
+        "type": "Syllabogram"
+    },
+    "tukux": {
+        "freq": "1",
+        "signname": "HUB2",
+        "type": "Syllabogram"
+    },
+    "tum": {
+        "borger": "354",
+        "freq": "1",
+        "signname": "TUM",
+        "type": "Phonetic Comp."
+    },
+    "tum3": {
+        "freq": "2",
+        "signname": "TUM3",
+        "type": "Syllabogram"
+    },
+    "tur": {
+        "borger": "255",
+        "freq": "1",
+        "signname": "TUR",
+        "type": "Syllabogram"
+    },
+    "u": {
+        "borger": "661",
+        "freq": "1",
+        "signname": "--",
+        "type": "Syllabogram"
+    },
+    "u2": {
+        "borger": "490",
+        "freq": "27",
+        "signname": "U2",
+        "type": "Syllabogram"
+    },
+    "u3": {
+        "borger": "731",
+        "freq": "1",
+        "signname": "U3",
+        "type": "undefined"
+    },
+    "u4": {
+        "borger": "596",
+        "freq": "66",
+        "signname": "UD",
+        "type": "Syllabogram"
+    },
+    "u9": {
+        "borger": "275",
+        "freq": "459",
+        "signname": "U9",
+        "type": "Syllabogram"
+    },
+    "ub": {
+        "borger": "504",
+        "freq": "323",
+        "signname": "UB",
+        "type": "Syllabogram"
+    },
+    "ud": {
+        "borger": "596",
+        "freq": "357",
+        "signname": "UD",
+        "type": "Syllabogram"
+    },
+    "ul": {
+        "borger": "698",
+        "freq": "218",
+        "signname": "UL",
+        "type": "Syllabogram"
+    },
+    "ul4": {
+        "freq": "1",
+        "signname": "UL4",
+        "type": "Syllabogram"
+    },
+    "um": {
+        "borger": "238",
+        "freq": "5948",
+        "signname": "UM",
+        "type": "Syllabogram"
+    },
+    "ur": {
+        "borger": "828",
+        "freq": "236",
+        "signname": "UR",
+        "type": "Syllabogram"
+    },
+    "ur2": {
+        "borger": "341",
+        "freq": "4",
+        "signname": "UR2",
+        "type": "undefined"
+    },
+    "ur3": {
+        "freq": "2",
+        "signname": "UR3",
+        "type": "Syllabogram"
+    },
+    "ur4": {
+        "freq": "1",
+        "signname": "UR4",
+        "type": "Syllabogram"
+    },
+    "ut": {
+        "borger": "596",
+        "freq": "17",
+        "signname": "UD",
+        "type": "Syllabogram"
+    },
+    "uš": {
+        "borger": "381",
+        "freq": "192",
+        "signname": "UŠ",
+        "type": "Syllabogram"
+    },
+    "uš2": {
+        "freq": "1",
+        "signname": "UŠ2",
+        "type": "Syllabogram"
+    },
+    "wa": {
+        "borger": "598",
+        "freq": "1",
+        "signname": "PI",
+        "type": "Phonetic Comp."
+    },
+    "war": {
+        "borger": "121",
+        "freq": "1",
+        "signname": "HAR",
+        "type": "Syllabogram"
+    },
+    "we": {
+        "borger": "598",
+        "freq": "36",
+        "signname": "PI",
+        "type": "Syllabogram"
+    },
+    "wi": {
+        "borger": "598",
+        "freq": "7",
+        "signname": "PI",
+        "type": "Syllabogram"
+    },
+    "wu": {
+        "borger": "598",
+        "freq": "21",
+        "signname": "PI",
+        "type": "Syllabogram"
+    },
+    "za": {
+        "borger": "851",
+        "freq": "2019",
+        "signname": "ZA",
+        "type": "Syllabogram"
+    },
+    "zamx": {
+        "freq": "7",
+        "signname": "ZAMx",
+        "type": "Syllabogram"
+    },
+    "zar3": {
+        "freq": "16",
+        "signname": "SUM",
+        "type": "Syllabogram"
+    },
+    "zax": {
+        "freq": "34",
+        "signname": "ZAx",
+        "type": "Syllabogram"
+    },
+    "ze2": {
+        "borger": "259",
+        "freq": "279",
+        "signname": "ZE2",
+        "type": "Syllabogram"
+    },
+    "zi": {
+        "borger": "140",
+        "freq": "1209",
+        "signname": "--",
+        "type": "Akkadogram"
+    },
+    "zu": {
+        "borger": "15",
+        "freq": "3",
+        "signname": "--",
+        "type": "Akkadogram"
+    },
+    "zu2": {
+        "borger": "24",
+        "freq": "529",
+        "signname": "KA",
+        "type": "Syllabogram"
+    },
+    "ŠA": {
+        "borger": "566",
+        "freq": "359",
+        "signname": "ŠA",
+        "type": "undefined"
+    },
+    "ŠA2": {
+        "borger": "859",
+        "freq": "3",
+        "signname": "GAR",
+        "type": "Logogram"
+    },
+    "ŠA3": {
+        "borger": "599",
+        "freq": "2",
+        "signname": "ŠA3",
+        "type": "undefined"
+    },
+    "ŠA3@xSAL": {
+        "freq": "2",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ŠABRA": {
+        "freq": "5",
+        "signname": "ŠABRA",
+        "type": "Logogram"
+    },
+    "ŠAGAN": {
+        "freq": "12",
+        "signname": "ŠAGAN",
+        "type": "Logogram"
+    },
+    "ŠAH": {
+        "freq": "3",
+        "signname": "ŠUBUR",
+        "type": "Logogram"
+    },
+    "ŠAH2": {
+        "freq": "3",
+        "signname": "DUN",
+        "type": "Logogram"
+    },
+    "ŠAR": {
+        "borger": "541",
+        "freq": "1",
+        "signname": "SAR",
+        "type": "Logogram"
+    },
+    "ŠARA2": {
+        "freq": "1",
+        "signname": "BARA6",
+        "type": "Logogram"
+    },
+    "ŠE": {
+        "borger": "579",
+        "freq": "140",
+        "signname": "ŠE",
+        "type": "undefined"
+    },
+    "ŠE3": {
+        "freq": "1",
+        "signname": "EŠ2",
+        "type": "Logogram"
+    },
+    "ŠEG9": {
+        "freq": "9",
+        "signname": "ŠEG9",
+        "type": "Logogram"
+    },
+    "ŠEMBI": {
+        "freq": "6",
+        "signname": "ŠEMBI",
+        "type": "Logogram"
+    },
+    "ŠEN": {
+        "freq": "3",
+        "signname": "ŠEN",
+        "type": "Logogram"
+    },
+    "ŠENNUR": {
+        "borger": "378",
+        "freq": "3",
+        "signname": "KIB",
+        "type": "Logogram"
+    },
+    "ŠERIM": {
+        "borger": "221",
+        "freq": "1",
+        "signname": "TAG",
+        "type": "Logogram"
+    },
+    "ŠEŠ": {
+        "borger": "535",
+        "freq": "6",
+        "signname": "ŠEŠ",
+        "type": "undefined"
+    },
+    "ŠID": {
+        "borger": "485",
+        "freq": "5",
+        "signname": "ŠID",
+        "type": "Logogram"
+    },
+    "ŠILIG": {
+        "freq": "55",
+        "signname": "ŠILIG",
+        "type": "Logogram"
+    },
+    "ŠIM": {
+        "borger": "362",
+        "freq": "1",
+        "signname": "ŠIM",
+        "type": "undefined"
+    },
+    "ŠINIG": {
+        "freq": "12",
+        "signname": "ŠINIG",
+        "type": "Logogram"
+    },
+    "ŠIR": {
+        "freq": "2",
+        "signname": "ŠIR",
+        "type": "undefined"
+    },
+    "ŠITA2": {
+        "freq": "4",
+        "signname": "ŠITA2",
+        "type": "Logogram"
+    },
+    "ŠITA2@x10": {
+        "freq": "9",
+        "signname": "--",
+        "type": "undefined"
+    },
+    "ŠITIM": {
+        "borger": "686",
+        "freq": "7",
+        "signname": "DIM2",
+        "type": "Logogram"
+    },
+    "ŠU": {
+        "borger": "567",
+        "freq": "99",
+        "signname": "ŠU",
+        "type": "undefined"
+    },
+    "ŠU2": {
+        "freq": "312",
+        "signname": "ŠU2",
+        "type": "undefined"
+    },
+    "ŠU4": {
+        "borger": "661",
+        "freq": "2",
+        "signname": "U",
+        "type": "undefined"
+    },
+    "ŠUB": {
+        "borger": "111",
+        "freq": "189",
+        "signname": "RU",
+        "type": "Logogram"
+    },
+    "ŠUBUR": {
+        "freq": "18",
+        "signname": "ŠUBUR",
+        "type": "undefined"
+    },
+    "ŠUBUR2": {
+        "borger": "18",
+        "freq": "1",
+        "signname": "ARAD",
+        "type": "Logogram"
+    },
+    "ŠUDUL": {
+        "freq": "1",
+        "signname": "ŠUDUN",
+        "type": "undefined"
+    },
+    "ŠUDUN": {
+        "freq": "27",
+        "signname": "ŠUDUN",
+        "type": "Logogram"
+    },
+    "ŠUKU": {
+        "borger": "746",
+        "freq": "22",
+        "signname": "PAD",
+        "type": "Logogram"
+    },
+    "ŠUM": {
+        "borger": "221",
+        "freq": "2",
+        "signname": "TAG",
+        "type": "undefined"
+    },
+    "ŠUM2": {
+        "freq": "3",
+        "signname": "SUM",
+        "type": "Logogram"
+    },
+    "ŠURx": {
+        "freq": "7",
+        "signname": "SUR3",
+        "type": "n.d."
+    },
+    "ŠUŠ": {
+        "borger": "661",
+        "freq": "1",
+        "signname": "--",
+        "type": "Logogram"
+    },
+    "ša": {
+        "borger": "566",
+        "freq": "861",
+        "signname": "ŠA",
+        "type": "Syllabogram"
+    },
+    "šar": {
+        "borger": "541",
+        "freq": "532",
+        "signname": "SAR",
+        "type": "Syllabogram"
+    },
+    "šarx": {
+        "freq": "1",
+        "signname": "NE",
+        "type": "Syllabogram"
+    },
+    "še": {
+        "borger": "579",
+        "freq": "4",
+        "signname": "ŠE",
+        "type": "Syllabogram"
+    },
+    "še3": {
+        "freq": "259",
+        "signname": "EŠ2",
+        "type": "Syllabogram"
+    },
+    "ši": {
+        "borger": "724",
+        "freq": "32",
+        "signname": "IGI",
+        "type": "Syllabogram"
+    },
+    "šim": {
+        "borger": "362",
+        "freq": "2",
+        "signname": "ŠIM",
+        "type": "Syllabogram"
+    },
+    "šu": {
+        "borger": "567",
+        "freq": "619",
+        "signname": "ŠU",
+        "type": "Syllabogram"
+    },
+    "šum": {
+        "borger": "221",
+        "freq": "535",
+        "signname": "TAG",
+        "type": "Syllabogram"
+    },
+    "šurx": {
+        "freq": "22",
+        "signname": "SUR3",
+        "type": "Syllabogram"
+    },
+    "ʾA3": {
+        "borger": "495",
+        "freq": "6",
+        "signname": "E2",
+        "type": "Logogram"
+    },
+    "ʾA5": {
+        "borger": "380",
+        "freq": "6",
+        "signname": "NI",
+        "type": "Logogram"
+    },
+    "ʾa3": {
+        "borger": "495",
+        "freq": "6400",
+        "signname": "E2",
+        "type": "Syllabogram"
+    },
+    "ʾa5": {
+        "borger": "380",
+        "freq": "277",
+        "signname": "NI",
+        "type": "Syllabogram"
+    }
+}
