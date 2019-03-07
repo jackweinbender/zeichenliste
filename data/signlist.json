@@ -948,7 +948,7 @@
         "mittermayer_id": "137",
         "oracc_name": "NINDA2×ŠE",
         "unicode_name": "",
-        "unicode_value": "important codepoint missing",
+        "unicode_value": "U+1225B 𒉛",
         "values": "agₓ; sa10; sam2; šam2;"
     },
     "339": {
@@ -1001,7 +1001,7 @@
         "huehnergard_id": "52",
         "labat_id": "206",
         "labat_name": "du",
-        "mittermayer_id": "064, 197",
+        "mittermayer_id": "64, 197",
         "oracc_name": "DU",
         "unicode_name": "DU",
         "unicode_value": "U+1207A 𒁺",
@@ -1088,7 +1088,7 @@
         "mittermayer_id": "274",
         "oracc_name": "GIŠ%GIŠ",
         "unicode_name": "",
-        "unicode_value": "",
+        "unicode_value": "U+12112 𒄒",
         "values": "adamin3; adamen3; puhrum; alal3; an2; dara5; dari5;daru5; dur4; duru4; durum4; hul3; kib; kip; gib2; gip2; girriₓ; liri3;liru3; lirum3; qeb; qep; qib; qip; šallur; šennur; tur4; ṭur4; ul3;ulul;"
     },
     "379": {
@@ -1382,7 +1382,7 @@
         "mittermayer_id": "169",
         "oracc_name": "UN",
         "unicode_name": "",
-        "unicode_value": "",
+        "unicode_value": "U+12326 𒌦",
         "values": "kalam; kalama; kanaŋ; kanam; u12; ug3; uga3; uŋ3; uku3;umₓ; un; unu4;"
     },
     "502": {
@@ -1463,7 +1463,7 @@
         "huehnergard_id": "13",
         "labat_id": "331",
         "labat_name": "šeš",
-        "mittermayer_id": "021b",
+        "mittermayer_id": "21",
         "oracc_name": "ŠEŠ",
         "unicode_name": "SHESH",
         "unicode_value": "U+122C0 𒋀",
@@ -1592,7 +1592,7 @@
         "mittermayer_id": "219b, 219a",
         "oracc_name": "DUN3@g@g",
         "unicode_name": "",
-        "unicode_value": "",
+        "unicode_value": "U+12087 𒂇",
         "values": "aga; agu; ir17; mer; mere; migir; mir; miri; nigir;niŋir; nimgir; nimirₓ; ten3; tin3; uku;"
     },
     "558": {
@@ -1746,7 +1746,7 @@
         "mittermayer_id": "379",
         "oracc_name": "ŠE.HU",
         "unicode_name": "SHE & HU",
-        "unicode_value": "U+122BA 𒊺 & U+12137 𒄷",
+        "unicode_value": "U+12356 𒍖",
         "values": "bazbazₓ; us; uš10; uṣ; uz; uza; uzu3;"
     },
     "585": {
@@ -1928,7 +1928,7 @@
         "mittermayer_id": "279",
         "oracc_name": "HI×BAD",
         "unicode_name": "",
-        "unicode_value": "",
+        "unicode_value": "U+12130 𒄰",
         "values": "du15; eriš6; gam2; gama2; hud3; ka13; kam; kama;qam2; tu7; udul2; utul2;"
     },
     "641": {
