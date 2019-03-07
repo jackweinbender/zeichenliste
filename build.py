@@ -75,7 +75,7 @@ for row in rows:
         # Get property value by name
         val = getattr(sign,k)
         # Add Borger ID to index
-        if val != '':
+        if val != '' and sign.borger_id not in index[val.lower()]:
             index[val.lower()].append(sign.borger_id)
 
 with open('data/signlist.json', 'w') as outfile:
