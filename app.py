@@ -5,6 +5,8 @@ app = Flask(__name__)
 
 with open('data/signlist.json', encoding='utf-8') as f:
     signlist = json.load(f)
+with open('data/search_index.json', encoding='utf-8') as f:
+    search_index = json.load(f)
 
 @app.route('/')
 def home():
@@ -20,19 +22,27 @@ def search():
     
     signs = search_query(query)
     
-    if len(signs) == 1:
+    if len(signs) == 0:
+        render_template("search.html", signs=False)
+    elif len(signs) == 1:
         sign_id = signs[0].borger_id
         return redirect(url_for('sign', sign_id=sign_id))
-    return render_template("search.html", signs=signs)
+    else:
+        return render_template("search.html", signs=signs)
 
 def search_query(query):
     """Takes a query string and returns a list of sign entries"""
     results = []
     # FIXME: Fake return data
     
-    data = sign_by_id('3')
-
-    return [data]
+    if query in search_index:
+        results = []
+        for sign_id in search_index[query]:
+            sign = sign_by_id(sign_id)
+            results.append(sign)
+        return results
+    else:
+        return []
 
 @app.route('/signs/<sign_id>')
 def sign(sign_id):
