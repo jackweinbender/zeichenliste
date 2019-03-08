@@ -1,27 +1,25 @@
 {% extends 'index.html' %}
  
 {% block container %}
-  <div class="search-box">
-      Searchbox
-  </div>
   <div class="sign-info">
-      <p>name: {{sign.borger_sign_name}}
-        {% if sign.unicode_sign_name %}
-          ( {{sign.unicode_sign_name}} )
+      <p>name: {{sign.borger_name}}
+        {% if sign.unicode_name != '' %}
+          ( {{sign.unicode_name}} )
         {% endif %}
+        <span class="cuneiform">{{sign.unicode_value}}</span>
       </p>
-      <p>description: {{sign.sign_depiction}}</p>
-
+      <p>
+        {% for value in sign.values %}
+          <span class="sign-value">{{value}}</span>
+        {% endfor %}
+      </p>
       <p>Signlist IDs:
-        <dt>Borger</dt>       <dd>{{sign.borger}}</dd>
-        <dt>Labat</dt>        <dd>{{sign.labat}}</dd>
-        <dt>Huehnergard</dt>  <dd>{{sign.huehnergard}}</dd>
-        <dt>Deimel</dt>       <dd>{{sign.deimel}}</dd>
-        <dt>Mittermayer</dt>  <dd>{{sign.mittermayer}}</dd>
-        <dt>Heth ZL</dt>      <dd>{{sign.heth_z_l}}</dd>
-        <dt>Hinke</dt>        <dd>{{sign.hinke}}</dd>
-        <dt>Clay</dt>         <dd>{{sign.clay}}</dd>
-        <dt>Ranke</dt>        <dd>{{sign.ranke}}</dd>
+        <dt>Borger</dt>       <dd>{{sign.borger_id}}</dd>
+        <dt>Labat</dt>        <dd>{{sign.labat_id}}</dd>
+        <dt>Huehnergard</dt>  <dd>{{sign.huehnergard_id}}</dd>
+        <dt>Deimel</dt>       <dd>{{sign.deimel_id}}</dd>
+        <dt>Mittermayer</dt>  <dd>{{sign.mittermayer_id}}</dd>
+        <dt>Heth ZL</dt>      <dd>{{sign.hethzl_id}}</dd>
       </p>
   </div>
 {% endblock %}

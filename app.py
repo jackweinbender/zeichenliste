@@ -1,51 +1,64 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, json, redirect, url_for
+from models.sign import Sign
 
 app = Flask(__name__)
 
+with open('data/signlist.json', encoding='utf-8') as f:
+    signlist = json.load(f)
+with open('data/search_index.json', encoding='utf-8') as f:
+    search_index = json.load(f)
 
 @app.route('/')
 def home():
-    """Render Main Search Box"""
+    """Render Main Search Box on Homepage"""
+    return render_template("home.html")
+
+@app.route('/search')
+def search():
     query = request.args.get('query')
     
-    # TODO: Parse the search query to determine what I'm looking up
-    signs = parse_search_query(query)
+    if not query:
+        return redirect(url_for('home'))
+    
+    signs = search_query(query)
+    
+    if len(signs) == 0:
+        return render_template("search.html", signs=False, query=query)
+    elif len(signs) == 1:
+        sign_id = signs[0].borger_id
+        return redirect(url_for('sign', sign_id=sign_id))
+    else:
+        return render_template("search.html", signs=signs)
 
-    return render_template("search.html", signs=signs)
+def search_query(query):
+    """Takes a query string and returns a list of sign entries"""
+    results = []
+    # FIXME: Fake return data
+    
+    if query in search_index:
+        results = []
+        for sign_id in search_index[query]:
+            sign = sign_by_id(sign_id)
+            results.append(sign)
+        return results
+    else:
+        return []
 
 @app.route('/signs/<sign_id>')
 def sign(sign_id):
     """Render one sign page based on ID"""
     sign = sign_by_id(sign_id)
-    return render_template("sign.html", sign=sign)
 
-def parse_search_query(query):
-    """Takes a query strng and returns a list of sign entries"""
-    
-    # FIXME: Fake return data
-    
-    data = []
-
-    return data
+    if sign:
+        return render_template("sign.html", sign=sign)
+    else:
+        return redirect(url_for('home'))
 
 def sign_by_id(sign_id):
-    # FIXME: Fake Data
-    return {
-        "borger": "1",
-        "labat": "1",
-        "huehnergard": "1",
-        "deimel": "1",
-        "mittermayer": "1",
-        "heth_z_l": "1",
-        "hinke": "1",
-        "clay": "1; 3",
-        "ranke": "1",
-        "sign_depiction": "single horizontal line",
-        "borger_sign_name": "AŠ",
-        "unicode_sign_name": "ASH",
-        "labat_name": "aš",
-        "id": 0
-      }
+    if sign_id in signlist:
+        return Sign(signlist[sign_id])
+    else:
+        return False
 
 ###
 # The functions below should be applicable to all Flask apps.
