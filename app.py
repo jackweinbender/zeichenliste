@@ -23,7 +23,7 @@ def search():
     signs = search_query(query)
     
     if len(signs) == 0:
-        render_template("search.html", signs=False)
+        return render_template("search.html", signs=False, query=query)
     elif len(signs) == 1:
         sign_id = signs[0].borger_id
         return redirect(url_for('sign', sign_id=sign_id))

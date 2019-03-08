@@ -8,7 +8,11 @@
         {% endif %}
         <span class="cuneiform">{{sign.unicode_value}}</span>
       </p>
-      <p>{{sign.values}}</p>
+      <p>
+        {% for value in sign.values %}
+          <span class="sign-value">{{value}}</span>
+        {% endfor %}
+      </p>
       <p>Signlist IDs:
         <dt>Borger</dt>       <dd>{{sign.borger_id}}</dd>
         <dt>Labat</dt>        <dd>{{sign.labat_id}}</dd>
