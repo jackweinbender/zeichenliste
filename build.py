@@ -5,6 +5,7 @@
 import os, requests, json
 from collections import defaultdict
 from models.sign import Sign
+from models.sign_value import SignValue
 
 def cleanup(d):
     d['oracc_name'] = d['oracc_name'][1:]
@@ -52,7 +53,7 @@ for row in rows:
     sign_dict = cleanup(sign_dict)
 
     # Serialize the row as a Sign Object
-    sign = Sign(sign_dict)
+    sign = Sign.from_sheets(sign_dict)
     
     # Add Sign to signlist (as dict, for later JSON output)
     signlist[borger] = sign.__dict__
@@ -71,12 +72,23 @@ for row in rows:
         'hethzl_id'
     ]
 
+    # Make the index for signlist numbers
     for k in indexed_keys:
         # Get property value by name
         val = getattr(sign,k)
+        idx = val.lower()
         # Add Borger ID to index
-        if val != '' and sign.borger_id not in index[val.lower()]:
-            index[val.lower()].append(sign.borger_id)
+        if val != '' and sign.borger_id not in index[idx]:
+            index[idx].append(sign.borger_id)
+
+    for value in sign.values:
+        vs = SignValue(value).get_keys()
+        for v in vs:
+            idx = v.lower()
+            if sign.borger_id not in index[idx]:
+                index[idx].append(sign.borger_id)
+        
+
 
 with open('data/signlist.json', 'w') as outfile:
     json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)
