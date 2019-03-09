@@ -109,3 +109,7 @@ a:hover{
         min-width: 7rem;
     }
 }
+
+.value:not(:last-child)::after {
+    content: '\00B7'
+}
