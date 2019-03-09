@@ -9,16 +9,11 @@ with open('data/search_index.json', encoding='utf-8') as f:
     search_index = json.load(f)
 
 @app.route('/')
-def home():
-    """Render Main Search Box on Homepage"""
-    return render_template("home.html")
-
-@app.route('/search')
 def search():
-    query = request.args.get('query')
+    query = request.args.get('search')
     
     if not query:
-        return redirect(url_for('home'))
+        return render_template("home.html")
     
     signs = search_query(query)
     
@@ -28,7 +23,7 @@ def search():
         sign_id = signs[0].borger_id
         return redirect(url_for('sign', sign_id=sign_id))
     else:
-        return render_template("search.html", signs=signs)
+        return render_template("search.html", signs=signs, query=True)
 
 def search_query(query):
     """Takes a query string and returns a list of sign entries"""
