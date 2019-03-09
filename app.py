@@ -10,13 +10,20 @@ with open('data/search_index.json', encoding='utf-8') as f:
 
 @app.route('/')
 def search():
-    query = request.args.get('search')
-    
-    if not query:
+
+    # Render home if no q params    
+    if not request.args.get('search'):
         return render_template("home.html")
     
+    # Sanitize Query
+    query = request.args.get('search').lower().strip()
+
+    # TODO: normalize search text
+
+    # Search the index based on SearchKey
     signs = search_query(query)
     
+    # Render proper templates
     if len(signs) == 0:
         return render_template("search.html", signs=False, query=query)
     elif len(signs) == 1:
@@ -28,7 +35,6 @@ def search():
 def search_query(query):
     """Takes a query string and returns a list of sign entries"""
     results = []
-    # FIXME: Fake return data
     
     if query in search_index:
         results = []
