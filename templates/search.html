@@ -8,7 +8,7 @@
     <h2>Matching Signs</h2>
     {% for sign in signs %}
       <div class="results-card">
-        <div class="results-card-image">{{sign.unicode_value}}</div>
+        <div class="results-card-image cuneiform">{{sign.unicode_value}}</div>
         <div class="results-card-content">
             <h3><a href="/signs/{{sign.borger_id}}">{{sign.borger_name}}</a></h3>
             <div class="results-card-values">

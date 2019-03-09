@@ -7,13 +7,23 @@
     --dark-gray: #252525;
 }
 
+/* Noto Sans Cuneiform (Cuneiform) http://www.google.com/fonts/earlyaccess */
+ @font-face {
+    font-family: 'Noto Sans Cuneiform';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.eot);
+    src: url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.eot?#iefix) format('embedded-opentype'),
+         url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff2) format('woff2'),
+         url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff) format('woff'),
+         url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.ttf) format('truetype');
+  }
 
-
-
+.cuneiform {font-family: 'Noto Sans Cuneiform', sans-serif; }
 
 html {
     color:var(--dark-gray);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 a {
     color: var(--blue);
@@ -86,7 +96,7 @@ a:hover{
 
 .results-card-content h3 {
     font-size: 1.5rem;
-    display block;
+    display: block;
     margin: 0;
     border-bottom: solid 1px #ccc;
     padding-bottom: 0.25rem;
