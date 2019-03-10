@@ -1,25 +1,27 @@
 {% extends 'index.html' %}
  
 {% block container %}
-  <div class="sign-info">
-      <p>name: {{sign.borger_name}}
-        {% if sign.unicode_name != '' %}
-          ( {{sign.unicode_name}} )
-        {% endif %}
-        <span class="cuneiform">{{sign.unicode_value}}</span>
-      </p>
-      <p>
+<div class="results-card">
+    <div class="results-card-image-wrapper">
+      <span class="cuneiform">{{sign.unicode_value}}</span>
+    </div>
+    <div class="results-card-content">
+      <h3 class="results-card-header"><a href="/signs/{{sign.borger_id}}">{{sign.borger_name}}</a></h3>
+      <div class="results-card-values">
         {% for value in sign.values %}
-          <span class="sign-value">{{value}}</span>
+          <span class="value">
+            {{value}}
+          </span>
         {% endfor %}
-      </p>
-      <p>Signlist IDs:
-        <dt>Borger</dt>       <dd>{{sign.borger_id}}</dd>
-        <dt>Labat</dt>        <dd>{{sign.labat_id}}</dd>
-        <dt>Huehnergard</dt>  <dd>{{sign.huehnergard_id}}</dd>
-        <dt>Deimel</dt>       <dd>{{sign.deimel_id}}</dd>
-        <dt>Mittermayer</dt>  <dd>{{sign.mittermayer_id}}</dd>
-        <dt>Heth ZL</dt>      <dd>{{sign.hethzl_id}}</dd>
-      </p>
+      </div><!-- results-card-values -->
+      <div class="results-card-list-ids">
+        <span class="signlist-id-badge">Borger: {{sign.borger_id}}</span>
+        <span class="signlist-id-badge">Labat: {{sign.labat_id}}</span>
+        <span class="signlist-id-badge">Huehnergard: {{sign.huehnergard_id}}</span>
+        <span class="signlist-id-badge">Deimel: {{sign.deimel_id}}</span>
+        <span class="signlist-id-badge">Mittermayer: {{sign.mittermayer_id}}</span>
+        <span class="signlist-id-badge">Heth ZL: {{sign.hethzl_id}}</span>
+      </div>
+    </div>
   </div>
 {% endblock %}

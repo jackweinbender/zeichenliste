@@ -19,7 +19,10 @@
          url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.ttf) format('truetype');
   }
 
-.cuneiform {font-family: 'Noto Sans Cuneiform', sans-serif; }
+.cuneiform {
+    font-family: 'Noto Sans Cuneiform', sans-serif;
+    font-size: 2.25rem;
+}
 
 html {
     color:var(--dark-gray);
@@ -79,38 +82,60 @@ a:hover{
     padding:0.5rem 0;
     background: #eee;
     border:solid 1px #ddd;
-    margin: 0.25rem 0;
+    margin: 0.5rem 0;
     display:flex;
-    min-height: 6rem;
 }
-.results-card > * {
-    padding: 0.5rem;
-}
-.results-card-image {
-    font-size: 3rem;
-    min-width: 5rem;
+
+.results-card-image-wrapper {
     text-align: center;
+    /* background-color: aquamarine; */
+    padding: 0 3rem 0 1rem;
+    min-width: 5rem;
 }
 
-.resuts-card-content {}
+.resuts-card-content {
 
-.results-card-content h3 {
+}
+
+.results-card-values {
+    line-height: 1.5;
+    font-size: 1.21rem;
+    margin-bottom: 0.5rem;
+    margin-right:1rem;
+    border-bottom: solid 1px #ccc;
+    border-top: solid 1px #ccc;
+}
+
+.results-card-header {
     font-size: 1.5rem;
     display: block;
     margin: 0;
-    border-bottom: solid 1px #ccc;
     padding-bottom: 0.25rem;
     margin-bottom: 0.25rem;
 }
 
-@media only screen and (min-width: 500px) {
-    .results-card-image {
-        font-size: 4rem;
-        min-width: 7rem;
+.results-card-list-ids {
+    font-size: 0.85rem;
+    display:  flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-content: flex-end;
+}
+.signlist-id-badge {
+    color: white;
+    margin: 0.25rem;
+    background-color: var(--blue);
+    border-radius: 0.25rem;
+    padding:0.25rem 0.5rem;
+}
+
+@media only screen and (min-width: 700px) {
+    .cuneiform {
+        font-size: 2.75rem;
     }
 }
 
-.value{ white-space: nowrap; }
+/* .value{ white-space: nowrap; }
 .value:not(:last-child)::after {
     content: '\00B7'
-}
+} */
