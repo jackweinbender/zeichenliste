@@ -2502,7 +2502,7 @@
         "mittermayer_id": "262",
         "oracc_name": "NI.UD",
         "unicode_name": "NI & UD",
-        "unicode_value": "𒉌&U+12313𒌓",
+        "unicode_value": "𒉌+𒌓",
         "values": [
             "abnu",
             "atumₓ",
@@ -2660,7 +2660,7 @@
         "mittermayer_id": "",
         "oracc_name": "PA.LU",
         "unicode_name": "PA & LU",
-        "unicode_value": "𒉺&U+121FB𒇻",
+        "unicode_value": "𒉺+𒇻",
         "values": [
             "reʾu",
             "nuska2",
@@ -4045,7 +4045,7 @@
         "mittermayer_id": "290",
         "oracc_name": "TE.A",
         "unicode_name": "TE & A",
-        "unicode_value": "𒋼&U+12000𒀀",
+        "unicode_value": "𒋼+𒀀",
         "values": [
             "gar14",
             "ka11",
@@ -5286,7 +5286,7 @@
         "mittermayer_id": "",
         "oracc_name": "ME.U.U.U",
         "unicode_name": "ME & U U U",
-        "unicode_value": "𒈨&U+1230D𒌍",
+        "unicode_value": "𒈨+𒌍",
         "values": [
             "eš17",
             "mes3",
@@ -5797,7 +5797,7 @@
         "mittermayer_id": "452",
         "oracc_name": "SAL.TUG2",
         "unicode_name": "SAL & TUG2",
-        "unicode_value": "𒊩&U+12306𒌆",
+        "unicode_value": "𒊩+𒌆",
         "values": [
             "e5",
             "ereš",
@@ -5865,7 +5865,7 @@
         "mittermayer_id": "459",
         "oracc_name": "SAL.KUR",
         "unicode_name": "SAL & KUR",
-        "unicode_value": "𒊩&U+121B3𒆳",
+        "unicode_value": "𒊩+𒆳",
         "values": [
             "amat",
             "amtu",

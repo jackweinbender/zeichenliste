@@ -21,7 +21,9 @@ class Sign:
         sign = {}
 
         vals = sheets_row['values'].split(';')
-        unicd = sheets_row['unicode_value'].split()[1:]
+        unicd = sheets_row['unicode_value'].split(" & ")
+        unicode_string = [''.join(v.strip().split()[1:]) for v in unicd]
+        
 
         sign['oracc_name']     = sheets_row['oracc_name']
         sign['unicode_name']   = sheets_row['unicode_name']
@@ -34,6 +36,6 @@ class Sign:
         sign['deimel_id']      = sheets_row['deimel_id']
         sign['mittermayer_id'] = sheets_row['mittermayer_id']
         sign['hethzl_id']      = sheets_row['hethzl_id']
-        sign['unicode_value']  = ''.join(unicd)
+        sign['unicode_value']  = '+'.join(unicode_string)
 
         return Sign(sign)
