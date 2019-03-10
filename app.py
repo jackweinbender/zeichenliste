@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, json, redirect, url_for
 from models.sign import Sign
+from models.normalizer import Normalizer
 
 app = Flask(__name__)
 
@@ -14,11 +15,9 @@ def search():
     # Render home if no q params    
     if not request.args.get('search'):
         return render_template("home.html")
-    
-    # Sanitize Query
-    query = request.args.get('search').lower().strip()
 
-    # TODO: normalize search text
+    # Sanitize and Normalize search string for 
+    query = Normalizer.normalize(request.args.get('search'))
 
     # Search the index based on SearchKey
     signs = search_query(query)

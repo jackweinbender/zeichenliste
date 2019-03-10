@@ -6,6 +6,7 @@ import os, requests, json
 from collections import defaultdict
 from models.sign import Sign
 from models.sign_value import SignValue
+from models.normalizer import Normalizer
 
 def cleanup(d):
     d['oracc_name'] = d['oracc_name'][1:]
@@ -84,7 +85,7 @@ for row in rows:
     for value in sign.values:
         vs = SignValue(value).get_keys()
         for v in vs:
-            idx = v.lower()
+            idx = Normalizer.normalize(v)
             if sign.borger_id not in index[idx]:
                 index[idx].append(sign.borger_id)
         
