@@ -25,6 +25,10 @@ data = requests.get(URL).json()
 # Drill down to the stuff we care about (Rows is a LIST)
 rows = data['feed']['entry']
 
+# Dump the latest sheet into the test data so we know we don't break anything
+with open('test/data/sheets-cache.json', 'w') as outfile:
+    json.dump(rows, outfile, ensure_ascii=False, sort_keys=True, indent=4)
+
 # The output SIGNLIST
 signlist = {}
 index = defaultdict(list)

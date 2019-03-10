@@ -26,7 +26,6 @@ class SignValue:
 
         for v in values:
             match = expr.match(v.strip())
-            print(v)
             # Just in case something doesn't match
             if not match:
                 print(f'WARNING, VALUE {v} DID NOT MATCH')
@@ -34,6 +33,4 @@ class SignValue:
             else:
                 value_groups.add(match.group(2))
                 value_groups.add(match.group(2) + match.group(3))
-        
-        print(value_groups)
         return list(value_groups)
