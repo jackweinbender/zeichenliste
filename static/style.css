@@ -84,7 +84,6 @@ a:hover{
     background: #eee;
     border:solid 1px #ddd;
     margin: 0.5rem 0;
-    display:grid;
 }
 
 .results-card-sign {
@@ -95,7 +94,9 @@ a:hover{
     line-height: 1.5;
     font-size: 1.21rem;
     margin-bottom: 0.5rem;
-    margin-right:1rem;
+    text-align: left;
+    padding:0.5rem 0.5rem 0.5rem 1rem;
+    background-color: white;
     border-bottom: solid 1px #ccc;
     border-top: solid 1px #ccc;
 }
@@ -128,6 +129,7 @@ a:hover{
         font-size: 4rem;
     }
     .results-card {
+        padding-top:1rem;
         text-align: left;
         display: grid;
         grid-template-columns: auto 1fr;
@@ -146,11 +148,14 @@ a:hover{
         grid-area: header;
     }
     .results-card-values {
+        margin-right:1rem;
         grid-area: values;
+        border-radius: 0.25rem;
+        border: solid 1px #ccc;
     }
     .results-card-list-ids {
         grid-area: ids;
-        justify-content: right;
+        justify-content: left;
     }
 
 }
