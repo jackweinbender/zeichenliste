@@ -36,45 +36,25 @@ index = defaultdict(list)
 for row in rows:
     # Gets the Borger number for the KEY
     borger = row['gsx$borger']['$t']
-    
-    sign_dict = {
-        'oracc_name':     row['gsx$oraccname']['$t'],
-        'unicode_name':   row['gsx$unicodename']['$t'],
-        'values':         row['gsx$values']['$t'],
-        'borger_id':      row['gsx$borger']['$t'],
-        'borger_name':    row['gsx$borgername']['$t'],
-        'labat_id':       row['gsx$labat']['$t'],
-        'labat_name':     row['gsx$labatname']['$t'],
-        'huehnergard_id': row['gsx$huehnergard']['$t'],
-        'deimel_id':      row['gsx$deimel']['$t'],
-        'mittermayer_id': row['gsx$mittermayer']['$t'],
-        'hethzl_id':      row['gsx$hethzl']['$t'],
-        'unicode_value':  row['gsx$unicode']['$t'],
-        # 'hinke_id': row['gsx$hinke']['$t'],
-        # 'clay_id': row['gsx$clay']['$t'],
-        # 'ranke_id': row['gsx$ranke']['$t']
-    }
-
-    sign_dict = cleanup(sign_dict)
 
     # Serialize the row as a Sign Object
-    sign = Sign.from_sheets(sign_dict)
+    sign = Sign.from_sheets_row(row)
     
     # Add Sign to signlist (as dict, for later JSON output)
     signlist[borger] = sign.__dict__
 
     # Add Borger_id to all index values
     indexed_keys = [
-        # 'oracc_name',
-        # 'unicode_name',
         'borger_id', 
-        # 'borger_name', 
         'labat_id', 
-        # 'labat_name',
         'huehnergard_id', 
         'deimel_id', 
         'mittermayer_id', 
-        'hethzl_id'
+        'hethzl_id',
+        # 'labat_name',
+        # 'borger_name', 
+        # 'oracc_name',
+        # 'unicode_name',
     ]
 
     # Make the index for signlist numbers
