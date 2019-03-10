@@ -4,7 +4,7 @@ class Normalizer:
     
     @classmethod
     def normalize(cls, string):
-        accent_accute = u'\u0301'
+        accent_acute = u'\u0301'
         accent_grave = u'\u0300'
         
         # Decomp unicode 
@@ -18,7 +18,7 @@ class Normalizer:
         decomp = unicodedata.normalize('NFD', standardized_combined)
 
         # Append arabic numerals when values contain accents
-        if accent_accute in decomp:
+        if accent_acute in decomp:
             decomp += '2'
         elif accent_grave in decomp:
             decomp += '3'
