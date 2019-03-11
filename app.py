@@ -5,7 +5,7 @@ from models.normalizer import Normalizer
 app = Flask(__name__)
 
 with open('data/signlist.json', encoding='utf-8') as f:
-    signlist = json.load(f)
+    sign_list = json.load(f)
 with open('data/search_index.json', encoding='utf-8') as f:
     search_index = json.load(f)
 
@@ -55,8 +55,8 @@ def sign(sign_id):
         return redirect(url_for('home'))
 
 def sign_by_id(sign_id):
-    if sign_id in signlist:
-        return Sign(signlist[sign_id])
+    if sign_id in sign_list:
+        return Sign(sign_list[sign_id])
     else:
         return False
 
