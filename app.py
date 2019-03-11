@@ -9,6 +9,15 @@ with open('data/signlist.json', encoding='utf-8') as f:
 with open('data/search_index.json', encoding='utf-8') as f:
     search_index = json.load(f)
 
+with open('data/freq_ebla.json', encoding='utf-8') as f:
+    stats_ebla = json.load(f)
+with open('data/freq_na.json', encoding='utf-8') as f:
+    stats_na = json.load(f)
+with open('data/freq_nb.json', encoding='utf-8') as f:
+    stats_nb = json.load(f)
+with open('data/freq_ob.json', encoding='utf-8') as f:
+    stats_ob = json.load(f)
+
 @app.route('/')
 def search():
 
@@ -50,7 +59,13 @@ def sign(sign_id):
     sign = sign_by_id(sign_id)
 
     if sign:
-        return render_template("sign.html", sign=sign)
+        stats = {
+            "ebla": stats_ebla[sign_id],
+            "na": stats_na[sign_id],
+            "nb": stats_nb[sign_id],
+            "ob": stats_ob[sign_id],
+        }
+        return render_template("sign.html", sign=sign, stats=stats)
     else:
         return redirect(url_for('home'))
 

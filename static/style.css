@@ -164,3 +164,10 @@ a:hover{
 .value:not(:last-child)::after {
     content: '\00B7'
 }
+.stats-section tr:nth-of-type(2n) {
+    background-color: #ccc;
+}
+.stats-section td {
+    padding: 0.5rem;
+    
+}

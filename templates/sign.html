@@ -22,4 +22,90 @@
       <span class="signlist-id-badge">Heth ZL: {{sign.hethzl_id}}</span>
     </div>
   </div>
+  <div class="stats">
+    <div class="stats-section">
+      <h2>Old Bablylonian</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Sign Value</th>
+            <th>Freq.</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ob in stats['ob'] %}
+          <tr>
+            <td>{{ob.value}}</td>
+            <td>{{ob.freq}}</td>
+            <td>{{ob.type}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="stats-section">
+      <h2>Neo-Bablylonian</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Sign Value</th>
+            <th>Freq.</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for nb in stats['nb'] %}
+          <tr>
+            <td>{{nb.value}}</td>
+            <td>{{nb.freq}}</td>
+            <td>{{nb.type}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="stats-section">
+      <h2>Neo-Assyrian</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Sign Value</th>
+            <th>Freq.</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for na in stats['na'] %}
+          <tr>
+            <td>{{na.value}}</td>
+            <td>{{na.freq}}</td>
+            <td>{{na.type}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="stats-section">
+      <h2>Ebla</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Sign Value</th>
+            <th>Freq.</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ebla in stats['ebla'] %}
+          <tr>
+            <td>{{ebla.value}}</td>
+            <td>{{ebla.freq}}</td>
+            <td>{{ebla.type}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
 {% endblock %}
