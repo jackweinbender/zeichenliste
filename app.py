@@ -10,7 +10,7 @@ with open('data/search_index.json', encoding='utf-8') as f:
     search_index = json.load(f)
 
 with open('data/freq_ebla.json', encoding='utf-8') as f:
-    stats_ebla = json.load(f)
+    stats_eb = json.load(f)
 with open('data/freq_na.json', encoding='utf-8') as f:
     stats_na = json.load(f)
 with open('data/freq_nb.json', encoding='utf-8') as f:
@@ -59,11 +59,17 @@ def sign(sign_id):
     sign = sign_by_id(sign_id)
 
     if sign:
+
+        ebla_stat   = stats_eb[sign_id]
+        na_stat     = stats_na[sign_id]
+        nb_stat     = stats_nb[sign_id]
+        ob_stat     = stats_ob[sign_id]
+
         stats = {
-            "ebla": stats_ebla[sign_id],
-            "na": stats_na[sign_id],
-            "nb": stats_nb[sign_id],
-            "ob": stats_ob[sign_id],
+            "ebla": sorted(ebla_stat, key = lambda i: int(i['freq']), reverse=True),
+            "na":   sorted(na_stat,   key = lambda i: int(i['freq']), reverse=True),
+            "nb":   sorted(nb_stat,   key = lambda i: int(i['freq']), reverse=True),
+            "ob":   sorted(ob_stat,   key = lambda i: int(i['freq']), reverse=True),
         }
         return render_template("sign.html", sign=sign, stats=stats)
     else:
