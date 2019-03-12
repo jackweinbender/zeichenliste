@@ -23,6 +23,7 @@
     </div>
   </div>
   <div class="stats">
+    <h2 class="title">Distribution by Corpus</h2>
     <div class="stats-row">
       <div class="stats-section">
         <h3 class="title">Old Bablylonian</h3>
@@ -31,6 +32,7 @@
             <tr>
               <th>Sign Value</th>
               <th>Freq.</th>
+              <th></th>
               <th>Type</th>
             </tr>
           </thead>
@@ -39,10 +41,19 @@
             <tr>
               <td>{{ob.value}}</td>
               <td>{{ob.freq}}</td>
+              <td></td>
               <td>{{ob.type}}</td>
             </tr>
             {% endfor %}
           </tbody>
+          <tfoot>
+              <tr>
+                <td>Total</td>
+                <td>{{stats['totals']['ob']}}</td>
+                <td></td>
+                <td></td>
+              </tr>
+            </tfoot>
         </table>
       </div>
       <div class="stats-section">
@@ -52,6 +63,7 @@
             <tr>
               <th>Sign Value</th>
               <th>Freq.</th>
+              <th></th>
               <th>Type</th>
             </tr>
           </thead>
@@ -60,10 +72,19 @@
             <tr>
               <td>{{nb.value}}</td>
               <td>{{nb.freq}}</td>
+              <td></td>
               <td>{{nb.type}}</td>
             </tr>
             {% endfor %}
           </tbody>
+          <tfoot>
+              <tr>
+                <td>Total</td>
+                <td>{{stats['totals']['nb']}}</td>
+                <td></td>
+                <td></td>
+              </tr>
+            </tfoot>
         </table>
       </div>
     </div>
@@ -75,6 +96,7 @@
             <tr>
               <th>Sign Value</th>
               <th>Freq.</th>
+              <th></th>
               <th>Type</th>
             </tr>
           </thead>
@@ -83,10 +105,19 @@
             <tr>
               <td>{{na.value}}</td>
               <td>{{na.freq}}</td>
+              <td></td>
               <td>{{na.type}}</td>
             </tr>
             {% endfor %}
           </tbody>
+          <tfoot>
+              <tr>
+                <td>Total</td>
+                <td>{{stats['totals']['na']}}</td>
+                <td></td>
+                <td></td>
+              </tr>
+            </tfoot>
         </table>
       </div>
       <div class="stats-section">
@@ -96,6 +127,7 @@
             <tr>
               <th>Sign Value</th>
               <th>Freq.</th>
+              <th></th>
               <th>Type</th>
             </tr>
           </thead>
@@ -104,10 +136,19 @@
             <tr>
               <td>{{ebla.value}}</td>
               <td>{{ebla.freq}}</td>
+              <td></td>
               <td>{{ebla.type}}</td>
             </tr>
             {% endfor %}
           </tbody>
+          <tfoot>
+            <tr>
+              <td>Total</td>
+              <td>{{stats['totals']['ebla']}}</td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tfoot>
         </table>
       </div>
     </div>

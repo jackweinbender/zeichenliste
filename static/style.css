@@ -3,6 +3,7 @@
     --blue: #1f3044;
     --orange:hsl(27, 96%, 60%);
     --light-orange:hsl(27, 96%, 70%);
+    --light-gray:#8e96a3;
     --gray:#646c79;
     --dark-gray: #252525;
 }
@@ -172,18 +173,43 @@ a:hover{
     width:100%;
     margin-bottom: 1rem;
 }
-.stats-section .title {
+.stats h3{
     display: block;
 }
-.stats-section table { 
+.stats table { 
     width: 100%; 
     border: solid 1px #ddd;
     border-collapse: collapse;
 }
-.stats-section tr:nth-of-type(2n) {
-    background-color: #ccc;
+.stats thead { 
+    background-color: #eee;
+    text-align: left;
+    border-top: solid 1px var(--light-gray);
+    border-bottom: solid 1px var(--light-gray);
 }
-.stats-section td {
+.stats th { 
+    padding: 0.5rem 0.25rem;
+    color: var(--dark-gray);
+}
+.stats tfoot { 
+    border-top: solid 1px var(--light-gray);
+    border-bottom: solid 1px var(--light-gray);
+    font-weight: bold;
+}
+.stats
+.stats {}
+.stats tr:nth-of-type(2n) {
+    background-color: #eee;
+}
+.stats td {
     padding: 0.5rem;
-    
+}
+
+.stats td:nth-of-type(2), .stats th:nth-of-type(2) {
+    text-align: right;
+    width: 15%;
+}
+
+.stats td:nth-of-type(3), .stats th:nth-of-type(3) {
+    width: 35%;
 }

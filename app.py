@@ -70,6 +70,12 @@ def sign(sign_id):
             "na":   sorted(na_stat,   key = lambda i: int(i['freq']), reverse=True),
             "nb":   sorted(nb_stat,   key = lambda i: int(i['freq']), reverse=True),
             "ob":   sorted(ob_stat,   key = lambda i: int(i['freq']), reverse=True),
+            "totals": {
+                "ebla": sum(int(f['freq']) for f in ebla_stat),
+                "na":   sum(int(f['freq']) for f in na_stat),
+                "nb":   sum(int(f['freq']) for f in nb_stat),
+                "ob":   sum(int(f['freq']) for f in ob_stat),
+            }
         }
         return render_template("sign.html", sign=sign, stats=stats)
     else:
