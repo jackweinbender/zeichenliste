@@ -60,26 +60,35 @@ def sign(sign_id):
 
     if sign:
 
-        ebla_stat   = stats_eb[sign_id]
-        na_stat     = stats_na[sign_id]
-        nb_stat     = stats_nb[sign_id]
-        ob_stat     = stats_ob[sign_id]
+        ebla_stat   = list(map(cast_freq_to_int, stats_eb[sign_id]))
+        na_stat     = list(map(cast_freq_to_int, stats_na[sign_id]))
+        nb_stat     = list(map(cast_freq_to_int, stats_nb[sign_id]))
+        ob_stat     = list(map(cast_freq_to_int, stats_ob[sign_id]))
+
+
+        ebla_total  = sum([f['freq'] for f in ebla_stat])
+        na_total    = sum([f['freq'] for f in na_stat])
+        nb_total    = sum([f['freq'] for f in nb_stat])
+        ob_total    = sum([f['freq'] for f in ob_stat])
 
         stats = {
-            "ebla": sorted(ebla_stat, key = lambda i: int(i['freq']), reverse=True),
-            "na":   sorted(na_stat,   key = lambda i: int(i['freq']), reverse=True),
-            "nb":   sorted(nb_stat,   key = lambda i: int(i['freq']), reverse=True),
-            "ob":   sorted(ob_stat,   key = lambda i: int(i['freq']), reverse=True),
+            "ebla": sorted(ebla_stat, key = lambda i: i['freq'], reverse=True),
+            "na":   sorted(na_stat,   key = lambda i: i['freq'], reverse=True),
+            "nb":   sorted(nb_stat,   key = lambda i: i['freq'], reverse=True),
+            "ob":   sorted(ob_stat,   key = lambda i: i['freq'], reverse=True),
             "totals": {
-                "ebla": sum(int(f['freq']) for f in ebla_stat),
-                "na":   sum(int(f['freq']) for f in na_stat),
-                "nb":   sum(int(f['freq']) for f in nb_stat),
-                "ob":   sum(int(f['freq']) for f in ob_stat),
+                "ebla": ebla_total,
+                "na":   na_total,
+                "nb":   nb_total,
+                "ob":   ob_total,
             }
         }
         return render_template("sign.html", sign=sign, stats=stats)
     else:
         return redirect(url_for('home'))
+def cast_freq_to_int(freq_dict):
+    freq_dict['freq'] = int(freq_dict['freq'])
+    return freq_dict
 
 def sign_by_id(sign_id):
     if sign_id in sign_list:

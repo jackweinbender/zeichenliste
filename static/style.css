@@ -207,9 +207,21 @@ a:hover{
 
 .stats td:nth-of-type(2), .stats th:nth-of-type(2) {
     text-align: right;
-    width: 15%;
+    /* width: 15%; */
 }
 
 .stats td:nth-of-type(3), .stats th:nth-of-type(3) {
-    width: 35%;
+    width: 70%;
 }
+
+.stats .chart-bar {
+    height:1rem;
+    display:inline-block;
+    background-color: var(--blue);
+}
+.stats .chart-bar-pct {
+    font-size: 0.8rem;
+    color:var(--gray);
+    margin-bottom: 0.25rem;
+}
+.stats .chart-bar-pct::after{ content: '%'; }
