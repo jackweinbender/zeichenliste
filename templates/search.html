@@ -2,10 +2,10 @@
  
 {% block container %}
   {% if signs == false %}
-  <h2>No signs matching "{{query}}"</h2>
+  <h2 class="title">No signs matching "{{query}}"</h2>
   {% else %}
   <div class="search-results">
-    <h2>Matching Signs</h2>
+    <h2 class="title">Matching Signs</h2>
     {% for sign in signs %}
       <div class="results-card">
         <h3 class="results-card-header"><a href="/signs/{{sign.borger_id}}">{{sign.borger_name}}</a></h3>

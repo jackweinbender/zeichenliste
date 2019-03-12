@@ -70,7 +70,7 @@ a:hover{
     max-width:66rem;
 }
 
-.content h2 {
+.title {
     display: inline-block;
     color: var(--orange);
     background-color: var(--blue);
@@ -157,12 +157,28 @@ a:hover{
         grid-area: ids;
         justify-content: left;
     }
-
+    .stats-row { display:flex; }
+    .stats-section:last-of-type { margin-left: 0.5rem; }
 }
 
 .value{ white-space: nowrap; }
 .value:not(:last-child)::after {
     content: '\00B7'
+}
+
+.stats {}
+.stats-row {}
+.stats-section { 
+    width:100%;
+    margin-bottom: 1rem;
+}
+.stats-section .title {
+    display: block;
+}
+.stats-section table { 
+    width: 100%; 
+    border: solid 1px #ddd;
+    border-collapse: collapse;
 }
 .stats-section tr:nth-of-type(2n) {
     background-color: #ccc;
