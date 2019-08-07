@@ -7,7 +7,7 @@ class Sign:
         # Unicode and ORACC standardized name
         self.unicode_value  = row_dict['unicode_value']
         self.unicode_name   = row_dict['unicode_name']
-
+#Change
         # Other Names
         self.oracc_name     = row_dict['oracc_name']
         self.labat_name     = row_dict['labat_name']
