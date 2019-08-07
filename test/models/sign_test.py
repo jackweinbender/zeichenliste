@@ -1,5 +1,5 @@
 # Tests for the App
-from models.sign import Sign
+from data.build.models.sign import Sign
 import json
 
 class TestSign:

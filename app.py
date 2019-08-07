@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, json, redirect, url_for
-from models.sign import Sign
-from models.normalizer import Normalizer
+from data.build.models.sign import Sign
+from data.build.models.normalizer import Normalizer
 
 app = Flask(__name__)
 
