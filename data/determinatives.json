@@ -1,0 +1,278 @@
+{
+   "didli":{
+      "borger":"2",
+      "use":"Plural"
+   },
+   "d":{
+      "borger":"10",
+      "use":"Before divine names, (deus/dea/dingir)"
+   },
+   "kuš":{
+      "borger":"16",
+      "use":"Before leather objects"
+   },
+   "iti":{
+      "borger":"20",
+      "use":"Before month names"
+   },
+   "itu":{
+      "borger":"20",
+      "use":"Before month names"
+   },
+   "uru":{
+      "borger":"71",
+      "use":"Before city names"
+   },
+   "mušen":{
+      "borger":"132",
+      "use":"After bird names"
+   },
+   "gi":{
+      "borger":"141",
+      "use":"Before reed objects"
+   },
+   "gada":{
+      "borger":"157",
+      "use":"Before linen objects"
+   },
+   "sa":{
+      "borger":"172",
+      "use":"Before braided objects"
+   },
+   "iku":{
+      "borger":"174",
+      "use":"After areal measures"
+   },
+   "sag":{
+      "borger":"184",
+      "use":"Before words for slaves (ARAD and GÉME)"
+   },
+   "urudu":{
+      "borger":"230",
+      "use":"Before metal objects"
+   },
+   "mul":{
+      "borger":"247",
+      "use":"Before star names"
+   },
+   "ta-am3":{
+      "borger":"248",
+      "use":"After month names"
+   },
+   "kam2":{
+      "borger":"254",
+      "use":"After ordinal numbers"
+   },
+   "uzu":{
+      "borger":"311",
+      "use":"Before body parts"
+   },
+   "anše":{
+      "borger":"353",
+      "use":"Before equids and camels"
+   },
+   "kaš":{
+      "borger":"358",
+      "use":"Before beer types"
+   },
+   "šim":{
+      "borger":"362",
+      "use":"Before fragrant plant names"
+   },
+   "šem":{
+      "borger":"362",
+      "use":"Before fragrant plant names"
+   },
+   "ia4":{
+      "borger":"385",
+      "use":"Before mineral names"
+   },
+   "na4":{
+      "borger":"385",
+      "use":"Before mineral names"
+   },
+   "za2":{
+      "borger":"385",
+      "use":"Before mineral names"
+   },
+   "giš":{
+      "borger":"469",
+      "use":"Before tree names, wooden objects, and tools"
+   },
+   "geš":{
+      "borger":"469",
+      "use":"Before tree names, wooden objects, and tools"
+   },
+   "gu4":{
+      "borger":"472",
+      "use":"Before bovines"
+   },
+   "u2":{
+      "borger":"490",
+      "use":"Before vegetable names"
+   },
+   "e2":{
+      "borger":"495",
+      "use":"Before buildings"
+   },
+   "dug":{
+      "borger":"499",
+      "use":"Before containers"
+   },
+   "lu2":{
+      "borger":"514",
+      "use":"Before professions and peoples"
+   },
+   "sar":{
+      "borger":"541",
+      "use":"After herbs"
+   },
+   "kur":{
+      "borger":"578",
+      "use":"Before country or mountain names"
+   },
+   "še":{
+      "borger":"579",
+      "use":"Before cereal names"
+   },
+   "te":{
+      "borger":"589",
+      "use":"Before star names"
+   },
+   "mul2":{
+      "borger":"589",
+      "use":"Before star names"
+   },
+   "ḫi-a":{
+      "borger":"631",
+      "use":"Plural"
+   },
+   "ḫa2":{
+      "borger":"631",
+      "use":"Plural"
+   },
+   "kam":{
+      "borger":"640",
+      "use":"After ordinal numbers"
+   },
+   "im; tu15; tum9; tumu":{
+      "borger":"641",
+      "use":"Before winds or clay objects"
+   },
+   "tu15":{
+      "borger":"641",
+      "use":"Before winds"
+   },
+   "tum9":{
+      "borger":"641",
+      "use":"Before winds"
+   },
+   "tumu":{
+      "borger":"641",
+      "use":"Before winds"
+   },
+   "ki":{
+      "borger":"737",
+      "use":"After country and place names"
+   },
+   "m (masculus); p (persona); i":{
+      "borger":"748",
+      "use":"Before masculine names, (masculus)"
+   },
+   "p":{
+      "borger":"748",
+      "use":"Before masculine names, (persona)"
+   },
+   "i":{
+      "borger":"748",
+      "use":"Before masculine names"
+   },
+   "me":{
+      "borger":"753",
+      "use":"Plural"
+   },
+   "meš2":{
+      "borger":"753",
+      "use":"Plural"
+   },
+   "meš":{
+      "borger":"754",
+      "use":"Plural"
+   },
+   "tug2":{
+      "borger":"809",
+      "use":"Before cloth and clothing"
+   },
+   "zi3":{
+      "borger":"810",
+      "use":"Before flour types"
+   },
+   "zid2":{
+      "borger":"810",
+      "use":"Before flour types"
+   },
+   "udu":{
+      "borger":"812",
+      "use":"Before sheep and goats"
+   },
+   "sig2":{
+      "borger":"816",
+      "use":"Before woolwear"
+   },
+   "sik2":{
+      "borger":"816",
+      "use":"Before woolwear"
+   },
+   "siki":{
+      "borger":"816",
+      "use":"Before woolwear"
+   },
+   "ii":{
+      "borger":"825",
+      "use":"Dual sign, after pairs, mostly body parts"
+   },
+   "min":{
+      "borger":"825",
+      "use":"Dual sign, after pairs, mostly body parts"
+   },
+   "am3":{
+      "borger":"839",
+      "use":"Before river names"
+   },
+   "id2":{
+      "borger":"839",
+      "use":"Before river names"
+   },
+   "ḫa":{
+      "borger":"856",
+      "use":"After fish names"
+   },
+   "ku6":{
+      "borger":"856",
+      "use":"After fish names"
+   },
+   "kua":{
+      "borger":"856",
+      "use":"After fish names"
+   },
+   "ninda":{
+      "borger":"859",
+      "use":"Before baked goods"
+   },
+   "f":{
+      "borger":"883",
+      "use":"Before feminine names, (femina)"
+   },
+   "mi2":{
+      "borger":"883",
+      "use":"Before feminine names"
+   },
+   "munus":{
+      "borger":"883",
+      "use":"Before feminine names"
+   },
+   "sal":{
+      "borger":"883",
+      "use":"Before feminine names"
+   }
+}
