@@ -1,3535 +1,4082 @@
 {
     "1": [
         {
-            "freq": "3916",
-            "type": "Syllabogram",
+            "freq": 35,
+            "type": "Logogram",
             "value": "aš"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "ina"
-        },
-        {
-            "freq": "308",
-            "type": "Syllabogram",
-            "value": "rum"
-        },
-        {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "rim5"
         },
         {
-            "freq": "62",
-            "type": "Logogram",
-            "value": "AŠ"
-        },
-        {
-            "freq": "1",
+            "freq": 11,
             "type": "Syllabogram",
-            "value": "aša"
+            "value": "ru3"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "RUM"
-        },
-        {
-            "freq": "5",
+            "freq": 5,
             "type": "Syllabogram",
             "value": "dil"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "az3"
+        },
+        {
+            "freq": 4395,
+            "type": "Syllabogram",
+            "value": "aš"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ina"
+        },
+        {
+            "freq": 5,
+            "type": "Syllabogram",
+            "value": "as3"
+        },
+        {
+            "freq": 345,
+            "type": "Syllabogram",
+            "value": "rum"
         }
     ],
     "10": [
         {
-            "freq": "1",
+            "freq": 7858,
+            "type": "Determinative",
+            "value": "d"
+        },
+        {
+            "freq": 268,
             "type": "Logogram",
-            "value": "ILI"
+            "value": "an"
         },
         {
-            "freq": "7375",
+            "freq": 1070,
             "type": "Logogram",
-            "value": "D"
+            "value": "dingir"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "ila"
-        },
-        {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "Der"
-        },
-        {
-            "freq": "976",
-            "type": "Logogram",
-            "value": "DINGIR"
-        },
-        {
-            "freq": "2353",
+            "freq": 2621,
             "type": "Syllabogram",
             "value": "an"
         },
         {
-            "freq": "2",
+            "freq": 1,
             "type": "Syllabogram",
-            "value": "der"
-        },
-        {
-            "freq": "9",
-            "type": "Syllabogram",
-            "value": "d"
-        },
-        {
-            "freq": "286",
-            "type": "Logogram",
-            "value": "AN"
+            "value": "ṣa3"
         }
     ],
     "110": [
         {
-            "freq": "309",
+            "freq": 345,
             "type": "Logogram",
-            "value": "NA"
+            "value": "na"
         },
         {
-            "freq": "14725",
+            "freq": 16418,
             "type": "Syllabogram",
             "value": "na"
         }
     ],
     "111": [
         {
-            "freq": "1627",
+            "freq": 2,
+            "type": "Logogram",
+            "value": "šub"
+        },
+        {
+            "freq": 1831,
             "type": "Syllabogram",
             "value": "ru"
-        },
-        {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "RU"
-        },
-        {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "ŠUB"
         }
     ],
     "112": [
         {
-            "freq": "3923",
-            "type": "Syllabogram",
+            "freq": 138,
+            "type": "Logogram",
             "value": "nu"
         },
         {
-            "freq": "136",
-            "type": "Logogram",
-            "value": "NU"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ul2"
+        },
+        {
+            "freq": 4375,
+            "type": "Syllabogram",
+            "value": "nu"
         }
     ],
     "113": [
         {
-            "freq": "6",
+            "freq": 2,
             "type": "Logogram",
-            "value": "BE"
+            "value": "be"
         },
         {
-            "freq": "1",
+            "freq": 3,
+            "type": "Logogram",
+            "value": "bad"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "dim7"
+        },
+        {
+            "freq": 1366,
+            "type": "Syllabogram",
+            "value": "be"
+        },
+        {
+            "freq": 1,
             "type": "Syllabogram",
             "value": "bata"
         },
         {
-            "freq": "5",
-            "type": "Logogram",
-            "value": "BAD"
-        },
-        {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "mit"
-        },
-        {
-            "freq": "7",
+            "freq": 10,
             "type": "Syllabogram",
             "value": "bat"
-        },
-        {
-            "freq": "1252",
-            "type": "Syllabogram",
-            "value": "be"
         }
     ],
     "117": [
         {
-            "freq": "1",
+            "freq": 77,
             "type": "Logogram",
-            "value": "KUL"
+            "value": "numun"
         },
         {
-            "freq": "3",
-            "type": "n.d.",
-            "value": "KUlu"
-        },
-        {
-            "freq": "1",
+            "freq": 2,
             "type": "Logogram",
-            "value": "KULU"
-        },
-        {
-            "freq": "67",
-            "type": "Logogram",
-            "value": "NUMUN"
+            "value": "kul"
         }
     ],
     "118": [
         {
-            "freq": "4145",
+            "freq": 26,
+            "type": "Logogram",
+            "value": "ti"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "di3"
+        },
+        {
+            "freq": 42,
+            "type": "Syllabogram",
+            "value": "ṭi3"
+        },
+        {
+            "freq": 4653,
             "type": "Syllabogram",
             "value": "ti"
         },
         {
-            "freq": "9",
+            "freq": 7,
             "type": "Syllabogram",
-            "value": "te9"
+            "value": "ṭe6"
         },
         {
-            "freq": "34",
-            "type": "Logogram",
-            "value": "TI"
+            "freq": 9,
+            "type": "Syllabogram",
+            "value": "te9"
         }
     ],
     "119": [
         {
-            "freq": "5",
+            "freq": 14,
             "type": "Logogram",
-            "value": "KURUN2"
+            "value": "din"
         },
         {
-            "freq": "16",
+            "freq": 8,
             "type": "Logogram",
-            "value": "DIN"
+            "value": "kurun2"
         },
         {
-            "freq": "426",
+            "freq": 441,
             "type": "Syllabogram",
             "value": "din"
         }
     ],
     "120": [
         {
-            "freq": "16",
+            "freq": 23,
             "type": "Logogram",
-            "value": "BA7"
+            "value": "maš"
         },
         {
-            "freq": "26",
-            "type": "Logogram",
-            "value": "MAŠ"
-        },
-        {
-            "freq": "11",
+            "freq": 11,
             "type": "Syllabogram",
             "value": "maš"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mas"
         }
     ],
     "121": [
         {
-            "freq": "65",
+            "freq": 67,
             "type": "Logogram",
-            "value": "BAR"
+            "value": "bar"
         },
         {
-            "freq": "62",
+            "freq": 73,
             "type": "Syllabogram",
             "value": "bar"
+        },
+        {
+            "freq": 5,
+            "type": "Syllabogram",
+            "value": "par2"
         }
     ],
-    "122": [],
+    "122": [
+        {
+            "freq": 58,
+            "type": "Logogram",
+            "value": "ban2"
+        }
+    ],
     "127": [
         {
-            "freq": "462",
-            "type": "Syllabogram",
-            "value": "aq"
-        },
-        {
-            "freq": "6",
+            "freq": 6,
             "type": "Logogram",
-            "value": "AK"
+            "value": "ag"
         },
         {
-            "freq": "1262",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "ke3"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
             "value": "ak"
         },
         {
-            "freq": "40",
-            "type": "Logogram",
-            "value": "AG"
-        },
-        {
-            "freq": "62",
+            "freq": 66,
             "type": "Syllabogram",
             "value": "ag"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "KE3"
+            "freq": 1434,
+            "type": "Syllabogram",
+            "value": "ak"
         },
         {
-            "freq": "1",
+            "freq": 517,
             "type": "Syllabogram",
-            "value": "aka"
+            "value": "aq"
         }
     ],
     "130": [
         {
-            "freq": "47",
+            "freq": 54,
             "type": "Logogram",
-            "value": "MAŠ2"
+            "value": "maš2"
         }
     ],
     "131": [
         {
-            "freq": "2",
+            "freq": 2,
             "type": "Logogram",
-            "value": "KUN"
+            "value": "kun"
         }
     ],
     "132": [
         {
-            "freq": "22",
+            "freq": 11,
+            "type": "Determinative",
+            "value": "mušen"
+        },
+        {
+            "freq": 12,
             "type": "Logogram",
-            "value": "MUŠEN"
+            "value": "mušen"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "ḫu"
+        },
+        {
+            "freq": 873,
+            "type": "Syllabogram",
+            "value": "ḫu"
         }
     ],
     "134": [
         {
-            "freq": "50",
+            "freq": 60,
             "type": "Logogram",
-            "value": "NAM"
+            "value": "nam"
         },
         {
-            "freq": "634",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "sin2"
+        },
+        {
+            "freq": 691,
             "type": "Syllabogram",
             "value": "nam"
         }
     ],
     "136": [
         {
-            "freq": "14",
-            "type": "Syllabogram",
-            "value": "ek"
-        },
-        {
-            "freq": "1",
+            "freq": 41,
             "type": "Logogram",
-            "value": "EK"
+            "value": "gal2"
         },
         {
-            "freq": "69",
-            "type": "Syllabogram",
+            "freq": 27,
+            "type": "Logogram",
             "value": "ig"
         },
         {
-            "freq": "779",
-            "type": "Syllabogram",
-            "value": "iq"
-        },
-        {
-            "freq": "40",
-            "type": "Logogram",
-            "value": "GAL2"
-        },
-        {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "IK"
-        },
-        {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "IQ"
-        },
-        {
-            "freq": "41",
+            "freq": 44,
             "type": "Syllabogram",
             "value": "eq"
         },
         {
-            "freq": "67",
-            "type": "Logogram",
-            "value": "IG"
+            "freq": 863,
+            "type": "Syllabogram",
+            "value": "iq"
         },
         {
-            "freq": "21",
+            "freq": 72,
+            "type": "Syllabogram",
+            "value": "ig"
+        },
+        {
+            "freq": 17,
+            "type": "Syllabogram",
+            "value": "ek"
+        },
+        {
+            "freq": 21,
             "type": "Syllabogram",
             "value": "eg"
         },
         {
-            "freq": "643",
+            "freq": 748,
             "type": "Syllabogram",
             "value": "ik"
         }
     ],
     "14": [
         {
-            "freq": "4159",
-            "type": "Syllabogram",
+            "freq": 199,
+            "type": "Logogram",
             "value": "ba"
         },
         {
-            "freq": "189",
-            "type": "Logogram",
-            "value": "BA"
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "pa2"
+        },
+        {
+            "freq": 4676,
+            "type": "Syllabogram",
+            "value": "ba"
         }
     ],
     "140": [
         {
-            "freq": "30",
+            "freq": 42,
+            "type": "Logogram",
+            "value": "zi"
+        },
+        {
+            "freq": 35,
             "type": "Syllabogram",
             "value": "ze"
         },
         {
-            "freq": "99",
-            "type": "Logogram",
-            "value": "ZI"
+            "freq": 176,
+            "type": "Syllabogram",
+            "value": "si2"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "ZID"
+            "freq": 37,
+            "type": "Syllabogram",
+            "value": "ṣe2"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "ZE"
+            "freq": 251,
+            "type": "Syllabogram",
+            "value": "ṣi2"
         },
         {
-            "freq": "670",
+            "freq": 33,
+            "type": "Syllabogram",
+            "value": "se2"
+        },
+        {
+            "freq": 757,
             "type": "Syllabogram",
             "value": "zi"
         }
     ],
     "141": [
         {
-            "freq": "155",
-            "type": "Logogram",
-            "value": "GI"
+            "freq": 93,
+            "type": "Determinative",
+            "value": "gi"
         },
         {
-            "freq": "335",
+            "freq": 110,
+            "type": "Logogram",
+            "value": "gi"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ki2"
+        },
+        {
+            "freq": 341,
             "type": "Syllabogram",
             "value": "gi"
         },
         {
-            "freq": "36",
+            "freq": 37,
             "type": "Syllabogram",
             "value": "ge"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "GE"
+            "freq": 13,
+            "type": "Syllabogram",
+            "value": "qe3"
+        },
+        {
+            "freq": 12,
+            "type": "Syllabogram",
+            "value": "qi3"
         }
     ],
     "142": [
         {
-            "freq": "2",
+            "freq": 7,
+            "type": "Logogram",
+            "value": "re"
+        },
+        {
+            "freq": 2,
             "type": "Syllabogram",
             "value": "tal"
         },
         {
-            "freq": "7",
-            "type": "Logogram",
-            "value": "RE"
-        },
-        {
-            "freq": "851",
+            "freq": 757,
             "type": "Syllabogram",
             "value": "re"
-        },
-        {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "ŠA7"
         }
     ],
     "143": [
         {
-            "freq": "1",
+            "freq": 2,
             "type": "Logogram",
-            "value": "ZA4"
+            "value": "eridu"
         },
         {
-            "freq": "2",
+            "freq": 179,
             "type": "Logogram",
-            "value": "ERIDU"
-        },
-        {
-            "freq": "165",
-            "type": "Logogram",
-            "value": "NUN"
-        },
-        {
-            "freq": "11",
-            "type": "Syllabogram",
             "value": "nun"
         },
         {
-            "freq": "4",
+            "freq": 4,
             "type": "Syllabogram",
             "value": "ṣil"
+        },
+        {
+            "freq": 11,
+            "type": "Syllabogram",
+            "value": "nun"
         }
     ],
     "148": [
         {
-            "freq": "12",
+            "freq": 12,
             "type": "Logogram",
-            "value": "KAB"
-        },
-        {
-            "freq": "9",
-            "type": "Syllabogram",
             "value": "kab"
         },
         {
-            "freq": "1",
+            "freq": 2,
             "type": "Syllabogram",
             "value": "kap"
+        },
+        {
+            "freq": 8,
+            "type": "Syllabogram",
+            "value": "kab"
         }
     ],
     "15": [
         {
-            "freq": "1446",
+            "freq": 1,
             "type": "Logogram",
-            "value": "ZU"
+            "value": "su2"
         },
         {
-            "freq": "266",
+            "freq": 1519,
+            "type": "Logogram",
+            "value": "zu"
+        },
+        {
+            "freq": 424,
+            "type": "Syllabogram",
+            "value": "su2"
+        },
+        {
+            "freq": 299,
             "type": "Syllabogram",
             "value": "zu"
+        },
+        {
+            "freq": 630,
+            "type": "Syllabogram",
+            "value": "ṣu2"
         }
     ],
     "153": [
         {
-            "freq": "17",
+            "freq": 15,
             "type": "Logogram",
-            "value": "INANA"
+            "value": "ištar"
         },
         {
-            "freq": "4",
+            "freq": 3,
             "type": "Logogram",
-            "value": "MUŠ3"
+            "value": "muš3"
         },
         {
-            "freq": "15",
+            "freq": 18,
             "type": "Logogram",
-            "value": "IŠTAR"
+            "value": "inana"
         },
         {
-            "freq": "38",
+            "freq": 38,
             "type": "Logogram",
-            "value": "INNIN"
+            "value": "innin"
         },
         {
-            "freq": "13",
+            "freq": 21,
             "type": "Logogram",
-            "value": "INANNA"
+            "value": "inanna"
         }
     ],
     "157": [
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "GADA"
+            "value": "gada"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
+            "value": "gad"
         }
     ],
     "16": [
         {
-            "freq": "39",
-            "type": "Logogram",
-            "value": "SU"
+            "freq": 31,
+            "type": "Determinative",
+            "value": "kuš"
         },
         {
-            "freq": "336",
-            "type": "Syllabogram",
+            "freq": 11,
+            "type": "Logogram",
+            "value": "kuš"
+        },
+        {
+            "freq": 31,
+            "type": "Logogram",
             "value": "su"
         },
         {
-            "freq": "42",
-            "type": "Logogram",
-            "value": "KUŠ"
+            "freq": 366,
+            "type": "Syllabogram",
+            "value": "su"
         }
     ],
     "164": [
         {
-            "freq": "1523",
+            "freq": 1672,
             "type": "Logogram",
-            "value": "EN"
+            "value": "en"
         },
         {
-            "freq": "79",
+            "freq": 95,
             "type": "Syllabogram",
             "value": "en"
         }
     ],
     "167": [
         {
-            "freq": "2",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "tim"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
+            "value": "dim"
+        },
+        {
+            "freq": 3,
             "type": "Syllabogram",
             "value": "ṭim"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "DIM"
-        },
-        {
-            "freq": "1721",
+            "freq": 1915,
             "type": "Syllabogram",
             "value": "tim"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ti3"
         }
     ],
     "172": [
         {
-            "freq": "19",
+            "freq": 21,
             "type": "Logogram",
-            "value": "SA"
+            "value": "sa"
         },
         {
-            "freq": "319",
+            "freq": 359,
             "type": "Syllabogram",
             "value": "sa"
         }
     ],
     "174": [
         {
-            "freq": "27",
+            "freq": 60,
             "type": "Logogram",
-            "value": "GAN2"
+            "value": "gan2"
         },
         {
-            "freq": "343",
+            "freq": 343,
             "type": "Logogram",
-            "value": "IKU"
+            "value": "iku"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "kan2"
         }
     ],
     "176": [
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "GUN2"
+            "value": "gun2"
         },
         {
-            "freq": "147",
+            "freq": 158,
             "type": "Logogram",
-            "value": "GU2"
+            "value": "gu2"
         }
     ],
     "178": [
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "DUR"
+            "value": "dur"
         },
         {
-            "freq": "1",
+            "freq": 13,
+            "type": "Syllabogram",
+            "value": "tur2"
+        },
+        {
+            "freq": 1,
             "type": "Syllabogram",
             "value": "ṭur"
         }
     ],
     "18": [
         {
-            "freq": "33",
+            "freq": 7,
             "type": "Logogram",
-            "value": "ER3"
+            "value": "arad"
         },
         {
-            "freq": "65",
+            "freq": 78,
             "type": "Logogram",
-            "value": "NITA2"
+            "value": "nita2"
         },
         {
-            "freq": "7",
+            "freq": 415,
             "type": "Logogram",
-            "value": "ARAD"
+            "value": "ir3"
         },
         {
-            "freq": "385",
+            "freq": 33,
             "type": "Logogram",
-            "value": "IR3"
+            "value": "er3"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "ir3"
         }
     ],
     "180": [
         {
-            "freq": "89",
+            "freq": 510,
+            "type": "Logogram",
+            "value": "gur"
+        },
+        {
+            "freq": 112,
             "type": "Syllabogram",
             "value": "gur"
         },
         {
-            "freq": "427",
-            "type": "Logogram",
-            "value": "GUR"
-        },
-        {
-            "freq": "2",
+            "freq": 3,
             "type": "Syllabogram",
             "value": "qur"
         }
     ],
     "181": [
         {
-            "freq": "64",
+            "freq": 85,
+            "type": "Logogram",
+            "value": "si"
+        },
+        {
+            "freq": 67,
             "type": "Syllabogram",
             "value": "se"
         },
         {
-            "freq": "70",
-            "type": "Logogram",
-            "value": "SI"
-        },
-        {
-            "freq": "372",
+            "freq": 406,
             "type": "Syllabogram",
             "value": "si"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "ši2"
         }
     ],
     "183": [
         {
-            "freq": "1",
+            "freq": 170,
             "type": "Logogram",
-            "value": "DAR"
+            "value": "tar2"
         },
         {
-            "freq": "3",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
             "value": "dar"
         },
         {
-            "freq": "1",
+            "freq": 34,
             "type": "Syllabogram",
             "value": "tar2"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "dar"
         }
     ],
     "184": [
         {
-            "freq": "1",
+            "freq": 290,
             "type": "Logogram",
-            "value": "SA12"
+            "value": "sag"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "sak"
-        },
-        {
-            "freq": "264",
+            "freq": 3,
             "type": "Logogram",
-            "value": "SAG"
+            "value": "sa12"
         },
         {
-            "freq": "9",
+            "freq": 9,
             "type": "Syllabogram",
             "value": "sag"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sak"
         }
     ],
     "20": [
         {
-            "freq": "111",
-            "type": "Logogram",
-            "value": "ITI"
+            "freq": 72,
+            "type": "Determinative",
+            "value": "iti"
         },
         {
-            "freq": "94",
+            "freq": 93,
             "type": "Logogram",
-            "value": "ITU"
+            "value": "itu"
+        },
+        {
+            "freq": 55,
+            "type": "Logogram",
+            "value": "iti"
         }
     ],
     "201": [
         {
-            "freq": "279",
+            "freq": 317,
             "type": "Logogram",
-            "value": "MA2"
+            "value": "ma2"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "ma2"
         }
     ],
     "209": [
         {
-            "freq": "1",
+            "freq": 18,
             "type": "Logogram",
-            "value": "TAP"
-        },
-        {
-            "freq": "19",
-            "type": "Logogram",
-            "value": "TAB"
-        },
-        {
-            "freq": "10",
-            "type": "Syllabogram",
             "value": "tab"
         },
         {
-            "freq": "214",
+            "freq": 248,
             "type": "Syllabogram",
             "value": "tap"
+        },
+        {
+            "freq": 11,
+            "type": "Syllabogram",
+            "value": "tab"
         }
     ],
     "221": [
         {
-            "freq": "21",
+            "freq": 21,
             "type": "Logogram",
-            "value": "ŠUM"
+            "value": "šum"
         },
         {
-            "freq": "2",
-            "type": "n.d.",
-            "value": "TAka"
-        },
-        {
-            "freq": "7",
-            "type": "Syllabogram",
-            "value": "tak"
-        },
-        {
-            "freq": "2255",
+            "freq": 2542,
             "type": "Syllabogram",
             "value": "šum"
+        },
+        {
+            "freq": 7,
+            "type": "Syllabogram",
+            "value": "tak"
         }
     ],
     "222": [
         {
-            "freq": "380",
+            "freq": 420,
             "type": "Logogram",
-            "value": "KA2"
+            "value": "ka2"
         }
     ],
     "223": [
         {
-            "freq": "10",
+            "freq": 10,
             "type": "Logogram",
-            "value": "EŠ3"
+            "value": "eš3"
         },
         {
-            "freq": "758",
-            "type": "Syllabogram",
+            "freq": 35,
+            "type": "Logogram",
             "value": "ab"
         },
         {
-            "freq": "75",
-            "type": "Logogram",
-            "value": "AB"
+            "freq": 13,
+            "type": "Syllabogram",
+            "value": "is3"
         },
         {
-            "freq": "8",
+            "freq": 12,
             "type": "Syllabogram",
             "value": "eš3"
         },
         {
-            "freq": "660",
+            "freq": 748,
             "type": "Syllabogram",
             "value": "ap"
+        },
+        {
+            "freq": 835,
+            "type": "Syllabogram",
+            "value": "ab"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "iš7"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "es3"
         }
     ],
     "238": [
         {
-            "freq": "3",
-            "type": "n.d.",
-            "value": "Um"
+            "freq": 6,
+            "type": "Logogram",
+            "value": "um"
         },
         {
-            "freq": "5252",
+            "freq": 5958,
             "type": "Syllabogram",
             "value": "um"
         },
         {
-            "freq": "14",
-            "type": "Logogram",
-            "value": "UM"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "u16"
         }
     ],
     "24": [
         {
-            "freq": "2",
+            "freq": 3,
             "type": "Logogram",
-            "value": "DUG4"
+            "value": "inim"
         },
         {
-            "freq": "5677",
-            "type": "Syllabogram",
+            "freq": 3,
+            "type": "Logogram",
+            "value": "dug4"
+        },
+        {
+            "freq": 142,
+            "type": "Logogram",
+            "value": "zu2"
+        },
+        {
+            "freq": 208,
+            "type": "Logogram",
             "value": "ka"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "ZU2"
+            "freq": 17,
+            "type": "Syllabogram",
+            "value": "qa3"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "INIM"
-        },
-        {
-            "freq": "234",
-            "type": "Logogram",
-            "value": "KA"
-        },
-        {
-            "freq": "1",
+            "freq": 10,
             "type": "Syllabogram",
             "value": "pi4"
         },
         {
-            "freq": "3",
+            "freq": 6400,
             "type": "Syllabogram",
-            "value": "qa3"
+            "value": "ka"
         }
     ],
     "242": [
         {
-            "freq": "711",
-            "type": "Syllabogram",
-            "value": "ṭup"
-        },
-        {
-            "freq": "204",
+            "freq": 217,
             "type": "Logogram",
-            "value": "DUB"
+            "value": "dub"
         },
         {
-            "freq": "1",
+            "freq": 2,
             "type": "Syllabogram",
             "value": "ṭub"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "dub"
+        },
+        {
+            "freq": 779,
+            "type": "Syllabogram",
+            "value": "ṭup"
         }
     ],
     "248": [
         {
-            "freq": "104",
+            "freq": 92,
             "type": "Logogram",
-            "value": "TA"
+            "value": "ta"
         },
         {
-            "freq": "5740",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "da2"
+        },
+        {
+            "freq": 6481,
             "type": "Syllabogram",
             "value": "ta"
+        },
+        {
+            "freq": 71,
+            "type": "Syllabogram",
+            "value": "ṭa2"
         }
     ],
     "252": [
         {
-            "freq": "57",
-            "type": "Logogram",
-            "value": "I"
+            "freq": 394,
+            "type": "Determinative",
+            "value": "i"
         },
         {
-            "freq": "8579",
+            "freq": 46,
+            "type": "Logogram",
+            "value": "i"
+        },
+        {
+            "freq": 9418,
             "type": "Syllabogram",
             "value": "i"
         }
     ],
     "253": [
         {
-            "freq": "2",
-            "type": "Syllabogram",
-            "value": "kan"
+            "freq": 39,
+            "type": "Logogram",
+            "value": "ḫe2"
         },
         {
-            "freq": "27",
+            "freq": 38,
+            "type": "Logogram",
+            "value": "gan"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "ḫe2"
+        },
+        {
+            "freq": 27,
             "type": "Syllabogram",
             "value": "gan"
         },
         {
-            "freq": "32",
-            "type": "Logogram",
-            "value": "GAN"
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "kan"
         }
     ],
     "255": [
         {
-            "freq": "28",
+            "freq": 30,
             "type": "Logogram",
-            "value": "BANDA3"
+            "value": "banda3"
         },
         {
-            "freq": "680",
+            "freq": 1,
             "type": "Logogram",
-            "value": "DUMU"
+            "value": "ban3"
         },
         {
-            "freq": "20",
+            "freq": 751,
             "type": "Logogram",
-            "value": "TUR"
+            "value": "dumu"
+        },
+        {
+            "freq": 23,
+            "type": "Logogram",
+            "value": "tur"
         }
     ],
     "258": [
         {
-            "freq": "65",
+            "freq": 17,
             "type": "Logogram",
-            "value": "AD"
+            "value": "ad"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "AT"
-        },
-        {
-            "freq": "405",
-            "type": "Syllabogram",
-            "value": "aṭ"
-        },
-        {
-            "freq": "1839",
+            "freq": 2114,
             "type": "Syllabogram",
             "value": "at"
         },
         {
-            "freq": "721",
+            "freq": 447,
+            "type": "Syllabogram",
+            "value": "aṭ"
+        },
+        {
+            "freq": 800,
             "type": "Syllabogram",
             "value": "ad"
         }
     ],
     "259": [
         {
-            "freq": "789",
+            "freq": 2,
+            "type": "Logogram",
+            "value": "ze2"
+        },
+        {
+            "freq": 885,
             "type": "Syllabogram",
             "value": "ṣi"
         },
         {
-            "freq": "2",
-            "type": "Syllabogram",
-            "value": "si20"
-        },
-        {
-            "freq": "329",
+            "freq": 383,
             "type": "Syllabogram",
             "value": "ṣe"
         },
         {
-            "freq": "7",
-            "type": "Logogram",
-            "value": "ṢI"
+            "freq": 7,
+            "type": "Syllabogram",
+            "value": "zi2"
+        },
+        {
+            "freq": 4,
+            "type": "Syllabogram",
+            "value": "si20"
+        },
+        {
+            "freq": 21,
+            "type": "Syllabogram",
+            "value": "ze2"
         }
     ],
     "260": [
         {
-            "freq": "5",
-            "type": "Syllabogram",
-            "value": "iu"
-        },
-        {
-            "freq": "40",
-            "type": "Logogram",
-            "value": "IA"
-        },
-        {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "ie"
         },
         {
-            "freq": "2962",
+            "freq": 5,
+            "type": "Syllabogram",
+            "value": "iu"
+        },
+        {
+            "freq": 5,
+            "type": "Syllabogram",
+            "value": "ii"
+        },
+        {
+            "freq": 3310,
             "type": "Syllabogram",
             "value": "ia"
         }
     ],
     "261": [
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "Ini"
+            "freq": 112,
+            "type": "Logogram",
+            "value": "in"
         },
         {
-            "freq": "1214",
+            "freq": 1335,
             "type": "Syllabogram",
             "value": "in"
         },
         {
-            "freq": "92",
-            "type": "Logogram",
-            "value": "IN"
-        },
-        {
-            "freq": "15",
-            "type": "n.d.",
-            "value": "In"
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "en6"
         }
     ],
     "266": [
         {
-            "freq": "83",
+            "freq": 92,
             "type": "Logogram",
-            "value": "LUGAL"
+            "value": "lugal"
         }
     ],
     "275": [
         {
-            "freq": "76",
+            "freq": 87,
             "type": "Logogram",
-            "value": "BAD3"
+            "value": "bad3"
         }
     ],
     "296": [
         {
-            "freq": "254",
-            "type": "Syllabogram",
-            "value": "uk"
+            "freq": 7,
+            "type": "Logogram",
+            "value": "ug"
         },
         {
-            "freq": "16",
+            "freq": 18,
             "type": "Syllabogram",
             "value": "ug"
         },
         {
-            "freq": "18",
-            "type": "Logogram",
-            "value": "UG"
-        },
-        {
-            "freq": "61",
+            "freq": 72,
             "type": "Syllabogram",
             "value": "uq"
         },
         {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "UK"
+            "freq": 292,
+            "type": "Syllabogram",
+            "value": "uk"
         }
     ],
     "297": [
         {
-            "freq": "182",
-            "type": "Syllabogram",
-            "value": "as"
-        },
-        {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "aza"
-        },
-        {
-            "freq": "22",
-            "type": "Logogram",
-            "value": "AZ"
-        },
-        {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "aZA"
-        },
-        {
-            "freq": "158",
+            "freq": 176,
             "type": "Syllabogram",
             "value": "aṣ"
         },
         {
-            "freq": "151",
+            "freq": 161,
             "type": "Syllabogram",
             "value": "az"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "AZA"
+            "freq": 189,
+            "type": "Syllabogram",
+            "value": "as"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "AṢ"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uṣ4"
         }
     ],
     "298": [
         {
-            "freq": "20",
+            "freq": 22,
             "type": "Logogram",
-            "value": "DU8"
+            "value": "du8"
         },
         {
-            "freq": "60",
+            "freq": 66,
             "type": "Logogram",
-            "value": "GAB"
+            "value": "gab"
+        },
+        {
+            "freq": 20,
+            "type": "Logogram",
+            "value": "tuḫ"
+        },
+        {
+            "freq": 37,
+            "type": "Logogram",
+            "value": "duḫ"
         }
     ],
-    "3": [],
+    "3": [
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "ḫal"
+        },
+        {
+            "freq": 12,
+            "type": "Syllabogram",
+            "value": "ḫal"
+        }
+    ],
     "302": [
         {
-            "freq": "6",
+            "freq": 1,
             "type": "Logogram",
-            "value": "RAŠ"
+            "value": "kas"
         },
         {
-            "freq": "1",
+            "freq": 47,
             "type": "Logogram",
-            "value": "KAS"
+            "value": "kaskal"
         },
         {
-            "freq": "32",
+            "freq": 7,
             "type": "Logogram",
-            "value": "KASKAL"
+            "value": "raš"
         }
     ],
     "309": [
         {
-            "freq": "6667",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
             "value": "am"
         },
         {
-            "freq": "10",
-            "type": "Logogram",
-            "value": "AM"
+            "freq": 7446,
+            "type": "Syllabogram",
+            "value": "am"
         }
     ],
     "311": [
         {
-            "freq": "5",
+            "freq": 3,
+            "type": "Determinative",
+            "value": "uzu"
+        },
+        {
+            "freq": 2,
             "type": "Logogram",
-            "value": "UZU"
+            "value": "uzu"
         }
     ],
     "312": [
         {
-            "freq": "6",
+            "freq": 8,
             "type": "Logogram",
-            "value": "GIBIL"
+            "value": "gibil"
+        },
+        {
+            "freq": 6,
+            "type": "Syllabogram",
+            "value": "bil2"
+        },
+        {
+            "freq": 44,
+            "type": "Syllabogram",
+            "value": "pil2"
         }
     ],
     "313": [
         {
-            "freq": "68",
+            "freq": 67,
             "type": "Logogram",
-            "value": "NE"
+            "value": "ne"
         },
         {
-            "freq": "20",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "lam2"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "li9"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "de3"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
             "value": "bil"
         },
         {
-            "freq": "2",
+            "freq": 1,
             "type": "Logogram",
-            "value": "BIL"
+            "value": "bi2"
         },
         {
-            "freq": "96",
-            "type": "Syllabogram",
-            "value": "pil"
-        },
-        {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "DE3"
-        },
-        {
-            "freq": "232",
+            "freq": 254,
             "type": "Syllabogram",
             "value": "ne"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "LAM2"
+            "freq": 111,
+            "type": "Syllabogram",
+            "value": "pil"
+        },
+        {
+            "freq": 23,
+            "type": "Syllabogram",
+            "value": "bil"
+        },
+        {
+            "freq": 2254,
+            "type": "Syllabogram",
+            "value": "bi2"
         }
     ],
     "333": [
         {
-            "freq": "19",
+            "freq": 21,
             "type": "Logogram",
-            "value": "ŠAM2"
+            "value": "šam2"
         }
     ],
     "339": [
         {
-            "freq": "4",
-            "type": "Syllabogram",
-            "value": "qu"
+            "freq": 4,
+            "type": "Logogram",
+            "value": "kum"
         },
         {
-            "freq": "1011",
+            "freq": 1129,
             "type": "Syllabogram",
             "value": "kum"
         },
         {
-            "freq": "3",
+            "freq": 3,
             "type": "Syllabogram",
             "value": "ku13"
         },
         {
-            "freq": "36",
+            "freq": 4,
             "type": "Syllabogram",
-            "value": "qum"
+            "value": "qu"
         },
         {
-            "freq": "10",
-            "type": "Logogram",
-            "value": "KUM"
+            "freq": 39,
+            "type": "Syllabogram",
+            "value": "qum"
         }
     ],
-    "341": [],
+    "341": [
+        {
+            "freq": 12,
+            "type": "Logogram",
+            "value": "ur2"
+        },
+        {
+            "freq": 173,
+            "type": "Syllabogram",
+            "value": "ur2"
+        }
+    ],
     "348": [
         {
-            "freq": "1342",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "il"
+        },
+        {
+            "freq": 1506,
             "type": "Syllabogram",
             "value": "il"
         },
         {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "IL"
+            "freq": 4,
+            "type": "Syllabogram",
+            "value": "el2"
         }
     ],
     "350": [
         {
-            "freq": "77",
+            "freq": 51,
             "type": "Logogram",
-            "value": "DU"
+            "value": "ra2"
         },
         {
-            "freq": "6",
+            "freq": 6,
             "type": "Logogram",
-            "value": "GIN"
+            "value": "gin"
         },
         {
-            "freq": "44",
+            "freq": 53,
             "type": "Logogram",
-            "value": "RA2"
+            "value": "du"
         },
         {
-            "freq": "989",
+            "freq": 4,
+            "type": "Logogram",
+            "value": "gub"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tu3"
+        },
+        {
+            "freq": 1128,
             "type": "Syllabogram",
             "value": "du"
         },
         {
-            "freq": "7",
-            "type": "Logogram",
-            "value": "GUB"
+            "freq": 193,
+            "type": "Syllabogram",
+            "value": "ṭu3"
         }
     ],
     "353": [
         {
-            "freq": "39",
+            "freq": 41,
             "type": "Logogram",
-            "value": "ANŠE"
+            "value": "anše"
         }
     ],
     "354": [
         {
-            "freq": "4042",
-            "type": "Syllabogram",
+            "freq": 9,
+            "type": "Logogram",
             "value": "ri"
         },
         {
-            "freq": "1203",
-            "type": "Syllabogram",
+            "freq": 2,
+            "type": "Logogram",
             "value": "tum"
         },
         {
-            "freq": "35",
+            "freq": 14,
             "type": "Logogram",
-            "value": "RI"
+            "value": "ib2"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
-            "value": "tu4"
+            "value": "dum"
         },
         {
-            "freq": "9",
-            "type": "Logogram",
-            "value": "TUM"
-        },
-        {
-            "freq": "9",
-            "type": "Logogram",
-            "value": "IB2"
-        },
-        {
-            "freq": "3",
+            "freq": 3,
             "type": "Syllabogram",
             "value": "ṭum"
         },
         {
-            "freq": "1",
+            "freq": 2,
             "type": "Syllabogram",
-            "value": "dum"
+            "value": "ip2"
+        },
+        {
+            "freq": 4487,
+            "type": "Syllabogram",
+            "value": "ri"
+        },
+        {
+            "freq": 1388,
+            "type": "Syllabogram",
+            "value": "tum"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "tu4"
         }
     ],
     "357": [
         {
-            "freq": "23",
+            "freq": 3,
             "type": "Logogram",
-            "value": "IŠ"
+            "value": "kuš7"
         },
         {
-            "freq": "2701",
-            "type": "Syllabogram",
+            "freq": 5,
+            "type": "Logogram",
             "value": "iš"
         },
         {
-            "freq": "12",
+            "freq": 35,
+            "type": "Logogram",
+            "value": "saḫar"
+        },
+        {
+            "freq": 16,
             "type": "Syllabogram",
             "value": "eš15"
         },
         {
-            "freq": "169",
+            "freq": 3026,
+            "type": "Syllabogram",
+            "value": "iš"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "is2"
+        },
+        {
+            "freq": 189,
             "type": "Syllabogram",
             "value": "mil"
         }
     ],
     "358": [
         {
-            "freq": "28",
+            "freq": 31,
             "type": "Logogram",
-            "value": "KAŠ"
+            "value": "kaš"
         },
         {
-            "freq": "4476",
-            "type": "Syllabogram",
+            "freq": 29,
+            "type": "Logogram",
             "value": "bi"
         },
         {
-            "freq": "183",
-            "type": "Logogram",
-            "value": "BI"
-        },
-        {
-            "freq": "2",
+            "freq": 2,
             "type": "Syllabogram",
             "value": "kaš"
+        },
+        {
+            "freq": 1685,
+            "type": "Syllabogram",
+            "value": "pi2"
+        },
+        {
+            "freq": 130,
+            "type": "Syllabogram",
+            "value": "be2"
+        },
+        {
+            "freq": 219,
+            "type": "Syllabogram",
+            "value": "pe2"
+        },
+        {
+            "freq": 4994,
+            "type": "Syllabogram",
+            "value": "bi"
         }
     ],
     "362": [
         {
-            "freq": "3",
+            "freq": 1,
             "type": "Logogram",
-            "value": "SIM"
+            "value": "bappir2"
         },
         {
-            "freq": "1",
+            "freq": 4,
             "type": "Logogram",
-            "value": "BAPPIR2"
+            "value": "sim"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
+            "freq": 4,
+            "type": "Logogram",
             "value": "šim"
         },
         {
-            "freq": "4",
+            "freq": 3,
             "type": "Logogram",
-            "value": "ŠIM"
+            "value": "lunga"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "šim"
         }
     ],
     "378": [
         {
-            "freq": "2",
+            "freq": 2,
             "type": "Logogram",
-            "value": "ŠENNUR"
+            "value": "šennur"
         },
         {
-            "freq": "140",
+            "freq": 150,
             "type": "Logogram",
-            "value": "KIB"
-        },
-        {
-            "freq": "3",
-            "type": "n.d.",
-            "value": "KIb"
+            "value": "kib"
         }
     ],
     "379": [
         {
-            "freq": "14",
+            "freq": 14,
             "type": "Logogram",
-            "value": "GAG"
+            "value": "gag"
         },
         {
-            "freq": "5",
+            "freq": 21,
             "type": "Logogram",
-            "value": "KAK"
+            "value": "du3"
         },
         {
-            "freq": "20",
+            "freq": 4,
             "type": "Logogram",
-            "value": "DU3"
+            "value": "kak"
         }
     ],
     "380": [
         {
-            "freq": "3",
+            "freq": 396,
             "type": "Logogram",
-            "value": "IA3"
+            "value": "i3"
         },
         {
-            "freq": "177",
+            "freq": 111,
             "type": "Logogram",
-            "value": "NI"
+            "value": "ni"
         },
         {
-            "freq": "343",
+            "freq": 3,
             "type": "Logogram",
-            "value": "I3"
+            "value": "zal"
         },
         {
-            "freq": "11",
+            "freq": 5,
+            "type": "Logogram",
+            "value": "ia3"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "li2"
+        },
+        {
+            "freq": 575,
             "type": "Syllabogram",
             "value": "i3"
         },
         {
-            "freq": "4969",
+            "freq": 5581,
             "type": "Syllabogram",
             "value": "ni"
         },
         {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "ZAL"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "le2"
+        },
+        {
+            "freq": 86,
+            "type": "Syllabogram",
+            "value": "ne2"
+        },
+        {
+            "freq": 1541,
+            "type": "Syllabogram",
+            "value": "li2"
         }
     ],
     "381": [
         {
-            "freq": "5",
+            "freq": 163,
             "type": "Logogram",
-            "value": "NITA"
+            "value": "us2"
         },
         {
-            "freq": "148",
+            "freq": 6,
             "type": "Logogram",
-            "value": "US2"
+            "value": "nita"
         },
         {
-            "freq": "912",
-            "type": "Syllabogram",
+            "freq": 31,
+            "type": "Logogram",
             "value": "uš"
         },
         {
-            "freq": "37",
-            "type": "Logogram",
-            "value": "UŠ"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uṣ2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uz2"
+        },
+        {
+            "freq": 85,
+            "type": "Syllabogram",
+            "value": "us2"
+        },
+        {
+            "freq": 1036,
+            "type": "Syllabogram",
+            "value": "uš"
         }
     ],
     "385": [
         {
-            "freq": "55",
+            "freq": 38,
+            "type": "Determinative",
+            "value": "na4"
+        },
+        {
+            "freq": 4,
             "type": "Logogram",
-            "value": "NA4"
+            "value": "za2"
+        },
+        {
+            "freq": 18,
+            "type": "Logogram",
+            "value": "na4"
         }
     ],
     "437": [
         {
-            "freq": "1172",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
             "value": "ir"
         },
         {
-            "freq": "12",
-            "type": "Logogram",
-            "value": "IR"
-        },
-        {
-            "freq": "761",
+            "freq": 861,
             "type": "Syllabogram",
             "value": "er"
+        },
+        {
+            "freq": 1284,
+            "type": "Syllabogram",
+            "value": "ir"
         }
     ],
     "438": [
         {
-            "freq": "1",
+            "freq": 17,
+            "type": "Syllabogram",
+            "value": "tak2"
+        },
+        {
+            "freq": 1,
             "type": "Syllabogram",
             "value": "daq"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "dag"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "dak"
         }
     ],
     "464": [
         {
-            "freq": "152",
+            "freq": 140,
             "type": "Logogram",
-            "value": "PA"
-        },
-        {
-            "freq": "1517",
-            "type": "Syllabogram",
             "value": "pa"
         },
         {
-            "freq": "176",
+            "freq": 254,
             "type": "Logogram",
-            "value": "UGULA"
+            "value": "ugula"
+        },
+        {
+            "freq": 8,
+            "type": "Logogram",
+            "value": "gidri"
+        },
+        {
+            "freq": 1749,
+            "type": "Syllabogram",
+            "value": "pa"
         }
     ],
     "468": [
         {
-            "freq": "67",
+            "freq": 72,
             "type": "Logogram",
-            "value": "SIPA"
+            "value": "sipa"
         }
     ],
     "469": [
         {
-            "freq": "293",
-            "type": "Syllabogram",
-            "value": "is"
-        },
-        {
-            "freq": "1",
-            "type": "Syllabogram",
+            "freq": 557,
+            "type": "Determinative",
             "value": "giš"
         },
         {
-            "freq": "24",
-            "type": "Syllabogram",
-            "value": "es"
-        },
-        {
-            "freq": "26",
+            "freq": 348,
             "type": "Logogram",
-            "value": "IZ"
+            "value": "giš"
         },
         {
-            "freq": "779",
+            "freq": 2,
             "type": "Logogram",
-            "value": "GIŠ"
+            "value": "iz"
         },
         {
-            "freq": "3",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "iš6"
         },
         {
-            "freq": "131",
+            "freq": 319,
+            "type": "Syllabogram",
+            "value": "is"
+        },
+        {
+            "freq": 27,
+            "type": "Syllabogram",
+            "value": "es"
+        },
+        {
+            "freq": 147,
             "type": "Syllabogram",
             "value": "iṣ"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "IS"
-        },
-        {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "IṢ"
-        },
-        {
-            "freq": "7",
-            "type": "Syllabogram",
-            "value": "eṣ"
-        },
-        {
-            "freq": "22",
+            "freq": 26,
             "type": "Syllabogram",
             "value": "ez"
         },
         {
-            "freq": "182",
+            "freq": 8,
+            "type": "Syllabogram",
+            "value": "eṣ"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "giš"
+        },
+        {
+            "freq": 200,
             "type": "Syllabogram",
             "value": "iz"
         }
     ],
     "472": [
         {
-            "freq": "415",
+            "freq": 1,
             "type": "Logogram",
-            "value": "GU4"
+            "value": "eštub"
         },
         {
-            "freq": "1",
+            "freq": 479,
             "type": "Logogram",
-            "value": "EŠTUB"
+            "value": "gu4"
         },
         {
-            "freq": "12",
+            "freq": 12,
             "type": "Logogram",
-            "value": "GUD"
+            "value": "gud"
         }
     ],
     "474": [
         {
-            "freq": "29",
+            "freq": 23,
             "type": "Logogram",
-            "value": "AL"
+            "value": "al"
         },
         {
-            "freq": "3091",
+            "freq": 3428,
             "type": "Syllabogram",
             "value": "al"
         }
     ],
     "483": [
         {
-            "freq": "262",
+            "freq": 303,
             "type": "Logogram",
-            "value": "MAR"
+            "value": "mar"
         },
         {
-            "freq": "50",
+            "freq": 54,
             "type": "Syllabogram",
             "value": "mar"
         }
     ],
     "484": [
         {
-            "freq": "128",
+            "freq": 4,
             "type": "Logogram",
-            "value": "LIL2"
+            "value": "ke4"
         },
         {
-            "freq": "4",
+            "freq": 133,
             "type": "Logogram",
-            "value": "KE4"
+            "value": "lil2"
         },
         {
-            "freq": "9",
+            "freq": 1,
             "type": "Logogram",
-            "value": "KID"
+            "value": "ge2"
+        },
+        {
+            "freq": 9,
+            "type": "Logogram",
+            "value": "kid"
         }
     ],
     "485": [
         {
-            "freq": "2",
-            "type": "n.d.",
-            "value": "ŠIti"
+            "freq": 36,
+            "type": "Logogram",
+            "value": "sanga"
         },
         {
-            "freq": "10",
+            "freq": 10,
             "type": "Logogram",
-            "value": "ŠID"
+            "value": "šid"
         },
         {
-            "freq": "10",
+            "freq": 14,
             "type": "Logogram",
-            "value": "KA9"
-        },
-        {
-            "freq": "34",
-            "type": "Logogram",
-            "value": "SANGA"
+            "value": "ka9"
         }
     ],
     "490": [
         {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "KUŠ3"
+            "freq": 32,
+            "type": "Determinative",
+            "value": "u2"
         },
         {
-            "freq": "2",
+            "freq": 5,
             "type": "Logogram",
-            "value": "U2"
+            "value": "wa3"
         },
         {
-            "freq": "1",
+            "freq": 16,
+            "type": "Logogram",
+            "value": "ba6"
+        },
+        {
+            "freq": 6,
+            "type": "Logogram",
+            "value": "kuš3"
+        },
+        {
+            "freq": 52,
+            "type": "Logogram",
+            "value": "u2"
+        },
+        {
+            "freq": 2,
             "type": "Syllabogram",
             "value": "šam"
+        },
+        {
+            "freq": 6567,
+            "type": "Syllabogram",
+            "value": "u2"
         }
     ],
     "491": [
         {
-            "freq": "398",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "gur11"
+        },
+        {
+            "freq": 105,
+            "type": "Logogram",
+            "value": "ga"
+        },
+        {
+            "freq": 1377,
+            "type": "Syllabogram",
+            "value": "qa2"
+        },
+        {
+            "freq": 439,
             "type": "Syllabogram",
             "value": "ga"
         },
         {
-            "freq": "142",
-            "type": "Logogram",
-            "value": "GA"
-        },
-        {
-            "freq": "1",
+            "freq": 16,
             "type": "Syllabogram",
             "value": "ka3"
         }
     ],
     "494": [
         {
-            "freq": "12",
+            "freq": 13,
             "type": "Logogram",
-            "value": "SUKKAL"
+            "value": "sukkal"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "laḫ3"
         }
     ],
     "495": [
         {
-            "freq": "215",
+            "freq": 903,
             "type": "Logogram",
-            "value": "E2"
+            "value": "e2"
+        },
+        {
+            "freq": 100,
+            "type": "Syllabogram",
+            "value": "e2"
         }
     ],
     "496": [
         {
-            "freq": "1",
+            "freq": 15,
             "type": "Logogram",
-            "value": "TANA"
+            "value": "kal"
         },
         {
-            "freq": "11",
+            "freq": 3,
+            "type": "Logogram",
+            "value": "kalag"
+        },
+        {
+            "freq": 10,
             "type": "Syllabogram",
             "value": "kal"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "KALAG"
-        },
-        {
-            "freq": "15",
-            "type": "Logogram",
-            "value": "KAL"
-        },
-        {
-            "freq": "12",
+            "freq": 13,
             "type": "Syllabogram",
             "value": "dan"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "qal4"
         }
     ],
     "498": [
         {
-            "freq": "65",
+            "freq": 66,
             "type": "Logogram",
-            "value": "E"
+            "value": "e"
         },
         {
-            "freq": "2656",
+            "freq": 2828,
             "type": "Syllabogram",
             "value": "e"
         }
     ],
     "501": [
         {
-            "freq": "75",
+            "freq": 5,
             "type": "Logogram",
-            "value": "UN"
+            "value": "kalam"
         },
         {
-            "freq": "285",
-            "type": "Syllabogram",
+            "freq": 82,
+            "type": "Logogram",
             "value": "un"
         },
         {
-            "freq": "5",
-            "type": "Logogram",
-            "value": "KALAM"
+            "freq": 346,
+            "type": "Syllabogram",
+            "value": "un"
         }
     ],
     "502": [
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "NIR"
+            "value": "nir"
         },
         {
-            "freq": "2",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "nir"
         }
     ],
     "504": [
         {
-            "freq": "402",
-            "type": "Syllabogram",
-            "value": "ub"
-        },
-        {
-            "freq": "17",
-            "type": "Logogram",
-            "value": "UB"
-        },
-        {
-            "freq": "414",
+            "freq": 469,
             "type": "Syllabogram",
             "value": "up"
+        },
+        {
+            "freq": 449,
+            "type": "Syllabogram",
+            "value": "ub"
         }
     ],
     "507": [
         {
-            "freq": "4",
+            "freq": 19,
+            "type": "Logogram",
+            "value": "gi4"
+        },
+        {
+            "freq": 4,
             "type": "Syllabogram",
             "value": "qi4"
         },
         {
-            "freq": "2",
-            "type": "Syllabogram",
-            "value": "qe4"
-        },
-        {
-            "freq": "10",
-            "type": "Syllabogram",
-            "value": "gi4"
-        },
-        {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "ge4"
         },
         {
-            "freq": "18",
-            "type": "Logogram",
-            "value": "GI4"
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "qe4"
+        },
+        {
+            "freq": 12,
+            "type": "Syllabogram",
+            "value": "gi4"
         }
     ],
     "511": [
         {
-            "freq": "3891",
-            "type": "Syllabogram",
+            "freq": 492,
+            "type": "Logogram",
             "value": "ra"
         },
         {
-            "freq": "475",
-            "type": "Logogram",
-            "value": "RA"
+            "freq": 4327,
+            "type": "Syllabogram",
+            "value": "ra"
         }
     ],
     "514": [
         {
-            "freq": "687",
+            "freq": 723,
             "type": "Logogram",
-            "value": "LU2"
+            "value": "lu2"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "Lu2"
+            "freq": 4,
+            "type": "Syllabogram",
+            "value": "lu2"
         }
     ],
     "535": [
         {
-            "freq": "6",
+            "freq": 71,
             "type": "Logogram",
-            "value": "MUŠ5"
+            "value": "šeš"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "šas"
-        },
-        {
-            "freq": "54",
+            "freq": 6,
             "type": "Logogram",
-            "value": "ŠEŠ"
+            "value": "muš5"
         }
     ],
     "540": [
         {
-            "freq": "1",
+            "freq": 8,
             "type": "Logogram",
-            "value": "BUTU"
+            "value": "za3"
         },
         {
-            "freq": "14",
+            "freq": 15,
             "type": "Logogram",
-            "value": "ZAG"
+            "value": "zag"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "ZA3"
-        },
-        {
-            "freq": "2",
+            "freq": 1,
             "type": "Syllabogram",
-            "value": "en7"
+            "value": "za3"
         }
     ],
     "541": [
         {
-            "freq": "5",
-            "type": "Logogram",
-            "value": "ŠAR"
+            "freq": 142,
+            "type": "Determinative",
+            "value": "sar"
         },
         {
-            "freq": "291",
-            "type": "Syllabogram",
+            "freq": 5,
+            "type": "Logogram",
             "value": "šar"
         },
         {
-            "freq": "228",
+            "freq": 88,
             "type": "Logogram",
-            "value": "SAR"
+            "value": "sar"
+        },
+        {
+            "freq": 116,
+            "type": "Logogram",
+            "value": "kiri6"
+        },
+        {
+            "freq": 331,
+            "type": "Syllabogram",
+            "value": "šar"
         }
     ],
     "543": [
         {
-            "freq": "2",
+            "freq": 3,
             "type": "Logogram",
-            "value": "KAR3"
+            "value": "kar3"
         },
         {
-            "freq": "60",
+            "freq": 242,
+            "type": "Logogram",
+            "value": "gar3"
+        },
+        {
+            "freq": 72,
             "type": "Syllabogram",
             "value": "qar"
         },
         {
-            "freq": "227",
-            "type": "Logogram",
-            "value": "GAR3"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gar3"
         }
     ],
-    "545": [],
     "548": [
         {
-            "freq": "10",
+            "freq": 4,
             "type": "Logogram",
-            "value": "AŠ2"
+            "value": "baneš"
         },
         {
-            "freq": "2",
+            "freq": 5,
             "type": "Logogram",
-            "value": "BANEŠ"
+            "value": "aš2"
+        },
+        {
+            "freq": 16,
+            "type": "Syllabogram",
+            "value": "az2"
+        },
+        {
+            "freq": 88,
+            "type": "Syllabogram",
+            "value": "as2"
+        },
+        {
+            "freq": 29,
+            "type": "Syllabogram",
+            "value": "aš2"
         }
     ],
     "552": [
         {
-            "freq": "20026",
-            "type": "Syllabogram",
+            "freq": 312,
+            "type": "Logogram",
             "value": "ma"
         },
         {
-            "freq": "299",
-            "type": "Logogram",
-            "value": "MA"
+            "freq": 22335,
+            "type": "Syllabogram",
+            "value": "ma"
         }
     ],
     "553": [
         {
-            "freq": "7",
+            "freq": 356,
+            "type": "Logogram",
+            "value": "gal"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qal"
+        },
+        {
+            "freq": 7,
             "type": "Syllabogram",
             "value": "gal"
         },
         {
-            "freq": "321",
-            "type": "Logogram",
-            "value": "GAL"
-        },
-        {
-            "freq": "1",
+            "freq": 6,
             "type": "Syllabogram",
-            "value": "qal"
+            "value": "kal2"
         }
     ],
     "554": [
         {
-            "freq": "2",
+            "freq": 7,
             "type": "Logogram",
-            "value": "ŠARA"
+            "value": "bar2"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "šara"
+        },
+        {
+            "freq": 6,
+            "type": "Logogram",
+            "value": "bara2"
         }
     ],
     "556": [
         {
-            "freq": "6",
+            "freq": 163,
             "type": "Logogram",
-            "value": "NIMGIR"
+            "value": "aga"
         },
         {
-            "freq": "149",
+            "freq": 6,
             "type": "Logogram",
-            "value": "AGA"
+            "value": "nimgir"
         }
     ],
     "558": [
         {
-            "freq": "65",
+            "freq": 13,
+            "type": "Logogram",
+            "value": "ḫa6"
+        },
+        {
+            "freq": 5,
+            "type": "Logogram",
+            "value": "peš"
+        },
+        {
+            "freq": 79,
             "type": "Syllabogram",
             "value": "gir"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "PEŠ"
-        },
-        {
-            "freq": "7",
-            "type": "Syllabogram",
-            "value": "kir"
-        },
-        {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "qir"
+        },
+        {
+            "freq": 7,
+            "type": "Syllabogram",
+            "value": "kir"
         }
     ],
     "559": [
         {
-            "freq": "10",
+            "freq": 9,
             "type": "Logogram",
-            "value": "BUR"
+            "value": "bur"
         },
         {
-            "freq": "7",
+            "freq": 7,
             "type": "Syllabogram",
             "value": "bur"
         },
         {
-            "freq": "203",
+            "freq": 216,
             "type": "Syllabogram",
             "value": "pur"
         }
     ],
     "560": [
         {
-            "freq": "1",
+            "freq": 26,
             "type": "Logogram",
-            "value": "IṬ"
+            "value": "a2"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "A2"
-        },
-        {
-            "freq": "10",
-            "type": "n.d.",
-            "value": "Ed"
-        },
-        {
-            "freq": "488",
-            "type": "Syllabogram",
-            "value": "iṭ"
-        },
-        {
-            "freq": "45",
+            "freq": 47,
             "type": "Syllabogram",
             "value": "ed"
         },
         {
-            "freq": "10",
+            "freq": 11,
             "type": "Syllabogram",
             "value": "eṭ"
         },
         {
-            "freq": "1314",
+            "freq": 1492,
             "type": "Syllabogram",
             "value": "it"
         },
         {
-            "freq": "56",
-            "type": "Logogram",
-            "value": "ID"
-        },
-        {
-            "freq": "664",
+            "freq": 740,
             "type": "Syllabogram",
             "value": "id"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "eD"
-        },
-        {
-            "freq": "141",
+            "freq": 151,
             "type": "Syllabogram",
             "value": "et"
+        },
+        {
+            "freq": 553,
+            "type": "Syllabogram",
+            "value": "iṭ"
         }
     ],
     "561": [
         {
-            "freq": "320",
+            "freq": 177,
+            "type": "Logogram",
+            "value": "da"
+        },
+        {
+            "freq": 356,
             "type": "Syllabogram",
             "value": "ṭa"
         },
         {
-            "freq": "2216",
+            "freq": 2461,
             "type": "Syllabogram",
             "value": "da"
-        },
-        {
-            "freq": "213",
-            "type": "Logogram",
-            "value": "DA"
-        },
-        {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "Da"
         }
     ],
     "566": [
         {
-            "freq": "22",
+            "freq": 12,
             "type": "Logogram",
-            "value": "ŠA"
-        },
-        {
-            "freq": "8128",
-            "type": "Syllabogram",
             "value": "ša"
         },
         {
-            "freq": "6",
+            "freq": 6,
             "type": "Logogram",
-            "value": "ZUR8"
+            "value": "zur8"
+        },
+        {
+            "freq": 9084,
+            "type": "Syllabogram",
+            "value": "ša"
         }
     ],
     "567": [
         {
-            "freq": "7708",
-            "type": "Syllabogram",
+            "freq": 249,
+            "type": "Logogram",
             "value": "šu"
         },
         {
-            "freq": "231",
-            "type": "Logogram",
-            "value": "ŠU"
+            "freq": 8565,
+            "type": "Syllabogram",
+            "value": "šu"
         }
     ],
     "571": [
         {
-            "freq": "17",
+            "freq": 4,
             "type": "Logogram",
-            "value": "GIŠIMMAR"
+            "value": "ša6"
         },
         {
-            "freq": "4",
+            "freq": 4,
             "type": "Logogram",
-            "value": "ŠAG5"
+            "value": "šag5"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "sig6"
+        },
+        {
+            "freq": 31,
+            "type": "Logogram",
+            "value": "sa6"
+        },
+        {
+            "freq": 18,
+            "type": "Logogram",
+            "value": "gišimmar"
         }
     ],
     "578": [
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "šad"
+            "freq": 3,
+            "type": "Determinative",
+            "value": "kur"
         },
         {
-            "freq": "1",
+            "freq": 37,
             "type": "Logogram",
-            "value": "NATA"
+            "value": "kur"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "ŠAda"
-        },
-        {
-            "freq": "23",
+            "freq": 3,
             "type": "Logogram",
-            "value": "ŠATA"
+            "value": "gin3"
         },
         {
-            "freq": "4",
-            "type": "Syllabogram",
-            "value": "šata"
-        },
-        {
-            "freq": "6",
+            "freq": 6,
             "type": "Syllabogram",
             "value": "kur"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "GIN3"
-        },
-        {
-            "freq": "28",
-            "type": "Logogram",
-            "value": "KUR"
-        },
-        {
-            "freq": "1",
+            "freq": 3,
             "type": "Syllabogram",
-            "value": "nad"
+            "value": "qur2"
         }
     ],
     "579": [
         {
-            "freq": "654",
+            "freq": 1,
             "type": "Logogram",
-            "value": "ŠE"
+            "value": "niga"
         },
         {
-            "freq": "1311",
+            "freq": 752,
+            "type": "Logogram",
+            "value": "še"
+        },
+        {
+            "freq": 1496,
             "type": "Syllabogram",
             "value": "še"
         }
     ],
     "580": [
         {
-            "freq": "89",
+            "freq": 14,
             "type": "Logogram",
-            "value": "BU"
+            "value": "bu"
         },
         {
-            "freq": "51",
+            "freq": 79,
             "type": "Logogram",
-            "value": "GID2"
+            "value": "gid2"
         },
         {
-            "freq": "1994",
-            "type": "Syllabogram",
-            "value": "pu"
+            "freq": 4,
+            "type": "Logogram",
+            "value": "sir2"
         },
         {
-            "freq": "1563",
+            "freq": 1758,
             "type": "Syllabogram",
             "value": "bu"
+        },
+        {
+            "freq": 2219,
+            "type": "Syllabogram",
+            "value": "pu"
         }
     ],
     "583": [
         {
-            "freq": "13",
+            "freq": 4,
             "type": "Logogram",
-            "value": "UZ"
+            "value": "uz"
         },
         {
-            "freq": "56",
+            "freq": 69,
+            "type": "Syllabogram",
+            "value": "uz"
+        },
+        {
+            "freq": 65,
             "type": "Syllabogram",
             "value": "uṣ"
         },
         {
-            "freq": "57",
+            "freq": 70,
             "type": "Syllabogram",
             "value": "us"
-        },
-        {
-            "freq": "63",
-            "type": "Syllabogram",
-            "value": "uz"
         }
     ],
     "585": [
         {
-            "freq": "63",
+            "freq": 7,
+            "type": "Logogram",
+            "value": "muš"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "niraḫ"
+        },
+        {
+            "freq": 69,
             "type": "Syllabogram",
             "value": "ṣir"
         },
         {
-            "freq": "7",
-            "type": "Logogram",
-            "value": "MUŠ"
+            "freq": 4,
+            "type": "Syllabogram",
+            "value": "zir3"
         }
     ],
     "587": [
         {
-            "freq": "1",
+            "freq": 25,
+            "type": "Logogram",
+            "value": "tir"
+        },
+        {
+            "freq": 1,
             "type": "Syllabogram",
             "value": "ṭir5"
         },
         {
-            "freq": "5",
+            "freq": 4,
             "type": "Syllabogram",
             "value": "ter"
-        },
-        {
-            "freq": "25",
-            "type": "Logogram",
-            "value": "TIR"
         }
     ],
     "589": [
         {
-            "freq": "1075",
-            "type": "Syllabogram",
+            "freq": 4,
+            "type": "Determinative",
             "value": "te"
         },
         {
-            "freq": "2",
+            "freq": 8,
+            "type": "Logogram",
+            "value": "te"
+        },
+        {
+            "freq": 3,
             "type": "Syllabogram",
             "value": "ṭi4"
         },
         {
-            "freq": "24",
-            "type": "Logogram",
-            "value": "TE"
-        },
-        {
-            "freq": "504",
+            "freq": 574,
             "type": "Syllabogram",
             "value": "ṭe4"
         },
         {
-            "freq": "1",
+            "freq": 1213,
+            "type": "Syllabogram",
+            "value": "te"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ti7"
+        },
+        {
+            "freq": 1,
             "type": "Syllabogram",
             "value": "de4"
         }
     ],
     "590": [
         {
-            "freq": "19",
-            "type": "Syllabogram",
+            "freq": 55,
+            "type": "Logogram",
             "value": "kar"
         },
         {
-            "freq": "55",
-            "type": "Logogram",
-            "value": "KAR"
+            "freq": 20,
+            "type": "Syllabogram",
+            "value": "kar"
         }
     ],
     "596": [
         {
-            "freq": "638",
-            "type": "Syllabogram",
+            "freq": 239,
+            "type": "Logogram",
+            "value": "ud"
+        },
+        {
+            "freq": 337,
+            "type": "Logogram",
             "value": "u4"
         },
         {
-            "freq": "25",
-            "type": "Syllabogram",
-            "value": "pir"
-        },
-        {
-            "freq": "3798",
+            "freq": 1173,
             "type": "Logogram",
-            "value": "UTU"
+            "value": "babbar"
         },
         {
-            "freq": "671",
-            "type": "Syllabogram",
+            "freq": 49,
+            "type": "Logogram",
             "value": "tam"
         },
         {
-            "freq": "49",
+            "freq": 4183,
             "type": "Logogram",
-            "value": "TAM"
+            "value": "utu"
         },
         {
-            "freq": "206",
+            "freq": 3,
+            "type": "Logogram",
+            "value": "ḫad2"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "bir2"
+        },
+        {
+            "freq": 229,
             "type": "Syllabogram",
             "value": "ud"
         },
         {
-            "freq": "275",
-            "type": "Logogram",
-            "value": "UD"
+            "freq": 695,
+            "type": "Syllabogram",
+            "value": "u4"
         },
         {
-            "freq": "280",
-            "type": "Logogram",
-            "value": "U4"
+            "freq": 34,
+            "type": "Syllabogram",
+            "value": "pir"
         },
         {
-            "freq": "321",
+            "freq": 357,
             "type": "Syllabogram",
             "value": "ut"
         },
         {
-            "freq": "1059",
-            "type": "Logogram",
-            "value": "BABBAR"
+            "freq": 736,
+            "type": "Syllabogram",
+            "value": "tam"
         },
         {
-            "freq": "77",
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ṭam2"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "tu2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "laḫ"
+        },
+        {
+            "freq": 90,
             "type": "Syllabogram",
             "value": "uṭ"
         }
     ],
     "598": [
         {
-            "freq": "970",
-            "type": "Syllabogram",
+            "freq": 16,
+            "type": "Logogram",
+            "value": "pi"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
             "value": "wa"
         },
         {
-            "freq": "943",
-            "type": "Syllabogram",
-            "value": "wi"
-        },
-        {
-            "freq": "120",
+            "freq": 127,
             "type": "Syllabogram",
             "value": "we"
         },
         {
-            "freq": "53",
-            "type": "Logogram",
-            "value": "PI"
-        },
-        {
-            "freq": "20",
-            "type": "Logogram",
-            "value": "WA"
-        },
-        {
-            "freq": "167",
+            "freq": 212,
             "type": "Syllabogram",
             "value": "pi"
         },
         {
-            "freq": "36",
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "aw"
+        },
+        {
+            "freq": 1049,
+            "type": "Syllabogram",
+            "value": "wi"
+        },
+        {
+            "freq": 41,
             "type": "Syllabogram",
             "value": "pe"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "WE"
+            "freq": 1105,
+            "type": "Syllabogram",
+            "value": "wa"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "WU"
-        },
-        {
-            "freq": "11",
-            "type": "Logogram",
-            "value": "WI"
-        },
-        {
-            "freq": "2",
+            "freq": 2,
             "type": "Syllabogram",
             "value": "pa12"
         },
         {
-            "freq": "40",
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "iu2"
+        },
+        {
+            "freq": 45,
             "type": "Syllabogram",
             "value": "wu"
         }
     ],
     "599": [
         {
-            "freq": "1529",
+            "freq": 1696,
             "type": "Logogram",
-            "value": "ŠA3"
+            "value": "ša3"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Syllabogram",
             "value": "ša3"
         }
     ],
     "61": [
         {
-            "freq": "5",
+            "freq": 5,
             "type": "Logogram",
-            "value": "EME"
+            "value": "eme"
+        }
+    ],
+    "611": [
+        {
+            "freq": 8,
+            "type": "Logogram",
+            "value": "uḫ2"
+        },
+        {
+            "freq": 139,
+            "type": "Syllabogram",
+            "value": "uḫ2"
         }
     ],
     "612": [
         {
-            "freq": "369",
+            "freq": 8,
             "type": "Logogram",
-            "value": "ERIM"
+            "value": "zalag2"
+        },
+        {
+            "freq": 43,
+            "type": "Logogram",
+            "value": "erin2"
+        },
+        {
+            "freq": 392,
+            "type": "Logogram",
+            "value": "erim"
         }
     ],
     "631": [
         {
-            "freq": "35",
+            "freq": 18,
             "type": "Logogram",
-            "value": "DUG3"
+            "value": "du10"
         },
         {
-            "freq": "3",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "ḫe"
+        },
+        {
+            "freq": 34,
+            "type": "Logogram",
+            "value": "dug3"
+        },
+        {
+            "freq": 1024,
+            "type": "Logogram",
+            "value": "ḫi"
+        },
+        {
+            "freq": 16,
+            "type": "Syllabogram",
+            "value": "di2"
+        },
+        {
+            "freq": 179,
+            "type": "Syllabogram",
+            "value": "ḫe"
+        },
+        {
+            "freq": 69,
             "type": "Syllabogram",
             "value": "ṭa3"
         },
         {
-            "freq": "18",
-            "type": "Logogram",
-            "value": "DU10"
+            "freq": 1374,
+            "type": "Syllabogram",
+            "value": "ḫi"
         }
     ],
-    "636": [],
+    "636": [
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "iḫ"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "aḫ"
+        },
+        {
+            "freq": 7,
+            "type": "Logogram",
+            "value": "uḫ"
+        },
+        {
+            "freq": 201,
+            "type": "Syllabogram",
+            "value": "iḫ"
+        },
+        {
+            "freq": 1016,
+            "type": "Syllabogram",
+            "value": "aḫ"
+        },
+        {
+            "freq": 169,
+            "type": "Syllabogram",
+            "value": "uḫ"
+        },
+        {
+            "freq": 180,
+            "type": "Syllabogram",
+            "value": "eḫ"
+        }
+    ],
     "640": [
         {
-            "freq": "441",
+            "freq": 511,
             "type": "Logogram",
-            "value": "KAM"
+            "value": "kam"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "KAma"
-        },
-        {
-            "freq": "680",
+            "freq": 765,
             "type": "Syllabogram",
             "value": "kam"
         }
     ],
     "641": [
         {
-            "freq": "3803",
-            "type": "Syllabogram",
+            "freq": 40,
+            "type": "Determinative",
             "value": "im"
         },
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "tumu"
-        },
-        {
-            "freq": "270",
+            "freq": 310,
             "type": "Logogram",
-            "value": "IŠKUR"
+            "value": "iškur"
         },
         {
-            "freq": "36",
-            "type": "n.d.",
-            "value": "Im"
+            "freq": 5,
+            "type": "Logogram",
+            "value": "im"
         },
         {
-            "freq": "445",
+            "freq": 522,
             "type": "Syllabogram",
             "value": "em"
         },
         {
-            "freq": "18",
-            "type": "Logogram",
-            "value": "IM"
+            "freq": 4256,
+            "type": "Syllabogram",
+            "value": "im"
         }
     ],
     "644": [
         {
-            "freq": "5",
+            "freq": 5,
             "type": "Logogram",
-            "value": "UR5"
+            "value": "ur5"
         },
         {
-            "freq": "30",
+            "freq": 27,
+            "type": "Logogram",
+            "value": "ḫar"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "kin2"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "ar3"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
+            "value": "ḫur"
+        },
+        {
+            "freq": 38,
             "type": "Syllabogram",
             "value": "mur"
         },
         {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "AR3"
+            "freq": 360,
+            "type": "Syllabogram",
+            "value": "ḫar"
         }
     ],
     "661": [
         {
-            "freq": "4",
+            "freq": 270,
             "type": "Logogram",
-            "value": "U"
+            "value": "bur3"
         },
         {
-            "freq": "270",
+            "freq": 2,
             "type": "Logogram",
-            "value": "BUR3"
+            "value": "u"
         },
         {
-            "freq": "106",
+            "freq": 78,
             "type": "Syllabogram",
             "value": "u"
         }
     ],
     "672": [
         {
-            "freq": "7",
-            "type": "Syllabogram",
-            "value": "let"
-        },
-        {
-            "freq": "93",
+            "freq": 104,
             "type": "Logogram",
-            "value": "AB2"
+            "value": "ab2"
         }
     ],
     "681": [
         {
-            "freq": "1",
+            "freq": 9,
             "type": "Logogram",
-            "value": "GI6"
+            "value": "mi"
         },
         {
-            "freq": "2760",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "gi6"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "ge6"
+        },
+        {
+            "freq": 3008,
             "type": "Syllabogram",
             "value": "mi"
         },
         {
-            "freq": "34",
-            "type": "Logogram",
-            "value": "MI"
+            "freq": 68,
+            "type": "Syllabogram",
+            "value": "ṣil2"
+        },
+        {
+            "freq": 21,
+            "type": "Syllabogram",
+            "value": "me2"
         }
     ],
     "682": [
         {
-            "freq": "2",
+            "freq": 2,
             "type": "Logogram",
-            "value": "GUL"
+            "value": "isimu2"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
+            "value": "gul"
+        },
+        {
+            "freq": 2,
+            "type": "Logogram",
+            "value": "sun2"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "kul2"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "gul"
         }
     ],
     "686": [
         {
-            "freq": "2",
+            "freq": 10,
+            "type": "Logogram",
+            "value": "dim2"
+        },
+        {
+            "freq": 10,
+            "type": "Logogram",
+            "value": "gim"
+        },
+        {
+            "freq": 10,
+            "type": "Logogram",
+            "value": "šitim"
+        },
+        {
+            "freq": 2,
             "type": "Syllabogram",
             "value": "kim"
         },
         {
-            "freq": "11",
-            "type": "Logogram",
-            "value": "GIM"
-        },
-        {
-            "freq": "15",
+            "freq": 15,
             "type": "Syllabogram",
             "value": "gim"
-        },
-        {
-            "freq": "9",
-            "type": "Logogram",
-            "value": "ŠITIM"
-        },
-        {
-            "freq": "10",
-            "type": "Logogram",
-            "value": "DIM2"
         }
     ],
-    "689": [],
+    "689": [
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "na2"
+        }
+    ],
     "690": [
         {
-            "freq": "8",
+            "freq": 10,
             "type": "Logogram",
-            "value": "NIM"
+            "value": "elam"
         },
         {
-            "freq": "12",
+            "freq": 3,
+            "type": "Logogram",
+            "value": "nim"
+        },
+        {
+            "freq": 12,
             "type": "Syllabogram",
             "value": "num"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "NIma"
-        },
-        {
-            "freq": "848",
+            "freq": 956,
             "type": "Syllabogram",
             "value": "nim"
-        },
-        {
-            "freq": "7",
-            "type": "Logogram",
-            "value": "ELAM"
         }
     ],
     "693": [
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "LAMA"
+            "value": "lama"
         },
         {
-            "freq": "1133",
-            "type": "Syllabogram",
+            "freq": 9,
+            "type": "Logogram",
             "value": "lam"
         },
         {
-            "freq": "11",
-            "type": "Logogram",
-            "value": "LAM"
-        },
-        {
-            "freq": "1",
+            "freq": 1243,
             "type": "Syllabogram",
-            "value": "lama"
+            "value": "lam"
         }
     ],
     "695": [
         {
-            "freq": "3",
-            "type": "Syllabogram",
-            "value": "zur"
-        },
-        {
-            "freq": "1",
+            "freq": 2,
             "type": "Logogram",
-            "value": "ṢUR"
+            "value": "mar2"
         },
         {
-            "freq": "7",
+            "freq": 1761,
+            "type": "Logogram",
+            "value": "amar"
+        },
+        {
+            "freq": 7,
             "type": "Syllabogram",
             "value": "ṣur"
         },
         {
-            "freq": "1616",
-            "type": "Logogram",
-            "value": "AMAR"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mar2"
         }
     ],
     "698": [
         {
-            "freq": "9",
+            "freq": 3,
             "type": "Logogram",
-            "value": "UL"
+            "value": "du7"
         },
         {
-            "freq": "2020",
-            "type": "Syllabogram",
+            "freq": 8,
+            "type": "Logogram",
             "value": "ul"
         },
         {
-            "freq": "16",
-            "type": "Logogram",
-            "value": "DU7"
+            "freq": 2275,
+            "type": "Syllabogram",
+            "value": "ul"
         }
     ],
     "701": [
         {
-            "freq": "3",
+            "freq": 1,
             "type": "Logogram",
-            "value": "SUMUQAN"
+            "value": "šakan2"
         },
         {
-            "freq": "57",
+            "freq": 3,
             "type": "Logogram",
-            "value": "GIR3"
+            "value": "sumuqan"
+        },
+        {
+            "freq": 59,
+            "type": "Logogram",
+            "value": "gir3"
+        },
+        {
+            "freq": 4,
+            "type": "Logogram",
+            "value": "šakkan2"
         }
     ],
     "71": [
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "ala"
-        },
-        {
-            "freq": "2",
-            "type": "Syllabogram",
+            "freq": 249,
+            "type": "Determinative",
             "value": "uru"
         },
         {
-            "freq": "269",
+            "freq": 63,
             "type": "Logogram",
-            "value": "URU"
+            "value": "uru"
+        },
+        {
+            "freq": 6,
+            "type": "Logogram",
+            "value": "ri2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "eri"
+        },
+        {
+            "freq": 5,
+            "type": "Syllabogram",
+            "value": "ri2"
         }
     ],
     "711": [
         {
-            "freq": "7",
+            "freq": 1,
             "type": "Logogram",
-            "value": "EŠ"
+            "value": "eše"
         },
         {
-            "freq": "2",
+            "freq": 2,
             "type": "Logogram",
-            "value": "SIN"
+            "value": "sin"
         },
         {
-            "freq": "1",
+            "freq": 3,
             "type": "Logogram",
-            "value": "EŠE"
+            "value": "eš"
         },
         {
-            "freq": "280",
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "iš3"
+        },
+        {
+            "freq": 298,
             "type": "Syllabogram",
             "value": "eš"
         }
     ],
     "724": [
         {
-            "freq": "3",
-            "type": "Syllabogram",
-            "value": "lima"
-        },
-        {
-            "freq": "52",
+            "freq": 6,
             "type": "Logogram",
-            "value": "ŠI"
-        },
-        {
-            "freq": "2534",
-            "type": "Syllabogram",
             "value": "ši"
         },
         {
-            "freq": "791",
-            "type": "Syllabogram",
-            "value": "lim"
-        },
-        {
-            "freq": "2",
-            "type": "Syllabogram",
-            "value": "lem"
-        },
-        {
-            "freq": "1",
+            "freq": 117,
             "type": "Logogram",
-            "value": "BADI"
+            "value": "igi"
         },
         {
-            "freq": "15",
+            "freq": 19,
             "type": "Syllabogram",
             "value": "še20"
         },
         {
-            "freq": "111",
-            "type": "Logogram",
-            "value": "IGI"
+            "freq": 2858,
+            "type": "Syllabogram",
+            "value": "ši"
         },
         {
-            "freq": "4",
-            "type": "Logogram",
-            "value": "LIM"
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "lem"
+        },
+        {
+            "freq": 2,
+            "type": "Syllabogram",
+            "value": "li3"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lum2"
+        },
+        {
+            "freq": 851,
+            "type": "Syllabogram",
+            "value": "lim"
         }
     ],
     "726": [
         {
-            "freq": "4",
-            "type": "n.d.",
-            "value": "Ar"
-        },
-        {
-            "freq": "1405",
+            "freq": 1591,
             "type": "Syllabogram",
             "value": "ar"
-        },
-        {
-            "freq": "5",
-            "type": "Logogram",
-            "value": "AR"
         }
     ],
     "731": [
         {
-            "freq": "247",
-            "type": "Syllabogram",
+            "freq": 9,
+            "type": "Logogram",
             "value": "u3"
         },
         {
-            "freq": "6",
-            "type": "Logogram",
-            "value": "U3"
+            "freq": 4945,
+            "type": "Syllabogram",
+            "value": "u3"
         }
     ],
     "736": [
         {
-            "freq": "4",
+            "freq": 4,
             "type": "Logogram",
-            "value": "SILIM"
+            "value": "silim"
         },
         {
-            "freq": "196",
-            "type": "Syllabogram",
-            "value": "de"
-        },
-        {
-            "freq": "1",
+            "freq": 136,
             "type": "Logogram",
-            "value": "SA2"
+            "value": "di"
         },
         {
-            "freq": "2750",
+            "freq": 38,
+            "type": "Logogram",
+            "value": "sa2"
+        },
+        {
+            "freq": 3086,
             "type": "Syllabogram",
             "value": "di"
         },
         {
-            "freq": "115",
+            "freq": 224,
+            "type": "Syllabogram",
+            "value": "de"
+        },
+        {
+            "freq": 134,
             "type": "Syllabogram",
             "value": "ṭi"
         },
         {
-            "freq": "62",
+            "freq": 75,
             "type": "Syllabogram",
             "value": "ṭe"
-        },
-        {
-            "freq": "226",
-            "type": "Logogram",
-            "value": "DI"
         }
     ],
     "737": [
         {
-            "freq": "1655",
-            "type": "Logogram",
-            "value": "KI"
+            "freq": 1615,
+            "type": "Determinative",
+            "value": "ki"
         },
         {
-            "freq": "55",
+            "freq": 118,
+            "type": "Logogram",
+            "value": "ki"
+        },
+        {
+            "freq": 58,
             "type": "Syllabogram",
             "value": "ke"
         },
         {
-            "freq": "3",
-            "type": "Logogram",
-            "value": "KE"
-        },
-        {
-            "freq": "3706",
+            "freq": 4083,
             "type": "Syllabogram",
             "value": "ki"
+        },
+        {
+            "freq": 3067,
+            "type": "Syllabogram",
+            "value": "qi2"
+        },
+        {
+            "freq": 292,
+            "type": "Syllabogram",
+            "value": "qe2"
         }
     ],
     "745": [
         {
-            "freq": "1091",
+            "freq": 1205,
             "type": "Logogram",
-            "value": "KU3"
+            "value": "ku3"
         }
     ],
     "746": [
         {
-            "freq": "177",
+            "freq": 181,
             "type": "Logogram",
-            "value": "ŠUKU"
+            "value": "šuku"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "bad2"
         }
     ],
     "748": [
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "m"
+            "freq": 2039,
+            "type": "Determinative",
+            "value": "diš"
         },
         {
-            "freq": "8623",
+            "freq": 15,
             "type": "Logogram",
-            "value": "DIŠ"
+            "value": "diš"
         }
     ],
     "750": [
         {
-            "freq": "19",
+            "freq": 29,
             "type": "Logogram",
-            "value": "LA2"
+            "value": "lal"
         },
         {
-            "freq": "29",
+            "freq": 25,
             "type": "Logogram",
-            "value": "LAL"
+            "value": "la2"
+        },
+        {
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "la2"
         }
     ],
     "753": [
         {
-            "freq": "30",
+            "freq": 25,
             "type": "Logogram",
-            "value": "ME"
-        },
-        {
-            "freq": "740",
-            "type": "Syllabogram",
             "value": "me"
         },
         {
-            "freq": "1",
+            "freq": 1,
             "type": "Logogram",
-            "value": "IŠIB"
+            "value": "išib"
+        },
+        {
+            "freq": 4,
+            "type": "Syllabogram",
+            "value": "mi3"
+        },
+        {
+            "freq": 807,
+            "type": "Syllabogram",
+            "value": "me"
         }
     ],
     "754": [
         {
-            "freq": "3",
-            "type": "Syllabogram",
+            "freq": 963,
+            "type": "Logogram",
             "value": "meš"
         },
         {
-            "freq": "870",
-            "type": "Logogram",
-            "value": "MEŠ"
+            "freq": 3,
+            "type": "Syllabogram",
+            "value": "meš"
         }
     ],
     "766": [
         {
-            "freq": "103",
+            "freq": 135,
             "type": "Logogram",
-            "value": "U8"
+            "value": "u8"
         }
     ],
     "807": [
         {
-            "freq": "940",
+            "freq": 119,
+            "type": "Logogram",
+            "value": "urta"
+        },
+        {
+            "freq": 3,
+            "type": "Logogram",
+            "value": "ib"
+        },
+        {
+            "freq": 19,
+            "type": "Logogram",
+            "value": "uraš"
+        },
+        {
+            "freq": 181,
+            "type": "Syllabogram",
+            "value": "ep"
+        },
+        {
+            "freq": 1069,
             "type": "Syllabogram",
             "value": "ib"
         },
         {
-            "freq": "29",
-            "type": "Logogram",
-            "value": "IB"
-        },
-        {
-            "freq": "16",
-            "type": "Logogram",
-            "value": "URAŠ"
-        },
-        {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "IP"
-        },
-        {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "EB"
-        },
-        {
-            "freq": "25",
-            "type": "Syllabogram",
-            "value": "eb"
-        },
-        {
-            "freq": "112",
-            "type": "Logogram",
-            "value": "URTA"
-        },
-        {
-            "freq": "496",
+            "freq": 547,
             "type": "Syllabogram",
             "value": "ip"
         },
         {
-            "freq": "157",
+            "freq": 29,
             "type": "Syllabogram",
-            "value": "ep"
+            "value": "eb"
         }
     ],
     "808": [
         {
-            "freq": "2774",
-            "type": "Syllabogram",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "dib2"
+        },
+        {
+            "freq": 15,
+            "type": "Logogram",
+            "value": "tukul"
+        },
+        {
+            "freq": 13,
+            "type": "Logogram",
             "value": "ku"
         },
         {
-            "freq": "15",
-            "type": "Logogram",
-            "value": "TUKUL"
-        },
-        {
-            "freq": "11",
+            "freq": 11,
             "type": "Syllabogram",
             "value": "tukul"
         },
         {
-            "freq": "2",
-            "type": "n.d.",
-            "value": "TUšu"
+            "freq": 3172,
+            "type": "Syllabogram",
+            "value": "ku"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "DIB2"
-        },
-        {
-            "freq": "94",
-            "type": "Logogram",
-            "value": "KU"
+            "freq": 645,
+            "type": "Syllabogram",
+            "value": "qu2"
         }
     ],
     "812": [
         {
-            "freq": "2294",
-            "type": "Syllabogram",
+            "freq": 3,
+            "type": "Determinative",
+            "value": "udu"
+        },
+        {
+            "freq": 11,
+            "type": "Logogram",
             "value": "lu"
         },
         {
-            "freq": "19",
+            "freq": 230,
             "type": "Logogram",
-            "value": "LU"
+            "value": "udu"
         },
         {
-            "freq": "194",
-            "type": "Logogram",
-            "value": "UDU"
+            "freq": 2563,
+            "type": "Syllabogram",
+            "value": "lu"
         }
     ],
     "816": [
         {
-            "freq": "160",
+            "freq": 1,
             "type": "Logogram",
-            "value": "SIG2"
+            "value": "siki"
+        },
+        {
+            "freq": 163,
+            "type": "Logogram",
+            "value": "sig2"
         }
     ],
     "828": [
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "LIki"
+            "freq": 34,
+            "type": "Logogram",
+            "value": "ur"
         },
         {
-            "freq": "18",
+            "freq": 19,
             "type": "Syllabogram",
             "value": "taš"
         },
         {
-            "freq": "1",
-            "type": "Logogram",
-            "value": "LIK"
-        },
-        {
-            "freq": "33",
-            "type": "Logogram",
-            "value": "UR"
-        },
-        {
-            "freq": "60",
-            "type": "Syllabogram",
-            "value": "lik"
-        },
-        {
-            "freq": "20",
-            "type": "Logogram",
-            "value": "TAŠA"
-        },
-        {
-            "freq": "859",
+            "freq": 961,
             "type": "Syllabogram",
             "value": "ur"
         },
         {
-            "freq": "3",
+            "freq": 66,
             "type": "Syllabogram",
-            "value": "taša"
-        },
-        {
-            "freq": "4",
-            "type": "n.d.",
-            "value": "TAša"
+            "value": "lik"
         }
     ],
     "836": [
         {
-            "freq": "463",
+            "freq": 504,
             "type": "Logogram",
-            "value": "GIN2"
+            "value": "gin2"
         }
     ],
     "839": [
         {
-            "freq": "2699",
+            "freq": 46,
             "type": "Logogram",
-            "value": "A"
+            "value": "duru5"
         },
         {
-            "freq": "42",
+            "freq": 2839,
             "type": "Logogram",
-            "value": "DURU5"
+            "value": "a"
         },
         {
-            "freq": "18283",
+            "freq": 1,
+            "type": "Logogram",
+            "value": "e4"
+        },
+        {
+            "freq": 20459,
             "type": "Syllabogram",
             "value": "a"
         }
     ],
     "85": [
         {
-            "freq": "27",
+            "freq": 15,
             "type": "Logogram",
-            "value": "LI"
+            "value": "li"
         },
         {
-            "freq": "504",
+            "freq": 532,
             "type": "Syllabogram",
             "value": "le"
         },
         {
-            "freq": "6991",
+            "freq": 7826,
             "type": "Syllabogram",
             "value": "li"
         }
     ],
     "851": [
         {
-            "freq": "8",
+            "freq": 126,
             "type": "Logogram",
-            "value": "SA3"
+            "value": "za"
         },
         {
-            "freq": "508",
-            "type": "Syllabogram",
-            "value": "ṣa"
-        },
-        {
-            "freq": "176",
+            "freq": 9,
             "type": "Logogram",
-            "value": "ZA"
+            "value": "sa3"
         },
         {
-            "freq": "301",
+            "freq": 331,
             "type": "Syllabogram",
             "value": "za"
         },
         {
-            "freq": "4",
+            "freq": 558,
+            "type": "Syllabogram",
+            "value": "ṣa"
+        },
+        {
+            "freq": 346,
             "type": "Syllabogram",
             "value": "sa3"
         }
     ],
     "856": [
         {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "KU6"
+            "freq": 7,
+            "type": "Determinative",
+            "value": "ku6"
         },
         {
-            "freq": "5",
+            "freq": 66,
+            "type": "Logogram",
+            "value": "ḫa"
+        },
+        {
+            "freq": 27,
+            "type": "Logogram",
+            "value": "ku6"
+        },
+        {
+            "freq": 2169,
+            "type": "Syllabogram",
+            "value": "ḫa"
+        },
+        {
+            "freq": 6,
             "type": "Syllabogram",
             "value": "gir14"
         }
     ],
     "859": [
         {
-            "freq": "51",
+            "freq": 1,
             "type": "Logogram",
-            "value": "GAR"
+            "value": "ša2"
         },
         {
-            "freq": "112",
+            "freq": 62,
             "type": "Logogram",
-            "value": "NIG2"
+            "value": "gar"
         },
         {
-            "freq": "29",
+            "freq": 111,
             "type": "Logogram",
-            "value": "NINDA"
+            "value": "nig2"
+        },
+        {
+            "freq": 12,
+            "type": "Logogram",
+            "value": "ni3"
+        },
+        {
+            "freq": 32,
+            "type": "Logogram",
+            "value": "ninda"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qar3"
         }
     ],
     "86": [
         {
-            "freq": "2",
+            "freq": 289,
             "type": "Logogram",
-            "value": "TUD"
+            "value": "tu"
         },
         {
-            "freq": "1890",
+            "freq": 2,
+            "type": "Logogram",
+            "value": "tud"
+        },
+        {
+            "freq": 2128,
             "type": "Syllabogram",
             "value": "tu"
         },
         {
-            "freq": "295",
-            "type": "Logogram",
-            "value": "TU"
+            "freq": 1358,
+            "type": "Syllabogram",
+            "value": "ṭu2"
         }
     ],
     "883": [
         {
-            "freq": "11",
-            "type": "Logogram",
-            "value": "SAL"
+            "freq": 57,
+            "type": "Determinative",
+            "value": "munus"
         },
         {
-            "freq": "6",
+            "freq": 99,
             "type": "Logogram",
-            "value": "F"
+            "value": "munus"
         },
         {
-            "freq": "185",
+            "freq": 11,
             "type": "Logogram",
-            "value": "MUNUS"
+            "value": "sal"
         }
     ],
     "884": [
         {
-            "freq": "5",
+            "freq": 1,
             "type": "Logogram",
-            "value": "ZUM"
+            "value": "rig2"
         },
         {
-            "freq": "15",
+            "freq": 15,
             "type": "Syllabogram",
             "value": "ṣu"
         },
         {
-            "freq": "7",
+            "freq": 20,
+            "type": "Syllabogram",
+            "value": "sum2"
+        },
+        {
+            "freq": 7,
             "type": "Syllabogram",
             "value": "zum"
         },
         {
-            "freq": "18",
+            "freq": 19,
             "type": "Syllabogram",
             "value": "ṣum"
         }
     ],
     "887": [
         {
-            "freq": "2",
+            "freq": 324,
             "type": "Logogram",
-            "value": "EREŠ"
+            "value": "nin"
         },
         {
-            "freq": "3",
+            "freq": 2,
+            "type": "Logogram",
+            "value": "ereš"
+        },
+        {
+            "freq": 3,
             "type": "Syllabogram",
             "value": "nin"
         },
         {
-            "freq": "288",
-            "type": "Logogram",
-            "value": "NIN"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "eriš"
         }
     ],
     "889": [
         {
-            "freq": "143",
+            "freq": 175,
             "type": "Logogram",
-            "value": "DAM"
+            "value": "dam"
         },
         {
-            "freq": "12",
+            "freq": 12,
             "type": "Syllabogram",
-            "value": "ṭam"
+            "value": "tam2"
         },
         {
-            "freq": "434",
+            "freq": 471,
             "type": "Syllabogram",
             "value": "dam"
         },
         {
-            "freq": "2",
-            "type": "Logogram",
-            "value": "DAMA"
+            "freq": 13,
+            "type": "Syllabogram",
+            "value": "ṭam"
         }
     ],
     "89": [
         {
-            "freq": "85",
+            "freq": 86,
             "type": "Logogram",
-            "value": "LA"
+            "value": "la"
         },
         {
-            "freq": "4707",
+            "freq": 5289,
             "type": "Syllabogram",
             "value": "la"
         }
     ],
     "890": [
         {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "amat"
-        },
-        {
-            "freq": "198",
+            "freq": 212,
             "type": "Logogram",
-            "value": "GEME2"
+            "value": "geme2"
         }
     ],
     "891": [
         {
-            "freq": "132",
-            "type": "Syllabogram",
+            "freq": 65,
+            "type": "Logogram",
             "value": "gu"
         },
         {
-            "freq": "56",
-            "type": "Logogram",
-            "value": "GU"
+            "freq": 22,
+            "type": "Syllabogram",
+            "value": "qu3"
+        },
+        {
+            "freq": 155,
+            "type": "Syllabogram",
+            "value": "gu"
         }
     ],
     "899": [
         {
-            "freq": "6",
+            "freq": 25,
             "type": "Logogram",
-            "value": "EL"
+            "value": "sikil"
         },
         {
-            "freq": "8",
-            "type": "Syllabogram",
-            "value": "il5"
+            "freq": 7,
+            "type": "Logogram",
+            "value": "el"
         },
         {
-            "freq": "584",
+            "freq": 626,
             "type": "Syllabogram",
             "value": "el"
         },
         {
-            "freq": "24",
-            "type": "Logogram",
-            "value": "SIKIL"
+            "freq": 12,
+            "type": "Syllabogram",
+            "value": "il5"
         }
     ],
     "9": [
         {
-            "freq": "2",
+            "freq": 20,
             "type": "Logogram",
-            "value": "SILA"
+            "value": "tar"
         },
         {
-            "freq": "20",
+            "freq": 27,
             "type": "Logogram",
-            "value": "TAR"
+            "value": "ku5"
         },
         {
-            "freq": "109",
+            "freq": 2,
             "type": "Logogram",
-            "value": "KUD"
+            "value": "sila"
         },
         {
-            "freq": "25",
+            "freq": 109,
+            "type": "Logogram",
+            "value": "kud"
+        },
+        {
+            "freq": 27,
             "type": "Syllabogram",
             "value": "tar"
         },
         {
-            "freq": "247",
+            "freq": 270,
             "type": "Syllabogram",
             "value": "ṭar"
-        },
-        {
-            "freq": "19",
-            "type": "Logogram",
-            "value": "KU5"
         }
     ],
     "900": [
         {
-            "freq": "591",
+            "freq": 149,
+            "type": "Logogram",
+            "value": "lum"
+        },
+        {
+            "freq": 1,
+            "type": "Logogram",
+            "value": "ḫuz"
+        },
+        {
+            "freq": 651,
             "type": "Syllabogram",
             "value": "lum"
         },
         {
-            "freq": "1",
-            "type": "n.d.",
-            "value": "GUmu"
-        },
-        {
-            "freq": "1",
-            "type": "Syllabogram",
-            "value": "luma"
-        },
-        {
-            "freq": "2",
+            "freq": 2,
             "type": "Syllabogram",
             "value": "lu4"
         },
         {
-            "freq": "126",
-            "type": "Logogram",
-            "value": "LUM"
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gum2"
         }
     ],
     "905": [
         {
-            "freq": "1",
+            "freq": 32,
             "type": "Logogram",
-            "value": "MURGU"
+            "value": "sig4"
         },
         {
-            "freq": "32",
+            "freq": 1,
             "type": "Logogram",
-            "value": "SIG4"
+            "value": "murgu"
         }
     ],
-    "91": [],
+    "91": [
+        {
+            "freq": 42,
+            "type": "Logogram",
+            "value": "maḫ"
+        },
+        {
+            "freq": 65,
+            "type": "Syllabogram",
+            "value": "maḫ"
+        }
+    ],
     "92": [
         {
-            "freq": "10",
+            "freq": 20,
             "type": "Logogram",
-            "value": "KUR2"
+            "value": "kur2"
         },
         {
-            "freq": "2",
+            "freq": 1,
             "type": "Logogram",
-            "value": "PAP"
+            "value": "pap"
         },
         {
-            "freq": "4",
+            "freq": 5,
             "type": "Logogram",
-            "value": "PA4"
+            "value": "pa4"
         }
     ],
     "98": [
         {
-            "freq": "1780",
-            "type": "Syllabogram",
+            "freq": 27,
+            "type": "Logogram",
+            "value": "muḫaldim"
+        },
+        {
+            "freq": 214,
+            "type": "Logogram",
             "value": "mu"
         },
         {
-            "freq": "182",
-            "type": "Logogram",
-            "value": "MU"
+            "freq": 1936,
+            "type": "Syllabogram",
+            "value": "mu"
         }
     ]
 }

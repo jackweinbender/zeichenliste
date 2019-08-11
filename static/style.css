@@ -159,7 +159,8 @@ a:hover{
         justify-content: left;
     }
     .stats-row { display:flex; }
-    .stats-section:last-of-type { margin-left: 0.5rem; }
+    .stats-section { margin-left: 0.5rem; }
+    .stats-section:first-of-type { margin-left: 0rem; }
 }
 
 .value{ white-space: nowrap; }

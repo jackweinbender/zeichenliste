@@ -6,7 +6,8 @@ Data from frequency list at "Ebla Digital Archives": http://ebda.cnr.it/value/li
 
 OB
 Total number of signs: 393035
-Data from texts at "Old Babylonian Text Corpus" (AbB 1–13, ca. 2500 letters): http://sp105p02-kbs.ff.zcu.cz/utf/utf/showallcatalogue.php
+Data from texts at "Old Babylonian Text Corpus" (AbB 1–14, ca. 2500 letters): http://sp105p02-kbs.ff.zcu.cz/utf/utf/showallcatalogue.php
+There is something wrong with the siglum "AbB 13, 2:", which occurs for several letters.
 
 NA
 Total number of signs: 696054
