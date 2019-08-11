@@ -117,3 +117,6 @@ dmypy.json
 .idea*
 .vscode
 .DS_Store
+
+# archaic_images
+data/archaic_images
