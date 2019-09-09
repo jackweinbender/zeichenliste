@@ -155,38 +155,6 @@
           </tfoot>
         </table>
       </div>
-            <div class="stats-section">
-        <h3 class="title">Old Akkadian</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>Sign Value</th>
-              <th>Freq.</th>
-              <th></th>
-            </tr>
-          </thead>
-          <tbody>
-            {% for oakk in stats['oakk'] %}
-            {% set pct = (oakk.freq / stats['totals']['oakk'] * 100) |round|int %}
-            <tr>
-              <td>{{oakk.value}}</td>
-              <td>{{oakk.freq}}</td>
-              <td>
-                <span class="chart-bar" style="width:{{(pct * 0.75)|round|int}}%">&nbsp;</span>
-                <span class="chart-bar-pct">{{pct|round|int}}</span>
-              </td>
-            </tr>
-            {% endfor %}
-          </tbody>
-          <tfoot>
-            <tr>
-              <td>Total</td>
-              <td>{{stats['totals']['oakk']}}</td>
-              <td></td>
-            </tr>
-          </tfoot>
-        </table>
-      </div>
     </div>
   </div>
 {% endblock %}
