@@ -1,0 +1,1093 @@
+{
+    "10": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "an"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "il3"
+        }
+    ],
+    "110": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "na"
+        }
+    ],
+    "111": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ru"
+        }
+    ],
+    "112": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "nu"
+        }
+    ],
+    "118": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "di3"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ti"
+        }
+    ],
+    "120": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "maš"
+        }
+    ],
+    "121": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "bar"
+        }
+    ],
+    "127": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ag"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ak"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "aq"
+        }
+    ],
+    "132": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "hu"
+        }
+    ],
+    "134": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "nam"
+        }
+    ],
+    "136": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ig"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ik"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "iq"
+        }
+    ],
+    "14": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ba"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pa2"
+        }
+    ],
+    "140": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "zi"
+        }
+    ],
+    "141": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ke2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ki2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qe3"
+        }
+    ],
+    "142": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "re"
+        }
+    ],
+    "148": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qab2"
+        }
+    ],
+    "15": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "zu"
+        }
+    ],
+    "16": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "su"
+        }
+    ],
+    "167": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dim"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tim"
+        }
+    ],
+    "172": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sa"
+        }
+    ],
+    "18": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ir3"
+        }
+    ],
+    "181": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "si"
+        }
+    ],
+    "183": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dar"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tar2"
+        }
+    ],
+    "184": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sag"
+        }
+    ],
+    "221": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tag"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sum6"
+        }
+    ],
+    "223": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ab"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ap"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "eš3"
+        }
+    ],
+    "238": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "um"
+        }
+    ],
+    "242": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dub"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ṭup"
+        }
+    ],
+    "258": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ad"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "at"
+        }
+    ],
+    "259": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ze2"
+        }
+    ],
+    "261": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "in"
+        }
+    ],
+    "296": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ug"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uk"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uq"
+        }
+    ],
+    "297": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "az"
+        }
+    ],
+    "298": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gab"
+        }
+    ],
+    "309": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "am"
+        }
+    ],
+    "312": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "bil2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pil2"
+        }
+    ],
+    "313": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "bi2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pil"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "te4"
+        }
+    ],
+    "339": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "kum"
+        }
+    ],
+    "348": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "il"
+        }
+    ],
+    "350": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "du"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ṭu3"
+        }
+    ],
+    "354": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dum"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tum"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ri"
+        }
+    ],
+    "357": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "is2"
+        }
+    ],
+    "358": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "be2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pe2"
+        }
+    ],
+    "380": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ni"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "li2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "i3"
+        }
+    ],
+    "381": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "us2"
+        }
+    ],
+    "437": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ir"
+        }
+    ],
+    "438": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tag2"
+        }
+    ],
+    "464": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pa"
+        }
+    ],
+    "469": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "iz"
+        }
+    ],
+    "474": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "al"
+        }
+    ],
+    "490": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "u2"
+        }
+    ],
+    "491": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ga"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ka3"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qa2"
+        }
+    ],
+    "495": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "bit"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "e2"
+        }
+    ],
+    "498": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "e"
+        }
+    ],
+    "501": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "un"
+        }
+    ],
+    "504": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ub"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "up"
+        }
+    ],
+    "507": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ki8"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qi4"
+        }
+    ],
+    "511": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ra"
+        }
+    ],
+    "514": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lu2"
+        }
+    ],
+    "535": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ses"
+        }
+    ],
+    "541": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sar"
+        }
+    ],
+    "543": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qar"
+        }
+    ],
+    "548": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "as2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "aš2"
+        }
+    ],
+    "552": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ma"
+        }
+    ],
+    "553": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gal"
+        }
+    ],
+    "558": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "kir"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qir"
+        }
+    ],
+    "560": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "id"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "it"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "a2"
+        }
+    ],
+    "561": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "da"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ta2"
+        }
+    ],
+    "566": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ša"
+        }
+    ],
+    "567": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "šu"
+        }
+    ],
+    "580": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "bu"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "pu"
+        }
+    ],
+    "583": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uz"
+        }
+    ],
+    "589": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "te"
+        }
+    ],
+    "596": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ud"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ut"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lah"
+        }
+    ],
+    "598": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "wa"
+        }
+    ],
+    "611": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uh2"
+        }
+    ],
+    "631": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "hi"
+        }
+    ],
+    "636": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ah"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ih"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "uh"
+        }
+    ],
+    "640": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "kam"
+        }
+    ],
+    "641": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "im"
+        }
+    ],
+    "644": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "hur"
+        }
+    ],
+    "672": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "rim2"
+        }
+    ],
+    "681": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mi"
+        }
+    ],
+    "682": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "kul2"
+        }
+    ],
+    "686": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dim2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "kim"
+        }
+    ],
+    "690": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "nim"
+        }
+    ],
+    "693": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lam"
+        }
+    ],
+    "71": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ri2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ru9"
+        }
+    ],
+    "724": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lim"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ši"
+        }
+    ],
+    "726": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ar"
+        }
+    ],
+    "731": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "u3"
+        }
+    ],
+    "736": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sa2"
+        }
+    ],
+    "737": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ki"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qi2"
+        }
+    ],
+    "750": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "la2"
+        }
+    ],
+    "753": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "me"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mi3"
+        }
+    ],
+    "807": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ib"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ip"
+        }
+    ],
+    "808": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gu5"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ku"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qu2"
+        }
+    ],
+    "812": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lu"
+        }
+    ],
+    "828": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lik"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "lig"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "liq"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ur"
+        }
+    ],
+    "839": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "a"
+        }
+    ],
+    "85": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "le"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "li"
+        }
+    ],
+    "851": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "za"
+        }
+    ],
+    "856": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ha"
+        }
+    ],
+    "86": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "du2"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "tu"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ṭu2"
+        }
+    ],
+    "883": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mim"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "sal"
+        }
+    ],
+    "884": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "zum"
+        }
+    ],
+    "889": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dam"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "dam"
+        }
+    ],
+    "89": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "la"
+        }
+    ],
+    "891": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "gu"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "ku8"
+        },
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "qu3"
+        }
+    ],
+    "899": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "el"
+        }
+    ],
+    "900": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "num2"
+        }
+    ],
+    "91": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mah"
+        }
+    ],
+    "98": [
+        {
+            "freq": 1,
+            "type": "Syllabogram",
+            "value": "mu"
+        }
+    ]
+}
