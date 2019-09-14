@@ -2,7 +2,7 @@
 # Google Docs and generating the data files that 
 # we use to power this thing.
 
-import requests, json
+import requests, json, os
 from collections import defaultdict
 from models.sign import Sign
 from models.sign_value import SignValue
@@ -26,7 +26,8 @@ data = requests.get(URL).json()
 rows = data['feed']['entry']
 
 # Dump the latest sheet into the test data so we know we don't break anything
-with open('test/data/sheets-cache.json', 'w') as outfile:
+path = os.path.dirname(os.path.dirname(os.path.dirname( __file__ ))) + '/test/data/sheets-cache.json'
+with open(path, 'w') as outfile:
     json.dump(rows, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
 # The output SIGNLIST
@@ -72,11 +73,9 @@ for row in rows:
             idx = Normalizer.normalize(v)
             if sign.borger_id not in index[idx]:
                 index[idx].append(sign.borger_id)
-        
 
-
-with open('data/signlist.json', 'w') as outfile:
+with open(os.path.dirname(os.path.dirname( __file__ )) +'/signlist.json', 'w') as outfile:
     json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
-with open('data/search_index.json', 'w') as outfile:
+with open(os.path.dirname(os.path.dirname( __file__ )) + '/search_index.json', 'w') as outfile:
     json.dump(index, outfile, ensure_ascii=False, sort_keys=True, indent=4)
