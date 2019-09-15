@@ -30,6 +30,19 @@ path = os.path.dirname(os.path.dirname(os.path.dirname( __file__ ))) + '/test/da
 with open(path, 'w') as outfile:
     json.dump(rows, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
+# Get the oracc sign list
+path = os.path.dirname(os.path.dirname( __file__ )) + '/oracc_global_sl.json'
+with open(path) as oracc_signs_file:
+    oracc_signs = json.load(oracc_signs_file)
+
+# Dictionary with unicode point :: values
+lookup_values = {}
+
+# Get values from oracc sign list
+for s in oracc_signs['signs']:
+    if 'hex' in oracc_signs['signs'][s] and 'values' in oracc_signs['signs'][s]:
+        lookup_values[oracc_signs['signs'][s]['hex']] = oracc_signs['signs'][s]['values']
+
 # The output SIGNLIST
 signlist = {}
 index = defaultdict(list)
@@ -40,7 +53,12 @@ for row in rows:
 
     # Serialize the row as a Sign Object
     sign = Sign.from_sheets_row(row)
-    
+
+    # Get values from lookup_values and normalize them
+    if sign.unicode_point in lookup_values:
+        sign.values = list(map(lambda x: Normalizer.normalize(x), lookup_values[sign.unicode_point]))
+        print(sign.values)
+
     # Add Sign to signlist (as dict, for later JSON output)
     signlist[borger] = sign.__dict__
 
