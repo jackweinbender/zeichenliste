@@ -2,7 +2,7 @@
 # Google Docs and generating the data files that 
 # we use to power this thing.
 
-import os, requests, json
+import requests, json
 from collections import defaultdict
 from models.sign import Sign
 from models.sign_value import SignValue
