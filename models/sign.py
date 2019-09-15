@@ -7,6 +7,7 @@ class Sign:
         # Unicode and ORACC standardized name
         self.unicode_value  = row_dict['unicode_value']
         self.unicode_name   = row_dict['unicode_name']
+        self.unicode_point  = row_dict['unicode_point']
 
         # Other Names
         self.oracc_name     = row_dict['oracc_name']
@@ -47,6 +48,8 @@ class Sign:
         unicd = sign_dict['unicode_value'].split(" & ")
         unicode_signs = [''.join(v.strip().split()[1:]) for v in unicd]
         sign_dict['unicode_value'] = '+'.join(unicode_signs)
+        sign_dict['unicode_point'] = '.'.join(['x' + ''.join(v.strip().split()[0][2:]) for v in unicd])
+
         ## Sign Values
         values = sign_dict['values'].split(';')
         sign_dict['values'] = [v.strip() for v in values if v.strip() != '']
