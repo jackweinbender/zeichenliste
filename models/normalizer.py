@@ -38,7 +38,17 @@ class Normalizer:
             'ŋ': 'ng',
             # 'ṣ': 's',
             # 'ṭ': 't',
-            "ₓ": "x" # subscript x, replaced with lowercase
+            "ₓ": "x", # subscript x, replaced with lowercase
+            "₀": "0",
+            "₁": "1",
+            "₂": "2",
+            "₃": "3",
+            "₄": "4",
+            "₅": "5",
+            "₆": "6",
+            "₇": "7",
+            "₈": "8",
+            "₉": "9"
         }
         if char in char_map:
             return char_map[char]
