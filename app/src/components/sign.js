@@ -133,10 +133,10 @@ const SignPage = ({ data }) => {
       <pre>{JSON.stringify(data)}</pre>
       <div className="results-card">
         <h3 className="results-card-header">
-          <a href="/signs/495">{data.sign.borger_name}</a>
+          <a href={`/signs/${data.sign.borger_id}`}>{data.sign.borger_name}</a>
         </h3>
         <div className="results-card-sign">
-          <span className="cuneiform">𒂍</span>
+          <span className="cuneiform">{data.sign.unicode_value}</span>
         </div>
         <div className="results-card-values">
           {data.sign.values.map(v => sign_value(v))}
@@ -198,6 +198,7 @@ export const query = graphql`
     sign: signsJson(borger_id: { eq: $borger_id }) {
       borger_name
       oracc_name
+      unicode_value
       values
       borger_id
       labat_id

@@ -179,7 +179,7 @@ a:hover {
   /* white-space: nowrap; */
 }
 .value:not(:last-child)::after {
-  content: " \00B7 ";
+  content: "\00A0\00B7 ";
 }
 
 .stats {

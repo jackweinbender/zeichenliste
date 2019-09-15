@@ -8,7 +8,7 @@ export default ({ title, stats, total }) => {
         <td>{value.value}</td>
         <td>{value.freq}</td>
         <td>
-          <span class="chart-bar" style={{ width: `${pct - 10}%` }}>
+          <span class="chart-bar" style={{ width: `${pct * 0.8}%` }}>
             &nbsp;
           </span>
           <span class="chart-bar-pct">{pct}</span>
@@ -28,7 +28,7 @@ export default ({ title, stats, total }) => {
             <th></th>
           </tr>
         </thead>
-        <tbody>{stats.map(v => val(v))}</tbody>
+        <tbody>{stats.sort((a, b) => b.freq - a.freq).map(v => val(v))}</tbody>
         <tfoot>
           <tr>
             <td>Total</td>
