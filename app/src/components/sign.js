@@ -5,6 +5,7 @@ import { graphql } from "gatsby"
 // import Image from "../components/image"
 // import SEO from "../components/seo"
 import BarChart from "./bar-chart"
+import SignlistIdBadge from "./signlist_id_badge"
 
 const SignPage = ({ data }) => {
   const stats = {
@@ -123,45 +124,36 @@ const SignPage = ({ data }) => {
     array.reduce((acc, next) => {
       return acc + parseInt(next.freq)
     }, 0)
+  const sign_value = value => {
+    return <span className="value">{value}</span>
+  }
   return (
     <Layout>
       {/* <SEO title="Home" /> */}
       <pre>{JSON.stringify(data)}</pre>
       <div className="results-card">
         <h3 className="results-card-header">
-          <a href="/signs/495">É</a>
+          <a href="/signs/495">{data.sign.borger_name}</a>
         </h3>
         <div className="results-card-sign">
           <span className="cuneiform">𒂍</span>
         </div>
         <div className="results-card-values">
-          <span className="value">ʾa3</span>
-          <span className="value">aʾ3</span>
-          <span className="value">a14</span>
-          <span className="value">bītu</span>
-          <span className="value">bed</span>
-          <span className="value">bet</span>
-          <span className="value">betu</span>
-          <span className="value">bid</span>
-          <span className="value">bit</span>
-          <span className="value">biti</span>
-          <span className="value">bitu</span>
-          <span className="value">biṭ</span>
-          <span className="value">e2</span>
-          <span className="value">eʾ3</span>
-          <span className="value">iski</span>
-          <span className="value">pet</span>
-          <span className="value">pid</span>
-          <span className="value">pit</span>
-          <span className="value">piṭ</span>
+          {data.sign.values.map(v => sign_value(v))}
         </div>
         <div className="results-card-list-ids">
-          <span className="signlist-id-badge">Borger: 495</span>
-          <span className="signlist-id-badge">Labat: 324</span>
-          <span className="signlist-id-badge">Huehnergard: 78</span>
-          <span className="signlist-id-badge">Deimel: 324</span>
-          <span className="signlist-id-badge">Mittermayer: 107</span>
-          <span className="signlist-id-badge">Heth ZL: 199</span>
+          <SignlistIdBadge signlist="Borger" list_id={data.sign.borger_id} />
+          <SignlistIdBadge signlist="Labat" list_id={data.sign.labat_id} />
+          <SignlistIdBadge
+            signlist="Heuhnergard"
+            list_id={data.sign.huehnergard_id}
+          />
+          <SignlistIdBadge signlist="Deimel" list_id={data.sign.deimel_id} />
+          <SignlistIdBadge
+            signlist="Mittermeyer"
+            list_id={data.sign.mittermayer_id}
+          />
+          <SignlistIdBadge signlist="Heth Zl" list_id={data.sign.hethzl_id} />
         </div>
       </div>
       <div className="stats">
@@ -203,13 +195,16 @@ export default SignPage
 
 export const query = graphql`
   query Page($borger_id: Int) {
-    page: signsJson(borger_id: { eq: $borger_id }) {
-      borger_id
+    sign: signsJson(borger_id: { eq: $borger_id }) {
+      borger_name
       oracc_name
-      # next
-      # prev
-      # emory_page
-      # img_crop
+      values
+      borger_id
+      labat_id
+      huehnergard_id
+      mittermayer_id
+      hethzl_id
+      deimel_id
     }
   }
 `
