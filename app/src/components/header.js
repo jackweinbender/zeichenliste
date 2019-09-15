@@ -4,8 +4,8 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <form className="search-box" action="/" method="GET">
-      <input type="text" name="search"/>
-      <button type="submit">Search&nbsp;»</button>
+    <input type="text" name="search" />
+    <button type="submit">Search&nbsp;»</button>
   </form>
 )
 

@@ -1,33 +1,38 @@
 /* * {box-sizing: border-box;} */
 :root {
   --blue: #1f3044;
-  --orange:hsl(27, 96%, 60%);
-  --light-orange:hsl(27, 96%, 70%);
-  --light-gray:#8e96a3;
-  --gray:#646c79;
+  --orange: hsl(27, 96%, 60%);
+  --light-orange: hsl(27, 96%, 70%);
+  --light-gray: #8e96a3;
+  --gray: #646c79;
   --dark-gray: #252525;
 }
 
 /* Noto Sans Cuneiform (Cuneiform) http://www.google.com/fonts/earlyaccess */
 @font-face {
-  font-family: 'Noto Sans Cuneiform';
+  font-family: "Noto Sans Cuneiform";
   font-style: normal;
   font-weight: 400;
   src: url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.eot);
-  src: url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.eot?#iefix) format('embedded-opentype'),
-       url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff2) format('woff2'),
-       url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff) format('woff'),
-       url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.ttf) format('truetype');
+  src: url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.eot?#iefix)
+      format("embedded-opentype"),
+    url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff2)
+      format("woff2"),
+    url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.woff)
+      format("woff"),
+    url(//fonts.gstatic.com/ea/notosanscuneiform/v1/NotoSansCuneiform-Regular.ttf)
+      format("truetype");
 }
 
 .cuneiform {
-  font-family: 'Noto Sans Cuneiform', sans-serif;
+  font-family: "Noto Sans Cuneiform", sans-serif;
   font-size: 2.25rem;
 }
 
 html {
-  color:var(--dark-gray);
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: var(--dark-gray);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 a {
   color: var(--blue);
@@ -35,14 +40,14 @@ a {
   text-decoration-style: double;
 }
 
-a:hover{
+a:hover {
   background-color: var(--light-orange);
   text-decoration-color: var(--blue);
 }
 
 .search-box {
   background-color: var(--blue);
-  border-bottom:solid 1px #ddd;
+  border-bottom: solid 1px #ddd;
   padding: 1rem;
   display: flex;
   justify-content: center;
@@ -56,11 +61,11 @@ a:hover{
   min-width: 10rem;
   flex: 4;
   max-width: 20rem;
-  margin-right:0.5rem;
+  margin-right: 0.5rem;
 }
 
 .search-box button {
-  background-color:white;
+  background-color: white;
   flex: 1;
   max-width: 8rem;
 }
@@ -68,7 +73,7 @@ a:hover{
 .content {
   padding: 1rem;
   margin: auto;
-  max-width:66rem;
+  max-width: 66rem;
 }
 
 .title {
@@ -81,9 +86,9 @@ a:hover{
 
 .results-card {
   text-align: center;
-  padding:0.5rem 0;
+  padding: 0.5rem 0;
   background: #eee;
-  border:solid 1px #ddd;
+  border: solid 1px #ddd;
   margin: 0.5rem 0;
 }
 
@@ -96,7 +101,7 @@ a:hover{
   font-size: 1.21rem;
   margin-bottom: 0.5rem;
   text-align: left;
-  padding:0.5rem 0.5rem 0.5rem 1rem;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
   background-color: white;
   border-bottom: solid 1px #ccc;
   border-top: solid 1px #ccc;
@@ -112,7 +117,7 @@ a:hover{
 
 .results-card-list-ids {
   font-size: 0.85rem;
-  display:  flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-content: flex-end;
@@ -122,83 +127,94 @@ a:hover{
   margin: 0.25rem;
   background-color: var(--blue);
   border-radius: 0.25rem;
-  padding:0.25rem 0.5rem;
+  padding: 0.25rem 0.5rem;
 }
 
 @media only screen and (min-width: 600px) {
   .cuneiform {
-      font-size: 4rem;
+    font-size: 4rem;
   }
   .results-card {
-      padding-top:1rem;
-      text-align: left;
-      display: grid;
-      grid-template-columns: auto 1fr;
-      grid-template-areas: "sign header"
-                           "sign values"
-                           "sign ids";
+    padding-top: 1rem;
+    text-align: left;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas:
+      "sign header"
+      "sign values"
+      "sign ids";
   }
   .results-card-sign {
-      margin-right: auto;
-      text-align: center;
-      grid-area: sign;
-      min-width: 10rem;
-      padding-right:1rem;
+    margin-right: auto;
+    text-align: center;
+    grid-area: sign;
+    min-width: 10rem;
+    padding-right: 1rem;
   }
-  .results-card-header{
-      grid-area: header;
+  .results-card-header {
+    grid-area: header;
   }
   .results-card-values {
-      margin-right:1rem;
-      grid-area: values;
-      border-radius: 0.25rem;
-      border: solid 1px #ccc;
+    margin-right: 1rem;
+    grid-area: values;
+    border-radius: 0.25rem;
+    border: solid 1px #ccc;
   }
   .results-card-list-ids {
-      grid-area: ids;
-      justify-content: left;
+    grid-area: ids;
+    justify-content: left;
   }
-  .stats-row { display:flex; }
-  .stats-section { margin-left: 0.5rem; }
-  .stats-section:first-of-type { margin-left: 0rem; }
+  .stats-row {
+    display: flex;
+  }
+  .stats-section {
+    margin-left: 0.5rem;
+  }
+  .stats-section:first-of-type {
+    margin-left: 0rem;
+  }
 }
 
-.value{ white-space: nowrap; }
+.value {
+  white-space: nowrap;
+}
 .value:not(:last-child)::after {
-  content: '\00B7'
+  content: "\00B7";
 }
 
-.stats {}
-.stats-row {}
-.stats-section { 
-  width:100%;
+.stats {
+}
+.stats-row {
+}
+.stats-section {
+  width: 100%;
   margin-bottom: 1rem;
 }
-.stats h3{
+.stats h3 {
   display: block;
 }
-.stats table { 
-  width: 100%; 
+.stats table {
+  width: 100%;
   border: solid 1px #ddd;
   border-collapse: collapse;
 }
-.stats thead { 
+.stats thead {
   background-color: #eee;
   text-align: left;
   border-top: solid 1px var(--light-gray);
   border-bottom: solid 1px var(--light-gray);
 }
-.stats th { 
+.stats th {
   padding: 0.5rem 0.25rem;
   color: var(--dark-gray);
 }
-.stats tfoot { 
+.stats tfoot {
   border-top: solid 1px var(--light-gray);
   border-bottom: solid 1px var(--light-gray);
   font-weight: bold;
 }
-.stats
-.stats {}
+.stats .stats {
+}
 .stats tr:nth-of-type(2n) {
   background-color: #eee;
 }
@@ -206,23 +222,27 @@ a:hover{
   padding: 0.5rem;
 }
 
-.stats td:nth-of-type(2), .stats th:nth-of-type(2) {
+.stats td:nth-of-type(2),
+.stats th:nth-of-type(2) {
   text-align: right;
   /* width: 15%; */
 }
 
-.stats td:nth-of-type(3), .stats th:nth-of-type(3) {
+.stats td:nth-of-type(3),
+.stats th:nth-of-type(3) {
   width: 70%;
 }
 
 .stats .chart-bar {
-  height:1rem;
-  display:inline-block;
+  height: 1rem;
+  display: inline-block;
   background-color: var(--blue);
 }
 .stats .chart-bar-pct {
   font-size: 0.8rem;
-  color:var(--gray);
+  color: var(--gray);
   margin-bottom: 0.25rem;
 }
-.stats .chart-bar-pct::after{ content: '%'; }
+.stats .chart-bar-pct::after {
+  content: "%";
+}
