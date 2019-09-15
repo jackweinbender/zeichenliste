@@ -30,6 +30,10 @@ const Layout = ({ children }) => {
       <div className="content">
         <main>{children}</main>
       </div>
+      {/* Debugging */}
+      <hr />
+      <h3>Debug Data (layout.js)</h3>
+      <pre>{JSON.stringify(data, null, 2)}</pre>
     </div>
   )
 }

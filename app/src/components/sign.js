@@ -130,7 +130,6 @@ const SignPage = ({ data }) => {
   return (
     <Layout>
       {/* <SEO title="Home" /> */}
-      <pre>{JSON.stringify(data)}</pre>
       <div className="results-card">
         <h3 className="results-card-header">
           <a href={`/signs/${data.sign.borger_id}`}>{data.sign.borger_name}</a>
@@ -188,6 +187,10 @@ const SignPage = ({ data }) => {
           />
         </div>
       </div>
+      {/* Debugging */}
+      <hr />
+      <h3>Debug Data (sign.js)</h3>
+      <pre>{JSON.stringify(data, null, 2)}</pre>
     </Layout>
   )
 }
