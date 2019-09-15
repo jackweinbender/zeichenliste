@@ -1,11 +1,12 @@
 import React from "react"
 // import { Link } from "gatsby"
-import Layout from "../components/layout"
+import Layout from "./layout"
+import { graphql } from "gatsby"
 // import Image from "../components/image"
 // import SEO from "../components/seo"
-import BarChart from "../components/bar-chart"
+import BarChart from "./bar-chart"
 
-const SignPage = () => {
+const SignPage = ({ data }) => {
   const stats = {
     ob: [
       {
@@ -125,6 +126,7 @@ const SignPage = () => {
   return (
     <Layout>
       {/* <SEO title="Home" /> */}
+      <pre>{JSON.stringify(data)}</pre>
       <div className="results-card">
         <h3 className="results-card-header">
           <a href="/signs/495">É</a>
@@ -198,3 +200,16 @@ const SignPage = () => {
   )
 }
 export default SignPage
+
+export const query = graphql`
+  query Page($borger_id: Int) {
+    page: signsJson(borger_id: { eq: $borger_id }) {
+      borger_id
+      oracc_name
+      # next
+      # prev
+      # emory_page
+      # img_crop
+    }
+  }
+`
