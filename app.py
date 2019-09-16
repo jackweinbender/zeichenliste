@@ -60,10 +60,22 @@ def sign(sign_id):
 
     if sign:
 
-        ebla_stat   = list(map(cast_freq_to_int, stats_eb[sign_id]))
-        na_stat     = list(map(cast_freq_to_int, stats_na[sign_id]))
-        nb_stat     = list(map(cast_freq_to_int, stats_nb[sign_id]))
-        ob_stat     = list(map(cast_freq_to_int, stats_ob[sign_id]))
+        if sign_id in stats_eb:
+            ebla_stat = list(map(cast_freq_to_int, stats_eb[sign_id]))
+        else:
+            ebla_stat = [{"freq": 1, "type": "undefined", "value": "–"}]
+        if sign_id in stats_na:
+            na_stat = list(map(cast_freq_to_int, stats_na[sign_id]))
+        else:
+            na_stat = [{"freq": 1, "type": "undefined", "value": "–"}]
+        if sign_id in stats_nb:
+            nb_stat = list(map(cast_freq_to_int, stats_nb[sign_id]))
+        else:
+            nb_stat = [{"freq": 1, "type": "undefined", "value": "–"}]
+        if sign_id in stats_ob:
+            ob_stat = list(map(cast_freq_to_int, stats_ob[sign_id]))
+        else:
+            ob_stat = [{"freq": 1, "type": "undefined", "value": "–"}]
 
 
         ebla_total  = sum([f['freq'] for f in ebla_stat])

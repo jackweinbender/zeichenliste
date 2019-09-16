@@ -54,7 +54,11 @@ for row in rows:
     borger = row['gsx$borger']['$t']
 
     # Serialize the row as a Sign Object
-    sign = Sign.from_sheets_row(row)
+    # 90 signs are not working, hence the try
+    try:
+        sign = Sign.from_sheets_row(row)
+    except:
+        pass
 
     # Get values from lookup_values and normalize them
     # Add the oracc name
