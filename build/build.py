@@ -119,9 +119,9 @@ def split_ogsl_into_signs(file):
         all_signs_formatted.append(format_signs(sign))
 
     # Dump all signs as json
-    #path = os.path.dirname(os.path.dirname(__file__)) + '/data/ogsl.json'
-    #with open(path, 'w') as outfile:
-    #    json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)
+    path = os.path.dirname(os.path.dirname(__file__)) + '/data/ogsl.json'
+    with open(path, 'w') as outfile:
+        json.dump(all_signs_formatted, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
 def format_signs(sign_as_list):
 
