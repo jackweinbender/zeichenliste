@@ -151,7 +151,10 @@ def format_signs(sign_as_list):
             m = re.search("\d", value)
             list_name = value[0:m.start()]
             list_val = value[m.start():]
-            sign['sign_lists'].append({list_name:list_val})
+            num_main = ''.join(v for v in list_val if v.isdigit())
+            num_sub = list_val[len(num_main):]
+            print(value, num_main, num_sub)
+            sign['sign_lists'].append({list_name:{'number':int(num_main), 'sub_number':num_sub}})
         elif key == '@v': sign['values'].append(value)
         elif key == '@v?': sign['values_insecure'].append(value)
         elif key == '@v-': sign['values_abandoned'].append(value)
