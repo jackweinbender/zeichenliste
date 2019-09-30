@@ -1,12 +1,12 @@
 import React from "react"
 
 export default ({ title, stats, total }) => {
-  const val = value => {
-    const pct = Math.floor((value.freq / total) * 100)
+  const val = ({ node }) => {
+    const pct = Math.floor((node.freq / total) * 100)
     return (
       <tr>
-        <td>{value.value}</td>
-        <td>{value.freq}</td>
+        <td>{node.value}</td>
+        <td>{node.freq}</td>
         <td>
           <span class="chart-bar" style={{ width: `${pct * 0.8}%` }}>
             &nbsp;
@@ -28,7 +28,7 @@ export default ({ title, stats, total }) => {
             <th></th>
           </tr>
         </thead>
-        <tbody>{stats.sort((a, b) => b.freq - a.freq).map(v => val(v))}</tbody>
+        <tbody>{stats.sort((a, b) => b.node.freq - a.node.freq).map(v => val(v))}</tbody>
         <tfoot>
           <tr>
             <td>Total</td>
