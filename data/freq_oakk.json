@@ -1,0 +1,1213 @@
+[
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "an",
+    "borger_id": 10,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "il3",
+    "borger_id": 10,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "na",
+    "borger_id": 110,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ru",
+    "borger_id": 111,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "nu",
+    "borger_id": 112,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "di3",
+    "borger_id": 118,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ti",
+    "borger_id": 118,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "maš",
+    "borger_id": 120,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "bar",
+    "borger_id": 121,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ag",
+    "borger_id": 127,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ak",
+    "borger_id": 127,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "aq",
+    "borger_id": 127,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "hu",
+    "borger_id": 132,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "nam",
+    "borger_id": 134,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ig",
+    "borger_id": 136,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ik",
+    "borger_id": 136,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "iq",
+    "borger_id": 136,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ba",
+    "borger_id": 14,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pa2",
+    "borger_id": 14,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "zi",
+    "borger_id": 140,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ke2",
+    "borger_id": 141,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ki2",
+    "borger_id": 141,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qe3",
+    "borger_id": 141,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "re",
+    "borger_id": 142,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qab2",
+    "borger_id": 148,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "zu",
+    "borger_id": 15,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "su",
+    "borger_id": 16,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dim",
+    "borger_id": 167,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tim",
+    "borger_id": 167,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sa",
+    "borger_id": 172,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ir3",
+    "borger_id": 18,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "si",
+    "borger_id": 181,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dar",
+    "borger_id": 183,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tar2",
+    "borger_id": 183,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sag",
+    "borger_id": 184,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tag",
+    "borger_id": 221,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sum6",
+    "borger_id": 221,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ab",
+    "borger_id": 223,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ap",
+    "borger_id": 223,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "eš3",
+    "borger_id": 223,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "um",
+    "borger_id": 238,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dub",
+    "borger_id": 242,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ṭup",
+    "borger_id": 242,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ad",
+    "borger_id": 258,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "at",
+    "borger_id": 258,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ze2",
+    "borger_id": 259,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "in",
+    "borger_id": 261,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ug",
+    "borger_id": 296,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "uk",
+    "borger_id": 296,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "uq",
+    "borger_id": 296,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "az",
+    "borger_id": 297,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "gab",
+    "borger_id": 298,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "am",
+    "borger_id": 309,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "bil2",
+    "borger_id": 312,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pil2",
+    "borger_id": 312,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "bi2",
+    "borger_id": 313,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pil",
+    "borger_id": 313,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "te4",
+    "borger_id": 313,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "kum",
+    "borger_id": 339,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "il",
+    "borger_id": 348,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "du",
+    "borger_id": 350,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ṭu3",
+    "borger_id": 350,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dum",
+    "borger_id": 354,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tum",
+    "borger_id": 354,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ri",
+    "borger_id": 354,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "is2",
+    "borger_id": 357,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "be2",
+    "borger_id": 358,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pe2",
+    "borger_id": 358,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ni",
+    "borger_id": 380,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "li2",
+    "borger_id": 380,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "i3",
+    "borger_id": 380,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "us2",
+    "borger_id": 381,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ir",
+    "borger_id": 437,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tag2",
+    "borger_id": 438,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pa",
+    "borger_id": 464,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "iz",
+    "borger_id": 469,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "al",
+    "borger_id": 474,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "u2",
+    "borger_id": 490,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ga",
+    "borger_id": 491,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ka3",
+    "borger_id": 491,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qa2",
+    "borger_id": 491,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "bit",
+    "borger_id": 495,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "e2",
+    "borger_id": 495,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "e",
+    "borger_id": 498,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "un",
+    "borger_id": 501,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ub",
+    "borger_id": 504,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "up",
+    "borger_id": 504,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ki8",
+    "borger_id": 507,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qi4",
+    "borger_id": 507,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ra",
+    "borger_id": 511,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lu2",
+    "borger_id": 514,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ses",
+    "borger_id": 535,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sar",
+    "borger_id": 541,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qar",
+    "borger_id": 543,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "as2",
+    "borger_id": 548,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "aš2",
+    "borger_id": 548,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ma",
+    "borger_id": 552,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "gal",
+    "borger_id": 553,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "kir",
+    "borger_id": 558,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qir",
+    "borger_id": 558,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "id",
+    "borger_id": 560,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "it",
+    "borger_id": 560,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "a2",
+    "borger_id": 560,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "da",
+    "borger_id": 561,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ta2",
+    "borger_id": 561,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ša",
+    "borger_id": 566,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "šu",
+    "borger_id": 567,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "bu",
+    "borger_id": 580,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "pu",
+    "borger_id": 580,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "uz",
+    "borger_id": 583,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "te",
+    "borger_id": 589,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ud",
+    "borger_id": 596,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ut",
+    "borger_id": 596,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lah",
+    "borger_id": 596,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "wa",
+    "borger_id": 598,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "uh2",
+    "borger_id": 611,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "hi",
+    "borger_id": 631,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ah",
+    "borger_id": 636,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ih",
+    "borger_id": 636,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "uh",
+    "borger_id": 636,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "kam",
+    "borger_id": 640,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "im",
+    "borger_id": 641,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "hur",
+    "borger_id": 644,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "rim2",
+    "borger_id": 672,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "mi",
+    "borger_id": 681,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "kul2",
+    "borger_id": 682,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dim2",
+    "borger_id": 686,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "kim",
+    "borger_id": 686,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "nim",
+    "borger_id": 690,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lam",
+    "borger_id": 693,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ri2",
+    "borger_id": 71,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ru9",
+    "borger_id": 71,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lim",
+    "borger_id": 724,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ši",
+    "borger_id": 724,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ar",
+    "borger_id": 726,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "u3",
+    "borger_id": 731,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sa2",
+    "borger_id": 736,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ki",
+    "borger_id": 737,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qi2",
+    "borger_id": 737,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "la2",
+    "borger_id": 750,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "me",
+    "borger_id": 753,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "mi3",
+    "borger_id": 753,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ib",
+    "borger_id": 807,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ip",
+    "borger_id": 807,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "gu5",
+    "borger_id": 808,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ku",
+    "borger_id": 808,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qu2",
+    "borger_id": 808,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lu",
+    "borger_id": 812,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lik",
+    "borger_id": 828,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "lig",
+    "borger_id": 828,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "liq",
+    "borger_id": 828,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ur",
+    "borger_id": 828,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "a",
+    "borger_id": 839,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "le",
+    "borger_id": 85,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "li",
+    "borger_id": 85,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "za",
+    "borger_id": 851,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ha",
+    "borger_id": 856,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "du2",
+    "borger_id": 86,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "tu",
+    "borger_id": 86,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ṭu2",
+    "borger_id": 86,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "mim",
+    "borger_id": 883,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "sal",
+    "borger_id": 883,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "zum",
+    "borger_id": 884,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dam",
+    "borger_id": 889,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "dam",
+    "borger_id": 889,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "la",
+    "borger_id": 89,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "gu",
+    "borger_id": 891,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "ku8",
+    "borger_id": 891,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "qu3",
+    "borger_id": 891,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "el",
+    "borger_id": 899,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "num2",
+    "borger_id": 900,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "mah",
+    "borger_id": 91,
+    "corpus": "oakk"
+  },
+  {
+    "freq": 1,
+    "type": "Syllabogram",
+    "value": "mu",
+    "borger_id": 98,
+    "corpus": "oakk"
+  }
+]

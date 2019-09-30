@@ -9,120 +9,15 @@ import SignlistIdBadge from "./signlist_id_badge"
 
 const SignPage = ({ data }) => {
   const stats = {
-    ob: [
-      {
-        freq: "215",
-        type: "Logogram",
-        value: "E2",
-      },
-    ],
-    nb: [
-      {
-        freq: "14",
-        type: "Syllabogram",
-        value: "pit",
-      },
-      {
-        freq: "46",
-        type: "Syllabogram",
-        value: "bit",
-      },
-      {
-        freq: "2",
-        type: "Syllabogram",
-        value: "e2",
-      },
-      {
-        freq: "6",
-        type: "Syllabogram",
-        value: "bet",
-      },
-      {
-        freq: "2",
-        type: "Syllabogram",
-        value: "pet",
-      },
-      {
-        freq: "26",
-        type: "Determinative",
-        value: "E2",
-      },
-    ],
-    na: [
-      {
-        freq: "20",
-        type: "Syllabogram",
-        value: "pit",
-      },
-      {
-        freq: "122",
-        type: "Syllabogram",
-        value: "bit",
-      },
-      {
-        freq: "14",
-        type: "Syllabogram",
-        value: "pet",
-      },
-      {
-        freq: "4",
-        type: "Syllabogram",
-        value: "e2",
-      },
-      {
-        freq: "2",
-        type: "Syllabogram",
-        value: "bid",
-      },
-      {
-        freq: "4",
-        type: "Syllabogram",
-        value: "bet",
-      },
-      {
-        freq: "34",
-        type: "Determinative",
-        value: "E2",
-      },
-    ],
-    ebla: [
-      {
-        freq: "6400",
-        type: "Syllabogram",
-        value: "ʾa3",
-      },
-      {
-        freq: "115",
-        type: "undefined",
-        value: "E2",
-      },
-      {
-        freq: "6",
-        type: "Logogram",
-        value: "ʾA3",
-      },
-      {
-        freq: "3",
-        type: "Syllabogram",
-        value: "e2",
-      },
-    ],
-    oakk: [
-      {
-        freq: 1,
-        type: "Syllabogram",
-        value: "bit",
-      },
-      {
-        freq: 1,
-        type: "Syllabogram",
-        value: "e2",
-      },
-    ],
+    ob: data.freq_ob.edges,
+    nb: data.freq_nb.edges,
+    na: data.freq_na.edges,
+    ebla: data.freq_ebla.edges,
+    oakk: data.freq_oakk.edges,
   }
   const total = array =>
-    array.reduce((acc, next) => {
-      return acc + parseInt(next.freq)
+    array.reduce((acc, {node}) => {
+      return acc + parseInt(node.freq)
     }, 0)
   const sign_value = value => {
     return <span className="value">{value}</span>
@@ -209,6 +104,66 @@ export const query = graphql`
       mittermayer_id
       hethzl_id
       deimel_id
+    }
+    freq_ob: allFreqObJson(filter: { borger_id: { eq: $borger_id } }) {
+      edges {
+        node {
+          id
+          freq
+          type
+          value
+          corpus
+          borger_id
+        }
+      }
+    }
+    freq_na: allFreqNaJson(filter: { borger_id: { eq: $borger_id } }) {
+      edges {
+        node {
+          id
+          freq
+          type
+          value
+          corpus
+          borger_id
+        }
+      }
+    }
+    freq_nb: allFreqNbJson(filter: { borger_id: { eq: $borger_id } }) {
+      edges {
+        node {
+          id
+          freq
+          type
+          value
+          corpus
+          borger_id
+        }
+      }
+    }
+    freq_oakk: allFreqOakkJson(filter: { borger_id: { eq: $borger_id } }) {
+      edges {
+        node {
+          id
+          freq
+          type
+          value
+          corpus
+          borger_id
+        }
+      }
+    }
+    freq_ebla: allFreqEblaJson(filter: { borger_id: { eq: $borger_id } }) {
+      edges {
+        node {
+          id
+          freq
+          type
+          value
+          corpus
+          borger_id
+        }
+      }
     }
   }
 `

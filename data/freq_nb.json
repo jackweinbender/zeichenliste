@@ -1,0 +1,4223 @@
+[
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "del",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Syllabogram",
+    "value": "dil",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 216,
+    "type": "Syllabogram",
+    "value": "aš",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1544,
+    "type": "Syllabogram",
+    "value": "ina",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "rum",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "AŠ",
+    "borger_id": 1,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1202,
+    "type": "Syllabogram",
+    "value": "an",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2530,
+    "type": "Syllabogram",
+    "value": "d",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "il3",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "der",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 252,
+    "type": "Logogram",
+    "value": "AN",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 534,
+    "type": "Logogram",
+    "value": "DINGIR",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2368,
+    "type": "Determinative",
+    "value": "D",
+    "borger_id": 10,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6958,
+    "type": "Syllabogram",
+    "value": "na",
+    "borger_id": 110,
+    "corpus": "nb"
+  },
+  {
+    "freq": 252,
+    "type": "Logogram",
+    "value": "NA",
+    "borger_id": 110,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "šub",
+    "borger_id": 111,
+    "corpus": "nb"
+  },
+  {
+    "freq": 40,
+    "type": "Syllabogram",
+    "value": "šup",
+    "borger_id": 111,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1324,
+    "type": "Syllabogram",
+    "value": "ru",
+    "borger_id": 111,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "ŠUB",
+    "borger_id": 111,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2596,
+    "type": "Syllabogram",
+    "value": "nu",
+    "borger_id": 112,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "la3",
+    "borger_id": 112,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Logogram",
+    "value": "NU",
+    "borger_id": 112,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "pid2",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 174,
+    "type": "Syllabogram",
+    "value": "bat",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "pit2",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "ziz",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "bit2",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2494,
+    "type": "Syllabogram",
+    "value": "be",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "mit",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "BAD",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Logogram",
+    "value": "BE",
+    "borger_id": 113,
+    "corpus": "nb"
+  },
+  {
+    "freq": 28,
+    "type": "Syllabogram",
+    "value": "kul",
+    "borger_id": 117,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "zer",
+    "borger_id": 117,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "zir",
+    "borger_id": 117,
+    "corpus": "nb"
+  },
+  {
+    "freq": 102,
+    "type": "Logogram",
+    "value": "NUMUN",
+    "borger_id": 117,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1982,
+    "type": "Syllabogram",
+    "value": "ti",
+    "borger_id": 118,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "TI",
+    "borger_id": 118,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "den",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ṭin",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Syllabogram",
+    "value": "tin",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 192,
+    "type": "Syllabogram",
+    "value": "din",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 556,
+    "type": "Logogram",
+    "value": "TIN",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "DIN",
+    "borger_id": 119,
+    "corpus": "nb"
+  },
+  {
+    "freq": 106,
+    "type": "Syllabogram",
+    "value": "maš",
+    "borger_id": 120,
+    "corpus": "nb"
+  },
+  {
+    "freq": 28,
+    "type": "Syllabogram",
+    "value": "mas",
+    "borger_id": 120,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Logogram",
+    "value": "MAŠ",
+    "borger_id": 120,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Syllabogram",
+    "value": "bar",
+    "borger_id": 121,
+    "corpus": "nb"
+  },
+  {
+    "freq": 86,
+    "type": "Logogram",
+    "value": "BAR",
+    "borger_id": 121,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ban2",
+    "borger_id": 122,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "BAN2",
+    "borger_id": 122,
+    "corpus": "nb"
+  },
+  {
+    "freq": 72,
+    "type": "Syllabogram",
+    "value": "aq",
+    "borger_id": 127,
+    "corpus": "nb"
+  },
+  {
+    "freq": 104,
+    "type": "Syllabogram",
+    "value": "ak",
+    "borger_id": 127,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "ag",
+    "borger_id": 127,
+    "corpus": "nb"
+  },
+  {
+    "freq": 690,
+    "type": "Logogram",
+    "value": "AG",
+    "borger_id": 127,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "MAŠ2",
+    "borger_id": 130,
+    "corpus": "nb"
+  },
+  {
+    "freq": 82,
+    "type": "Syllabogram",
+    "value": "kun",
+    "borger_id": 131,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "KUN",
+    "borger_id": 131,
+    "corpus": "nb"
+  },
+  {
+    "freq": 248,
+    "type": "Syllabogram",
+    "value": "hu",
+    "borger_id": 132,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Syllabogram",
+    "value": "bak",
+    "borger_id": 132,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "pak",
+    "borger_id": 132,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "paq",
+    "borger_id": 132,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Determinative",
+    "value": "MUŠEN",
+    "borger_id": 132,
+    "corpus": "nb"
+  },
+  {
+    "freq": 230,
+    "type": "Syllabogram",
+    "value": "nam",
+    "borger_id": 134,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Logogram",
+    "value": "NAM",
+    "borger_id": 134,
+    "corpus": "nb"
+  },
+  {
+    "freq": 302,
+    "type": "Syllabogram",
+    "value": "iq",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "eq",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "ig",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "ek",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 148,
+    "type": "Syllabogram",
+    "value": "ik",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "IG",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 40,
+    "type": "Logogram",
+    "value": "GAL2",
+    "borger_id": 136,
+    "corpus": "nb"
+  },
+  {
+    "freq": 932,
+    "type": "Syllabogram",
+    "value": "ba",
+    "borger_id": 14,
+    "corpus": "nb"
+  },
+  {
+    "freq": 84,
+    "type": "Logogram",
+    "value": "BA",
+    "borger_id": 14,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "ze",
+    "borger_id": 140,
+    "corpus": "nb"
+  },
+  {
+    "freq": 106,
+    "type": "Syllabogram",
+    "value": "zi",
+    "borger_id": 140,
+    "corpus": "nb"
+  },
+  {
+    "freq": 124,
+    "type": "Logogram",
+    "value": "ZI",
+    "borger_id": 140,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ge",
+    "borger_id": 141,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Syllabogram",
+    "value": "gi",
+    "borger_id": 141,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Determinative",
+    "value": "GI",
+    "borger_id": 141,
+    "corpus": "nb"
+  },
+  {
+    "freq": 182,
+    "type": "Syllabogram",
+    "value": "tal",
+    "borger_id": 142,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "dal",
+    "borger_id": 142,
+    "corpus": "nb"
+  },
+  {
+    "freq": 166,
+    "type": "Syllabogram",
+    "value": "re",
+    "borger_id": 142,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Syllabogram",
+    "value": "ṣil",
+    "borger_id": 143,
+    "corpus": "nb"
+  },
+  {
+    "freq": 174,
+    "type": "Logogram",
+    "value": "NUN",
+    "borger_id": 143,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "kap",
+    "borger_id": 148,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "kab",
+    "borger_id": 148,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "KAB",
+    "borger_id": 148,
+    "corpus": "nb"
+  },
+  {
+    "freq": 84,
+    "type": "Syllabogram",
+    "value": "zu",
+    "borger_id": 15,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "su2",
+    "borger_id": 15,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "ZU",
+    "borger_id": 15,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "INNIN",
+    "borger_id": 153,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "qad3",
+    "borger_id": 157,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "kad",
+    "borger_id": 157,
+    "corpus": "nb"
+  },
+  {
+    "freq": 492,
+    "type": "Syllabogram",
+    "value": "su",
+    "borger_id": 16,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Determinative",
+    "value": "KUŠ",
+    "borger_id": 16,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Logogram",
+    "value": "SU",
+    "borger_id": 16,
+    "corpus": "nb"
+  },
+  {
+    "freq": 506,
+    "type": "Syllabogram",
+    "value": "en",
+    "borger_id": 164,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2120,
+    "type": "Logogram",
+    "value": "EN",
+    "borger_id": 164,
+    "corpus": "nb"
+  },
+  {
+    "freq": 88,
+    "type": "Syllabogram",
+    "value": "tim",
+    "borger_id": 167,
+    "corpus": "nb"
+  },
+  {
+    "freq": 34,
+    "type": "Logogram",
+    "value": "TIM",
+    "borger_id": 167,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "DIM",
+    "borger_id": 167,
+    "corpus": "nb"
+  },
+  {
+    "freq": 186,
+    "type": "Syllabogram",
+    "value": "sa",
+    "borger_id": 172,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Logogram",
+    "value": "GU2",
+    "borger_id": 176,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "ṭur",
+    "borger_id": 178,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ir3",
+    "borger_id": 18,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Logogram",
+    "value": "NITA2",
+    "borger_id": 18,
+    "corpus": "nb"
+  },
+  {
+    "freq": 680,
+    "type": "Logogram",
+    "value": "ARAD",
+    "borger_id": 18,
+    "corpus": "nb"
+  },
+  {
+    "freq": 34,
+    "type": "Syllabogram",
+    "value": "qur",
+    "borger_id": 180,
+    "corpus": "nb"
+  },
+  {
+    "freq": 42,
+    "type": "Syllabogram",
+    "value": "gur",
+    "borger_id": 180,
+    "corpus": "nb"
+  },
+  {
+    "freq": 56,
+    "type": "Logogram",
+    "value": "GUR",
+    "borger_id": 180,
+    "corpus": "nb"
+  },
+  {
+    "freq": 192,
+    "type": "Syllabogram",
+    "value": "si",
+    "borger_id": 181,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "se",
+    "borger_id": 181,
+    "corpus": "nb"
+  },
+  {
+    "freq": 64,
+    "type": "Logogram",
+    "value": "SI",
+    "borger_id": 181,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "dar",
+    "borger_id": 183,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "šag",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "saq",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sak",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "sag",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "riš",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "reš",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "šaq",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ris",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 168,
+    "type": "Syllabogram",
+    "value": "šak",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 204,
+    "type": "Logogram",
+    "value": "SAG",
+    "borger_id": 184,
+    "corpus": "nb"
+  },
+  {
+    "freq": 90,
+    "type": "Determinative",
+    "value": "ITI",
+    "borger_id": 20,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "MA2",
+    "borger_id": 201,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "dab2",
+    "borger_id": 209,
+    "corpus": "nb"
+  },
+  {
+    "freq": 48,
+    "type": "Syllabogram",
+    "value": "tab",
+    "borger_id": 209,
+    "corpus": "nb"
+  },
+  {
+    "freq": 302,
+    "type": "Syllabogram",
+    "value": "tap",
+    "borger_id": 209,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "šum",
+    "borger_id": 221,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Syllabogram",
+    "value": "taq",
+    "borger_id": 221,
+    "corpus": "nb"
+  },
+  {
+    "freq": 122,
+    "type": "Syllabogram",
+    "value": "tak",
+    "borger_id": 221,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Logogram",
+    "value": "KA2",
+    "borger_id": 222,
+    "corpus": "nb"
+  },
+  {
+    "freq": 90,
+    "type": "Syllabogram",
+    "value": "ap",
+    "borger_id": 223,
+    "corpus": "nb"
+  },
+  {
+    "freq": 108,
+    "type": "Syllabogram",
+    "value": "ab",
+    "borger_id": 223,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Logogram",
+    "value": "AB",
+    "borger_id": 223,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "EŠ3",
+    "borger_id": 223,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1362,
+    "type": "Syllabogram",
+    "value": "um",
+    "borger_id": 238,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "UM",
+    "borger_id": 238,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1774,
+    "type": "Syllabogram",
+    "value": "ka",
+    "borger_id": 24,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Logogram",
+    "value": "KA",
+    "borger_id": 24,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "KIR4",
+    "borger_id": 24,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "ZU2",
+    "borger_id": 24,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "tup",
+    "borger_id": 242,
+    "corpus": "nb"
+  },
+  {
+    "freq": 96,
+    "type": "Syllabogram",
+    "value": "ṭup",
+    "borger_id": 242,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Logogram",
+    "value": "DUB",
+    "borger_id": 242,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1458,
+    "type": "Syllabogram",
+    "value": "ta",
+    "borger_id": 248,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "TA",
+    "borger_id": 248,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4542,
+    "type": "Syllabogram",
+    "value": "i",
+    "borger_id": 252,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "I",
+    "borger_id": 252,
+    "corpus": "nb"
+  },
+  {
+    "freq": 204,
+    "type": "Syllabogram",
+    "value": "kan",
+    "borger_id": 253,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "gan",
+    "borger_id": 253,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "GAN",
+    "borger_id": 253,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "HE2",
+    "borger_id": 253,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "tur",
+    "borger_id": 255,
+    "corpus": "nb"
+  },
+  {
+    "freq": 708,
+    "type": "Logogram",
+    "value": "DUMU",
+    "borger_id": 255,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "TUR",
+    "borger_id": 255,
+    "corpus": "nb"
+  },
+  {
+    "freq": 98,
+    "type": "Syllabogram",
+    "value": "ad",
+    "borger_id": 258,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "aṭ",
+    "borger_id": 258,
+    "corpus": "nb"
+  },
+  {
+    "freq": 260,
+    "type": "Syllabogram",
+    "value": "at",
+    "borger_id": 258,
+    "corpus": "nb"
+  },
+  {
+    "freq": 274,
+    "type": "Logogram",
+    "value": "AD",
+    "borger_id": 258,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Determinative",
+    "value": "AT",
+    "borger_id": 258,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Syllabogram",
+    "value": "ṣe",
+    "borger_id": 259,
+    "corpus": "nb"
+  },
+  {
+    "freq": 210,
+    "type": "Syllabogram",
+    "value": "ṣi",
+    "borger_id": 259,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2154,
+    "type": "Syllabogram",
+    "value": "ia",
+    "borger_id": 260,
+    "corpus": "nb"
+  },
+  {
+    "freq": 220,
+    "type": "Syllabogram",
+    "value": "in",
+    "borger_id": 261,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "IN",
+    "borger_id": 261,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4966,
+    "type": "Logogram",
+    "value": "LUGAL",
+    "borger_id": 266,
+    "corpus": "nb"
+  },
+  {
+    "freq": 76,
+    "type": "Logogram",
+    "value": "BAD3",
+    "borger_id": 275,
+    "corpus": "nb"
+  },
+  {
+    "freq": 62,
+    "type": "Syllabogram",
+    "value": "uk",
+    "borger_id": 296,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "ug",
+    "borger_id": 296,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "uq",
+    "borger_id": 296,
+    "corpus": "nb"
+  },
+  {
+    "freq": 64,
+    "type": "Syllabogram",
+    "value": "as",
+    "borger_id": 297,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Syllabogram",
+    "value": "az",
+    "borger_id": 297,
+    "corpus": "nb"
+  },
+  {
+    "freq": 216,
+    "type": "Syllabogram",
+    "value": "aṣ",
+    "borger_id": 297,
+    "corpus": "nb"
+  },
+  {
+    "freq": 242,
+    "type": "Syllabogram",
+    "value": "qab",
+    "borger_id": 298,
+    "corpus": "nb"
+  },
+  {
+    "freq": 226,
+    "type": "Syllabogram",
+    "value": "gab",
+    "borger_id": 298,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "GABA",
+    "borger_id": 298,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Logogram",
+    "value": "DU8",
+    "borger_id": 298,
+    "corpus": "nb"
+  },
+  {
+    "freq": 46,
+    "type": "Syllabogram",
+    "value": "hal",
+    "borger_id": 3,
+    "corpus": "nb"
+  },
+  {
+    "freq": 56,
+    "type": "Logogram",
+    "value": "HAL",
+    "borger_id": 3,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "ras",
+    "borger_id": 302,
+    "corpus": "nb"
+  },
+  {
+    "freq": 62,
+    "type": "Syllabogram",
+    "value": "raš",
+    "borger_id": 302,
+    "corpus": "nb"
+  },
+  {
+    "freq": 56,
+    "type": "Logogram",
+    "value": "KASKAL",
+    "borger_id": 302,
+    "corpus": "nb"
+  },
+  {
+    "freq": 284,
+    "type": "Syllabogram",
+    "value": "am",
+    "borger_id": 309,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Determinative",
+    "value": "UZU",
+    "borger_id": 311,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "bil2",
+    "borger_id": 312,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "ne",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 310,
+    "type": "Syllabogram",
+    "value": "ṭe3",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Syllabogram",
+    "value": "bil",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "bi2",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "pil",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "DE3",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "IZI",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Logogram",
+    "value": "NE",
+    "borger_id": 313,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "ŠAM2",
+    "borger_id": 333,
+    "corpus": "nb"
+  },
+  {
+    "freq": 312,
+    "type": "Syllabogram",
+    "value": "qu",
+    "borger_id": 339,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "UR2",
+    "borger_id": 341,
+    "corpus": "nb"
+  },
+  {
+    "freq": 672,
+    "type": "Syllabogram",
+    "value": "il",
+    "borger_id": 348,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "kub",
+    "borger_id": 350,
+    "corpus": "nb"
+  },
+  {
+    "freq": 762,
+    "type": "Syllabogram",
+    "value": "du",
+    "borger_id": 350,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "DU",
+    "borger_id": 350,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Logogram",
+    "value": "GUB",
+    "borger_id": 350,
+    "corpus": "nb"
+  },
+  {
+    "freq": 100,
+    "type": "Logogram",
+    "value": "GIN",
+    "borger_id": 350,
+    "corpus": "nb"
+  },
+  {
+    "freq": 96,
+    "type": "Determinative",
+    "value": "ANŠE",
+    "borger_id": 353,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Syllabogram",
+    "value": "tum",
+    "borger_id": 354,
+    "corpus": "nb"
+  },
+  {
+    "freq": 562,
+    "type": "Syllabogram",
+    "value": "ri",
+    "borger_id": 354,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "RI",
+    "borger_id": 354,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "mil",
+    "borger_id": 357,
+    "corpus": "nb"
+  },
+  {
+    "freq": 564,
+    "type": "Syllabogram",
+    "value": "iš",
+    "borger_id": 357,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "IŠ",
+    "borger_id": 357,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "pi2",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 38,
+    "type": "Syllabogram",
+    "value": "kaš",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "gaš",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "be2",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1678,
+    "type": "Syllabogram",
+    "value": "bi",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "KAŠ",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "BI",
+    "borger_id": 358,
+    "corpus": "nb"
+  },
+  {
+    "freq": 58,
+    "type": "Syllabogram",
+    "value": "šem",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sim",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "rig",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "šim",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "riq",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "rik",
+    "borger_id": 362,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "kib",
+    "borger_id": 378,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "kip",
+    "borger_id": 378,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "qip",
+    "borger_id": 378,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "KIB",
+    "borger_id": 378,
+    "corpus": "nb"
+  },
+  {
+    "freq": 40,
+    "type": "Syllabogram",
+    "value": "qaq",
+    "borger_id": 379,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "RU2",
+    "borger_id": 379,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "GAG",
+    "borger_id": 379,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Logogram",
+    "value": "DU3",
+    "borger_id": 379,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2972,
+    "type": "Syllabogram",
+    "value": "ni",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2436,
+    "type": "Syllabogram",
+    "value": "li2",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 98,
+    "type": "Syllabogram",
+    "value": "ne2",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 110,
+    "type": "Syllabogram",
+    "value": "ṣal",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "I3",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "NI",
+    "borger_id": 380,
+    "corpus": "nb"
+  },
+  {
+    "freq": 334,
+    "type": "Syllabogram",
+    "value": "uš",
+    "borger_id": 381,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "nit",
+    "borger_id": 381,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "nid",
+    "borger_id": 381,
+    "corpus": "nb"
+  },
+  {
+    "freq": 74,
+    "type": "Logogram",
+    "value": "UŠ",
+    "borger_id": 381,
+    "corpus": "nb"
+  },
+  {
+    "freq": 38,
+    "type": "Determinative",
+    "value": "NA4",
+    "borger_id": 385,
+    "corpus": "nb"
+  },
+  {
+    "freq": 28,
+    "type": "Syllabogram",
+    "value": "er",
+    "borger_id": 437,
+    "corpus": "nb"
+  },
+  {
+    "freq": 202,
+    "type": "Syllabogram",
+    "value": "ir",
+    "borger_id": 437,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "ER",
+    "borger_id": 437,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "daq",
+    "borger_id": 438,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "dag",
+    "borger_id": 438,
+    "corpus": "nb"
+  },
+  {
+    "freq": 78,
+    "type": "Syllabogram",
+    "value": "dak",
+    "borger_id": 438,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "hat",
+    "borger_id": 464,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1240,
+    "type": "Syllabogram",
+    "value": "pa",
+    "borger_id": 464,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "haṭ",
+    "borger_id": 464,
+    "corpus": "nb"
+  },
+  {
+    "freq": 120,
+    "type": "Logogram",
+    "value": "PA",
+    "borger_id": 464,
+    "corpus": "nb"
+  },
+  {
+    "freq": 78,
+    "type": "Logogram",
+    "value": "SIPA",
+    "borger_id": 468,
+    "corpus": "nb"
+  },
+  {
+    "freq": 88,
+    "type": "Syllabogram",
+    "value": "is",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "giš",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 138,
+    "type": "Syllabogram",
+    "value": "iṣ",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Syllabogram",
+    "value": "iz",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ez",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "es",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "eṣ",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 218,
+    "type": "Determinative",
+    "value": "GIŠ",
+    "borger_id": 469,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Determinative",
+    "value": "GUD",
+    "borger_id": 472,
+    "corpus": "nb"
+  },
+  {
+    "freq": 572,
+    "type": "Syllabogram",
+    "value": "al",
+    "borger_id": 474,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "AL",
+    "borger_id": 474,
+    "corpus": "nb"
+  },
+  {
+    "freq": 80,
+    "type": "Syllabogram",
+    "value": "mar",
+    "borger_id": 483,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "MAR",
+    "borger_id": 483,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "sah",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "qit",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Syllabogram",
+    "value": "kit",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Syllabogram",
+    "value": "qid",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "git",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ket",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 206,
+    "type": "Logogram",
+    "value": "LIL2",
+    "borger_id": 484,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "šid",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 164,
+    "type": "Syllabogram",
+    "value": "lak",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "laq",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "šet",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "šit",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "SANGA",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 30,
+    "type": "Logogram",
+    "value": "ŠID",
+    "borger_id": 485,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "šam",
+    "borger_id": 490,
+    "corpus": "nb"
+  },
+  {
+    "freq": 3428,
+    "type": "Syllabogram",
+    "value": "u2",
+    "borger_id": 490,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "KUŠ3",
+    "borger_id": 490,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Determinative",
+    "value": "U2",
+    "borger_id": 490,
+    "corpus": "nb"
+  },
+  {
+    "freq": 250,
+    "type": "Syllabogram",
+    "value": "ga",
+    "borger_id": 491,
+    "corpus": "nb"
+  },
+  {
+    "freq": 82,
+    "type": "Logogram",
+    "value": "GA",
+    "borger_id": 491,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "luh",
+    "borger_id": 494,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Syllabogram",
+    "value": "lah3",
+    "borger_id": 494,
+    "corpus": "nb"
+  },
+  {
+    "freq": 80,
+    "type": "Logogram",
+    "value": "SUKKAL",
+    "borger_id": 494,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "LUH",
+    "borger_id": 494,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "pit",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 46,
+    "type": "Syllabogram",
+    "value": "bit",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "e2",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "bet",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "pet",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Determinative",
+    "value": "E2",
+    "borger_id": 495,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "lip2",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "reb",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 124,
+    "type": "Syllabogram",
+    "value": "dan",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 104,
+    "type": "Syllabogram",
+    "value": "kal",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 52,
+    "type": "Syllabogram",
+    "value": "tan",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "rip",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "rib",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "lab",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Logogram",
+    "value": "KAL",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "KALAG",
+    "borger_id": 496,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1190,
+    "type": "Syllabogram",
+    "value": "e",
+    "borger_id": 498,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "E",
+    "borger_id": 498,
+    "corpus": "nb"
+  },
+  {
+    "freq": 130,
+    "type": "Syllabogram",
+    "value": "un",
+    "borger_id": 501,
+    "corpus": "nb"
+  },
+  {
+    "freq": 156,
+    "type": "Logogram",
+    "value": "UN",
+    "borger_id": 501,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "nir",
+    "borger_id": 502,
+    "corpus": "nb"
+  },
+  {
+    "freq": 108,
+    "type": "Syllabogram",
+    "value": "ar2",
+    "borger_id": 504,
+    "corpus": "nb"
+  },
+  {
+    "freq": 262,
+    "type": "Syllabogram",
+    "value": "ub",
+    "borger_id": 504,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Syllabogram",
+    "value": "up",
+    "borger_id": 504,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "GI4",
+    "borger_id": 507,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1064,
+    "type": "Syllabogram",
+    "value": "ra",
+    "borger_id": 511,
+    "corpus": "nb"
+  },
+  {
+    "freq": 114,
+    "type": "Logogram",
+    "value": "RA",
+    "borger_id": 511,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2346,
+    "type": "Determinative",
+    "value": "LU2",
+    "borger_id": 514,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "šeš",
+    "borger_id": 535,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "sis",
+    "borger_id": 535,
+    "corpus": "nb"
+  },
+  {
+    "freq": 386,
+    "type": "Logogram",
+    "value": "ŠEŠ",
+    "borger_id": 535,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "zaq",
+    "borger_id": 540,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "zak",
+    "borger_id": 540,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "ZAG",
+    "borger_id": 540,
+    "corpus": "nb"
+  },
+  {
+    "freq": 130,
+    "type": "Syllabogram",
+    "value": "šar",
+    "borger_id": 541,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sar",
+    "borger_id": 541,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Determinative",
+    "value": "SAR",
+    "borger_id": 541,
+    "corpus": "nb"
+  },
+  {
+    "freq": 78,
+    "type": "Syllabogram",
+    "value": "qar",
+    "borger_id": 543,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "QAR",
+    "borger_id": 543,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "MURUB4",
+    "borger_id": 545,
+    "corpus": "nb"
+  },
+  {
+    "freq": 606,
+    "type": "Syllabogram",
+    "value": "aš2",
+    "borger_id": 548,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "AŠ2",
+    "borger_id": 548,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4338,
+    "type": "Syllabogram",
+    "value": "ma",
+    "borger_id": 552,
+    "corpus": "nb"
+  },
+  {
+    "freq": 224,
+    "type": "Logogram",
+    "value": "MA",
+    "borger_id": 552,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "qal",
+    "borger_id": 553,
+    "corpus": "nb"
+  },
+  {
+    "freq": 40,
+    "type": "Syllabogram",
+    "value": "gal",
+    "borger_id": 553,
+    "corpus": "nb"
+  },
+  {
+    "freq": 454,
+    "type": "Logogram",
+    "value": "GAL",
+    "borger_id": 553,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Logogram",
+    "value": "BAR2",
+    "borger_id": 554,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Logogram",
+    "value": "BARAG",
+    "borger_id": 554,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "mer",
+    "borger_id": 556,
+    "corpus": "nb"
+  },
+  {
+    "freq": 36,
+    "type": "Syllabogram",
+    "value": "mir",
+    "borger_id": 556,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "AGA",
+    "borger_id": 556,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "qer",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "ger",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "pes",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "qir",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "kir",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "piš",
+    "borger_id": 558,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "bur",
+    "borger_id": 559,
+    "corpus": "nb"
+  },
+  {
+    "freq": 114,
+    "type": "Syllabogram",
+    "value": "pur",
+    "borger_id": 559,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "BUR",
+    "borger_id": 559,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Syllabogram",
+    "value": "et",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 908,
+    "type": "Syllabogram",
+    "value": "it",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "eṭ",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "ed",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 256,
+    "type": "Syllabogram",
+    "value": "id",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Syllabogram",
+    "value": "iṭ",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Logogram",
+    "value": "A2",
+    "borger_id": 560,
+    "corpus": "nb"
+  },
+  {
+    "freq": 624,
+    "type": "Syllabogram",
+    "value": "da",
+    "borger_id": 561,
+    "corpus": "nb"
+  },
+  {
+    "freq": 218,
+    "type": "Syllabogram",
+    "value": "ṭa",
+    "borger_id": 561,
+    "corpus": "nb"
+  },
+  {
+    "freq": 106,
+    "type": "Logogram",
+    "value": "DA",
+    "borger_id": 561,
+    "corpus": "nb"
+  },
+  {
+    "freq": 50,
+    "type": "Syllabogram",
+    "value": "ša",
+    "borger_id": 566,
+    "corpus": "nb"
+  },
+  {
+    "freq": 880,
+    "type": "Syllabogram",
+    "value": "šu",
+    "borger_id": 567,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "qad",
+    "borger_id": 567,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "qat",
+    "borger_id": 567,
+    "corpus": "nb"
+  },
+  {
+    "freq": 274,
+    "type": "Logogram",
+    "value": "ŠU",
+    "borger_id": 567,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "lat",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "kur",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 48,
+    "type": "Syllabogram",
+    "value": "laṭ",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 58,
+    "type": "Syllabogram",
+    "value": "šad",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sat",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sad",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "mad",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Syllabogram",
+    "value": "šaṭ",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "gin3",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 162,
+    "type": "Syllabogram",
+    "value": "mat",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 52,
+    "type": "Syllabogram",
+    "value": "šat",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "nat",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "GIN3",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 210,
+    "type": "Determinative",
+    "value": "KUR",
+    "borger_id": 578,
+    "corpus": "nb"
+  },
+  {
+    "freq": 252,
+    "type": "Syllabogram",
+    "value": "še",
+    "borger_id": 579,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Determinative",
+    "value": "ŠE",
+    "borger_id": 579,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sir2",
+    "borger_id": 580,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1454,
+    "type": "Syllabogram",
+    "value": "bu",
+    "borger_id": 580,
+    "corpus": "nb"
+  },
+  {
+    "freq": 842,
+    "type": "Syllabogram",
+    "value": "pu",
+    "borger_id": 580,
+    "corpus": "nb"
+  },
+  {
+    "freq": 50,
+    "type": "Logogram",
+    "value": "GID2",
+    "borger_id": 580,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "BU",
+    "borger_id": 580,
+    "corpus": "nb"
+  },
+  {
+    "freq": 168,
+    "type": "Syllabogram",
+    "value": "us",
+    "borger_id": 583,
+    "corpus": "nb"
+  },
+  {
+    "freq": 36,
+    "type": "Syllabogram",
+    "value": "uz",
+    "borger_id": 583,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Syllabogram",
+    "value": "uṣ",
+    "borger_id": 583,
+    "corpus": "nb"
+  },
+  {
+    "freq": 88,
+    "type": "Syllabogram",
+    "value": "ṣir",
+    "borger_id": 585,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "mus",
+    "borger_id": 585,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "muš",
+    "borger_id": 585,
+    "corpus": "nb"
+  },
+  {
+    "freq": 98,
+    "type": "Syllabogram",
+    "value": "tir",
+    "borger_id": 587,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Syllabogram",
+    "value": "ter",
+    "borger_id": 587,
+    "corpus": "nb"
+  },
+  {
+    "freq": 474,
+    "type": "Logogram",
+    "value": "TIR",
+    "borger_id": 587,
+    "corpus": "nb"
+  },
+  {
+    "freq": 536,
+    "type": "Syllabogram",
+    "value": "te",
+    "borger_id": 589,
+    "corpus": "nb"
+  },
+  {
+    "freq": 58,
+    "type": "Syllabogram",
+    "value": "kar",
+    "borger_id": 590,
+    "corpus": "nb"
+  },
+  {
+    "freq": 48,
+    "type": "Logogram",
+    "value": "KAR",
+    "borger_id": 590,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "lih",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "uṭ",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Syllabogram",
+    "value": "tam",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 140,
+    "type": "Syllabogram",
+    "value": "par",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 96,
+    "type": "Syllabogram",
+    "value": "ut",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 36,
+    "type": "Syllabogram",
+    "value": "ud",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 124,
+    "type": "Syllabogram",
+    "value": "pir",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 262,
+    "type": "Syllabogram",
+    "value": "tu2",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 516,
+    "type": "Logogram",
+    "value": "UD",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 30,
+    "type": "Logogram",
+    "value": "TAM",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 554,
+    "type": "Logogram",
+    "value": "UTU",
+    "borger_id": 596,
+    "corpus": "nb"
+  },
+  {
+    "freq": 452,
+    "type": "Syllabogram",
+    "value": "pi",
+    "borger_id": 598,
+    "corpus": "nb"
+  },
+  {
+    "freq": 42,
+    "type": "Syllabogram",
+    "value": "pe",
+    "borger_id": 598,
+    "corpus": "nb"
+  },
+  {
+    "freq": 40,
+    "type": "Logogram",
+    "value": "PI",
+    "borger_id": 598,
+    "corpus": "nb"
+  },
+  {
+    "freq": 704,
+    "type": "Logogram",
+    "value": "ŠA3",
+    "borger_id": 599,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "EME",
+    "borger_id": 61,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "zab",
+    "borger_id": 612,
+    "corpus": "nb"
+  },
+  {
+    "freq": 72,
+    "type": "Syllabogram",
+    "value": "ṣab",
+    "borger_id": 612,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "pir2",
+    "borger_id": 612,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "ZALAG2",
+    "borger_id": 612,
+    "corpus": "nb"
+  },
+  {
+    "freq": 322,
+    "type": "Logogram",
+    "value": "ERIM",
+    "borger_id": 612,
+    "corpus": "nb"
+  },
+  {
+    "freq": 708,
+    "type": "Syllabogram",
+    "value": "hi",
+    "borger_id": 631,
+    "corpus": "nb"
+  },
+  {
+    "freq": 46,
+    "type": "Syllabogram",
+    "value": "he",
+    "borger_id": 631,
+    "corpus": "nb"
+  },
+  {
+    "freq": 148,
+    "type": "Logogram",
+    "value": "HI",
+    "borger_id": 631,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Logogram",
+    "value": "DUG3",
+    "borger_id": 631,
+    "corpus": "nb"
+  },
+  {
+    "freq": 34,
+    "type": "Syllabogram",
+    "value": "eh",
+    "borger_id": 636,
+    "corpus": "nb"
+  },
+  {
+    "freq": 42,
+    "type": "Syllabogram",
+    "value": "uh",
+    "borger_id": 636,
+    "corpus": "nb"
+  },
+  {
+    "freq": 78,
+    "type": "Syllabogram",
+    "value": "ah",
+    "borger_id": 636,
+    "corpus": "nb"
+  },
+  {
+    "freq": 162,
+    "type": "Syllabogram",
+    "value": "ih",
+    "borger_id": 636,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "kam",
+    "borger_id": 640,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "KAM",
+    "borger_id": 640,
+    "corpus": "nb"
+  },
+  {
+    "freq": 128,
+    "type": "Syllabogram",
+    "value": "im",
+    "borger_id": 641,
+    "corpus": "nb"
+  },
+  {
+    "freq": 64,
+    "type": "Syllabogram",
+    "value": "em",
+    "borger_id": 641,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "TU15",
+    "borger_id": 641,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Determinative",
+    "value": "IM",
+    "borger_id": 641,
+    "corpus": "nb"
+  },
+  {
+    "freq": 152,
+    "type": "Syllabogram",
+    "value": "mur",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "hur",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "hir2",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "kin2",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 74,
+    "type": "Syllabogram",
+    "value": "har",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "HAR",
+    "borger_id": 644,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1390,
+    "type": "Syllabogram",
+    "value": "u",
+    "borger_id": 661,
+    "corpus": "nb"
+  },
+  {
+    "freq": 72,
+    "type": "Logogram",
+    "value": "U",
+    "borger_id": 661,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "rem2",
+    "borger_id": 672,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "lit",
+    "borger_id": 672,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "liṭ",
+    "borger_id": 672,
+    "corpus": "nb"
+  },
+  {
+    "freq": 56,
+    "type": "Syllabogram",
+    "value": "lid",
+    "borger_id": 672,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "AB2",
+    "borger_id": 672,
+    "corpus": "nb"
+  },
+  {
+    "freq": 408,
+    "type": "Syllabogram",
+    "value": "mi",
+    "borger_id": 681,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "me2",
+    "borger_id": 681,
+    "corpus": "nb"
+  },
+  {
+    "freq": 76,
+    "type": "Logogram",
+    "value": "MI",
+    "borger_id": 681,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "gul",
+    "borger_id": 682,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "kim",
+    "borger_id": 686,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "gim",
+    "borger_id": 686,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "DIM2",
+    "borger_id": 686,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "GIM",
+    "borger_id": 686,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "nu2",
+    "borger_id": 689,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "NA2",
+    "borger_id": 689,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "num",
+    "borger_id": 690,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "nem",
+    "borger_id": 690,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Syllabogram",
+    "value": "nim",
+    "borger_id": 690,
+    "corpus": "nb"
+  },
+  {
+    "freq": 142,
+    "type": "Logogram",
+    "value": "NIM",
+    "borger_id": 690,
+    "corpus": "nb"
+  },
+  {
+    "freq": 28,
+    "type": "Syllabogram",
+    "value": "lam",
+    "borger_id": 693,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "LAM",
+    "borger_id": 693,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Syllabogram",
+    "value": "ṣur",
+    "borger_id": 695,
+    "corpus": "nb"
+  },
+  {
+    "freq": 478,
+    "type": "Logogram",
+    "value": "AMAR",
+    "borger_id": 695,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Logogram",
+    "value": "MAR2",
+    "borger_id": 695,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1388,
+    "type": "Syllabogram",
+    "value": "ul",
+    "borger_id": 698,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "DU7",
+    "borger_id": 698,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "UL",
+    "borger_id": 698,
+    "corpus": "nb"
+  },
+  {
+    "freq": 80,
+    "type": "Logogram",
+    "value": "GIR3",
+    "borger_id": 701,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Syllabogram",
+    "value": "eri",
+    "borger_id": 71,
+    "corpus": "nb"
+  },
+  {
+    "freq": 338,
+    "type": "Determinative",
+    "value": "URU",
+    "borger_id": 71,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "ERI",
+    "borger_id": 71,
+    "corpus": "nb"
+  },
+  {
+    "freq": 66,
+    "type": "Syllabogram",
+    "value": "eš",
+    "borger_id": 711,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "sin",
+    "borger_id": 711,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "EŠ",
+    "borger_id": 711,
+    "corpus": "nb"
+  },
+  {
+    "freq": 104,
+    "type": "Syllabogram",
+    "value": "lim",
+    "borger_id": 724,
+    "corpus": "nb"
+  },
+  {
+    "freq": 784,
+    "type": "Syllabogram",
+    "value": "ši",
+    "borger_id": 724,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "lem",
+    "borger_id": 724,
+    "corpus": "nb"
+  },
+  {
+    "freq": 106,
+    "type": "Logogram",
+    "value": "IGI",
+    "borger_id": 724,
+    "corpus": "nb"
+  },
+  {
+    "freq": 46,
+    "type": "Syllabogram",
+    "value": "ar",
+    "borger_id": 726,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1398,
+    "type": "Syllabogram",
+    "value": "u3",
+    "borger_id": 731,
+    "corpus": "nb"
+  },
+  {
+    "freq": 946,
+    "type": "Syllabogram",
+    "value": "di",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 60,
+    "type": "Syllabogram",
+    "value": "ṭi",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "ṭe",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 244,
+    "type": "Syllabogram",
+    "value": "de",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 104,
+    "type": "Logogram",
+    "value": "DI",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 54,
+    "type": "Logogram",
+    "value": "SA2",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "SILIM",
+    "borger_id": 736,
+    "corpus": "nb"
+  },
+  {
+    "freq": 218,
+    "type": "Syllabogram",
+    "value": "qi2",
+    "borger_id": 737,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2022,
+    "type": "Syllabogram",
+    "value": "ki",
+    "borger_id": 737,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "qe2",
+    "borger_id": 737,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "ke",
+    "borger_id": 737,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1268,
+    "type": "Determinative",
+    "value": "KI",
+    "borger_id": 737,
+    "corpus": "nb"
+  },
+  {
+    "freq": 146,
+    "type": "Logogram",
+    "value": "KUG",
+    "borger_id": 745,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Syllabogram",
+    "value": "pat",
+    "borger_id": 746,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "paṭ",
+    "borger_id": 746,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "šuk",
+    "borger_id": 746,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Logogram",
+    "value": "PAD",
+    "borger_id": 746,
+    "corpus": "nb"
+  },
+  {
+    "freq": 58,
+    "type": "Syllabogram",
+    "value": "diš",
+    "borger_id": 748,
+    "corpus": "nb"
+  },
+  {
+    "freq": 190,
+    "type": "Syllabogram",
+    "value": "ana",
+    "borger_id": 748,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "deš",
+    "borger_id": 748,
+    "corpus": "nb"
+  },
+  {
+    "freq": 50,
+    "type": "Syllabogram",
+    "value": "ṭiš",
+    "borger_id": 748,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "lal",
+    "borger_id": 750,
+    "corpus": "nb"
+  },
+  {
+    "freq": 30,
+    "type": "Logogram",
+    "value": "LA2",
+    "borger_id": 750,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Logogram",
+    "value": "LAL",
+    "borger_id": 750,
+    "corpus": "nb"
+  },
+  {
+    "freq": 310,
+    "type": "Syllabogram",
+    "value": "me",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 26,
+    "type": "Syllabogram",
+    "value": "sip",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 112,
+    "type": "Syllabogram",
+    "value": "mi3",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 20,
+    "type": "Syllabogram",
+    "value": "šib",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Syllabogram",
+    "value": "šeb",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Syllabogram",
+    "value": "šip",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 92,
+    "type": "Logogram",
+    "value": "ME",
+    "borger_id": 753,
+    "corpus": "nb"
+  },
+  {
+    "freq": 44,
+    "type": "Syllabogram",
+    "value": "meš",
+    "borger_id": 754,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2728,
+    "type": "Logogram",
+    "value": "MEŠ",
+    "borger_id": 754,
+    "corpus": "nb"
+  },
+  {
+    "freq": 56,
+    "type": "Syllabogram",
+    "value": "ep",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Syllabogram",
+    "value": "ib",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "eb",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 250,
+    "type": "Syllabogram",
+    "value": "ip",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "IB",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Logogram",
+    "value": "URTA",
+    "borger_id": 807,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1176,
+    "type": "Syllabogram",
+    "value": "ku",
+    "borger_id": 808,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "qu2",
+    "borger_id": 808,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "TUŠ",
+    "borger_id": 808,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Logogram",
+    "value": "TUKUL",
+    "borger_id": 808,
+    "corpus": "nb"
+  },
+  {
+    "freq": 28,
+    "type": "Logogram",
+    "value": "KU",
+    "borger_id": 808,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1328,
+    "type": "Syllabogram",
+    "value": "lu",
+    "borger_id": 812,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "LU",
+    "borger_id": 812,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Determinative",
+    "value": "UDU",
+    "borger_id": 812,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Determinative",
+    "value": "SIG2",
+    "borger_id": 816,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "tas",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 70,
+    "type": "Syllabogram",
+    "value": "taš",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 566,
+    "type": "Syllabogram",
+    "value": "lik",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 84,
+    "type": "Syllabogram",
+    "value": "liq",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 42,
+    "type": "Syllabogram",
+    "value": "ur",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "taṣ",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Determinative",
+    "value": "UR",
+    "borger_id": 828,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Logogram",
+    "value": "GIN2",
+    "borger_id": 836,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10106,
+    "type": "Syllabogram",
+    "value": "a",
+    "borger_id": 839,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Determinative",
+    "value": "A",
+    "borger_id": 839,
+    "corpus": "nb"
+  },
+  {
+    "freq": 182,
+    "type": "Syllabogram",
+    "value": "le",
+    "borger_id": 85,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1016,
+    "type": "Syllabogram",
+    "value": "li",
+    "borger_id": 85,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "LE",
+    "borger_id": 85,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sa3",
+    "borger_id": 851,
+    "corpus": "nb"
+  },
+  {
+    "freq": 254,
+    "type": "Syllabogram",
+    "value": "ṣa",
+    "borger_id": 851,
+    "corpus": "nb"
+  },
+  {
+    "freq": 146,
+    "type": "Syllabogram",
+    "value": "za",
+    "borger_id": 851,
+    "corpus": "nb"
+  },
+  {
+    "freq": 38,
+    "type": "Logogram",
+    "value": "ZA",
+    "borger_id": 851,
+    "corpus": "nb"
+  },
+  {
+    "freq": 404,
+    "type": "Syllabogram",
+    "value": "ha",
+    "borger_id": 856,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "HA",
+    "borger_id": 856,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4370,
+    "type": "Syllabogram",
+    "value": "ša2",
+    "borger_id": 859,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "gar",
+    "borger_id": 859,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Logogram",
+    "value": "NINDA",
+    "borger_id": 859,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Logogram",
+    "value": "NIG2",
+    "borger_id": 859,
+    "corpus": "nb"
+  },
+  {
+    "freq": 146,
+    "type": "Logogram",
+    "value": "GAR",
+    "borger_id": 859,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1176,
+    "type": "Syllabogram",
+    "value": "tu",
+    "borger_id": 86,
+    "corpus": "nb"
+  },
+  {
+    "freq": 60,
+    "type": "Logogram",
+    "value": "TU",
+    "borger_id": 86,
+    "corpus": "nb"
+  },
+  {
+    "freq": 48,
+    "type": "Syllabogram",
+    "value": "rak",
+    "borger_id": 883,
+    "corpus": "nb"
+  },
+  {
+    "freq": 148,
+    "type": "Syllabogram",
+    "value": "mim",
+    "borger_id": 883,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "mam2",
+    "borger_id": 883,
+    "corpus": "nb"
+  },
+  {
+    "freq": 94,
+    "type": "Syllabogram",
+    "value": "šal",
+    "borger_id": 883,
+    "corpus": "nb"
+  },
+  {
+    "freq": 76,
+    "type": "Determinative",
+    "value": "MI2",
+    "borger_id": 883,
+    "corpus": "nb"
+  },
+  {
+    "freq": 132,
+    "type": "Syllabogram",
+    "value": "ṣu",
+    "borger_id": 884,
+    "corpus": "nb"
+  },
+  {
+    "freq": 32,
+    "type": "Logogram",
+    "value": "ṢU",
+    "borger_id": 884,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "nen",
+    "borger_id": 887,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "nin",
+    "borger_id": 887,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Syllabogram",
+    "value": "min4",
+    "borger_id": 887,
+    "corpus": "nb"
+  },
+  {
+    "freq": 80,
+    "type": "Logogram",
+    "value": "NIN",
+    "borger_id": 887,
+    "corpus": "nb"
+  },
+  {
+    "freq": 30,
+    "type": "Syllabogram",
+    "value": "dam",
+    "borger_id": 889,
+    "corpus": "nb"
+  },
+  {
+    "freq": 48,
+    "type": "Logogram",
+    "value": "DAM",
+    "borger_id": 889,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1816,
+    "type": "Syllabogram",
+    "value": "la",
+    "borger_id": 89,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "LA",
+    "borger_id": 89,
+    "corpus": "nb"
+  },
+  {
+    "freq": 10,
+    "type": "Logogram",
+    "value": "GEME2",
+    "borger_id": 890,
+    "corpus": "nb"
+  },
+  {
+    "freq": 74,
+    "type": "Syllabogram",
+    "value": "gu",
+    "borger_id": 891,
+    "corpus": "nb"
+  },
+  {
+    "freq": 30,
+    "type": "Logogram",
+    "value": "GU",
+    "borger_id": 891,
+    "corpus": "nb"
+  },
+  {
+    "freq": 34,
+    "type": "Syllabogram",
+    "value": "el",
+    "borger_id": 899,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Logogram",
+    "value": "SIKIL",
+    "borger_id": 899,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "haṣ",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "sel",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Syllabogram",
+    "value": "qut",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "haš",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "qud",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Syllabogram",
+    "value": "kut",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 22,
+    "type": "Syllabogram",
+    "value": "ṭar",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 2,
+    "type": "Syllabogram",
+    "value": "ṭir2",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 82,
+    "type": "Syllabogram",
+    "value": "tar",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "has",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "šil",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 16,
+    "type": "Syllabogram",
+    "value": "šel",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Logogram",
+    "value": "TAR",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 8,
+    "type": "Logogram",
+    "value": "KUD",
+    "borger_id": 9,
+    "corpus": "nb"
+  },
+  {
+    "freq": 208,
+    "type": "Syllabogram",
+    "value": "lum",
+    "borger_id": 900,
+    "corpus": "nb"
+  },
+  {
+    "freq": 14,
+    "type": "Syllabogram",
+    "value": "hum",
+    "borger_id": 900,
+    "corpus": "nb"
+  },
+  {
+    "freq": 12,
+    "type": "Logogram",
+    "value": "LUM",
+    "borger_id": 900,
+    "corpus": "nb"
+  },
+  {
+    "freq": 18,
+    "type": "Logogram",
+    "value": "SIG4",
+    "borger_id": 905,
+    "corpus": "nb"
+  },
+  {
+    "freq": 138,
+    "type": "Syllabogram",
+    "value": "mah",
+    "borger_id": 91,
+    "corpus": "nb"
+  },
+  {
+    "freq": 6,
+    "type": "Logogram",
+    "value": "MAH",
+    "borger_id": 91,
+    "corpus": "nb"
+  },
+  {
+    "freq": 24,
+    "type": "Syllabogram",
+    "value": "bab",
+    "borger_id": 92,
+    "corpus": "nb"
+  },
+  {
+    "freq": 4,
+    "type": "Syllabogram",
+    "value": "kur2",
+    "borger_id": 92,
+    "corpus": "nb"
+  },
+  {
+    "freq": 68,
+    "type": "Logogram",
+    "value": "KUR2",
+    "borger_id": 92,
+    "corpus": "nb"
+  },
+  {
+    "freq": 60,
+    "type": "Logogram",
+    "value": "PAB",
+    "borger_id": 92,
+    "corpus": "nb"
+  },
+  {
+    "freq": 1372,
+    "type": "Syllabogram",
+    "value": "mu",
+    "borger_id": 98,
+    "corpus": "nb"
+  },
+  {
+    "freq": 396,
+    "type": "Logogram",
+    "value": "MU",
+    "borger_id": 98,
+    "corpus": "nb"
+  }
+]
