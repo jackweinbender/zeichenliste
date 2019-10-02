@@ -1,7 +1,11 @@
+from models.formatting import format_sign_list_value
+
 class Sign:
     def __init__(self, row_dict):
         # We use Borger as the main ID
-        self.borger_id      = row_dict['borger_id']
+        borger = format_sign_list_value(row_dict['borger_id'])
+        self.borger_id      = int(borger[0])
+        self.borger_id_sub  = borger[1]
         self.borger_name    = row_dict['borger_name']
 
         # Unicode and ORACC standardized name
@@ -27,6 +31,8 @@ class Sign:
             'unicode_value':  sheets_row['gsx$unicode']['$t'],
             'values':         sheets_row['gsx$values']['$t'],
             'borger_id':      sheets_row['gsx$borger']['$t'],
+            'borger_id_sub':  sheets_row['gsx$borger']['$t'],
+
             'borger_name':    sheets_row['gsx$borgername']['$t'],
             'oracc_name':     sheets_row['gsx$oraccname']['$t'],
             'labat_name':     sheets_row['gsx$labatname']['$t'],

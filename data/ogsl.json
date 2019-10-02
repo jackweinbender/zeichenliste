@@ -2622,8 +2622,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4208,
-                    "sub_number": "8"
+                    "number": 420,
+                    "sub_number": "_8"
                 }
             },
             {
@@ -5025,8 +5025,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 993,
-                    "sub_number": "3"
+                    "number": 99,
+                    "sub_number": "b3"
                 }
             }
         ],
@@ -5573,8 +5573,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1046,
-                    "sub_number": "6"
+                    "number": 104,
+                    "sub_number": "_6"
                 }
             },
             {
@@ -6340,8 +6340,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 74182,
-                    "sub_number": "2"
+                    "number": 74,
+                    "sub_number": "_182"
                 }
             }
         ],
@@ -7092,8 +7092,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3713,
-                    "sub_number": "3"
+                    "number": 371,
+                    "sub_number": "n3"
                 }
             }
         ],
@@ -11453,8 +11453,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3082,
-                    "sub_number": "2"
+                    "number": 308,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -12689,8 +12689,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 991,
-                    "sub_number": "1"
+                    "number": 99,
+                    "sub_number": "b1"
                 }
             }
         ],
@@ -12863,8 +12863,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 991,
-                    "sub_number": "1"
+                    "number": 99,
+                    "sub_number": "a1"
                 }
             }
         ],
@@ -13199,7 +13199,9 @@
             "eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂"
         ],
         "literature": [],
-        "notes": [],
+        "notes": [
+            "This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing."
+        ],
         "oracc_name": "EŠ₂@t",
         "sign_lists": [],
         "type": "sign",
@@ -13508,8 +13510,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1528,
-                    "sub_number": "8b"
+                    "number": 152,
+                    "sub_number": "_8b"
                 }
             },
             {
@@ -13711,8 +13713,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1528,
-                    "sub_number": "8"
+                    "number": 152,
+                    "sub_number": "_8"
                 }
             },
             {
@@ -13897,8 +13899,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1524,
-                    "sub_number": "4"
+                    "number": 152,
+                    "sub_number": "_4"
                 }
             },
             {
@@ -13937,8 +13939,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 1524,
-                    "sub_number": "4v"
+                    "number": 152,
+                    "sub_number": "_4v"
                 }
             }
         ],
@@ -13973,8 +13975,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 15216,
-                    "sub_number": "6"
+                    "number": 152,
+                    "sub_number": "_16"
                 }
             }
         ],
@@ -14019,8 +14021,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1529,
-                    "sub_number": "9"
+                    "number": 152,
+                    "sub_number": "_9"
                 }
             },
             {
@@ -14210,8 +14212,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1541,
-                    "sub_number": "1n"
+                    "number": 154,
+                    "sub_number": "_1n"
                 }
             }
         ],
@@ -14240,8 +14242,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 15214,
-                    "sub_number": "4"
+                    "number": 152,
+                    "sub_number": "_14"
                 }
             }
         ],
@@ -16261,8 +16263,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2521,
-                    "sub_number": "1"
+                    "number": 252,
+                    "sub_number": "_1"
                 }
             }
         ],
@@ -17038,8 +17040,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2522,
-                    "sub_number": "2"
+                    "number": 252,
+                    "sub_number": "_2"
                 }
             }
         ],
@@ -17233,7 +17235,7 @@
             }
         ],
         "type": "sign",
-        "ucode": "x120E2",
+        "ucode": "x124CA",
         "uname": "CUNEIFORM SIGN GA2 TIMES ZIZ2",
         "uphase": "9",
         "values": [
@@ -17813,8 +17815,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 343091,
-                    "sub_number": "1"
+                    "number": 343,
+                    "sub_number": "+091"
                 }
             }
         ],
@@ -18345,8 +18347,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 1052,
-                    "sub_number": "2"
+                    "number": 105,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -18381,8 +18383,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1053,
-                    "sub_number": "3"
+                    "number": 105,
+                    "sub_number": "n3"
                 }
             }
         ],
@@ -18402,7 +18404,8 @@
     {
         "forms": [],
         "inotes": [
-            "from u3adm with note reading"
+            "from u3adm with note reading",
+            "See W. Sallaberger, ZA 92 (2002) 301"
         ],
         "literature": [],
         "notes": [],
@@ -19324,8 +19327,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 852,
-                    "sub_number": "2(v)"
+                    "number": 85,
+                    "sub_number": "n2(v)"
                 }
             }
         ],
@@ -20117,8 +20120,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4212,
-                    "sub_number": "2"
+                    "number": 421,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -21012,8 +21015,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2962,
-                    "sub_number": "2"
+                    "number": 296,
+                    "sub_number": "_2"
                 }
             }
         ],
@@ -21102,8 +21105,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2962,
-                    "sub_number": "2"
+                    "number": 296,
+                    "sub_number": "n2"
                 }
             },
             {
@@ -21189,8 +21192,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2961,
-                    "sub_number": "1"
+                    "number": 296,
+                    "sub_number": "_1"
                 }
             }
         ],
@@ -22919,8 +22922,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4052,
-                    "sub_number": "2"
+                    "number": 405,
+                    "sub_number": "v2"
                 }
             }
         ],
@@ -23429,8 +23432,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 398166,
-                    "sub_number": "6"
+                    "number": 398,
+                    "sub_number": "+166"
                 }
             }
         ],
@@ -23475,8 +23478,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 39864,
-                    "sub_number": "4"
+                    "number": 398,
+                    "sub_number": "_64"
                 }
             }
         ],
@@ -23519,8 +23522,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 39872,
-                    "sub_number": "2"
+                    "number": 398,
+                    "sub_number": "_72"
                 }
             }
         ],
@@ -24919,8 +24922,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4521,
-                    "sub_number": "1"
+                    "number": 452,
+                    "sub_number": "v1"
                 }
             },
             {
@@ -24970,8 +24973,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 449145,
-                    "sub_number": "5"
+                    "number": 449,
+                    "sub_number": "_145"
                 }
             }
         ],
@@ -25158,8 +25161,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 449244,
-                    "sub_number": "4"
+                    "number": 449,
+                    "sub_number": "_244"
                 }
             },
             {
@@ -25590,8 +25593,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 44946,
-                    "sub_number": "6"
+                    "number": 449,
+                    "sub_number": "_46"
                 }
             }
         ],
@@ -26288,8 +26291,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 39951,
-                    "sub_number": "1"
+                    "number": 399,
+                    "sub_number": "_51"
                 }
             },
             {
@@ -26419,8 +26422,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 5981,
-                    "sub_number": "1"
+                    "number": 598,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -28294,8 +28297,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 322,
-                    "sub_number": "2"
+                    "number": 32,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -28319,8 +28322,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 321,
-                    "sub_number": "1"
+                    "number": 32,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -28362,8 +28365,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 323,
-                    "sub_number": "3"
+                    "number": 32,
+                    "sub_number": "n3"
                 }
             }
         ],
@@ -28986,8 +28989,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 311,
-                    "sub_number": "1"
+                    "number": 31,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -29192,8 +29195,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 222,
-                    "sub_number": "n2"
+                    "number": 22,
+                    "sub_number": "xn2"
                 }
             }
         ],
@@ -30104,8 +30107,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4062,
-                    "sub_number": "2"
+                    "number": 406,
+                    "sub_number": "v2"
                 }
             }
         ],
@@ -30308,8 +30311,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 166371,
-                    "sub_number": "1"
+                    "number": 166,
+                    "sub_number": "+371"
                 }
             }
         ],
@@ -30361,8 +30364,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 166398,
-                    "sub_number": "8"
+                    "number": 166,
+                    "sub_number": "+398"
                 }
             }
         ],
@@ -31991,8 +31994,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3963,
-                    "sub_number": "3"
+                    "number": 396,
+                    "sub_number": "n3"
                 }
             }
         ],
@@ -32016,8 +32019,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 4042,
-                    "sub_number": "_2"
+                    "number": 404,
+                    "sub_number": "x_2"
                 }
             }
         ],
@@ -32369,8 +32372,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 992,
-                    "sub_number": "2"
+                    "number": 99,
+                    "sub_number": "b2"
                 }
             }
         ],
@@ -32999,8 +33002,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 36687,
-                    "sub_number": "7"
+                    "number": 366,
+                    "sub_number": "_87"
                 }
             }
         ],
@@ -34679,8 +34682,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 5292,
-                    "sub_number": "2"
+                    "number": 529,
+                    "sub_number": "v2"
                 }
             }
         ],
@@ -34945,7 +34948,9 @@
     },
     {
         "forms": [],
-        "inotes": [],
+        "inotes": [
+            "salgues"
+        ],
         "literature": [],
         "notes": [],
         "oracc_name": "|LAGAB×SUM|",
@@ -35456,8 +35461,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 5159,
-                    "sub_number": "9"
+                    "number": 515,
+                    "sub_number": "_9"
                 }
             }
         ],
@@ -35899,8 +35904,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 4592,
-                    "sub_number": "n2"
+                    "number": 459,
+                    "sub_number": "an2"
                 }
             }
         ],
@@ -39465,8 +39470,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 12442,
-                    "sub_number": "2"
+                    "number": 124,
+                    "sub_number": "_42"
                 }
             }
         ],
@@ -40009,8 +40014,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 330602,
-                    "sub_number": "n2"
+                    "number": 330,
+                    "sub_number": "_60n2"
                 }
             }
         ],
@@ -40048,8 +40053,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 33071,
-                    "sub_number": "an1"
+                    "number": 330,
+                    "sub_number": "_7an1"
                 }
             }
         ],
@@ -40098,8 +40103,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3306,
-                    "sub_number": "6"
+                    "number": 330,
+                    "sub_number": "_6"
                 }
             },
             {
@@ -40158,8 +40163,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7c"
+                    "number": 330,
+                    "sub_number": "_7c"
                 }
             }
         ],
@@ -40221,8 +40226,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7cn"
+                    "number": 330,
+                    "sub_number": "_7cn"
                 }
             }
         ],
@@ -40266,8 +40271,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7"
+                    "number": 330,
+                    "sub_number": "_7"
                 }
             }
         ],
@@ -40326,8 +40331,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 33073,
-                    "sub_number": "an3v"
+                    "number": 330,
+                    "sub_number": "_7an3v"
                 }
             }
         ],
@@ -40356,8 +40361,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 33072,
-                    "sub_number": "an2"
+                    "number": 330,
+                    "sub_number": "_7an2"
                 }
             }
         ],
@@ -40393,8 +40398,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3300,
-                    "sub_number": "0n"
+                    "number": 330,
+                    "sub_number": "_0n"
                 }
             }
         ],
@@ -40442,8 +40447,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 33074,
-                    "sub_number": "an4"
+                    "number": 330,
+                    "sub_number": "_7an4"
                 }
             }
         ],
@@ -40491,8 +40496,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7b"
+                    "number": 330,
+                    "sub_number": "_7b"
                 }
             }
         ],
@@ -40526,8 +40531,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7bn"
+                    "number": 330,
+                    "sub_number": "_7bn"
                 }
             }
         ],
@@ -40562,8 +40567,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7a"
+                    "number": 330,
+                    "sub_number": "_7a"
                 }
             }
         ],
@@ -40674,8 +40679,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7dn"
+                    "number": 330,
+                    "sub_number": "_7dn"
                 }
             }
         ],
@@ -40759,8 +40764,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3307,
-                    "sub_number": "7c"
+                    "number": 330,
+                    "sub_number": "_7c"
                 }
             }
         ],
@@ -40811,8 +40816,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 33060,
-                    "sub_number": "0"
+                    "number": 330,
+                    "sub_number": "_60"
                 }
             }
         ],
@@ -40901,8 +40906,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3308,
-                    "sub_number": "8n"
+                    "number": 330,
+                    "sub_number": "_8n"
                 }
             },
             {
@@ -40937,7 +40942,9 @@
     },
     {
         "forms": [],
-        "inotes": [],
+        "inotes": [
+            "CDLI"
+        ],
         "literature": [],
         "notes": [],
         "oracc_name": "|LU₂@s×BAD|",
@@ -40979,8 +40986,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3300,
-                    "sub_number": "0"
+                    "number": 330,
+                    "sub_number": "_0"
                 }
             }
         ],
@@ -41205,8 +41212,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1502,
-                    "sub_number": "2"
+                    "number": 150,
+                    "sub_number": "v2"
                 }
             }
         ],
@@ -42337,8 +42344,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 74238,
-                    "sub_number": "8"
+                    "number": 74,
+                    "sub_number": "_238"
                 }
             },
             {
@@ -42443,8 +42450,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 74335,
-                    "sub_number": "5"
+                    "number": 74,
+                    "sub_number": "_335"
                 }
             }
         ],
@@ -42474,8 +42481,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 74471,
-                    "sub_number": "1"
+                    "number": 74,
+                    "sub_number": "+471"
                 }
             }
         ],
@@ -43582,8 +43589,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 37481,
-                    "sub_number": "1"
+                    "number": 374,
+                    "sub_number": "_81"
                 }
             },
             {
@@ -43708,8 +43715,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 374811,
-                    "sub_number": "n1"
+                    "number": 374,
+                    "sub_number": "_81n1"
                 }
             }
         ],
@@ -44451,8 +44458,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1651,
-                    "sub_number": "1"
+                    "number": 165,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -44533,8 +44540,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 1651651,
-                    "sub_number": "n1"
+                    "number": 165,
+                    "sub_number": "+165n1"
                 }
             }
         ],
@@ -45438,8 +45445,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2312,
-                    "sub_number": "2(v)"
+                    "number": 231,
+                    "sub_number": "n2(v)"
                 }
             }
         ],
@@ -46161,8 +46168,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 1904,
-                    "sub_number": "n4"
+                    "number": 190,
+                    "sub_number": "an4"
                 }
             }
         ],
@@ -46357,8 +46364,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1875,
-                    "sub_number": "5"
+                    "number": 187,
+                    "sub_number": "v5"
                 }
             },
             {
@@ -47435,8 +47442,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 6327,
-                    "sub_number": "7n"
+                    "number": 63,
+                    "sub_number": "_27n"
                 }
             }
         ],
@@ -47625,8 +47632,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 394394,
-                    "sub_number": "94e"
+                    "number": 394,
+                    "sub_number": "c,394e"
                 }
             },
             {
@@ -47762,8 +47769,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3942,
-                    "sub_number": "n2"
+                    "number": 394,
+                    "sub_number": "dn2"
                 }
             }
         ],
@@ -48084,8 +48091,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 394411,
-                    "sub_number": "11"
+                    "number": 394,
+                    "sub_number": "d+411"
                 }
             }
         ],
@@ -49269,8 +49276,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 60308,
-                    "sub_number": "8"
+                    "number": 60,
+                    "sub_number": "+308"
                 }
             },
             {
@@ -49298,8 +49305,8 @@
         "sign_lists": [
             {
                 "HZL": {
-                    "number": 2562,
-                    "sub_number": "2)"
+                    "number": 256,
+                    "sub_number": "(2)"
                 }
             },
             {
@@ -49310,8 +49317,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 60002,
-                    "sub_number": "2"
+                    "number": 60,
+                    "sub_number": "+002"
                 }
             }
         ],
@@ -49338,8 +49345,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 60212,
-                    "sub_number": "2"
+                    "number": 60,
+                    "sub_number": "+212"
                 }
             }
         ],
@@ -49403,8 +49410,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 60060,
-                    "sub_number": "0"
+                    "number": 60,
+                    "sub_number": "+060"
                 }
             },
             {
@@ -49453,8 +49460,8 @@
         "sign_lists": [
             {
                 "HZL": {
-                    "number": 2561,
-                    "sub_number": "1)"
+                    "number": 256,
+                    "sub_number": "(1)"
                 }
             },
             {
@@ -49776,8 +49783,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 38310,
-                    "sub_number": "0(v)"
+                    "number": 383,
+                    "sub_number": "n10(v)"
                 }
             }
         ],
@@ -49806,8 +49813,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3832,
-                    "sub_number": "2(v)"
+                    "number": 383,
+                    "sub_number": "n2(v)"
                 }
             }
         ],
@@ -49834,8 +49841,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3834,
-                    "sub_number": "4(v)"
+                    "number": 383,
+                    "sub_number": "n4(v)"
                 }
             }
         ],
@@ -49862,8 +49869,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3837,
-                    "sub_number": "7(v)"
+                    "number": 383,
+                    "sub_number": "n7(v)"
                 }
             }
         ],
@@ -49890,8 +49897,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3835,
-                    "sub_number": "5(v)"
+                    "number": 383,
+                    "sub_number": "n5(v)"
                 }
             }
         ],
@@ -49920,8 +49927,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3833,
-                    "sub_number": "3(v)"
+                    "number": 383,
+                    "sub_number": "n3(v)"
                 }
             }
         ],
@@ -49950,8 +49957,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3839,
-                    "sub_number": "9(v)"
+                    "number": 383,
+                    "sub_number": "n9(v)"
                 }
             }
         ],
@@ -49978,8 +49985,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3838,
-                    "sub_number": "8(v)"
+                    "number": 383,
+                    "sub_number": "n8(v)"
                 }
             }
         ],
@@ -50025,8 +50032,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3836,
-                    "sub_number": "6(v)"
+                    "number": 383,
+                    "sub_number": "n6(v)"
                 }
             }
         ],
@@ -50321,8 +50328,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 4442,
-                    "sub_number": "2"
+                    "number": 444,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -50479,8 +50486,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1501,
-                    "sub_number": "1"
+                    "number": 150,
+                    "sub_number": "v1"
                 }
             }
         ],
@@ -51000,8 +51007,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1216,
-                    "sub_number": "6"
+                    "number": 121,
+                    "sub_number": "_6"
                 }
             },
             {
@@ -51097,8 +51104,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1211,
-                    "sub_number": "1"
+                    "number": 121,
+                    "sub_number": "_1"
                 }
             }
         ],
@@ -51459,8 +51466,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1218,
-                    "sub_number": "8"
+                    "number": 121,
+                    "sub_number": "_8"
                 }
             }
         ],
@@ -51492,8 +51499,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1217,
-                    "sub_number": "7"
+                    "number": 121,
+                    "sub_number": "_7"
                 }
             }
         ],
@@ -51620,8 +51627,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1152,
-                    "sub_number": "2"
+                    "number": 115,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -55663,8 +55670,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 37545,
-                    "sub_number": "5"
+                    "number": 375,
+                    "sub_number": "_45"
                 }
             }
         ],
@@ -55713,8 +55720,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 37546,
-                    "sub_number": "6"
+                    "number": 375,
+                    "sub_number": "_46"
                 }
             }
         ],
@@ -57389,8 +57396,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 23322,
-                    "sub_number": "2"
+                    "number": 233,
+                    "sub_number": "_22"
                 }
             },
             {
@@ -58352,8 +58359,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 5466,
-                    "sub_number": "6"
+                    "number": 546,
+                    "sub_number": "_6"
                 }
             },
             {
@@ -59853,8 +59860,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1392,
-                    "sub_number": "2"
+                    "number": 139,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -62126,8 +62133,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 411182,
-                    "sub_number": "2a"
+                    "number": 411,
+                    "sub_number": "_182a"
                 }
             }
         ],
@@ -62151,8 +62158,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 411167,
-                    "sub_number": "7a"
+                    "number": 411,
+                    "sub_number": "_167a"
                 }
             }
         ],
@@ -63558,8 +63565,8 @@
             },
             {
                 "OBZL": {
-                    "number": 207207,
-                    "sub_number": "07b"
+                    "number": 207,
+                    "sub_number": "a/207b"
                 }
             },
             {
@@ -63615,8 +63622,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3371,
-                    "sub_number": "n1"
+                    "number": 337,
+                    "sub_number": "xn1"
                 }
             },
             {
@@ -64178,8 +64185,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 3381,
-                    "sub_number": "1"
+                    "number": 338,
+                    "sub_number": "n1"
                 }
             },
             {
@@ -64226,8 +64233,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3382,
-                    "sub_number": "2"
+                    "number": 338,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -65097,8 +65104,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3591,
-                    "sub_number": "1"
+                    "number": 359,
+                    "sub_number": "n1"
                 }
             },
             {
@@ -66319,8 +66326,8 @@
         "sign_lists": [
             {
                 "SLLHA": {
-                    "number": 1321,
-                    "sub_number": "1"
+                    "number": 132,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -66737,8 +66744,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 2112,
-                    "sub_number": "2"
+                    "number": 211,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -67525,8 +67532,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3792,
-                    "sub_number": "2"
+                    "number": 379,
+                    "sub_number": "_2"
                 }
             }
         ],
@@ -68904,8 +68911,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 1242,
-                    "sub_number": "2"
+                    "number": 124,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -69277,8 +69284,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3508,
-                    "sub_number": "8"
+                    "number": 350,
+                    "sub_number": "_8"
                 }
             }
         ],
@@ -70069,8 +70076,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 5982,
-                    "sub_number": "2"
+                    "number": 598,
+                    "sub_number": "n2"
                 }
             }
         ],
@@ -70985,8 +70992,8 @@
             },
             {
                 "SLLHA": {
-                    "number": 3771,
-                    "sub_number": "1"
+                    "number": 377,
+                    "sub_number": "n1"
                 }
             }
         ],
@@ -73989,7 +73996,9 @@
     },
     {
         "forms": [],
-        "inotes": [],
+        "inotes": [
+            "dcclt !sg"
+        ],
         "literature": [],
         "notes": [],
         "oracc_name": "|ZA.MUŠ₃.AB×(U.U.U)|",
@@ -74490,6 +74499,22 @@
         "sign_lists": [],
         "type": "sign",
         "values": [],
+        "values_abandoned": [],
+        "values_insecure": []
+    },
+    {
+        "forms": [],
+        "inotes": [
+            "ed lu d; GAR could be PAD looking at CDLI photo; X maybe MA₂-gunu???"
+        ],
+        "literature": [],
+        "notes": [],
+        "oracc_name": "|SI.A.GAR.X|",
+        "sign_lists": [],
+        "type": "sign",
+        "values": [
+            "addirₓ"
+        ],
         "values_abandoned": [],
         "values_insecure": []
     }

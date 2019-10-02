@@ -7,6 +7,7 @@ from collections import defaultdict
 from models.sign import Sign
 from models.sign_value import SignValue
 from models.normalizer import Normalizer
+from models.formatting import format_sign_list_value
 
 def cleanup(d):
     d['oracc_name'] = d['oracc_name'][1:]
@@ -27,11 +28,12 @@ def get_spreadsheet():
     rows = data['feed']['entry']
 
     # Dump the latest sheet into the test data so we know we don't break anything
-    with open('test/data/sheets-cache.json', 'w') as outfile:
+    path = os.path.dirname(os.path.dirname(__file__)) + '/data/backup/sheets-cache.json'
+    with open(path, 'w') as outfile:
         json.dump(rows, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
     # The output SIGNLIST
-    signlist = {}
+    signlist = []
     index = defaultdict(list)
 
     for row in rows:
@@ -42,7 +44,7 @@ def get_spreadsheet():
         sign = Sign.from_sheets_row(row)
 
         # Add Sign to signlist (as dict, for later JSON output)
-        signlist[borger] = sign.__dict__
+        signlist.append(sign.__dict__)
 
         # Add Borger_id to all index values
         indexed_keys = [
@@ -62,7 +64,7 @@ def get_spreadsheet():
         for k in indexed_keys:
             # Get property value by name
             val = getattr(sign,k)
-            idx = val.lower()
+            idx = str(val).lower()
             # Add Borger ID to index
             if val != '' and sign.borger_id not in index[idx]:
                 index[idx].append(sign.borger_id)
@@ -73,14 +75,14 @@ def get_spreadsheet():
                 idx = Normalizer.normalize(v)
                 if sign.borger_id not in index[idx]:
                     index[idx].append(sign.borger_id)
-        
-def get_ogsl():
 
-    with open('data/signlist.json', 'w') as outfile:
+    path = os.path.dirname(os.path.dirname(__file__)) + '/data/signs.json'
+    with open(path, 'w') as outfile:
         json.dump(signlist, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
-    with open('data/search_index.json', 'w') as outfile:
-        json.dump(index, outfile, ensure_ascii=False, sort_keys=True, indent=4)
+    #path = os.path.dirname(os.path.dirname(__file__)) + '/data/search_index.json'
+    #with open('data/search_index.json', 'w') as outfile:
+    #    json.dump(index, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
 def pull_ogsl():
 
@@ -89,7 +91,7 @@ def pull_ogsl():
     lines = response.text.splitlines()
 
     ##  Static version: if the url doesn't work, here is the backup as of 9/23/2019
-    #   path = os.path.dirname(os.path.dirname(__file__)) + '/data/ogsl_backup.txt'
+    #   path = os.path.dirname(os.path.dirname(__file__)) + '/data/backup/ogsl_backup.txt'
     #   with open(path) as file: lines = file.readlines()
 
     # Remove new line from every item
@@ -124,7 +126,6 @@ def split_ogsl_into_signs(file):
         json.dump(all_signs_formatted, outfile, ensure_ascii=False, sort_keys=True, indent=4)
 
 def format_signs(sign_as_list):
-
     sign = dict()
     list_fields = ['values', 'values_insecure', 'values_abandoned', 'sign_lists',
                    'forms', 'notes', 'inotes', 'literature']
@@ -151,23 +152,21 @@ def format_signs(sign_as_list):
             m = re.search("\d", value)
             list_name = value[0:m.start()]
             list_val = value[m.start():]
-            num_main = ''.join(v for v in list_val if v.isdigit())
-            num_sub = list_val[len(num_main):]
-            print(value, num_main, num_sub)
-            sign['sign_lists'].append({list_name:{'number':int(num_main), 'sub_number':num_sub}})
+            formatted_num = format_sign_list_value(list_val)
+            sign['sign_lists'].append({list_name:{'number':int(formatted_num[0]), 'sub_number':formatted_num[1]}})
         elif key == '@v': sign['values'].append(value)
         elif key == '@v?': sign['values_insecure'].append(value)
         elif key == '@v-': sign['values_abandoned'].append(value)
-        elif key == '@note': sign['notes'].append(value)
-        elif key == '@inote': sign['inotes'].append(value)
+        elif key in ['@note', '@note:']: sign['notes'].append(value)
+        elif key in ['@inote', '@inote:', '#inote']: sign['inotes'].append(value)
         elif key == '@lit': sign['literature'].append(value)
         elif key == '@uphase': sign['uphase'] = value
         elif key == '@uname': sign['uname'] = value
-        elif key == '@ucode': sign['ucode'] = value
+        elif key in ['@ucode', '#@ucode']: sign['ucode'] = value
         elif key == '@pname': sign['ucode'] = value
         elif key == '@end': pass
         else:
-            # Remaining keys (13 times): #ša₁₈, @note:, #@ucode, @inote:, #, @unote, #inote, @not, #Molina, @fake
+            # Remaining keys: #ša₁₈, #, @unote, @not, #Molina, @fake
             # @fake (7 times) are PN, GN, ON, etc.
             pass
 
@@ -175,3 +174,4 @@ def format_signs(sign_as_list):
 
 # Pull the oracc list and split ogsl into signs
 split_ogsl_into_signs(pull_ogsl())
+get_spreadsheet()
